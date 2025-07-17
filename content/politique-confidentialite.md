@@ -5,7 +5,7 @@ layout: "legal/politique-confidentialite"
 # Datenschutzerklärung
 
 *Zuletzt aktualisiert: Juli 2025*
-
+ 
 ## 1. Verantwortliche Stelle
 
 Marlena Bergmann  
