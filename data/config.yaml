@@ -122,10 +122,10 @@ recipe_page:
     total: "Gesamt:"
     servings: "Portionen:"
     cuisine: "Küche:"
-  recipe_page:
-    chef_note_title: "Marlenas Tipp"
-    about_sidebar_title: "Wer bin ich?"
-    about_sidebar_text: "Ich bin Marlena, leidenschaftliche Köchin aus den Schweizer Alpen. Meine Mission: traditionelle Bergrezepte für die moderne Küche zu übersetzen, ohne ihre Seele zu verlieren."  sectionsTitle:
+  chef_note_title: "Marlenas Tipp"
+  about_sidebar_title: "Wer bin ich?"
+  about_sidebar_text: "Ich bin Marlena, leidenschaftliche Köchin aus den Schweizer Alpen. Meine Mission: traditionelle Bergrezepte für die moderne Küche zu übersetzen, ohne ihre Seele zu verlieren."  
+  sectionsTitle:
     ingredients_note: "Über die Zutaten"
     instructions_note: "Zubereitungstipps"
     keywords: "Stichwörter"
