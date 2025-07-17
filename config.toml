@@ -1,6 +1,6 @@
 baseURL = "https://recettes-blog-test.pages.dev/"
-languageCode = "fr"
-title = "Testt"
+languageCode = "de"
+title = "Alpenküche"
 
 ############################################################################### 
 #  Pagination, taxonomies, permaliens 
