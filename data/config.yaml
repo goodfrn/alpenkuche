@@ -1,79 +1,79 @@
 baseURL: "https://recettes-blog-test.pagestest.dev/"
 
 site:
-  name: "Testt"
-  language: fr
-  tagline: Chef & Créatrice
-  description: Recettes maison faciles et gourmandes
-  author: Amelia Feuss 
-  email: contact@recettes-blog.com
+  name: "Alpenküche"
+  language: "de"
+  tagline: "Alpine Kochkunst & Genuss"
+  description: "Authentische Alpenrezepte mit modernem Twist - Von traditioneller Schweizer Küche bis zu innovativen Berggerichten"
+  author: "Marlena Bergmann"
+  email: "contact@alpenkuche.ch"
   
 navigation: 
   menu_items:
-    home: "Accueil"
-    recipes: "Recettes"
-    categories: "Catégories"
-    about: "A propos"
-    contact: "Contact"
+    home: "Startseite"
+    recipes: "Rezepte"
+    categories: "Kategorien"
+    about: "Über mich"
+    contact: "Kontakt"
   page_titles:
-    home: "Accueil"
-    recipes: "Nos Recettes"
-    categories: "Toutes les Catégories"
-    about: "A Propos de Nous"
-    contact: "Nous Contacter"
+    home: "Startseite"
+    recipes: "Unsere Rezepte"
+    categories: "Alle Kategorien"
+    about: "Über uns"
+    contact: "Kontakt aufnehmen"
 
 branding:
-  logo_text: "Z" 
+  logo_text: "A" 
   
 
 colors:
-  primary: #ea580c
-  primary_dark: #c2410c
-  primary_light: #fb7c47
-  secondary: #f7f0d8
-  background: #ffffff
-  text: #18181b
-  brand_color: #ea580c 
+  primary: "#8B4513"
+  primary_dark: "#654321"
+  primary_light: "#CD853F"
+  secondary: "#F4F1E8"
+  background: "#FFFFFF"
+  text: "#2C2C2C"
+  brand_color: "#8B4513"
 
 social:
-  facebook: "https://facebook.com/ta-page"
-  instagram: "https://instagram.com/ta-page"
-  pinterest: "https://pinterest.com/ta-page"
-  twitter: "https://twitter.com/ta-page"
+  facebook: "https://facebook.com/alpenkueche"
+  instagram: "https://instagram.com/alpenkueche"
+  pinterest: "https://pinterest.com/alpenkueche"
+  twitter: "https://twitter.com/alpenkueche"
 
 header:
-  search_placeholder: Rechercher une recette d'exception...
-  search_placeholder_mobile: Rechercher une recette...
-  follow_button_text: Suivez-moi
-  menu_aria_label: Ouvrir le menu
+  search_placeholder: "Alpine Rezepte entdecken..."
+  search_placeholder_mobile: "Rezepte suchen..."
+  follow_button_text: "Folgen"
+  menu_aria_label: "Menü öffnen"
   search_aria_label: Rechercher
 
 hero:
-  badge_text: Nouvelle recette chaque jour
-  title_line1: Plongez dans
-  title_line2: l'Art de la Cuisine
-  subtitle: Chaque jour, une création gourmande pensée pour enchanter vos papilles et sublimer votre quotidien.
-  subtitle_highlight: enchanter vos papilles
-  cta_primary_text: Surprends-moi !
+  badge_text: "Täglich neue alpine Inspiration"
+  title_line1: "Entdecke die"
+  title_line2: "Alpenküche neu"
+  subtitle: "Traditionelle Schweizer Rezepte treffen auf moderne Kochkunst. Jeden Tag authentische Bergküche, die Herz und Gaumen erwärmt."
+  subtitle_highlight: "Herz und Gaumen erwärmt"
+  cta_primary_text: "Überrasche mich!"
   cta_primary_url: /random/
-  cta_secondary_text: Explorer les recettes
+  cta_secondary_text: "Rezepte entdecken"
   cta_secondary_url: /recipes/
   scroll_indicator: true
 
 homepage:
   latest_recipes:
-    title: Dernières recettes
-    description: Testées, retravaillées et choisies avec soin pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
+    title: "Neueste Rezepte"
+    description: "Getestet in meiner Bergküche, perfektioniert für deinen Alltag. Jedes Rezept erzählt eine Geschichte der Alpen."
   popular_recipes:
-    title: Recettes populaires
-    empty_message: Aucune recette populaire disponible pour le moment.
+    title: "Beliebte Rezepte"
+    empty_message: "Bald findest du hier unsere beliebtesten Alpenrezepte."
   categories_section:
-    title: Explorer par catégorie
+    title: "Nach Kategorie entdecken"
   newsletter:
-    title: Reçois nos recettes les plus aimées ✨
-    description: Des idées simples, des plats de saison, directement dans ta boîte mail. Une fois par semaine. Jamais de spam, juste de la bonne cuisine.
-    email_placeholder: Ton adresse email
-    button_text: Je m'abonne
+    title: "Hol dir die besten Alpenrezepte ✨"
+    description: "Traditionelle Geheimnisse, saisonale Inspirationen, direkt aus den Bergen in dein Postfach. Einmal pro Woche, immer authentisch."
+    email_placeholder: "Deine E-Mail-Adresse"
+    button_text: "Anmelden"
     form_action: "https://formspree.io/f/XXXXX"
   filters:
     category_label: Catégorie
@@ -85,89 +85,89 @@ homepage:
     reset_button: Réinitialiser
     
 about_page:
-  title: "A propos"
+  title: "Über mich"
   
 about_section:
   title: Qui suis-je
   title_accent: "?"
-  chef_name: Amelia Feuss
+  chef_name: "Marlena Bergmann"
   chef_intro: Je m'appelle Amelia Feuss, chef passionnée depuis plus de dix ans.
   cta_text: Mon parcours
   cta_url: /about/
-  image_alt: Portrait d'Amelia Feuss, chef passionnée
+  image_alt: "Porträt von Marlena Bergmann, Alpine Köchin"
 
 list_pages:
-  recipes_title: Nos meilleures recettes
-  recipes_description: Testées, retravaillées et choisies avec soir pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
-  categories_title_prefix: "Recettes :"
-  no_recipes: Aucune recette trouvée pour cette catégorie.
+  recipes_title: "Unsere besten Alpenrezepte"
+  recipes_description: "Jedes Rezept wurde in unserer Bergküche getestet und für den modernen Haushalt angepasst. Authentisch, nahrhaft, unvergesslich."
+  categories_title_prefix: "Rezepte:"
+  no_recipes: "Keine Rezepte in dieser Kategorie gefunden."
   breadcrumb:
-    home: Accueil
-    categories: Catégories
+    home: "Startseite"
+    categories: "Kategorien"
 
 recipe_page:
-  author_prefix: Par
-  published_prefix: Publié le
+  author_prefix: "Von"
+  published_prefix: "Veröffentlicht am"
   sections:
-    ingredients: Ingrédients
-    instructions: Instructions
-    tips: Conseils de chef
-    faq: Questions fréquentes
-    related: Vous aimerez aussi
-    discover: Inspiration gourmande
-    view_all_recipes: "Voir toutes les recettes →"
+    ingredients: "Zutaten"
+    instructions: "Zubereitung"
+    tips: "Küchentipps"
+    faq: "Häufige Fragen"
+    related: "Das könnte dir auch gefallen"
+    discover: "Kulinarische Inspiration"
+    view_all_recipes: "Alle Rezepte ansehen →"
   summary_labels:
-    prep: "Prep:"
-    cook: "Cook:"
-    total: "Total:"
-    servings: "Servings:"
-    cuisine: "Cuisine:"
+    prep: "Vorbereitung:"
+    cook: "Kochzeit:"
+    total: "Gesamt:"
+    servings: "Portionen:"
+    cuisine: "Küche:"
   chef_note_title: "Note de la cheffe"
   about_sidebar_title: "Qui suis-je ?"
   about_sidebar_text: "Je suis Amelia, passionnée de chimie et de cuisine. J'adore tester des recettes, comprendre les réactions et les rendre délicieuses, accessibles… et parfois un peu magiques."
   sectionsTitle:
-    ingredients_note: "À propos des ingrédients"
-    instructions_note: "Conseils de cuisson"
-    keywords: "Mots-clés"
+    ingredients_note: "Über die Zutaten"
+    instructions_note: "Zubereitungstipps"
+    keywords: "Stichwörter"
   nutritionSection:
-    title: "Informations nutritionnelles"
-    subtitle: "(valeurs approximatives)"
+    title: "Nährwerte"
+    subtitle: "(Richtwerte pro Portion)"
   nutritionLabels:
-    calories: "Calories"
-    proteinContent: "Protéines"
-    carbohydrateContent: "Glucides"
-    fatContent: "Lipides"  
+    calories: "Kalorien"
+    proteinContent: "Eiweiß"
+    carbohydrateContent: "Kohlenhydrate"
+    fatContent: "Fette"  
   
 footer:
-  description: Découvrez un univers culinaire d'exception où chaque recette raconte une histoire, chaque saveur éveille vos sens et chaque plat devient un moment inoubliable.
-  navigation_title: Navigation
-  categories_title: Catégories
-  social_title: Suivez-nous
-  newsletter_title: Newsletter
-  newsletter_description: Recevez nos dernières recettes exclusives et nos conseils de chef directement dans votre boîte mail.
-  newsletter_placeholder: votre@email.com
-  newsletter_button: S'abonner
-  copyright_prefix: ©
-  copyright_suffix: . Tous droits réservés.
-  copyright_tagline: Créé avec ❤️ pour les passionnés de cuisine d'exception
-  scroll_top_label: Retour en haut
+  description: "Entdecke die authentische Alpenküche neu interpretiert. Jedes Rezept verbindet Schweizer Tradition mit modernem Genuss für unvergessliche Geschmackserlebnisse."
+  navigation_title: "Navigation"
+  categories_title: "Kategorien"
+  social_title: "Folge uns"
+  newsletter_title: "Newsletter"
+  newsletter_description: "Erhalte exklusive Alpenrezepte und Küchentipps direkt von Marlena in dein Postfach."
+  newsletter_placeholder: "deine@email.com"
+  newsletter_button: "Anmelden"
+  copyright_prefix: "©"
+  copyright_suffix: ". Alle Rechte vorbehalten."
+  copyright_tagline: "Mit ❤️ für echte Alpenküche-Liebhaber"
+  scroll_top_label: "Nach oben"
   social_descriptions:
-    pinterest: "Nous suivre"
-    instagram: "Nous suivre"
-    facebook: "Nous suivre"
+    pinterest: "Folgen"
+    instagram: "Folgen"
+    facebook: "Folgen"
   legal_links:
     privacy: "/politique-confidentialite/"
     terms: "/conditions-utilisation/"
     legal: "/mentions-legales/"
     contact: "/contact/"
   legal_links_text:
-    privacy: "Politique de confidentialité"
-    terms: "Conditions d'utilisation"
-    legal: "Mentions légales"
-    contact: "Contact"
+    privacy: "Datenschutz"
+    terms: "Nutzungsbedingungen"
+    legal: "Impressum"
+    contact: "Kontakt"
 
 categories_page:
-  title: Toutes les catégories
+  title: "Alle Kategorien"
 
 params:
   analytics:
@@ -177,7 +177,7 @@ params:
 categories_system:
   site_type: "recipes"
   main_section: "recipes"
-  section_title: "Recettes"
+  section_title: "Rezepte"
   categories_config:
     mode: "auto"
     categories_list:
@@ -212,18 +212,18 @@ categories_system:
 
 
 tags_page:
-  all_tags_title: Tous les tags
-  title_prefix: Recettes taguées
-  no_recipes: Aucune recette pour ce tag.
+  all_tags_title: "Alle Tags"
+  title_prefix: "Rezepte mit Tag"
+  no_recipes: "Keine Rezepte für diesen Tag."
 
 contact_page:
-  title: "Nous Contacter"
-  subtitle: "N'hésitez pas à nous écrire"
+  title: "Kontakt aufnehmen"
+  subtitle: "Schreib mir gerne"
   form:
-    name_label: Nom
-    email_label: Email
-    message_label: Message
-    submit_button: Envoyer
+    name_label: "Name"
+    email_label: "E-Mail"
+    message_label: "Nachricht"
+    submit_button: "Senden"
     form_action: "https://formspree.io/f/xwpoynkj"
 
 random_page:
@@ -235,24 +235,24 @@ random_page:
 
 components:
   search:
-    no_results: Aucun résultat trouvé
-    loading: Recherche en cours...
-    clear_label: Effacer la recherche
-    no_results_emoji: 🔍
+    no_results: "Keine Ergebnisse gefunden"
+    loading: "Suche läuft..."
+    clear_label: "Suche löschen"
+    no_results_emoji: "🔍"
     loading_emoji: ⏳
     recipe_emoji: 🍽️
     time_emoji: ⏱️
   cta_buttons:
-    pin_label: Pin
-    pin_aria_label: Save to Pinterest
-    share_label: Share
-    share_aria_label: Share this recipe
-    print_label: Print
-    print_aria_label: Print recipe
-    copy_link: Copy link
-    email: Email
-    save_label: Save
-    link_copied: Lien copié !
+    pin_label: "Merken"
+    pin_aria_label: "Auf Pinterest merken"
+    share_label: "Teilen"
+    share_aria_label: "Rezept teilen"
+    print_label: "Drucken"
+    print_aria_label: "Rezept drucken"
+    copy_link: "Link kopieren"
+    email: "E-Mail"
+    save_label: "Speichern"
+    link_copied: "Link kopiert!"
     share_subject: "Découvrez cette recette :"
   share_menu:
     copy_link: Copier le lien
