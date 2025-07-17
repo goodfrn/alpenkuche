@@ -1,4 +1,4 @@
-baseURL = "https://recettes-blog-test.pages.dev/"
+baseURL = "https://alpenkuche.ch/"
 languageCode = "de"
 title = "Alpenküche"
 
@@ -6,7 +6,7 @@ title = "Alpenküche"
 #  Pagination, taxonomies, permaliens 
 ###############################################################################
 [pagination]
-  pagerSize = 12
+  pagerSize = 27
 
 [taxonomies]
   category = "categories"
@@ -77,7 +77,7 @@ title = "Alpenküche"
 #  Paramètres personnalisables
 ###############################################################################
 [params]
-  description   = "Recettes maison faciles et gourmandes"
+  description   = "Einfache und köstliche Alpenrezepte"
   defaultImage  = "/img/cover-default.jpg"
   twitterHandle = "@TonCompteX"
 
