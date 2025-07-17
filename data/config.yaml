@@ -263,9 +263,9 @@ components:
     whatsapp: WhatsApp
     reddit: Reddit
   sticky_nav:
-    ingredients: Ingredients
-    steps: Steps
-    faq: FAQ
+    ingredients: "Zutaten"
+    steps: "Zubereitung"  
+    faq: "Fragen"
     save: Save
   notifications:
     menu_closed: Menu fermé
