@@ -1,3 +1,7 @@
+---
+title: "À propos"
+---
+
 # Über mich
 
 ## Wer bin ich?
