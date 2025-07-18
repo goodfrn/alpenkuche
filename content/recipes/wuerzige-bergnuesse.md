@@ -8,7 +8,7 @@ focusKeyphrase: "Würzige Bergnüsse"
 date: 2025-07-18
 draft: false
 image: wuerzige-bergnuesse.png
-author: "Julia"
+author: "Marlena"
 prepTime: PT15M
 cookTime: PT14M
 totalTime: PT29M
