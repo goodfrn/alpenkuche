@@ -1,6 +1,4 @@
----
-title: "À propos"
----
+
 
 # Über mich
 
