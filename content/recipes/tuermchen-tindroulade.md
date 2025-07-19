@@ -1,0 +1,102 @@
+---
+title: "Türmchen-Tindroulade"
+slug: "tuermchen-tindroulade"
+description: "Gefüllter Putenrollbraten mit karamellisierten Zwiebeln, exotischen Gewürzen und süssen Karotten, begleitet von Süsskartoffeln und Kichererbsen. Aromatische Sauce mit Curry und Limetten, serviert mit frischer Korianderhilfe und Granatapfelkernen. Starke Texturen, liebliche Würze, rustikaler Alpencharme."
+metaDescription: "Türmchen-Tindroulade ein Putenrollbraten gefüllt mit Zwiebeln und Karotten. Rustikales Alpenessen für gemütliche Abende."
+ogDescription: "Entdecke die Türmchen-Tindroulade. Gefüllt, farbenfroh und voller Geschmack. Ein echtes Alpenrezept für jeden Anlass."
+focusKeyphrase: "Türmchen-Tindroulade"
+date: 2025-07-19
+draft: false
+image: tuermchen-tindroulade.png
+author: "Marlena"
+prepTime: PT1H10M
+cookTime: PT1H45M
+totalTime: PT2H55M
+recipeYield: 6-8 Portionen
+categories: ["Hauptgerichte"]
+tags:
+- "Türmchen-Tindroulade"
+- "Putenrollbraten"
+- "Alpenküche"
+- "Oberländer Küche"
+keywords:
+- "Alpenrezepte"
+- "Herzhaftes Essen"
+- "Schweizer Küche"
+breadcrumb: ["Home", "Recipes", "Hauptgerichte"]
+nutrition: 
+ calories: "380"
+ fatContent: "14g"
+ carbohydrateContent: "30g"
+ proteinContent: "35g"
+ingredients:
+- "=== Füllung ==="
+- "4 Zwiebeln, fein gehackt"
+- "25 ml Olivenöl"
+- "50 g getrocknete Aprikosen, klein geschnitten"
+- "3 ml Kreuzkümmelpulver"
+- "3 ml Garam Masala"
+- "150 ml Hühnerbouillon"
+- "Salz, Pfeffer"
+- "=== Putenrollbraten ==="
+- "1 kg Putenrollbraten, Haut dran, nicht gebunden"
+- "50 ml Olivenöl"
+- "800 g farbige Karotten (bunt), gewaschen und geputzt"
+- "2 Süsskartoffeln, geschält und geviertelt"
+- "1 Dose (400 g) weisse Bohnen, abgespült und abgetropft"
+- "1 kleine rote Zwiebel, dünn geschnitten"
+- "20 ml Limettensaft"
+- "Frische Korianderblätter, nach Belieben"
+- "Granatapfelkerne optional"
+- "=== Sauce ==="
+- "12 ml Maisstärke"
+- "700 ml Hühnerbouillon"
+- "1 grosse Zwiebel, dünn geschnitten"
+- "12 ml Curry-Pulver"
+instructions:
+- "=== Füllung ==="
+- "Zwiebeln mit Olivenöl in einer Bratpfanne bei mittlerer Hitze langsam 12 Minuten glasig bis leicht gebräunt anbraten, oft rühren."
+- "Getrocknete Aprikosen, Kreuzkümmel und Garam Masala einrühren, 2 Minuten rösten."
+- "Bouillon dazugiessen, bei höherer Hitze aufkochen, bis fast keine Flüssigkeit bleibt, etwa 6 Minuten."
+- "Mit Salz und Pfeffer abschmecken, auskühlen lassen."
+- "=== Putenrollbraten vorbereiten ==="
+- "Backofen auf 210 °C Ober-/Unterhitze vorheizen."
+- "Putenbraten flach auf die Arbeitsfläche legen, Haut unten. Filets entfernen und in die Mitte legen, salzen und pfeffern."
+- "Füllung auf den Brustfilets verteilen, dann den Braten zusammenrollen."
+- "Fäden unter die Rolle ziehen, an den Enden herausstehen lassen, straff zusammenbinden. Überschüssige Fäden abschneiden."
+- "Grossen Faden einmal um die Rolle binden für Stabilität."
+- "Olivenöl in grosse schwere Bratpfanne geben, Putenrolle rundum 6 Minuten scharf anbraten, so dass die Haut Farbe bekommt."
+- "Rolle in Bratform legen."
+- "Karotten und Süsskartoffeln darum drapieren, mit restlichem Öl einpinseln, würzen mit Salz und Pfeffer."
+- "=== Braten und Gemüse garen ==="
+- "Im Ofen ca. 1 Stunde 5 Minuten braten, oder bis Kerntemperatur 75 °C bei der Rolle gemessen wird. Gemüse einmal wenden nach halber Garzeit."
+- "Rolle rausnehmen, Fäden entfernen, mit Alufolie locker abdecken, ruhen lassen."
+- "Bohnen zu Gemüse geben, gut durchmischen, warm halten."
+- "Fleischsaft auffangen."
+- "=== Zwiebelmarinade ==="
+- "Rote Zwiebel mit Limettensaft vermengen, 12 Minuten ziehen lassen."
+- "=== Sauce ==="
+- "Maisstärke in kalter Bouillon anrühren."
+- "Olivenöl erhitzen, Zwiebel darin goldbraun braten, Curry zugeben, 2 Minuten rösten."
+- "Bouillon-Maisstärke-Mischung dazugiessen, unter ständigem Rühren aufkochen."
+- "Auf hoher Stufe köcheln lassen, 12 Minuten reduzieren bis dicklich, gelegentlich rühren."
+- "Sauce in Bräter geben, Bratensatz gut lösen und unterrühren, mit Salz und Pfeffer abschmecken."
+- "In eine Saucière füllen."
+- "Rollbraten zwischen Gemüse setzen, mit marinierter Zwiebel, Koriander und Granatapfel garnieren."
+- "Heiss servieren."
+introduction: "Bergluft, Holzfeuer im Ofen, die Küche riecht nach Zwiebeln und Curry. Putenrollbraten statt das übliche Kalbfleisch. Gefüllt, siehst du, das bringt Tiefe. Nussrochers ersetzt durch getrocknete Aprikosen, etwas Süsse, passt zu den Karotten. Alpenschmauch im Hintergrund, langsam, aber nicht zu langsam garen. Süsskartoffeln und Bohnen, locker, gemütlich auf dem Blech, dazu frische Limette und Koriander - Kontrast und Frische. In der Sauce Curry, aber auch die Textur. Das Fleisch bleibt saftig, nicht trocken. Die Mischung der Gewürze nicht zu viel, aber prägnant. Granatapfelkerne sind nicht Landschaft hier, aber bringen im Winter Farbe und Knack. Alles rustikal, alles echte Alpenküche mit Twist aus fremder Würze. Kein Firlefanz, nur handfest. Die Rolle gebunden wie eine kleine Lawine, die langsam über Ofen und Pfanne donnert."
+ingredientsNote: "Zwiebeln als Basis der Füllung müssen langsam weich werden, nicht zu heiss, sonst verbrennen sie. Die getrockneten Aprikosen ersetzen die Rosinen – leichter, alpenangepasst; sie bringen natürliche Süsse ohne Klebrigkeit. Statt den Kichererbsen nehmen wir weisse Bohnen – fester die Textur, besser im Zusammenspiel mit Süsskartoffeln. Das Öl reduziert, mehr vom Aroma der Zwiebeln und Gewürze soll fein durchkommen. Fenchel oder Anis könnte Wolken bringen, aber wir bleiben minimalistisch – Kreuzkümmel statt Curry vorsichtig. Limettensaft wichtig für Frische, nicht zu viel, macht die Sauce nicht sauer. Granatapfelkerne als optionales Finish, macht’s lebendig im Teller und passt so gut zu Alpenkräutern. Koriander immer frisch, nicht hängen lassen, leicht anwelken stört. Süsskartoffeln und Karotten bunt halten gleichmässig Farbe und Nährstoffe."
+instructionsNote: "Zuerst die Füllung, langsam und mit Geduld, häufiges Rühren wichtig, dass sich die Süsse entwickelt. Bouillon erst später dazu, um Feuchtigkeit zu steuern. Beim Braten warm bleibt, damit die Füllung nicht austrocknet, Rolle fest aber zart binden, sonst fällt sie auseinander. Anbraten stark, gibt Röstaromen wie beim Rösti in der Pfanne. Gemüse ins Rohr danach direkt hinzu, das Garverhältnis stimmt, sonst backt man die Kollegen aus. Gemüse wenden schön zügig, damit nix klebt. Ruhen lassen nach dem Braten – Fleisch entspannt sich und wird lockerer. Sauce separat zubereiten, Maisstärke sorgt für die Bindung, ständig rühren damit keine Klümpchen. Würze anpassen während der Reduktion. Zwiebelmarinade ist das frische Element, eventuell vorher kaltstellen. Alles zusammen anrichten mit Frische und Rustikalität. Körnchen Granatapfel und die Kräuter als alpenfrischer Kontrapunkt. Serviert man mit einer gedeckten Holztischplatte, vielleicht dazu ein Stück Appenzellerbrot – das gibt Crunch."
+tips:
+- "Zwiebeln langsam anbraten. Geduld ist wichtig. Rühren nicht vergessen. Sonst werden sie bitter. Ideal sind aromatische Zwiebeln. Gedämpft, kaum Hitze."
+- "Kreuzkümmel und Garam Masala zusammen verwenden. Die Gewürze geben Tiefe. richtige Kombination wichtig. Curry erst später dazu, nicht zu viel."
+- "Weisse Bohnen als Alternative zu Kichererbsen. Besser im Biss, festen Charakter. Passt gut zu den Süsskartoffeln. Achte darauf, sie gut abzutropfen."
+- "Füllung kalt werden lassen. Sonst wird der Braten zu weich. Fäden richtig binden. Zerrt am Fleisch, hält es zusammen. Hauptsache alles bleibt dicht."
+- "Ruhen lassen nach dem Braten. Das Fleisch entspannt. Saft bleibt erhalten. Gemüse aber nicht vergessen. Warm halten, im Ofen lassen. Keinen Rückstand verschwenden."
+faq:
+- "q: Was ist die ideale Garzeit für den Putenrollbraten? a: Ungefähr 1 Stunde 5 Minuten im Ofen. Kerntemperatur wichtig. 75 Grad sind optimal. Gemüse wird oft gewendet."
+- "q: Kann ich die Sauce im Voraus zubereiten? a: Ja, die Sauce kann man vorbereiten. Einfach aufwärmen später. Aber nicht zu stark kochen."
+- "q: Eignen sich andere Gewürze? a: Sicher. Fenchel oder Anis bringen neue Aromen. Experimentieren erlaubt. Aber nicht zu viel davon."
+- "q: Wie lagert man Reste? a: Kühl stellen. Im Kühlschrank bleiben sie frisch. Innerhalb von 3 Tagen verbrauchen. Alternativ in der Tiefkühle lagern."
+
+---
