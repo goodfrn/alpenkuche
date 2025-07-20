@@ -1,0 +1,98 @@
+---
+title: "Alpen-Früchtesalat Burrata"
+slug: "alpen-fruechtesalat"
+description: "Frische Erdbeeren und Himbeeren gemischt mit fein geschnittenem Fenchel. Ganz ohne Eier und Nüsse. Burrata aus der italienisch-schweizerischen Alpenküche. Sanfte Säure vom Zitrone und Hauch von Honig. Geräucherte Bergkräuter als Twist. Leicht knusprig durch hausgemachte Kräuter-Polenta-Cracker. Lokale Ölivenöl als Finish. Schnell, frisch, roh. Tagesenergie mit Alpencharme. Für 4 als Vorspeise ideal."
+metaDescription: "Alpen-Früchtesalat Burrata mit frischen Erdbeeren, Himbeeren, Fenchel, Bergkräutern und hausgemachten Polenta-Crackern. Frische und alpine Vitalität."
+ogDescription: "Genießen Sie den Alpen-Früchtesalat Burrata mit süßen Erdbeeren und feinem Fenchel. Ein lebendiges Gericht für frische Bergluft."
+focusKeyphrase: "Alpen-Früchtesalat Burrata"
+date: 2025-07-20
+draft: false
+image: alpen-fruechtesalat.png
+author: "Marlena"
+prepTime: PT25M
+cookTime: PT5M
+totalTime: PT30M
+recipeYield: "4 Portionen"
+categories: ["Vorspeisen"]
+tags:
+- "Alpenküche"
+- "Salat"
+- "vegetarisch"
+- "schweizerisch"
+- "Frühling"
+keywords:
+- "Erdbeeren"
+- "Himbeeren"
+- "Bergkräuter"
+breadcrumb: ["Home", "Recipes", "Vorspeisen"]
+nutrition: 
+ calories: "190"
+ fatContent: "14g"
+ carbohydrateContent: "12g"
+ proteinContent: "5g"
+ingredients:
+- "=== Früchte-Marinade ==="
+- "7 ml Fenchelsamen (1 1/2 TL), grob zerstossen"
+- "7 ml rosa Pfefferkörner (1 1/2 TL), leicht angerieben"
+- "300 g frische Erdbeeren, fein geschnitten"
+- "1 Bio-Zitrone, Schale fein abgerieben"
+- "40 ml frisch gepresster Zitronensaft (knapp 3 EL)"
+- "15 ml Akazienhonig (1 EL plus ein wenig für das Anrichten)"
+- "1 Prise Ruhrs Salz"
+- "3 g getrocknete Bergkräuter (zB. Enzianblüten oder Alpenminze), leicht gemörsert"
+- "=== Salat ==="
+- "1 Fenchelknolle, in feine Scheibchen geschnitten (inkl. Stiele & Blätter)"
+- "150 g Himbeeren, ganz"
+- "250 g Burrata, Zimmertemperatur, gut abgetropft"
+- "50 ml kaltgepresstes Schweizer Rapsöl oder Olivenöl vom Tessin"
+- "Blattfleur de Sel aus dem Wallis"
+- "Kräuter-Polenta-Cracker, knusprig gebacken (hausgemacht, mit frischem Rosmarin)"
+instructions:
+- "=== Marinieren ==="
+- "Samen von Fenchel und rosa Pfeffer grob mit dem Mörser zerquetschen. Die Bergkräuter grob mitmörsern, einbinden. Die Mischung in eine Schüssel geben. Zitronenzeste hinzu, Zitronensaft, Akazienhonig, Salz. Erdbeeren gleich dazu. Leicht durchmischen. 15 Minuten ziehen lassen. Minimal länger als gewöhnlich, damit die Fenchel-Noten gut durchziehen."
+- "=== Fenchel vorbereiten ==="
+- "Fenchel mit der Mandoline in hauchdünne Scheiben schneiden, Stiele und Blätter dazu. In Eiswasser legen. 15 Minuten. Soll knackig bleiben, kühlt runter."
+- "Fenchel mit einem Küchentuch gut trocknen. Kein Wasser soll die Salatsauce verwässern."
+- "=== Anrichten ==="
+- "Fenchel als Basis auf einem grossen Servierteller verteilen. Himbeeren darauf verteilen, Fenchelblatt draufstreuen."
+- "Burrata mittig zerteilen, direkt darauf setzen."
+- "Erdbeermischung grosszügig über und um die Burrata verteilen."
+- "Mit dem Öl übergiessen. Ein feiner Honigfaden kommt als letzter Schliff drüber."
+- "Fleur de Sel sparsam darüberpinseln. Nicht zu viel – die Kräuter-Polenta-Cracker daneben legen. Sie geben den nötigen Biss, würzig und leicht erdig."
+- "Sofort servieren, Burrata weich, Fenchel frisch knusprig. Erdbeeren süss, Himbeeren leicht säuerlich. Bergkräuter ungewohnt, aber eigen."
+- "Polenta-Cracker bleiben knusprig am Tisch. Ohne sind Salate oft zu weich, geben Struktur."
+- "Alternativ kann man den Fenchel leicht anrösten, dann verliert er Geschmack, mildert aber die Schärfe. Nicht meine Art. Roh pur."
+- "Kalt servieren, Alpenfeeling auf dem Teller. Wer möchte, gibt einen Schuss Appenzeller Kräuterlikör als Digestif dazu. Passend rauchig, wild."
+- "Das Gericht braucht keinen Appenzeller Käse, Burrata reicht. Wenn Zmittag draussen vor Alpenblick, frische Luft dazu."
+- "Der Salat ersetzt kein Raclette oder Alpenfondue, aber bringt frische Vitalität."
+- "Fenchel und Beeren als Kombination nicht alltäglich, bringt Kribbeln im Gaumen."
+- "Der Fenchel nimmt die Süße der Beeren auf, lässt sie wirken ohne zu dominieren."
+- "Mit der Burrata kontrastiert der ganze Salat. Etwas Fett, etwas weich, cremig."
+- "Die rosa Pfefferkörner geben leichtes Prickeln, so wie Alpennächte nach Gewitter."
+- "Das Rezept hat wenig Garzeit. Rohkost. Wildkräuter holen die alpine Natur auf den Teller."
+- "Fertiger Salat ist frisch, beruhigend, kein Schnickschnack."
+- "Ideal auch für einen Picknickkorb auf der Alm. Kombiniert gut mit frischem Alpquark oder ein Stück Bauernbrot."
+- "Keine Eier, keine Nüsse. Passt für Allergiker. Und die Beeren saisonal, ab Frühling, genau wenn die Alpenwanderer vom Tal zurückkehren."
+- "Die Polenta-Cracker backt man auf offenem Feuer. Gibt echtes Bergfeeling. Oder im Ofen mit einem Holzbrett unten, so wie im Châlet."
+- "Die Zutaten kommen direkt aus Alpenregionen bei Bern, Saanen, oder aus dem Appenzellerland."
+- "Fenchel ist in der Alp-Küche wenig verbreitet, hier als Twist mit Beeren. Burrata fehlt in der Schweiz selten, oft aus der italienischen Nachbarschaft, frisch erhältlich."
+- "Kalt gepresstes Öl oder Rapsöl ist schwerpunktmässig lokal, besser als das oft verwendete Olivenöl. Bringt leichte nussige Note."
+- "Fleur de Sel wird bevorzugt, weil es im Gegensatz zu Tafelsalz mild ist und den Ursprung der Berge zeigt."
+- "Variation: Wer will, kann ein bisschen geriebener Gruyère an die Seite legen, für eine alpine Käse-Note, gibt Struktur."
+- "Das Dazulegen der Kräuter-Polenta-Cracker ist typisch schweizerischer Alpenstil – einfach, nah an der Natur, rustikal und doch elegant."
+introduction: "Berge. Frische Luft. Morgentau noch nicht getrocknet. Salate eher simpel. Aber Beeren mit Fenchel? In der Alp. Klingt paradox. Doch hier trifft die süsse Erdbeere auf die anissternige Senfknolle des Fenchels. Himbeeren bringen Fülle. Burrata weich, wie frische Alpenwiesen. Bergkräuter ins Spiel. Nicht nur auf den Gipfeln. Auch im Essen. Kokettieren mit dem Aroma vom rosa Pfeffer. Kein Butter, keine Sahne. Alpen pur. Schnell. Schonend. Für die Seele. Ein Tessiner Öl als Abschluss. Honig aus dem Emmental, süss und rund. Folklore schmeckt man. Pflückfrisch. Knackig. Der Salat lebt. Am besten auf dem Balkon mit Blick auf den Jura oder beim Picknick nach der Wanderung am Flumserberg. Mit Freunden teilen, vor Bergluft. Polenta-Cracker? Knuspriger als das alte Bauernbrot. Die moderne Variante. So bleibt das Gericht unkompliziert. Und roh! Die Zeit in der Lüfte schmeckt stark. Die Früchte bringen den Sonnenschein auf den Teller. Alpenküche kennt keine Tierhaltungsindustrie. Dafür Respekt für die Natur, Aromen pur, Ursprünglichkeit. Hier weich wie die Burrata, herb wie die Fenchelstängel. Mit Frohsinn und Bergfrieden."
+ingredientsNote: "Erdbeeren und Himbeeren frisch und reif auswählen. Möglichst von regionalen Bergbauern oder im Biomarkt. Fenchel sollte gerade frisch sein, keine weichen Stellen. Fenchelsamen und rosa Pfefferkörner langsam im Mörser zerkleinern, neue Aromen schaffen. Bergkräuter sind in der Alpenküche Klassiker, geben Tiefe und Erinnerung an Bergwanderungen. Burrata bekommt Sauerstoff vor dem Anschnitt, wird so besser weich. Polenta-Cracker werden aus Maisgries gemacht, geben Textur, und Kräuter sind entweder wild oder gezupft aus dem Garten. Rapsöl oder kaltgepresstes Öl bringen milden Geschmack, mildern bittersüsse Noten. Honig am Ende gibt die süsse Gegenbewegung. Fleur de Sel streut man sparsam, macht aber pure Bergsalzfrische erlebbar. Die Zitrone soll Bio sein, wegen der Schalenreibe. Wichtig: Wasser vom Fenchel gegen den Salat gut abtropfen."
+instructionsNote: "Mit grobem Mörser arbeiten. Fenchelsamen zerkleinern, rosa Pfeffer leicht quetschen. Nicht pulverisieren. Mit Kräutern mischen. Früchte in Schale geben, ziehen lassen. Zeit zugestehen zum Aromataustausch, mehr als üblich in Salaten. Fenchel hauchdünn schneiden, Stiele und Blätter nicht wegwerfen. Diese sorgen für Bitterkeit und auch Optik. Eintauchen ins Eiswasser macht Fenchel knackig, konserviert Farbe. Trocken tupfen sichert, dass die Marinade nicht verwässert wird. Platte mit Fenchel, Beeren dressieren, Burrata mittig. Früchte über und neben die Burrata setzen. Öl und Honigpunkte mit Löffel verteilen. Eher sparsam, Honig darf nicht dominieren. Fleur de Sel mit Fingerspitzen draufgeben. Polenta-Cracker sind als nussiges Element das Gegengewicht zu weichem Käse. Warmbacken, auf offenem Feuer oder Herd, gibt rustikale Note. Servieren sofort, nicht warten. Fenchel kann ziehen, Burrata abtropfen, nimmt so keine Flüssigkeit auf. Für Abwechslung im Menü. Schnell, aber präzis. Die Kräuter sind die Bergseele, ohne wird’s fad. So schmeckt der Salat nicht nur, er lebt das Bergleben."
+tips:
+- "Fenchelsamen anrösten. Das gibt das volle Aroma. Entfaltet sich gut, geht schnell. Dann im Mörser mahlen. Rosa Pfeffer leicht pressen."
+- "Erdbeeren reif wählen. Am besten von den Bergbauern. Himbeeren frisch, prall. Ein Blick aufs Feld. Fenchel kaufen mit Stielen. Schmeckt besser. Die Blätter sind wichtig."
+- "Zitrone soll Bio sein. Schale reiben, die Zitrone ist intensiv. Film darüber geben, entfaltet Aromen. Honig am Ende dazu. Akazienhonig ist mild und süß."
+- "Cracker aus Polenta selbst machen. Auf offenem Feuer oder im Ofen. Verleiht rustikales Flair. Reicht als Snack. Auch für unterwegs geeignet, z.B. beim Wandern."
+- "Burrata direkt vor dem Servieren aufschneiden. Sonst wird sie zu weich. Raumtemperatur macht sie angenehm. Soll üppig darunter wirken. Salat schnell anrichten, sonst wird der Fenchel weich."
+faq:
+- "q: Wie lange lässt sich der Salat aufbewahren a: Salat ist frisch. Am besten am gleichen Tag essen. Fenchel wird schnell weich. Kein Wasser mehr halten."
+- "q: Kann ich andere Früchte verwenden a: Ja, probiere Heidelbeeren oder Pfirsiche. Diese bringen eigene Noten rein. Auch andere Beeren, Geschmack passt gut."
+- "q: Woher bekomme ich frische Bergkräuter a: Im Garten sammeln oder beim Markt kaufen. Wichtig ist die Frische. Suchen nach Trockenträufchen für gute Aromen."
+- "q: Was tun mit übrig gebliebenen Cracker a: Kann man aufbewahren. In einer Dose lagern. Sie bleiben knackig. Oder im Ofen kurz aufbacken."
+
+---
