@@ -1,0 +1,97 @@
+---
+title: "Alpiger Pastitsio Twist"
+slug: "alpiger-pastitsio-twist"
+description: "Hackfleischsauce mit Schweine- und Rindfleisch. Aufgewertet mit Appenzeller statt Pecorino. Muskat bleibt, Gewürze angepasst. Béchamel mit Emmentaler. Pasta mit Hörnli statt Bucatini. Aus dem Ofen, goldbraun, eine Hommage an Berner Alpenküche.  Eine halbe Stunde kürzere Garzeit. Ruhen lassen, damit’s schneidet sich besser. Schweizer Käsekultur in jedem Biss."
+metaDescription: "Alpiger Pastitsio Twist ist eine köstliche Mischung aus Hackfleischsauce mit Appenzeller und Hörnli, perfekt für die alpine Küche."
+ogDescription: "Ein alpiner Klassiker, der Hackfleischsauce mit Appenzeller, Hörnli und Béchamel vereint. Ideal für winterliche Tage."
+focusKeyphrase: "Alpiger Pastitsio Twist"
+date: 2025-07-20
+draft: false
+image: alpiger-pastitsio-twist.png
+author: "Marlena"
+prepTime: PT40M
+cookTime: PT1H40M
+totalTime: PT2H20M
+recipeYield: "8 Portionen"
+categories: ["Hauptgerichte"]
+tags:
+- "Schweizer Küche"
+- "Alpenrezepte"
+- "Essen für den Winter"
+keywords:
+- "Pastitsio"
+- "Appenzeller Käse"
+- "Hörnli"
+breadcrumb: ["Home", "Recipes", "Hauptgerichte"]
+nutrition: 
+ calories: "420"
+ fatContent: "22g"
+ carbohydrateContent: "34g"
+ proteinContent: "28g"
+ingredients:
+- "=== Hackfleischsauce ==="
+- "630 g gemischtes Hackfleisch (Schwein & Rind)"
+- "25 ml (1 ½ EL) Rapsöl"
+- "1 grosse Zwiebel, fein gehackt"
+- "3 Knoblauchzehen, fein gehackt"
+- "20 ml (1 ¼ EL) Tomatenmark"
+- "2 ml (½ TL) Piment gemahlen"
+- "2 ml (½ TL) Zimt gemahlen"
+- "1 ml (¼ TL) Nelken gemahlen"
+- "1 ml (¼ TL) Muskatnuss fein gerieben"
+- "100 ml trockener Rotwein"
+- "1 Dose 400 ml gehackte Tomaten"
+- "100 ml Bouillon (Gemüse oder Poulet)"
+- "Salz und frisch gemahlener schwarzer Pfeffer nach Geschmack"
+- "=== Béchamel ==="
+- "90 g Butter"
+- "90 g helle Mehl"
+- "900 ml Vollmilch"
+- "1 Prise Muskatnuss"
+- "80 g geriebener Appenzeller Käse"
+- "3 Eigelb"
+- "=== Pasta ==="
+- "400 g Hörnli (Schweizer Pasta)"
+- "3 Eiweiss, leicht geschlagen"
+- "35 g geriebener Appenzeller Käse"
+instructions:
+- "=== Hackfleischsauce kochen ==="
+- "In einer schweren Pfanne die Hälfte vom Fleisch in die Hälfte Öl krümelig anbraten bis goldbraun. Restliches Fleisch und Öl dazu und nochmals bräunen."
+- "Zwiebel und Knoblauch hinzufügen, glasig dünsten ca 7 Minuten. Mit Salz und Pfeffer würzen."
+- "Tomatenmark, Piment, Zimt, Nelke und Muskat beifügen, 1 Minute rösten, um Aromen freizusetzen."
+- "Mit Rotwein ablöschen, etwas einkochen lassen ca 2 Minuten."
+- "Gehackte Tomaten und Bouillon dazu geben. Bei kleiner Hitze köcheln lassen bis fast keine Flüssigkeit mehr, ungefähr 12 Minuten. Abschmecken, warm halten."
+- "=== Béchamel vorbereiten ==="
+- "Backofen auf 175 °C vorheizen. Ofenrost mittig platzieren. Eine Ofenform (33x23 cm) ausbuttern."
+- "In einem Topf Butter bei mittlerer Hitze schmelzen lassen, Mehl einstreuen, unter ständigem Rühren hell anschwitzen ca 1 Minute."
+- "Milch langsam einrühren, mit Schneebesen. Muskat zugeben."
+- "Zum Kochen bringen, weiter rühren, sanft 2 Minuten köcheln lassen, bis dickflüssig."
+- "Vom Herd nehmen, Käse unterrühren."
+- "Eigelb zügig einarbeiten, gut würzen. Warm halten, nicht kochen."
+- "=== Pasta kochen und mischen ==="
+- "Hörnli in leicht gesalzenem Wasser al dente kochen (3 Minuten weniger als Packungsangabe). Abgiessen."
+- "Pasta zurück in den Topf. 200 ml Béchamel untermischen. Eiweiss und geriebenen Appenzeller hinzufügen, kräftig vermengen, damit Pasta gut gebunden wird."
+- "Pasta in die Ofenform geben, mit Spachtel gut andrücken, damit keine Hohlräume."
+- "=== Schichten und backen ==="
+- "Hackfleischsauce gleichmässig auf der Pasta verteilen."
+- "Restliche Béchamel darüber giessen, gleichmässig verstreichen."
+- "Im vorgeheizten Backofen 55 Minuten backen, bis Béchamel goldbraun ist."
+- "Aus dem Ofen nehmen, mindestens 20 Minuten stehen lassen, damit sich alles setzt."
+- "Servieren. Passt gut mit sauer eingelegtem Gemüse oder einem frischen Feldsalat aus dem Tal."
+- "Gut zum alpinen Lebensstil: Hausgemachte Pasta, würziger Käse aus den Bergen, Zeit nehmen für Geniessen."
+introduction: "Raus in die Berge, Käsereien besuchen, Appenzeller riechen und schmecken. Etwas Alpkäse zum Kochen statt Pecorino, kräftiger und doch fein. Wir nehmen Hörnli, das geht schnell, hält im Ofen gut. Die Gewürze anpassen, weniger piment, mehr Zimt und Nelken, eine Spur Muskat, fast wie bei einer grossen Alpenwürzmischung. Rotwein gibt Pfiff, aber nicht zu viel, die Sauce dicht, würzig, nicht zu suppig. Béchamel hat Butter aus der Sennerei, Milch frisch vom Hof. Eigelb macht cremig, Käse macht Biss. Schichten, drücken, backen bis goldene sichtbare Kruste. Danach Geduld, sonst zerfällt der Berg in der Pfanne. Ein Gericht, das den langen Winter vorbereitet, genauso wie warme Hausschuhe."
+ingredientsNote: "Das Hackfleisch gemischt, Schwein und Rind, gibt saftige Geschmacksnoten, die man von den Alpenhöfen kennt: robust und nahrhaft. Appenzeller Käse bringt eine schöne Würzigkeit, anders als pecorino, aber genauso charaktervoll – passt in die Schweizer Käsekultur. Hörnli, die klassische regional verfügbare Pasta, saugt Sauce besser auf als dicke Bucatini. Butter aus dem Tal oder von der Alp, Mehl hell, Vollmilch frisch und vollmundig. Gewürze nicht zu dominant, eher zurückhaltend, denn der Käse soll mitschwingen. Eigelb bringt Bindung, Eiweiss etwas Luftigkeit. Tomatenmark und frische Tomaten als Grundlage, Rotwein aus dem Wallis, Bouillon hausgemacht aus dem Poulet vom Bauernhof."
+instructionsNote: "Die Hackfleischsauce braucht Aufmerksamkeit: Kein Flüssigkeitsberg mehr nach dem Kochen. Fleisch brut wird getrennt angebraten, damit’s nicht schmort und trocken wird. Béchamel richtig rühren, nicht anbrennen lassen, das braucht Geduld und Schwinger. Käse als letzter Schritt in die Sauce, sonst wird er gummiartig. Pasta zwei drei Minuten vor Garzeit aus dem Wasser nehmen, um Haptik und Biss zu behalten. Weisse Ei emotionell unterheben für bessere Bindung beim Backen. Schichten dicht drücken, keine Lufträume, sonst bricht der Berg auseinander. Backzeit reduziert, weil die Pasta zarter ist. Nach dem Backen Sache runterkühlen lassen. So kann man schöne Schnitte machen und es hält auf dem Teller. Alpenküche zu Hause, aber mit viel Gefühl und Schweizer Tradition."
+tips:
+- "Hackfleischsauce zuerst anbraten. Fleisch in zwei Teilen. Werfen ins Öl, bis goldbraun. Zwiebel, Knoblauch dazu. Gut anbraten. Werkzeuge bereit. Achte auf Temperatur. Keine Flüssigkeit soll überbleiben. Rotwein nicht zu viel."
+- "Die Bechamel ist wichtig. Butter schmelzen in einem Topf, Mehl leicht anrösten. Unter ständigem Rühren, nicht anbrennen lassen. Milch langsam, Muskat dazu. Bis dickflüssig, rühren nicht vergessen. Käse erst zum Schluss unterrühren. Gut würzen."
+- "Pasta perfekt kochen, Hörnli al dente. Nur 3 Minuten weniger als auf Packung. Abgiessen, zurück in den Topf. Béchamel und Käse gut unterheben. Mischung muss gut zusammenhalten. Andernfalls wird's bröckelig. Schichttechnik beachten."
+- "Schichten ist der Schlüssel. Zuerst Pasta, dann Hackfleischsauce drauf. Die Béchamel gleichmässig darauf verteilen. Keine Hohlräume, gut andrücken. Platten müssen dicht sein. 175 Grad, etwa 55 Minuten backen. Goldig, nicht zu lange."
+- "Nach dem Backen Geduld haben. Lassen stehen für 20 Minuten, dann schneiden. So hält alles besser zusammen. Servieren mit einem frischen Salat. Alternativ, eingelegtes Gemüse aus dem Tal. Passt perfekt."
+faq:
+- "q: Kann ich das Hackfleisch ändern? a: Ja, Rind oder Lamm sind möglich. Aber Gewürze anpassen. Andere Kombis gibt's auch. Bisschen experimentieren. Immer gut im Geschmack."
+- "q: Béchamel wird nicht dick? a: Richtig rühren ist wichtig. Milch langsam einrühren. Mehl gut anrösten. Ansonsten bleibt's flüssig. Geduld = gute Béchamel."
+- "q: Wie lagere ich die Reste? a: Kühlschrank ist gut, ein paar Tage. In einer gut geschlossenen Box. Alternativ, einfrieren geht auch. Aber nach dem Backen."
+- "q: Was ist der beste Käse? a: Appenzeller hat Geschmack. Gruyère auch toll. Kombinationen möglich. Einfach ausprobieren. Käse aus der Region bringt den besten Genuss."
+
+---
