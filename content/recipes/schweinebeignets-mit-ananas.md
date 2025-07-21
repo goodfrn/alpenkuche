@@ -1,0 +1,95 @@
+---
+title: "Schweinebeignets mit Ananas"
+slug: "schweinebeignets-mit-ananas"
+description: "Knusprige Schweinebeignets im Ananasteig. Aromatische Sauce aus Reisessig, Sojasauce, Sternanis und Ingwer, leicht scharf gewürzt. Frittierte Bissen im Ananasjus-Tempurateig. Serviert mit asiatischem Gemüse-Salat. Knackig, würzig, fruchtig. Ohne Milch, Eier, Nüsse. Rund 24 Portionen. Die Zubereitung erfordert etwas Zeit; Teig und Sauce werden separat zubereitet. Die Beignets bleiben im Ofen warm, Sauce wird vor dem Servieren vermischt. Vanille ersetzt durch gemahlene Kardamomkapseln für exotischen Touch. Anstelle von Rindfleischbrühe Gemüsebrühe verwendet. Raffiniertes Gericht für Zwischendurch und Gäste."
+metaDescription: "Schweinebeignets mit Ananas sind crispy Snacks, die fruchtig-würzige Sauce vereinen. Ideal für Gäste, glutenfrei, vegetarbefreit."
+ogDescription: "Entdecken Sie leckere Schweinebeignets mit fruchtiger Ananassauce. Ideal für besondere Anlässe, proteinreich und ohne Milchprodukte."
+focusKeyphrase: "Schweinebeignets mit Ananas"
+date: 2025-07-21
+draft: false
+image: schweinebeignets-mit-ananas.png
+author: "Marlena"
+prepTime: PT35M
+cookTime: PT35M
+totalTime: PT1H10M
+recipeYield: "24 Stück"
+categories: ["Hauptgerichte"]
+tags:
+- "Snack"
+- "Partyessen"
+- "Frittieren"
+- "Exotisch"
+keywords:
+- "Schweinebeignets"
+- "Ananas"
+- "asiatische Cuisine"
+breadcrumb: ["Home", "Recipes", "Hauptgerichte"]
+nutrition: 
+ calories: "320"
+ fatContent: "14g"
+ carbohydrateContent: "28g"
+ proteinContent: "22g"
+ingredients:
+- "=== Sauce ==="
+- "12 ml (2,5 TL) Tapiokastärke oder Maizena"
+- "20 ml (1,5 EL) Wasser"
+- "140 ml (2/3 Tasse) Zucker"
+- "35 ml (2,5 EL) Reisessig"
+- "275 ml (1 Tasse) Ananas, gewürfelt"
+- "2 Knoblauchzehen, fein gehackt"
+- "12 ml (2,5 TL) frisch geriebener Ingwer"
+- "80 ml (1/3 Tasse) Gemüsebrühe"
+- "85 ml (1/3 Tasse) Ananassaft"
+- "35 ml (2,5 EL) Sojasauce"
+- "6 ml (1,2 TL) Sesamöl"
+- "2 Sternanissterne"
+- "1 Prise Cayennepfeffer"
+- "=== Tempurateig ==="
+- "Öl zum Frittieren (Erdnuss- oder Rapsöl)"
+- "130 ml (1/2 Tasse) Tapiokastärke"
+- "220 ml (7/8 Tasse) Mehl"
+- "20 ml (1,5 EL) Zucker"
+- "6 ml (1,2 TL) Backpulver"
+- "6 ml (1,2 TL) Currypulver"
+- "1 kleine Prise Salz"
+- "160 ml (2/3 Tasse) Ananassaft"
+- "140 ml (2/3 Tasse) Wasser"
+- "580 g Schweinefilet in dünnen Streifen"
+- "20 ml (1,5 EL) Sesamsamen"
+- "1 TL gemahlene Kardamomkapseln"
+instructions:
+- "=== Sauce ==="
+- "1. Stärke mit Wasser verrühren, beiseitestellen."
+- "2. Zucker mit Reisessig in Topf geben, aufkochen. Zucker leicht karamellisieren lassen."
+- "3. Ananas, Knoblauch, Ingwer, Gemüsebrühe, Ananassaft, Sojasauce, Sesamöl, Sternanis, Cayenne hinzufügen."
+- "4. Alles zum Kochen bringen, dann 6 Minuten sanft köcheln lassen, manchmal umrühren."
+- "5. Stärkemischung einfließen lassen, weiterrühren, 3 Minuten kochen, Sauce eindicken lassen."
+- "6. Warm stellen, Sternanis entfernen vor Servieren."
+- "=== Tempurateig ==="
+- "1. Öl auf 180°C erhitzen (Fritteuse oder tiefer Topf)."
+- "2. Backblech mit Küchenpapier auslegen, Backofen auf 90°C vorheizen. Dort Beignets warmhalten."
+- "3. Alle trockenen Zutaten in großer Schüssel vermengen: Tapiokastärke, Mehl, Zucker, Backpulver, Curry, Salz, gemahlener Kardamom."
+- "4. Flüssigen Ananassaft und Wasser unter Rühren einarbeiten, bis glatter Teig entsteht."
+- "5. Schweinefleisch gut untermischen, bis Streifen vollständig bedeckt."
+- "6. Für jedes Beignet etwa 40 ml Teig mit Fleisch aufnehmen."
+- "7. Nach und nach in heißem Öl etwa 5–6 Minuten frittieren, bis goldbraun, außen knusprig, innen saftig."
+- "8. Auf Küchenpapier abtropfen lassen, dann im Ofen bei 90°C warm stellen."
+- "9. Kurz vor dem Servieren Sauce erhitzen, Beignets darin schwenken."
+- "10. Mit Sesamsamen bestreuen, sofort servieren."
+- "11. Dazu passt knackiger asiatischer Gemüsesalat (z.B. Kohl, Karotten, rote Paprika, Sesamöl, Reisessig)."
+introduction: "Saftig gebratene Schweinefleischstreifen, umhüllt von einem fluffig-knusprigen Ananas-Tempurateig. Fruchtig-scharfe Sauce mit Ingwer, Knoblauch und Sternanis unterlegt. Würzig und exotisch. Die würzige Sauce wird in wenigen Schritten gekocht, karamellisierter Zucker und Reisessig bringen Tiefe. Der Teig mischt Tapiokastärke für Extra-Crispiness, etwas Curry und Kardamom sorgen für exotische Noten, ersetzen Vanille, die man oft nimmt. Frittieren in kleinen Portionen. Nicht zu voll packen. Warm stellen im Ofen — praktisch bei Gästen. Frische Sesamsamen runden ab. Asiatischer Salat macht’s frisch und knackig. Etwas aufwändig, aber lohnt für besondere Zwischenmahlzeit und Events. Ohne Eier, Milch, Nüsse – für Allergiker geeignet. Vegetarisch nicht, aber Proteinquelle leicht und angenehm. Überraschend vielseitig und anders als klassisch. Scharf im Hintergrund. Ananas gibt Süße, frische Säure. Gedanken schweifen zu tropischen Märkten, Straßenküchen, aber daheim. Rechte Menge für 24 Stück. "
+ingredientsNote: "Ananas bringt frische Süße, saftige Note. Wichtig, frischer Ananassaft, kein künstlicher Ersatz – macht Unterschied. Für Stärke kann Tapioka oder Maisstärke verwendet werden, Tapioka sorgt für bessere Knusprigkeit. Statt Rindfleischbrühe Gemüsebrühe nehmen, leichter und für Vegetarierfreundlichkeit. Kardamom ersetzt Vanille für exotische Note, passt zum Curry gut. Mehl möglichst helles Weizenmehl verwenden, tapioka passend für Teigstruktur. Sesamöl erst in Sauce, hinterher Sesamsamen zum Bestreuen. Öl sollte hoch erhitzbar sein, Erdnuss oder Raps sind ideal. Zucker in Sauce zart karamellisieren, nicht verbrennen – schmeckt sonst bitter. Knoblauch und Ingwer frisch reiben. Alternativ Ingwerpulver nicht empfehlenswert. "
+instructionsNote: "Sauce zuerst vorbereiten, damit sie warm bleibt. Zucker und Essig vorsichtig karamellisieren, bei mittlerer Hitze, wichtiger Schritt für tiefen Geschmack. Danach Flüssigkeiten und Gewürze rein, aufkochen und köcheln – erst dann Stärkewasser langsam einrühren für Bindung, sonst klumpt es. Beim Teig darauf achten, dass Flüssigkeiten Temperaturen annehmen, Flüssigkeiten gleichmäßig eingearbeitet. Fleischstreifen gut mit Teig umhüllen, damit knusprig außen bleibt, innen saftig. Portionen klein machen, maximal fünf gleichzeitig frittieren, sonst kühlt Öl ab, Ergebnis matschig. Nach dem Frittieren kurz auf Küchenpapier abtropfen lassen, aber besser sofort in Ofen wärmen. Vor Servieren Sauce nochmals aufkochen, Beignets darin wenden – für Geschmack, nicht zu lange, sonst verlieren sie Knusprigkeit. Unbedingt Sesamsamen zum Schluss streuen. Mit frischem Asia-Gemüse servieren, Salat mit etwas Sesamöl, Reisessig und frischen Kräutern passt gut dazu."
+tips:
+- "Wichtig für die Sauce ist frischer Ananassaft. Künstliche Produkte machen es flach. Zucker im Essig vorsichtig karamellisieren. Nicht verbrennen."
+- "Teig für Beignets muss geschmeidig sein. Ananassaft und Wasser gut einarbeiten. Vor dem Frittieren alles gut verrühren. Check die Konsistenz."
+- "Portionen beim Frittieren klein halten. Maximal fünf Beignets gleichzeitig. Öl bleibt heißer, Ergebnis knuspriger. Klumpenbildung vermeiden."
+- "Die Sauce kurz vor dem Servieren nochmal erwärmen. Frische Aromen kommen besser zur Geltung. Sternanis nicht vergessen, bringt Tiefe."
+- "Sesamsamen erst kurz vor dem Servieren bestreuen. Gibt Knusprigkeit zum Gericht. Gleichmäßiges Verteilen ist wichtig. Oder etwas mehr für Crunch."
+faq:
+- "q: Wie lange halten die Beignets? a: Ideal frisch, direkt servieren. Aber tagsüber aufbewahren, in Kühlschrank. Am besten warm machen."
+- "q: Kann ich etwas ersetzen? a: Ja, statt Tapiokastärke, Maisstärke verwenden. Und anstelle von Gemüsebrühe, auch Pilzbasis gut für Geschmack."
+- "q: Was bei Trockenheit im Teig? a: Mehr Flüssigkeit langsam reingeben. Ananassaft oder Wasser, erst wenige Esslöffel. Gut rühren, aufpassen."
+- "q: Wie lagern für später? a: Frisch im Kühlschrank, aus krosser werden,  in den Ofen für paar Minuten. Öl aufheizen nach dem Lager."
+
+---
