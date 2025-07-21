@@ -44,12 +44,18 @@ title = "Alpenküche"
     target = "assets/notwatching/hugo_stats.json"
 
 [outputs]
-  home = ["HTML", "JSON", "ROBOTS"]
+  home = ["HTML", "JSON", "ROBOTS", "ServiceWorker"]
 
 [outputFormats]
   [outputFormats.ROBOTS]
     mediaType = "text/plain"
     baseName = "robots"
+    isPlainText = true
+    notAlternative = true
+    
+  [outputFormats.ServiceWorker]
+    mediaType = "application/javascript"
+    baseName = "sw"
     isPlainText = true
     notAlternative = true
 
@@ -129,5 +135,3 @@ title = "Alpenküche"
   name       = "Contact"
   url        = "/contact/"
   weight     = 5
-
-
