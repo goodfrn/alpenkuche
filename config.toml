@@ -54,7 +54,7 @@ title = "Alpenküche"
     notAlternative = true
     
   [outputFormats.ServiceWorker]
-    mediaType = "application/javascript"
+    mediaType = "text/javascript"
     baseName = "sw"
     isPlainText = true
     notAlternative = true
