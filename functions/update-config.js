@@ -1771,44 +1771,63 @@ async function handleRequest(request) {
     return new Response('Admin temporarily unavailable', { status: 503 });
   }
   
-  // 📄 CONTENU NORMAL - logique existante
+  // 📄 CONTENU NORMAL - HYBRID: Cloudflare Pages + GitHub Pages fallback
+  const cloudflareUrl = "https://\${REPO}.pages.dev" + url.pathname;
   const githubUrl = "https://\${OWNER}.github.io/\${REPO}" + url.pathname;
-  
+
   try {
-    const response = await fetch(githubUrl, {
-      headers: {
-        'User-Agent': 'Cloudflare-Worker'
-      }
+    // 🚀 PRIORITÉ 1: Cloudflare Pages (ultra-rapide)
+    const cfResponse = await fetch(cloudflareUrl, {
+      headers: { 'User-Agent': 'Cloudflare-Worker-Hybrid' }
     });
     
-    if (response.ok) {
-      const newResponse = new Response(response.body, {
-        status: response.status,
-        statusText: response.statusText,
-        headers: response.headers
+    if (cfResponse.ok) {
+      return new Response(cfResponse.body, {
+        status: cfResponse.status,
+        statusText: cfResponse.statusText,
+        headers: {
+          ...cfResponse.headers,
+          'X-Powered-By': 'Cloudflare Pages (Hybrid)',
+          'Cache-Control': 'public, max-age=3600'
+        }
       });
-      
-      newResponse.headers.set('X-Powered-By', 'Cloudflare Workers + GitHub Actions');
-      newResponse.headers.set('Cache-Control', 'public, max-age=300');
-      
-      return newResponse;
     }
     
-    const indexResponse = await fetch("https://\${OWNER}.github.io/\${REPO}/");
-    return new Response(indexResponse.body, {
-      status: 200,
-      headers: {
-        'Content-Type': 'text/html',
-        'X-Powered-By': 'Cloudflare Workers + GitHub Actions'
-      }
+    // 🔄 FALLBACK: GitHub Pages si Cloudflare Pages fail
+    const ghResponse = await fetch(githubUrl, {
+      headers: { 'User-Agent': 'Cloudflare-Worker-Fallback' }
     });
     
+    if (ghResponse.ok) {
+      return new Response(ghResponse.body, {
+        status: ghResponse.status,
+        statusText: ghResponse.statusText,
+        headers: {
+          ...ghResponse.headers,
+          'X-Powered-By': 'GitHub Pages (Fallback)',
+          'Cache-Control': 'public, max-age=300'
+        }
+      });
+    }
+    
+    // 🏠 INDEX FALLBACK
+    const indexResponse = await fetch("https://\${REPO}.pages.dev/");
+    if (indexResponse.ok) {
+      return new Response(indexResponse.body, {
+        status: 200,
+        headers: {
+          'Content-Type': 'text/html',
+          'X-Powered-By': 'Cloudflare Pages (Index)'
+        }
+      });
+    }
+    
   } catch (error) {
-    return new Response('Site en cours de déploiement...', {
+    return new Response('Site temporairement indisponible', {
       status: 503,
       headers: {
         'Content-Type': 'text/plain',
-        'Retry-After': '60'
+        'Retry-After': '30'
       }
     });
   }
