@@ -29,6 +29,7 @@
   {{ with .Site.Params.analytics.plausibleDomain }}
     <script defer data-domain="{{ . }}" src="https://plausible.io/js/script.js"></script>
   {{ end }}
+  {{ partial "analytics.html" . }}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
   {{ $config := .Site.Data.config }}
