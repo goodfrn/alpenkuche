@@ -5,7 +5,7 @@
   "scripts": {
     "build:css": "tailwindcss --postcss -i assets/css/main.css -o assets/css/style.compiled.css --minify",
     "build:js": "esbuild assets/js/main.js --bundle --format=iife --target=es2017 --outfile=assets/js/main.compiled.js --minify",
-    "build": "npm run build:css && npm run build:js && hugo --gc --minify",
+    "build": "npm run build:css && npm run build:js && hugo --gc --minify --ignoreCache=false --quiet",
     "dev:css": "tailwindcss --postcss -i assets/css/main.css -o assets/css/style.compiled.css --watch",
     "dev:js": "esbuild assets/js/main.js --bundle --format=iife --target=es2017 --outfile=assets/js/main.compiled.js --watch",
     "dev": "npm run build:css && concurrently \"npm run dev:css\" \"npm run dev:js\" \"hugo server -D --disableFastRender\"",
