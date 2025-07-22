@@ -88,7 +88,7 @@ title = "Alpenküche"
   twitterHandle = "@TonCompteX"
 
 [params.analytics]
-  ga4 = ""
+  ga4 = "G-LWJQ9PRZKF"
 
 [params.ui]
   primary     = "#0f52ba"
