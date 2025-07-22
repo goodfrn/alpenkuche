@@ -1,4 +1,4 @@
-{{ if not site.IsServer }}
+{{ if not .Site.IsServer }}
   {{ with site.Params.analytics.ga4 }}
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
