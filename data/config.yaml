@@ -280,9 +280,6 @@ components:
   accessibility:
     skip_to_content: Aller au contenu principal
 
-technical:
-  analytics:
-    plausible_domain: recettes-blog-test.pages.dev
   default_images:
     hero: hero-bg.jpg
     chef: chef.jpg
