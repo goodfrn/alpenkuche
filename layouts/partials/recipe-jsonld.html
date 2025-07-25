@@ -29,19 +29,20 @@
     {{- end -}}
   ],
   "recipeIngredient": [
-    {{- range $i, $item := .Params.ingredients -}}
-      {{- if not (hasPrefix $item "===") -}}
-        {{- if $i }},{{ end }}"{{ $item }}"
+    {{- $first := true -}}
+    {{- range .Params.ingredients -}}
+      {{- if and (not (hasPrefix . "===")) (not (hasPrefix . "**")) -}}
+        {{- if not $first }},{{ end }}"{{ . }}"
+        {{- $first = false -}}
       {{- end -}}
     {{- end -}}
   ],
   "recipeInstructions": [
-    {{- $stepIndex := 0 -}}
-    {{- range $step := .Params.instructions -}}
-      {{- if not (hasPrefix $step "===") -}}
-        {{- if ne $stepIndex 0 }},{{ end }}
-        { "@type": "HowToStep", "text": "{{ $step }}" }
-        {{- $stepIndex = add $stepIndex 1 -}}
+    {{- $first := true -}}
+    {{- range .Params.instructions -}}
+      {{- if and (not (hasPrefix . "===")) (not (hasPrefix . "**")) -}}
+        {{- if not $first }},{{ end }}{ "@type": "HowToStep", "text": "{{ . }}" }
+        {{- $first = false -}}
       {{- end -}}
     {{- end -}}
   ],
