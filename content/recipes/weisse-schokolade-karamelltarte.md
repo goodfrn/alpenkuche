@@ -1,0 +1,98 @@
+---
+title: "Weiße Schokolade Karamelltarte"
+slug: "weisse-schokolade-karamelltarte"
+description: "Weiße Schokolade karamellisiert, Kakaomeringues, Schokoladenkuchenteig, karamellisierter Buchweizen, frische Clementinen. All dies in einem Boden aus Schokoladenteig, mit cremiger Füllung und knusprigen Elementen. Zitrusnoten vom Clementinenfilet und Zesten dazu. Schritte zum Backen, Trocknen, Kühlen. Unterschiedliche Texturen, süße und leicht herb-bittere Akzente. Variation mit Haselnussmehl und Vanille anstatt gewöhnlichem Mehl und Zimt statt Salz. Perfekt für 10 bis 12 Personen. Mehrstufige Zubereitung mit langen Wartezeiten. "
+metaDescription: "Weiße Schokolade Karamelltarte, süß und herb-bitter. Vielschichtige Texturen, cremig und knusprig vereint. Ideal für festliche Anlässe."
+ogDescription: "Die Weiße Schokolade Karamelltarte besticht durch ihre kontrastreichen Geschmäcker und Texturen. Perfekt für besondere Anlässe und Zusammenkünfte."
+focusKeyphrase: "Weiße Schokolade Karamelltarte"
+date: 2025-07-27
+draft: false
+image: weisse-schokolade-karamelltarte.png
+author: "Marlena"
+prepTime: PT1H10M
+cookTime: PT3H45M
+totalTime: PT4H55M
+recipeYield: "10 bis 12 Portionen"
+categories: ["Nachspeisen"]
+tags:
+- "Schokolade"
+- "Dessert"
+- "Festtag"
+keywords:
+- "Meringues"
+- "Clementinen"
+- "Buchweizen"
+breadcrumb: ["Home", "Recipes", "Nachspeisen"]
+nutrition: 
+ calories: "390"
+ fatContent: "24g"
+ carbohydrateContent: "35g"
+ proteinContent: "5g"
+ingredients:
+- "=== Kakaomeringues ==="
+- "112 g Zucker (ca. 1/2 Tasse plus 1 EL)"
+- "3 Eiweiß, zimmerwarm"
+- "12 ml (2 TL) gesiebtes Kakaopulver"
+- "=== Schokoladenboden ==="
+- "120 g vollkorn Haselnussmehl"
+- "20 g (2 EL) Kakaopulver"
+- "1,5 ml (1/2 TL) gemahlener Zimt"
+- "100 g weiche Butter"
+- "55 g Staubzucker"
+- "2 Eigelb, zimmerwarm"
+- "=== Karamellisierte weiße Schokoladencreme ==="
+- "230 g weiße Schokolade, grob gehackt"
+- "12 ml Blattgelatine in Pulverform"
+- "50 ml kaltes Wasser"
+- "480 ml 15% Sahne"
+- "=== Karamellisierter Buchweizen ==="
+- "18 ml (1 EL plus 1 TL) Honig"
+- "40 g gerösteter Buchweizen (Kasha)"
+- "=== Garnitur ==="
+- "4 frische Clementinen"
+instructions:
+- "=== Schokoladenmeringues ==="
+- "1. Backofen auf 90°C vorheizen. Backblech mit Backpapier auslegen."
+- "2. Zucker und Eiweiß in einem Wasserbad erhitzen, ständig rühren, bis sich der Zucker auflöst."
+- "3. Vom Herd nehmen, mit elektrischem Handmixer steif schlagen, bis die Masse kalt ist und Spitzen bildet."
+- "4. Kakaopulver vorsichtig unterheben. In Spritzbeutel mit glatter Tülle füllen."
+- "5. Kleine Meringues aufs Backblech spritzen. 2 Stunden backen bis fest und trocken, dann Backofen ausschalten. Tür mit Holzlöffel offen lassen. Weiter 2 Stunden trocknen. Komplett auskühlen lassen."
+- "=== Schokoladenboden ==="
+- "6. Mehl, Kakaopulver und Zimt mischen."
+- "7. Butter und Staubzucker mit Mixer cremig schlagen. Eigelb einzeln einarbeiten."
+- "8. Mehlmischung langsam dazugeben, mit Holzlöffel verrühren, bis Teig gleichmäßig ist."
+- "9. Teig in eine 23 cm Tarteform mit abnehmbarem Boden drücken, auch an den Rand. Mit Gabel Löcher stechen. 30 Minuten kühlen."
+- "10. Backofen auf 190°C vorheizen. Boden mit Backpapier belegen, getrocknete Hülsenfrüchte darauf verteilen."
+- "11. 16 Minuten blind backen. Papier und Hülsenfrüchte entfernen. Noch 3 Minuten backen. Komplett auskühlen lassen. Temperatur auf 115°C senken."
+- "=== Karamellisierte weiße Schokoladencreme ==="
+- "12. Weiße Schokolade auf einem mit Backpapier ausgelegten Backblech verteilen."
+- "13. 35 Minuten im Ofen karamellisieren, alle 8 Minuten umrühren, bis schokoladige Farbe."
+- "14. Gelatine auf Wasser streuen, 5 Minuten quellen lassen."
+- "15. Sahne langsam aufkochen, vom Herd nehmen. Über die karamellisierte Schokolade geben."
+- "16. Gelatine unterrühren bis aufgelöst. Mischung durch ein feines Sieb in die Tarte gießen."
+- "17. Kalt stellen für mindestens 2,5 Stunden oder bis Creme fest ist."
+- "=== Karamellisierter Buchweizen ==="
+- "18. Backblech mit Backpapier auslegen."
+- "19. Honig in einer Pfanne bei mittlerer Hitze 2 Minuten erhitzen."
+- "20. Buchweizen hinzufügen, schnell unter Rühren mit Honig überziehen."
+- "21. Auf Backblech verteilen und vollständig auskühlen lassen. Haltbar 1 Woche verschlossen bei Raumtemperatur."
+- "=== Garnitur und Zusammenbau ==="
+- "22. Clementinen mit einem Zestenreißer lange, dünne Streifen abschälen. Beiseitestellen."
+- "23. Clementinen filetieren: Schale dünn abziehen, weiße Haut entfernen, Filets zwischen den Häuten herausschneiden. Hautreste zerhacken und beiseitelegen."
+- "24. Vor dem Servieren: Tarte mit einigen Meringues, karamellisiertem Buchweizen, Zesten und Clementinenfilets garnieren."
+introduction: "Karamellisierte weiße Schokolade. Dunkler Kakaoboden, der leicht zimtig ist. Knackige Meringues mit eingeschäumtem Kakaopulver und hetzender Textur. Wartezeiten im Ofen, damit alles trocknet — zwei Stunden plus weitere Auskühlzeiten. Buchweizen, leicht karamellisiert und knackig, gibt einen unerwarteten Happen. Clementinen: Frisch, zitrusartig, werden geschält, filetiert, zerkleinert. Zesten für Aroma. Gelatine bildet die Creme, sorgt für Stabilität. Temperaturkontrolle mehrfach nötig. Handarbeit bei Meringue-Spritzen. Länger kochen, karamellisieren, dann mixen. Backtemperaturen variieren: Niedriges zuerst, dann höher. Teig dick aufdrücken, braucht Kühlung. Keine Nüsse. Stattdessen Haselnussmehl für Boden. Zimt statt Salz, sorgen für Aroma und Abwechslung. Die Schokolade selbst mit leichtem Röstaroma dank Backzeit. "
+ingredientsNote: "Haselnussmehl ersetzt das übliche Mehl für mehr Geschmack. Zimt liefert eine spannende Alternative zum Salz und passt hervorragend zu Schokolade und Clementinen. Kakaopulver mit etwas höherem Fettanteil für dunklere Farbe empfehlen. Weiße Schokolade grob hacken, damit sie gleichmäßig schmilzt. Blattgelatine gibt bessere Festigkeit als Pulver, deshalb etwas mehr Wasser zum Quellen nehmen. Honig langsam und sorgfältig erhitzen (nicht verbrennen), Buchweizen schnell einschwenken, sonst wird er zu hart. Clementinen nicht zu dick schälen, um Bitternis zu vermeiden. Offene Backofentür zum Trocknen unterstützt Meringue in der Textur. Innen kühl arbeiten, um übermäßiges Schmelzen von Butter und Ei zu vermeiden. "
+instructionsNote: "Meringue-Zubereitung in einem doppelwandigen Wasserbad, Zucker vollständig auflösen, dann kräftig schlagen. Zwischendurch vom Wasserbad nehmen, schaumig schlagen, wieder zurück. Für Schokoladenboden Butter zuerst sehr weich machen, Zucker vollständig einarbeiten, sonst ergibt sich kein homogener Teig. Beim Einbacken Hülsenfrüchte nicht zu lang verwenden, sonst können sie überhitzen. Karamellisieren der weißen Schokolade im Ofen erfordert häufiges Umrühren, macht die Farbe gleichmäßig. Sahne kurz nach dem Aufkochen verwenden, damit Gelatine sich gut verteilt. Creme durch Sieb gießen für feine Textur. Buchweizen beständig rühren, damit alle Körner mit Honig überzogen werden. Clementinen vor Garnieren vollständig abtropfen lassen, sonst wird die Tarte matschig. Tarte mindestens 2,5 Stunden kaltstellen, besser länger, damit die Creme fest wird. Vor dem Servieren erst garnieren, um Texturen zu erhalten."
+tips:
+- "Achte auf die Backtemperaturen. Zuerst 90°C, dann 190°C. Den Backofen dann auf 115°C senken. Timing ist wichtig. Meringues brauchen eine Weile, bis sie fest sind."
+- "Gelatine auf Wasser streuen. Lassen quellen. Sahne rasch aufkochen, dann über die Schokolade geben. Gut umrühren, damit alles gleichmäßig geschieht."
+- "Der Buchweizen muss schlau behandelt werden. Honig in die Pfanne, sorgfältig erhitzen. Dann schnell unterrühren. So bleibt er knackig und lecker."
+- "Wenn du die Tarte garniert hast, lasse sie stehen. Warte und lass sie trocknen. Meringues brauchen etwas Zeit, damit sie knusprig bleiben."
+- "Die Clementinen filetieren ist heikel. Schale entfernen, weisse Haut auch. Stücke sollten schön sein. Zesten sind für den zusätzlichen Zitrusgeschmack wichtig."
+faq:
+- "q: Wie lange ist die Tarte haltbar? a: Kühl gelagert bis zu einer Woche. Am besten frisch servieren. Achte auf die Creme."
+- "q: Kann ich die Schokolade variieren? a: Ja, dunkle Schokolade ist möglich. Anderer Geschmack aber. Süße wird sich ändern. Kräftiger von der Note."
+- "q: Was tun, wenn die Meringues nicht fest werden? a: Zu feuchte Luft? Oder zu heiß? Immer gut eine Mischung aus aller Temperatur regulieren."
+- "q: Muss ich die Tarte vorab zubereiten? a: Optimal. Längere Kühlzeit verbessert die Textur. Am besten einen Tag vor servieren, damit sie fest wird."
+
+---
