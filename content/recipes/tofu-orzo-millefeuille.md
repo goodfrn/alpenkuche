@@ -1,0 +1,93 @@
+---
+title: "Tofu-Orzo Millefeuille"
+slug: "tofu-orzo-millefeuille"
+description: "Ein geschichtetes Gericht mit geröstetem Orzo, mariniertem Gemüse und knusprig gebratenem Tofu. Frische Zitrusaromen verbunden mit einer Petersilien-Zitronen-Emulsion, die dem Gericht eine frische Note gibt. Vegetarisch, frei von Nüssen, Laktose und Eiern. Kleine Anpassungen in den Gemüsemengen und Zutaten sorgen für Abwechslung und Balance zwischen Texturen und Geschmack."
+metaDescription: "Tofu-Orzo Millefeuille. Ein leckeres, geschichtetes Rezept mit mariniertem Gemüse und knusprigem Tofu. Einfach selbst zu Hause zubereiten! "
+ogDescription: "Leckeres Tofu-Orzo Millefeuille Rezept. Gesund, vegetarisch und voller Aromen. Perfekt für dein nächstes Abendessen. "
+focusKeyphrase: "Tofu-Orzo Millefeuille"
+date: 2025-08-04
+draft: false
+image: tofu-orzo-millefeuille.png
+author: "Marlena"
+prepTime: PT30M
+cookTime: PT55M
+totalTime: PT1H25M
+recipeYield: "4 Portionen"
+categories: ["Hauptgerichte"]
+tags:
+- "Tofu"
+- "Vegetarisch"
+- "Mediterran"
+- "Gesund"
+keywords:
+- "Tofu"
+- "Orzo"
+- "vegetarisch"
+breadcrumb: ["Home", "Recipes", "Hauptgerichte"]
+nutrition: 
+ calories: "320"
+ fatContent: "15g"
+ carbohydrateContent: "30g"
+ proteinContent: "18g"
+ingredients:
+- "120 ml geröstetes Orzo"
+- "Saft und Abrieb von 1 Limette"
+- "20 ml Olivenöl"
+- "5 ml Dijon Senf"
+- "1 Knoblauchzehe, fein gehackt"
+- "1 rote Paprika, entkernt und fein gewürfelt"
+- "80 ml fein gehackte rote Zwiebel"
+- "100 ml fein gewürfelte Gurke ohne Schale und Kerne"
+- "50 ml gehackter frischer Basilikum"
+- "1 Block fester Tofu à 230 g, in 10 Scheiben geschnitten"
+- "Saft einer halben Limette"
+- "100 ml Kichererbsenmehl (alternativ Weizenmehl)"
+- "25 ml Butterschmalz oder neutrales Öl"
+- "Salz und frisch gemahlener schwarzer Pfeffer"
+- "=== Petersilien-Zitronen-Emulsion ==="
+- "200 ml fest verpackter Petersilie"
+- "25 ml Zitronensaft"
+- "90 ml Wasser"
+- "10 ml Dijon Senf"
+- "40 ml Olivenöl"
+instructions:
+- "=== Orzo rösten und kochen ==="
+- "Gitter eins nach mittlerer Schiene schieben. Ofen auf 175 °C vorheizen. Orzo auf Backblech ausbreiten, regelmäßig wenden, bis goldbraune Farbe sichtbar. Dauer sollte bei circa 35 Minuten liegen. Beim Riechen an der Pfanne erkenne ich das Röstaroma, es muss nussig duften ohne verbrannt zu schmecken."
+- "Im Topf gesalzenes Wasser zum Kochen bringen. Orzo al dente garen, etwa 9 bis 11 Minuten, nach Gefühl: noch bissfest, nicht matschig. Abgießen und abkühlen lassen, dabei offen ausbreiten, damit die Körner nicht zusammenkleben."
+- "=== Marinade und Gemüsemischung ==="
+- "Limettensaft und Abrieb, Olivenöl, Senf und fein gehackten Knoblauch in einer großen Schüssel verquirlen. Orzo und das gewürfelte Gemüse einrühren. Statt Tomate habe ich oft rote Paprika benutzt, gibt etwas Süße und Festigkeit, die im Gericht besser halten."
+- "Basilikum setzen wir als Ersatz für Koriander ein, der manchmal zu dominant wirkt. Gut würzen, kleine Kostprobe nehmen. Salzen und pfeffern ist wichtig, damit die Aromen nicht flach wirken."
+- "Bitte nicht zu früh salzen, sonst ziehen die Gemüsesäfte zu stark, und die Mischung wird wässrig."
+- "=== Petersilien-Zitronen-Emulsion herstellen ==="
+- "Im Mixer Petersilie, Zitronensaft, Wasser und Senf fein pürieren, bis eine cremige Konsistenz entsteht. Öl in dünnem Strahl hineingießen, weiter mixen und emulgieren, sodass keine Trennung entsteht."
+- "Salzen und pfeffern. Ich mag es, wenn die Emulsion eine leichte Säure hat – eine zusätzliche Prise Zitronenabrieb hebt das Aroma nochmal."
+- "=== Tofu vorbereiten und braten ==="
+- "Tofuscheiben mit Limettensaft bestreichen und abtropfen lassen. Anschließend in Kichererbsenmehl wenden. Es bildet eine dünne, knackige Kruste, die sehr befriedigend ist. Wer kein Kichererbsenmehl hat, nimmt normales Weizenmehl, umhüllt den Tofu allerdings nur leicht, überschüssiges Mehl abklopfen."
+- "Butterschmalz in einer gut erhitzten Pfanne verwenden. Butter gibt einen besseren Geschmack als normales Öl, aber dabei vorsichtig sein, dass sie nicht verbrennt."
+- "Tofu 3 Minuten pro Seite anbraten, bis die Oberfläche sättigend goldbraun ist. Farbe ist der beste Indikator, nicht nur die Zeit. Ein wenig Geduld, aber der Tofu darf innen noch leicht zart bleiben, sonst wird er trocken."
+- "Pfeffer und Salz direkt in der Pfanne verteilen. Nach dem Wenden in der Pfanne bleibt das Salz Teil der Kruste."
+- "=== Anrichten und servieren ==="
+- "Ein Wechselspiel. Teller aufbauen, drei Tofuscheiben schichten, dazwischen drei Esslöffel der Orzo-Gemüse-Mischung geben. Ich mag es nicht, wenn alles vermischt wird – die Schichtung gibt Textur."
+- "Mit der Petersilien-Zitronen-Emulsion sparsamen Tupfen setzen oder leicht darüber träufeln, je nach Geschmack."
+- "Am besten kurz vor dem Servieren anrichten, sonst zieht die Kruste des Tofus Feuchtigkeit und verliert Knusprigkeit."
+- "Küchenchef-Tipp: Wenn es schnell gehen soll, kann man den Tofu auch in der Pfanne im Ofen bei 160 °C 10 Minuten fertig backen, damit die Kruste nicht zu früh weich wird."
+- "Die frische Säure der Emulsion und Limette hält alles lebendig und verhindert Schlappheit bei den Gemüsen."
+- "Und noch was: Wer grüne Kirschtomaten hat, kann diese zum Orzo geben – sie bringen Frische mit, ohne das Gleichgewicht zu stören."
+- "Richtig gutes Gericht zum Vorbereiten, wenn Gäste kommen. Alle Komponenten getrennt halten, Tofu zuletzt braten, dann flitzen beim Servieren."
+introduction: "Gerösteter Orzo, mariniertes Gemüse und gebratener Tofu, Zwischenschichten wie ein Millefeuille, das war mein Versuch, Texturen und Aromen zu verbinden, ohne in übliche festgefahrene Pfade zu geraten. Das Rösten des Orzo bringt Luftigkeit, die Kombination aus Zitronen- und Limettenaromen gibt Frische. Die Petersilienemulsion sorgt für grüne Frische und eine leicht cremige Komponente. Mehr als ein Salat, weniger als ein schweres Gericht – immer mit einem Auge auf die Balance zwischen Knusprigkeit und Frische."
+ingredientsNote: "Kichererbsenmehl funktioniert für den Tofu besser als Weizenmehl, weil es eine knusprigere Hülle schafft. Wenn kein frischer Basilikum verfügbar ist, kann man getrockneten Oregano nehmen, gibt ein ganz anderes Profil. Die Limette bringt eine schärfere Säure als Zitrone, gerade für den Tofu optimal. Der Wechsel von Koriander zu Basilikum dient dazu, den Geschmack milder zu machen, falls man Koriander nicht mag. Rote Paprika statt Tomate sorgt für einen süßeren Biss und weniger Wassergehalt im Orzo-Mix. Olivenöl gerne kaltgepresst, das Aroma kommt dadurch besser durch."
+instructionsNote: "Orzo nicht zu früh rösten, sonst wird er trocken; die goldene Farbe ist mehr entscheidend als Zeit. Beim Kochen auf Bissfestigkeit achten. Die Marinade sollte aromatisch sein, dabei das Salz dosieren, um nicht zu viele Flüssigkeiten zu ziehen. Die Emulsion ist eine zitronige, frische Sauce, nicht zu dick, man muss filigran bleiben. Tofu in Mehl einzuwickeln und goldbraun braten, das ist der Knackpunkt, die Butter muss heiß genug sein, darf aber nicht verbrennen. Wenn die Pfanne raucht, Hitze sofort reduzieren. Beim Schichten auf dem Teller müssen die einzelnen Komponenten sichtbar bleiben; so erkennt man sofort Textur- und Geschmacksebenen. Ein bisschen Improvisation erlaubt, Gurkenstücke können kleiner geschnitten werden, wenn man eine feinere Textur bevorzugt."
+tips:
+- "Achte beim Rösten des Orzo darauf, dass er gleichmäßig bräunt. Zu viel Hitze führt zu Verbrennungen. Das Geräusch beim Rühren ist wichtig. Du musst es hören. Der Duft sollte knackig und aromatisch sein."
+- "Für die Marinade verwende frisches Gemüse. Rote Paprika ist vielseitig. Du kannst auch Zucchini verwenden; sie bringt mehr Saftigkeit. Sitzende Zeit kann reduziert werden, damit die Textur nicht matschig wird."
+- "Wende den Tofu gut im Kichererbsenmehl. Es bietet eine tolle Kruste. Bei der Hitze ist Geduld gefragt. Wenn die Pfanne raucht, höre auf. Prüfe die Farbe des Tofus, das ist entscheidend für die Knusprigkeit."
+- "Aus Erfahrung weiß ich, dass frisches Basilikum intensiver ist als getrockneter Oregano. Wenn du Basilikum nicht magst, dann nimm eine kleine Menge Thymian. Das ist am besten für die Balance."
+- "Die Emulsion sollte leicht sein. Wenn sie zu dick wird, fügen Sie mehr Wasser hinzu. Geh langsam vor, watch the texture closely. Eine Prise mehr Zitronenabrieb kann Wunder wirken."
+- "faq": ["q: Wie lange dauert das Rösten des Orzo? a: Normalerweise etwa 35 Minuten. Du kannst es sehen und riechen. Es sollte goldbraun und nussig duften."
+- "q: Kann ich den Tofu auch grillen? a: Ja, das funktioniert. Aber die Kruste wird anders. Vielleicht etwas weicher, das solltest Du im Kopf haben."
+- "q: Was tun, wenn der Tofu nicht knusprig wird? a: Mangelnde Hitze ist oft die Ursache. Prüfe auch die Dicke des Mehls. Es muss gleichmäßig verteilt werden."
+- "q: Wie lagere ich Reste? a: Luftdicht im Kühlschrank aufbewahren. Der Tofu kann weich werden, daher besser separat halten. So bleibt alles frisch und knackig."
+faq:
+- ""
+
+---
