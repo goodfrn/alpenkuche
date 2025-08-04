@@ -1,6 +1,6 @@
 ---
 title: "Apfel-Karamell Kuchen mit Ahornsirup"
-slug: "apfel-karamell-kuchen"
+slug: "apfel-karamell-kuchen" 
 description: "Umschichtkuchen mit karamellisierten Apfelscheiben, gewürzt mit Muskat und abgerundet durch Ahornsirup in der Füllung. Verwendet leicht geänderte Mengen, Hafermehl für besseren Biss und Mandelmilch als Flüssigkeit. Längere Backzeit, aber Achtung auf die Oberflächenfarbe. Eine clevere Schichttechnik sorgt dafür, dass der Kuchenteig nicht unter die Apfelscheiben kriecht. Der Kuchen wird nach dem Backen gewendet, sodass der karamellisierte Apfelbelag glänzt und aromatisch bleibt. Mit Sahne oder Joghurt servieren, besser als reine Süße. Echte Küchen-Deals: Wie man Apfelsässe reduziert und klebrige Karamellfallen vermeidet."
 metaDescription: "Apfel-Karamell Kuchen mit Ahornsirup – Ein saftiger Delikatesse mit Äpfeln und aromatischem Sirup; ideal für Kaffeepausen und gesellige Anlässe."
 ogDescription: "Genießen Sie unseren Apfel-Karamell Kuchen; köstlich, saftig mit aromatischen Äpfeln und feinem Ahornsirup; perfekt als Nachtisch oder zum Kaffee."
