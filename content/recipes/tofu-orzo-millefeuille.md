@@ -83,11 +83,9 @@ tips:
 - "Wende den Tofu gut im Kichererbsenmehl. Es bietet eine tolle Kruste. Bei der Hitze ist Geduld gefragt. Wenn die Pfanne raucht, höre auf. Prüfe die Farbe des Tofus, das ist entscheidend für die Knusprigkeit."
 - "Aus Erfahrung weiß ich, dass frisches Basilikum intensiver ist als getrockneter Oregano. Wenn du Basilikum nicht magst, dann nimm eine kleine Menge Thymian. Das ist am besten für die Balance."
 - "Die Emulsion sollte leicht sein. Wenn sie zu dick wird, fügen Sie mehr Wasser hinzu. Geh langsam vor, watch the texture closely. Eine Prise mehr Zitronenabrieb kann Wunder wirken."
-- "faq": ["q: Wie lange dauert das Rösten des Orzo? a: Normalerweise etwa 35 Minuten. Du kannst es sehen und riechen. Es sollte goldbraun und nussig duften."
+faq:
+- "q: Wie lange dauert das Rösten des Orzo? a: Normalerweise etwa 35 Minuten. Du kannst es sehen und riechen. Es sollte goldbraun und nussig duften."
 - "q: Kann ich den Tofu auch grillen? a: Ja, das funktioniert. Aber die Kruste wird anders. Vielleicht etwas weicher, das solltest Du im Kopf haben."
 - "q: Was tun, wenn der Tofu nicht knusprig wird? a: Mangelnde Hitze ist oft die Ursache. Prüfe auch die Dicke des Mehls. Es muss gleichmäßig verteilt werden."
 - "q: Wie lagere ich Reste? a: Luftdicht im Kühlschrank aufbewahren. Der Tofu kann weich werden, daher besser separat halten. So bleibt alles frisch und knackig."
-faq:
-- ""
-
 ---
