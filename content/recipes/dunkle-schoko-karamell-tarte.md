@@ -1,0 +1,96 @@
+---
+title: "Dunkle Schoko-Karamell-Tarte mit Meersalz"
+slug: "dunkle-schoko-karamell-tarte"
+description: "Eine tiefschwarze Schokoladentarte mit salzigem Karamell, knusprigem Kakao-Mürbteigboden. Mit dunkler Schokolade 65 % und Honigsirup für mehr Tiefe, verfeinert mit grobem Meersalz. Knuspriger, aber zugleich zarter Boden. Karamell, das beim Eingießen noch leicht wabert. Schokolade, die samtig glänzt. Ein Spiel zwischen süß und salzig, zwischen zart und knackig. Mehr als nur ein Dessert, ein kleines Drama im Mund, das Geduld verlangt – für den, der warten kann."
+metaDescription: "Dunkle Schoko-Karamell-Tarte mit Meersalz – Ein dramatisches Dessert, das süßes und salziges Spiel vereint und Geduld verlangt."
+ogDescription: "Entdecken Sie die Dunkle Schoko-Karamell-Tarte mit Meersalz; ein geschmackliches Drama, perfekt für Schokoladenliebhaber."
+focusKeyphrase: "Dunkle Schoko-Karamell-Tarte"
+date: 2025-08-05
+draft: false
+image: dunkle-schoko-karamell-tarte.png
+author: "Marlena"
+prepTime: PT40M
+cookTime: PT35M
+totalTime: PT1H10M
+recipeYield: "8 bis 10 Portionen"
+categories: ["Nachspeisen"]
+tags:
+- "Tarte"
+- "Süßspeise"
+- "Backen"
+keywords:
+- "Dessert"
+- "Schokolade"
+- "Tarte"
+breadcrumb: ["Home", "Recipes", "Nachspeisen"]
+nutrition: 
+ calories: "520"
+ fatContent: "35g"
+ carbohydrateContent: "50g"
+ proteinContent: "5g"
+ingredients:
+- "=== Boden ==="
+- "110 g Mehl, typ 405, ungesiebt"
+- "30 g Kakaopulver, ungesüßt"
+- "0,75 ml Salz (ca 1/8 TL)"
+- "70 g Butter, kalt und gewürfelt"
+- "35 g Puderzucker"
+- "1 Eigelb"
+- "=== Karamell ==="
+- "170 g Zucker"
+- "50 ml Wasser"
+- "50 ml Honigsirup (alternativ Maissirup)"
+- "110 ml Sahne 35 %"
+- "45 g Butter, kalt, gewürfelt"
+- "2,0 ml grobes Meersalz"
+- "=== Ganache ==="
+- "120 g dunkle Schokolade 65 %, grob gehackt"
+- "80 ml Sahne 35 %"
+- "35 g Butter, Raumtemperatur"
+- "Meersalzflocken zum Bestreuen"
+instructions:
+- "=== Boden ==="
+- "Mehl mit Kakao und Salz grob vermischen, unbedingt kalt arbeiten. Nie zu viel mischen, sonst wird Teig zäh. Butter in Stückchen und Puderzucker hinzugeben, rasch mit Händen oder Cutter kurz kleinreiben, dann das Eigelb im Schuss dazu, zügig einen festen Teig formen. Nicht kneten, nur zusammenhalten. Der Teig soll kühle Körnigkeit behalten, sonst weicht er aus. Kalt stellen, mindestens 40 Minuten. Das Kühlen ist entscheidend – sonst läuft Boden beim Backen auseinander."
+- "Backofen auf 175 °C Ober-/Unterhitze vorheizen, mittlere Schiene. Teig zwischen Backpapier auf 23 cm Tarteform verteilen, Seiten vorsichtig hochdrücken. Den Boden mit Gabel dicht einstechen – damit keine Luftblasen aufsteigen. Den Boden 25 Minuten kühlen, danach mit Backpapier und Hülsenfrüchten belegen. 18 Minuten blind backen, danach Hülsenfrüchte entfernen und weitere 3-4 Minuten ohne Papier fertig backen. Der Boden muss matt und trocken erscheinen, der Geruch erinnert an gerösteten Kakao – das ist das Zeichen."
+- "Der Boden nach dem Backen sofort aus der Form nehmen und auf einem Rost leicht abkühlen lassen, damit keine Feuchtigkeit staut."
+- "=== Karamell ==="
+- "In einem mittleren Topf Zucker, Wasser und Honigsirup zusammen erhitzen, dabei nicht umrühren, nur Topf schwenken, damit der Zucker sich gleichmäßig löst. Das Knistern und Aufsteigen der Blasen beobachten, sobald das Karamell ambra-kupferfarben wird, sofort vom Herd ziehen. Hier hilft Erfahrung: Das Farbenspiel geht schnell von Bernstein zu Verbrennen."
+- "Jetzt langsam die Sahne hinzufügen, Achtung: Es spritzt und zischt, unbedingt Schutz für Hände. Danach Butter in Würfeln einrühren, bis alles glatt. Den Topf nochmal auf den Herd und unter ständigem Rühren bis 110-115 °C erhitzen – sieht man am Zuckerdenthermometer oder mit Klarsicht: Das Karamell dickt sichtbar ein, wird glänzend und ummantelt den Löffel. Meersalz einrühren."
+- "Das heiße Karamell sofort auf den vorgebackenen Tarteboden gießen. Die Oberfläche wird zuerst glänzend und fließt langsam in die Ecken. Mindestens 1 Stunde kalt stellen, bis es komplett fest ist und keine Bewegung mehr zeigt."
+- "=== Ganache ==="
+- "Schokolade in eine Schüssel geben. Sahne und Butter in einem kleinen Topf zum Kochen bringen. Die heiße Mischung über die Schokolade gießen – nicht rühren. 60 Sekunden warten, erst dann vorsichtig mit einem Schneebesen durchrühren, bis sie glänzend und cremig ist."
+- "Ganache rasch über das gekühlte Karamell gießen. Die Oberfläche sollte glatt und gleichmäßig sein. Die Tarte nochmal mindestens 50 Minuten kühlen, bis die Ganache fest, aber noch elastisch ist."
+- "Vor dem Servieren mit groben Meersalzflocken bestreuen für den extra Kick – Kontrast für den Gaumen."
+- "Lagerung: Abgedeckt im Kühlschrank bis zu 5 Tage. Boden bleibt wenn gut gekühlt schön knusprig – bitte immer Raumtemperatur vor dem Essen."
+- "=== Tipps ==="
+- "Für echte Schokoladenfans: Statt 65 % dunkler Schokolade kann man 70 % nehmen, das macht intensiveren Geschmack, aber weniger süß."
+- "Karamell, das zu schnell abkühlt – wenn zu hart oder kristallisiert - einfach leicht erwärmen, aber nicht kochen, wieder geschmeidig machen."
+- "Kein Honigsirup? Einfach den Maissirup durch Ahornsirup ersetzen, gibt ein noch herberes Aroma."
+- "Sanftes Klopfen an die Form nach dem Gießen, läßt Luftblasen in Karamell oder Ganache verschwinden."
+- "Wenn Boden klebrig bleibt – dann war der Teig zu warm oder zu dünn ausgerollt. Kälter arbeiten, dicker ausrollen."
+- "Blindbacken mit Hülsenfrüchten verhindert den sprudelnden Teigrand, der sich gerne verzieht."
+- "Zum Einstechen verwenden Sie am besten eine Gabel mit Spitze nicht zu groß, der Boden soll viele kleine Löcher haben."
+- "Karamell immer frisch herstellen, in diesem Rezept macht die Frische viel aus. Wenn Karamell zu alt, verliert es seine glänzende Note."
+- "Beim Schmelzen der Ganache nicht rühren, weil sonst Klumpen entstehen können, sondern warten bis die Schokolade schmilzt durch die heiße Sahne!"
+- "Meersalz am Ende aufstreuen gibt den würzigen Crunch, aber nicht zu früh, sonst löst es sich auf."
+- "Spuren von Butter oder Sahne geben schmelzenden Karamell mehr Fülle – nicht sparen, aber kühl lagern!"
+- "Aufpassen mit der Backzeit, zu lang trocknet den Boden zu sehr aus, zu kurz hat weichen Rand."
+- "Bessere Ergebnisse ohne Thermometer: Das Karamell ist perfekt, wenn es beim Eintauchen kalt auf einem Löffel langsam dickflüssig abtropft, nicht zu flüssig, nicht hart."
+- "Ganache sollte eindicken und glänzen im Kühlschrank, ist das nicht der Fall, zu dünn oder Sahne ist nicht heiß genug."
+- "Am Ende ruhig etwas experimentieren mit Schokolade und Salz, jeder Ofen und jede Schokolade sind ein bisschen anders."
+introduction: "Manchmal braucht man eine Tarte, die nicht nur süß ist, sondern mit bitterer Schokolade und feinem Salz spielt. Karamell dazu ist nicht Herausforderung Nr. 1, sondern der perfekte Karamell, der die richtige Temperatur hat und nicht kristallisiert. Der Boden kraftvoll köstlich, weil Kakao drin steckt, aber doch zart und knusprig. Ich hab gelernt, dass frisch zubereitetes Karamell und das langsame Abkühlen der Ganache 90 % des Erfolgs ausmachen. Wenn man zu schnell arbeitet, läuft alles auseinander, wird matschig oder zu hart. Das hier ist für Leute mit Geduld und Lust auf komplexe Geschmacksmomente, kein schnelles Schlecht-weg. Zwischendrin riecht die Küche nach Schokolade und Karamell, da vergisst man oft auf die Zeit und bekommt Lust auf Mit-Esser."
+ingredientsNote: "Mehl und Kakaopulver unbedingt gesiebt nehmen, sonst fühlt sich der Boden mehlig an. Statt Maissirup kann man Ahorn- oder Reissirup nehmen, gibt anderes Aroma. Butter bitte kühl und nicht zu weich, sonst wird der Teig schwer zu verarbeiten. Für die Schokolade habe ich 65 % gewählt, weniger bitter, lässt sich besser schmelzen. Sahne frisch und kalt – je besser die Qualität desto sämiger die Ganache. Salz? Gut ist grobes Meersalz, nicht das feine Tafelsalz, macht echten Unterschied im Finish. Wenn keine Tarteform mit Hebeboden, die Form gut einfetten und vorsichtig beim Entfernen. Wer´s vegan will, Butter durch Pflanzenmargarine und Sahne durch Kokoscreme ersetzen, Geschmack wird anders – braucht mehr Finesse."
+instructionsNote: "Für den Boden unbedingt kalte Zutaten und schnelle Verarbeitung. Lange kneten trocken den Teig aus. Blindbacken immer mit Gewicht (Hülsenfrüchte, Reis), sonst blähen sich unerwünscht Blasen. Nach der Zeit sehen Sie, ob der Boden matt ist und nicht glänzend oder feucht. Karamell nicht umrühren nach dem ersten Kochen sonst kristallisiert Zucker. Beim Sahnezuschütten unbedingt vorsichtig, es zischt! Löffelprobe bei Karamell: dickt es langsam am Löffel ab, dann Temperatur passt. Ganache keine Hektik beim Rühren, erst 1 Minute warten. Wenn zu fest, Butter dazu, wenn zu dünn, kühle sie besser. Nach dem Gießen in die Form abgedeckt kühlen, Luftkontakt vermeiden. Geistige Vorbereitung: Geduld, nichts überstürzen, gerade beim Kühlen."
+tips:
+- "Kalte Zutaten sind entscheidend für den Teig, der muss gut knusprig werden. Ich hab's oft erlebt: Warmes Mehl macht alles zäh. Ab auf die Kühlschrankteller, mindestens 40 Minuten. Teig, der gut durchgekühlt wird, führt zu einem schönen, stabilen Boden."
+- "Achten Sie beim Karamell auf die Zubereitung; das Farbsignal ist wichtig. Ich hab viele Karamelle verbrannt. Wenn die Farbe von Bernstein blitzschnell zu dunkel wechselt, sofort vom Herd nehmen. Das Karamell muss weich und glänzend sein, nicht hart werden."
+- "Die Ganache ist nicht nur Schokolade; die Sahne muss kochen, aber nicht sprudelnd. Beim Mischen nicht sofort rühren. Erst 60 Sekunden warten, die Schokolade schmilzt gut und sorgt für eine cremige Konsistenz. Karamell und Sahne müssen frisch sein."
+- "Karamell sollte immer frisch zubereitet werden. Und wenn es doch zu fest ist? Einfach leicht erwärmen, nicht kochen, aber den Löffel tüchtig benetzen. Manchmal braucht's Mut zur Änderung. Jedes Mal, wenn ich Karamell mache, beobachte ich das Herzstück - die richtige Viskosität zeigt die Perfektion."
+- "Möchten Sie ein veganes Rezept? Ersetzen Sie Butter durch Margarine und die Sahne durch Kokoscreme. Wichtig ist, dass alles gut gekühlt ist, sonst wird die Konsistenz schwammig. Auch Ahornsirup kann Maissirup ersetzen. Der Geschmack verändert sich ganz klar, aber die meisten haben es genossen."
+faq:
+- "q: Wie lange kann ich die Tarte aufbewahren? a: Abgedeckt im Kühlschrank, maximal 5 Tage. Zu lange? Dann wird der Boden weich. Vor dem Servieren auf Raumtemperatur bringen, so bleibt der Boden knusprig."
+- "q: Was tun, wenn das Karamell kristallisiert? a: Erwärmen, aber nicht kochen. Dann wird es geschmeidig. Es war einmal der Fall, ich war untröstlich, als mein Karamell hart wurde. Jetzt weiß ich, Geduld und richtige Temperatur sind alles."
+- "q: Kann ich die Dunkle Schoko-Karamell-Tarte variieren? a: Sicher, ändern Sie den Zuckergehalt im Karamell. Oder probieren Sie die Schokolade mit 70 Prozent, das bringt zusätzlichen Charme. Die Tarte wird dadurch aufregender."
+- "q: Warum wird mein Teig klebrig? a: Zu warm gearbeitet. Kälter verarbeiten und dicker ausrollen. Klebrige Hände? Eine Freude, die man vermeiden kann. Ich erinnere mich, wie frustrierend das sein kann, aber auch hier gilt, die richtige Temperatur ist entscheidend."
+
+---
