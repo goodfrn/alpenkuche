@@ -1,0 +1,97 @@
+---
+title: "Billots an Camerises"
+slug: "billots-an-camerises"
+description: "Gefrorene Kamerisensirup reduziert mit Zucker, Wasser und Zitronensaft, zu einem aromatischen, hellroten Fruchtsirup verarbeitet. Ein luftiger Biskuit aus getrennten Eiern und gesiebtem Mehl, untergehoben in eine mit Sirup getränkte Eiweißmasse. Abgerundet mit einer Farce aus Kokosraspeln, geschlagener Sahne und Vanilleextrakt, die dem Ganzen eine exotisch-frische Note gibt. Zwei Biskuitrollen werden eingefüllt, eingerollt, mit Creme bestrichen und in violett gefärbter Kokosnuss gewälzt. 6 Portionen Dessert. Vegetarisch, ohne Nüsse. "
+metaDescription: "Entdecken Sie das Rezept für Billots an Camerises. Ein fruchtiges Dessert, das Sie in eine süße exotische Welt entführt."
+ogDescription: "Billots an Camerises. Ein fruchtiges Biskuit mit kamerisensirup und Kokosraspeln, ideal für besondere Anlässe."
+focusKeyphrase: "Billots an Camerises"
+date: 2025-08-11
+draft: false
+image: billots-an-camerises.png
+author: "Marlena"
+prepTime: PT1H20M
+cookTime: PT25M
+totalTime: PT1H45M
+recipeYield: "6 Portionen"
+categories: ["Nachspeisen"]
+tags:
+- "Dessert"
+- "Vegetarisch"
+- "Fruchtig"
+- "Festtagsessen"
+- "Schweizer Küche"
+keywords:
+- "Kamerisen Rezept"
+- "Sahne Biskuit"
+- "Fruchtige Nachspeise"
+breadcrumb: ["Home", "Recipes", "Nachspeisen"]
+nutrition: 
+ calories: "320"
+ fatContent: "18g"
+ carbohydrateContent: "30g"
+ proteinContent: "6g"
+ingredients:
+- "=== Kamerisen ==="
+- "210 g (1¼ Tassen) gefrorene Kamerisen"
+- "120 g (0,6 Tasse) Rohrzucker"
+- "40 ml (2½ EL) Wasser"
+- "35 ml (2½ EL) frisch gepresster Zitronensaft"
+- "=== Biskuit ==="
+- "5 Eier, getrennt"
+- "90 g (0,45 Tasse) feiner Zucker"
+- "130 g (0,9 Tasse) Vollkornmehl"
+- "=== Füllung ==="
+- "80 g Kokosraspel, ungesüßt"
+- "200 ml 35 % Sahne"
+- "30 g Puderzucker"
+- "5 ml (1 TL) Vanilleextrakt"
+- "=== Variante ==="
+- "Ersetze Zitronensaft durch Limettensaft für mehr Frische"
+- "Ersetze Kokosraspel zu Hälfte durch fein gemahlene Mandeln (optional)"
+instructions:
+- "=== Kamerisensirup ==="
+- "Gefrorene Kamerisen mit Zucker und Wasser in einen Topf. Mittel-hohe Hitze. Ständig rühren, bis sirupartige Bläschen erste Zeichen geben - nicht schrubben, nur leicht umrühren. Kurz aufkochen, dann sofort vom Herd. Keine lange Reduktion, sonst bitter."
+- "Sieb bereithalten: Früchte grob durch ein feines Sieb streichen, ohne zu zerdrücken. Klarer Sirup auffangen. Auf 250 ml auffüllen mit Wasser. (Bei zu dickem Sirup lieber verdünnen, sonst zäh und klebrig.)"
+- "Reste von Beeren und Sirup zurück in den Topf, Limettensaft hinzufügen. Auf kleine Blasen reduzieren, leichter Dampfaufstieg, 3-4 Minuten. Nicht einkochen lassen, die Säure soll lebhaft bleiben. Beiseite und abkühlen lassen."
+- "=== Biskuitteig ==="
+- "Ofen 185 °C vorheizen und mittlere Schiene einstellen. Backblech (ca. 40 x 30 cm) mit Backpapier auslegen, überstehenden Rand an 2 Seiten lassen (Hantieren leichter)."
+- "Eiweiß mit 20 ml Zucker langsam anschlagen. Sobald Wellen entstehen, restlichen Zucker in dünnem Strahl einrieseln lassen, auf höchster Stufe steif schlagen. Nicht zu trocken, glänzende Spitzen."
+- "Bei geringer Geschwindigkeit langsam 180 ml Sirup einlaufen lassen, so bindet es besser. Schnell die Eigelbe unterheben – vorsichtig, sonst fällt das Volumen zusammen."
+- "Mehl unbedingt sieben und mit einem Schneebesen locker unterheben. Nicht rühren! Sanft mit einem Teigspatel falten – die Luft muss erhalten bleiben, sonst schwere Teigmasse."
+- "Sofort auf das Backblech streichen, gleiche Dicke. Teig ist fast flüssig, nicht unruhig bewegen. Im Ofen etwa 14 Minuten, bis Ränder goldbraun sind und Oberfläche leicht federt. Stäbchenprobe macht hier wenig Sinn, die leichte Elastizität ist der Schlüssel."
+- "Aus dem Ofen, 8 Minuten auskühlen lassen. Klinge eines Messers vorsichtig rundherum fahren, dann den Backpapierrand anheben und den Biskuit auf ein anderes Papier stürzen. Backpapier des Bodens vorsichtig abziehen, ganz auskühlen lassen (mind. 25 Minuten)."
+- "Vor Verarbeitung ruhige, glatte Seite nach oben drehen. Die länglichen Ränder der Rolle mit einem scharfen Messer entfernen, unregelmäßige Stellen wegschneiden – für saubere Endform."
+- "=== Füllung und Montage ==="
+- "Kokosraspel und (Rest)Sirup in einer flachen Schale vermischen. Farbe der Kokosnuss soll kräftig lavendel-farbend sein, sonst Sirup noch 1-2 Minuten ziehen lassen, umrühren. Kokos saugt Flüssigkeit gut; zu trocken wirkt’s fade."
+- "Sahne mit Puderzucker und Vanille steif schlagen – unbedingt kühlen, damit die Konsistenz hält. Nicht überschlagen, sonst gibt’s Butter."
+- "Sahne dreiviertel vom Gesamtvolumen auf dem Biskuit glatt verstreichen. Sirup erst dünn, sonst matschig. Dann Creme zügig und gleichmäßig."
+- "Biskuit quer halbieren. Von der langen Seite eng, aber sanft einrollen – zwei Rollen formen. Creme darf nicht zu dick aufgetragen sein, sonst bricht die Rolle."
+- "Rollen komplett mit restlicher Sahne bestreichen, dabei mit einem Spatel über die Enden wischen."
+- "Rollen in die farbige Kokosraspelschicht drücken, mit leichtem Druck und drehen, sodass jede Fläche bedeckt ist. Erlangt auch die nötige Textur und sieht rustikal aus."
+- "Kühl stellen, mindestens 1 Stunde, besser länger. Die Struktur braucht Zeit zum Setzen."
+- "Zum Servieren jede Rolle in 3 Stücke schneiden. Aufbewahrung luftdicht, 2-3 Tage im Kühlschrank – sonst Kokosfeuchtigkeit leidet und Creme wird wässrig."
+- "=== Tipps und Tricks ==="
+- "Falls Eischnee zusammenfällt, Zucker falsch oder zu schnell zugegeben, noch ein Spritzer Zitronensaft hilft, Volumen zurückzubekommen."
+- "Mehl durch Dinkelmehl ersetzt für nussigen Geschmack, aber Biskuit wird brüchiger – vorsichtig falten."
+- "Wer keine Kokosraspel mag, mischt feines Kokosmehl mit etwas geriebener weißer Schokolade, Geschmack bleibt, Textur feiner."
+- "Nicht zu viel Sahne aufsprühen, sonst wird Rolle zu schwer und reisst beim Schneiden."
+- "Biskuit auskühlen lassen ist entscheidend, sonst Schichten vermischen sich, Ergebnis bleibt matschig."
+- "Bessere Stabilität erhält man durch Kühlung zwischen den Arbeitsschritten."
+- "Sirup immer probieren, zu süß → Wasser hinzufügen. Zu sauer → Zucker in kleinen Portionen nachrühren."
+- "Zitronen- oder Limettensaft beeinflussen Farbe und Geschmack stark, also nicht weglassen."
+introduction: "Ein Biskuit, der dank gefrorener Kamerisen einen tiefen, herben Fruchtgeschmack erhält, der sich mit der leichten Säure von Zitronen- oder besser Limettensaft ausbalanciert. Die Kombination aus lockerem Eiweiß, sanften Eigelben und zartem Mehl ist nicht trivial; ich musste lange testen, wie viel Sirup das Biskuit aufnehmen darf, ohne zu matschig zu werden. Die Kokosraspel sorgen für Struktur und exotisches Aroma, mit einer dezenten Vanillenote, die das Ganze stimmig macht. Rollen statt Kuchen ist eine persönliche Vorliebe – leichte Schnitttechnik verbessert das Gesamterlebnis. Nicht selten schaffe ich es nur nach mehreren Versuchen, dass die Textur stimmt, ohne klebrige oder zu trockene Stellen. Das Endergebnis ist quirlig, aromatisch und verschmilzt in Geschmack und Textur – ein kleines Fest der Sinne."
+ingredientsNote: "Gefrorene Kamerisen bringen eine dankbare Säure, wenn frische Beeren nicht zu bekommen sind. Idealerweise Rohrzucker, der milder ist als weißer Zucker. Zitronen- gegen Limettensaft tauschen gibt Frische und Aroma. Beim Mehl setze ich partiell auf Vollkorn, weil es mehr Aroma bringt und trotzdem locker bleibt, solange man nicht zu wild durchrührt. Für Schlagsahne natürlich eine Creme mit mindestens 35% Fettanteil; weniger geht, aber es wird schnell instabil. Vanilleextrakt, selbstgemacht oder gekauft, gibt Tiefe. Kokosraspel am besten frisch und fein, bei längerer Lagerung schmecken sie alt. Wenn keine Kokosraspeln da sind, Mandeln grob mahlen ist eine Möglichkeit – aber auf Volumen achten. Zucker in Puderform passt besser in die Sahne als Kristallzucker, da er schneller auflöst und die Creme seidig macht."
+instructionsNote: "Das Reduzieren des Sirups braucht Aufmerksamkeit: Nicht zu lange, sonst wird er bitter oder kristallisiert, zu kurz und die Säure fehlt. Beim Biskuit Eischnee ist der Drehpunkt, wie der Zucker zugegeben wird: langsamer Beginn, dann gestaffeltes Hinzufügen. Sobald das Mehl hineinkommt, sehr schonend falten, Klumpen riskieren sonst Durchhängen. Backzeit nicht zu fest an der Uhr orientieren, lieber den Biskuit anfassen: er muss leicht federnd sein. Rollen gelingt am besten, wenn der Biskuit vollständig ausgekühlt ist und die Cremeschicht nicht zu dick. Für die Füllung die Sahne nur bis mittelhohe Spitzen schlagen, sonst kann die Struktur bröckeln. Kokosraspeln rechtzeitig mit Sirup vermischen, damit Farbe und Geschmack sich voll entfalten. Rollen im Kühlschrank fest werden lassen, die geschmackliche Entwicklung geht dort weiter. Bei der Lagerung auf Feuchtigkeit achten, sonst schmeckt alles schnell etwas fade oder matschig."
+tips:
+- "Zucker richtig hinzufügen. Eischnee wird erst weich geschlagen. Dann in dünnem Strahl Zucker einrieseln lassen. Weiche Spitzen wichtig. Zu schnell geht nicht."
+- "Sirup reduzieren erfordert Geduld. Zu lange und es wird bitter. Zu kurz und die Säure fehlt. Also immer probieren. Bei entsprechendem Aroma aufhören."
+- "Biskuit gleichmäßig auf dem Blech verteilen. Dünn, aber gleichmäßig. Dann bleibt der Biskuit locker und wird goldbraun. Keinen zu flüssigen Teig."
+- "Füllung nicht zu dick auftragen. Äußerst dünn mit Sirup bestreichen. Dann die Sahne gleichmäßig verteilen. Sonst bricht die Rolle leicht."
+- "Klarheit beim Kürzen der Biskuitkanten ist nötig. Besser saubere Enden. Scharfe Klinge nutzen. Für gleichmäßige Form der Rolle."
+faq:
+- "q: Warum wird die Rolle nicht fest? a: Zu dicke Cremeschicht oder zu warm gearbeitet. Kühlen hilft. Mindestens eine Stunde."
+- "q: Offensive Kokosraspeln? a: Frisch sind sie besser. Alte verlieren Geschmack. Alternativen sind feines Kokosmehl oder gemahlene Mandeln."
+- "q: Was tun mit zu süßem Sirup? a: Direkt Wasser hinzufügen. Dann probieren. Schrittweise anpassen, nicht auf einmal."
+- "q: Wie bewahre ich die Rolle auf? a: Luftdicht im Kühlschrank halten. 2-3 Tage ist gut. Zu feuchtes Klima macht alles matschig."
+
+---
