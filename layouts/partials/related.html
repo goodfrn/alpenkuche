@@ -25,8 +25,8 @@
               {{ $img := resources.Get (printf "images/%s" .) }}
               {{ if $img }}
                 {{/* Petites vignettes optimisées */}}
-                {{ $webp := $img.Fill "80x80 q80 webp" }}
-                {{ $fallback := $img.Fill "80x80 q85" }}
+                {{ $webp := $img.Fill "80x80 q65 webp" }}
+                {{ $fallback := $img.Fill "80x80 q70" }}
                 
                 <picture>
                   <source srcset="{{ $webp.RelPermalink }}" type="image/webp">

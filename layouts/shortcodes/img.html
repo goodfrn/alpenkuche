@@ -8,7 +8,7 @@
 {{- $orig := resources.Get (printf "images/%s" $src) -}}
 {{- $avif := $orig | images.Fill "800x600 q75" | images.Convert "avif" | images.Fingerprint -}}
 {{- $webp := $orig | images.Fill "800x600 q75" | images.Convert "webp" | images.Fingerprint -}}
-{{- $jpeg := $orig | images.Fill "800x600 q80" | images.Fingerprint -}}
+{{- $jpeg := $orig | images.Fill "800x600 q65" | images.Fingerprint -}}
 
 <picture>
   <source type="image/avif" srcset="{{ $avif.RelPermalink }}">

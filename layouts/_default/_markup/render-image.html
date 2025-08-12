@@ -5,9 +5,9 @@
 
 {{ if $img }}
   {{/* Image trouvée dans assets */}} 
-  {{ $webp := $img.Resize "1200x webp q85" }}
-  {{ $avif := $img.Resize "1200x avif q80" }}
-  {{ $fallback := $img.Resize "1200x q85" }}
+  {{ $webp := $img.Resize "1200x webp q70" }}
+  {{ $avif := $img.Resize "1200x avif q65" }}
+  {{ $fallback := $img.Resize "1200x q70" }}
   
   <picture>
     <source srcset="{{ $avif.RelPermalink }}" 
