@@ -1,0 +1,97 @@
+---
+title: "Gewürzte Schokoladen-Sablés"
+slug: "gewuerzte-schokoladen-sables"
+description: "Sablés mit Vanilleteig, gefüllt mit würzigem Schokoladen-Crumble und einer Haselnuss-Schoko-Creme. Knusprig, mürbe, mit einem Hauch Zimt, Ingwer und Cayenne. Ca. 6 Dutzend Stück. Die Teigmenge wurde leicht reduziert, Mehlsorten teilweise ersetzt, Gewürze angepasst. Perfekt zum Kaffee oder Tee, auch gut lagerfähig. Traditionell französisch, aber mit persönlicher Note verändert."
+metaDescription: "Gewürzte Schokoladen-Sablés sind köstliche Plätzchen mit würzigem Schokoladen-Crumble, perfekt für Kaffeepausen"
+ogDescription: "Probieren Sie diese unwiderstehlichen gewürzten Schokoladen-Sablés, die beim Backen herrlich duften und zum Kaffee passen"
+focusKeyphrase: "Gewürzte Schokoladen-Sablés"
+date: 2025-08-16
+draft: false
+image: gewuerzte-schokoladen-sables.png
+author: "Marlena"
+prepTime: PT55M
+cookTime: PT12M
+totalTime: PT1H10M
+recipeYield: "6 Dutzend circa"
+categories: ["Nachspeisen"]
+tags:
+- "französisch"
+- "Plätzchen"
+- "Backen"
+- "Schokolade"
+keywords:
+- "Sablés"
+- "Schokolade"
+- "Kekse"
+breadcrumb: ["Home", "Recipes", "Nachspeisen"]
+nutrition: 
+ calories: "130"
+ fatContent: "7g"
+ carbohydrateContent: "16g"
+ proteinContent: "2g"
+ingredients:
+- "=== Vanilleteig ==="
+- "200 g Butter ungesalzen, weich"
+- "90 g Puderzucker"
+- "1 Ei"
+- "5 ml Vanilleextrakt"
+- "330 g halbgriffiges Weizenmehl (ersetzt einen Teil des Allzweckmehls für mehr Knusprigkeit)"
+- "2,5 ml Salz"
+- "=== Würziges Schokoladen-Crumble ==="
+- "85 g Rohrohrzucker (etwas karamelliger als brauner Zucker)"
+- "55 g Allzweckmehl"
+- "50 g Butter ungesalzen, weich"
+- "30 g Kakaopulver (dunkel entölt)"
+- "12 ml Zimt (etwas mehr als 2 TL)"
+- "5 ml gemahlener Ingwer"
+- "1 ml gemahlene Muskatnuss (statt Cayenne für milde Würze)"
+- "1 ml Salz"
+- "Abrieb einer Bio-Zitrone (instead of Orange)"
+- "=== Füllung ==="
+- "60 ml Haselnuss-Schokoladen-Creme (Nutella oder vergleichbar)"
+instructions:
+- "=== Vanilleteig zubereiten ==="
+- "Butter und Puderzucker zuerst schaumig schlagen, bis die Mischung heller wird und feine Bläschen bildet. Das Ei und Vanilleextrakt zugeben, langsam mischen. Wenn zu schnell, gerinnt die Masse, also vorsichtig. Danach Mehl und Salz auf kleinster Stufe untermengen, nur bis der Teig gerade zusammenkommt. Nicht zu viel kneten, sonst wird der Teig zäh."
+- "Teig vierteln, jedes Stück mit möglichst wenig Mehl zu einem groben Quadrat formen, in Frischhaltefolie wickeln und mindestens 50 Minuten in den Kühlschrank legen. Kälteschock zwingt das Gluten zur Ruhe, sonst reissen die Stücke beim Ausrollen."
+- "=== Schokoladen-Crumble mischen ==="
+- "Alle Zutaten in eine Schüssel geben. Mit elektrischem Handmixer auf niedriger Stufe verrühren, bis eine krümelige Struktur entsteht. Wichtig: Nicht gleich vollständig vermischen, Klümpchen geben Textur. Zimmertemperatur reicht, abdecken, damit keine Kruste entsteht."
+- "=== Zusammensetzen und rollen ==="
+- "Ein Teigquadrat leicht mit Mehl bestäuben. Vorsichtig zu einem circa 18-20 cm Quadrat ausrollen, nicht dünner als 3 mm. Zu dünn - reisst, zu dick - wird schwer zu rollen."
+- "Teig auf Backpapier legen, 15 ml (1 Esslöffel) Haselnuss-Schoko-Creme aufstreichen, dabei oben einen Rand von ca. 2 cm frei lassen."
+- "Ein Viertel des Crumbles (ungefähr 50-55 g) gleichmäßig auf der Schoko-Creme verteilen und leicht andrücken. Zu fest pressen verhindert schöne Krümelstruktur, zu locker fällt beim Rollen auseinander. Hier habe ich gelernt: Ein guter Mittelweg ist entscheidend."
+- "Von unten beginnend den Teig mit Hilfe des Backpapiers langsam und gleichmäßig aufrollen, dabei den Crumble einschließen. Risse sind kein Problem; falls welche entstehen, lege ich die Teigenden einfach mit dem Finger zusammen oder wachse sie minimal mit Wasser ein."
+- "Die Rolle straff und dicht in Frischhaltefolie wickeln, leicht rollen, um eine gleichmäßige, runde Form zu formen. Mindestens 1 Stunde kühlen oder bis fest genug zum Schneiden. Man kann sie auch einfrieren, für längere Aufbewahrung praktisch."
+- "=== Backofen vorheizen und vorbereiten ==="
+- "Backofen auf 175 Grad Celsius (Ober-/Unterhitze) vorheizen, mittlere Schiene. Backblech mit Backpapier oder Silikonmatte auslegen."
+- "=== Schneiden und Backen ==="
+- "Rolle auswickeln, vorsichtig mit einem sehr scharfen Messer in etwa 1 cm dicke Scheiben schneiden. Messer zwischendurch kurz abwischen, damit keine Krümel oder Schoko-Creme kleben bleiben."
+- "Die Scheiben mit etwas Abstand auf das Blech legen. Nicht zu eng, sie gehen leicht auf oder verbreitern sich."
+- "10-14 Minuten backen, bis die Unterseite goldgelb schimmert und die Seiten minimal gebräunt sind. Die Oberfläche bleibt meist eher matt. Nach 10 Minuten immer mal mit dem Auge kontrollieren, Backofen variieren stark."
+- "Blech aus dem Ofen nehmen, kurz abkühlen lassen. Die Kekse sollten beim Anfassen noch leicht weich sein, härten beim Auskühlen noch nach."
+- "In luftdichten Behältern bei Raumtemperatur 3-4 Tage haltbar. Für längere Lagerung in Gefrierbeutel – so bleiben sie frisch und schnappen nicht an Feuchtigkeit."
+- "=== Tipps und Alternativen ==="
+- "Butter ersetzt durch gleiche Menge Pflanzenmargarine für vegane Option, dabei etwas mehr Puderzucker, da Margarine süßer ist."
+- "Zitronenabrieb kann durch limettenabrieb oder gemahlene Kardamom ersetzt werden."
+- "Muskat statt Cayenne, milder, passt gut zu Schokolade - aber wer Schärfe mag, etwas Cayenne rein."
+- "Mehl halbieren mit Dinkelmehl für nussigeren Geschmack. Die Teigruhe verlängern, sonst klebt der Dinkel mehr."
+- "Beim Rollen: Wenn die Teigrollen Risse zeigen, einfach leicht anwärmen oder mit nassen Fingern glattstreichen."
+- "Wenn die Plätzchen zu schmal schneiden, werden sie trocken; zu dick, roh in der Mitte."
+- "Kühle den Teig sehr gut, besonders im Sommer, sonst schlecht zu verarbeiten."
+- "Der Crumble gibt nicht nur Geschmack, sondern auch schöne Textur und bissige Überraschungen in den Sablés."
+- "Abschließend empfehle ich, stets den Backofen visuell und mit Fingerdruck am Keksrand zu prüfen – das ist besser als stur Zeit."
+introduction: "Backen mit würzigem Schokoladen-Crumble? Klingt ungewöhnlich, aber bringt Tiefe und Textur, die man bei Standart-Sablés nicht hat. Ich habe oft probiert, die Balance zwischen mürbem Vanilleteig und knusprigem Herz hinzubekommen. Deshalb weniger Zucker, mehr Zimt und das Muskat statt Cayenne – so passt die Schokoladenfüllung besser zum Teig. Das Rollen erfordert ein bisschen Geduld, gerade wenn man Risse vermeidet. Ein bisschen Übung und man spürt, wann der Teig die richtige Spannung hat. Das Zesten der Zitrone statt Orange gibt Frische. Beim Backen gilt: Behalten die Farbe, sind außen fest und innen noch zart – dann raus. Normale Backzeiten immer nur Richtwerte, auf Textur achten. So gelingen mürbe Sablés mit aromatischem Crunch für Kaffee oder Tee."
+ingredientsNote: "Butter muss weich sein, sonst lässt sie sich nicht richtig aufschlagen; Margarine funktioniert, aber Geschmack verändert sich leicht. Halbgriffiges Mehl für besseren Biss, aber normales Mehl geht auch. Rohrohrzucker für besseren Karamellgeschmack, stattdessen brauner Zucker geht auch. Der Crumble ist zentral: nicht zu fein vermischen, Klümpchen sollen bleiben. Danach gut kühlen, sonst verteilt sich der Crumble nicht beim Rollen. Essenziell: Frischhaltefolie gut und luftdicht, sonst werden die Rollen spröde oder brechen beim Schneiden. Tipp: Teig vor dem Ausrollen nochmals kalt stellen, dann leichter und weniger klebrig. Ersatz der Orange durch Zitrone bringt frische leichte Säure statt Süße. Haselnuss-Schoko-Creme nach Geschmack – auch Mandelcreme oder reine Schokolade dünn geschmolzen möglich. Meersalz statt normalem Salz harmoniert besser mit Süße der Creme. Muskat verleiht, verbessert Zimt-Ingwer Mischung, kann Cayenne ersetzen, wenn man keine Schärfe will."
+instructionsNote: "Zuerst sauberes, leicht kühles Gerät für Butter und Zucker verwenden. Schaumig schlagen ist nicht einfach – dauert, bis die Mischung heller wird und sich Volumen bildet. Nicht übers Knie brechen, schlechte Schaumbildung macht matschigen Teig. Ei langsam einrühren, sonst gerinnt Masse. Mehlintegration vorsichtig, alles zart greifen. Den Teig nur so lange kneten, bis er anfängt zu halten, sonst klebt und wird zäh. Rollen der Teigplatten am besten auf gut bemehltem Papier – ohne Papier könnte kleben. Beim Auftragen der Creme den Rand frei lassen, hilft beim Rolle verschließen. Crumble punktuell und nicht zu gleichmäßig verteilen, sonst bleibt der Crunch beim Backen aus. Beim Rollen darauf achten, nicht zu fest, sonst zerbrechen die Sablés, zu locker, fallen auseinander. Frischhaltefolienwickel sorgt für Feuchtigkeit und Form. Nach der Kühlung dünn schneiden, sauberes scharfes Messer nehmen, ggf. mit heißem Wasser abwischen um braune Flecken zu vermeiden. Beim Backen auf die Unterseite achten – sie zeigt Färbung als erste Backgradwarnung. Nach dem Backen kurz auf dem Blech lassen, nicht sofort bewegen – sonst brechen die Sablés leicht. Abkühlen unbedingt bei Raumtemperatur, im Kühlschrank werden sie zu hart und verlieren Aroma. Diese Schritte kann man nicht überspringen, weil das Ergebnis sonst nicht stimmt."
+tips:
+- "Butter muss weich sein. Ansonsten wird die Mischung schwer. Schlage sie gut, bis sie schaumig ist. Der Teig klebt sonst mehr. Weichheit ist entscheidend für gute Sablés. Alternativ kann Pflanzenmargarine verwendet werden. Sie verändert den Geschmack etwas, aber geht auch."
+- "Wenn dein Teig beim Ausrollen reißt, kühle ihn erneut. Ein kalter Teig ist einfacher zu handhaben. Teigplatten müssen gut gekühlt werden, um die perfekte Konsistenz zu erreichen. Sie werden durch Kälteschock geschmeidig. Wenn die Temperaturen steigen, auch im Sommer aufpassen."
+- "Die Zutaten genau abwiegen. Klümpchen im Crumble wichtig für den Biss. Zu grob, funktioniert nicht; zu fein, dann fehlt der Crunch. Zitrone statt Orange für Frische. Das Ausrollen braucht Übung. Ausrollen auf Backpapier erleichtert das Handhaben."
+- "Halbgriffiges Weizenmehl sorgt für Knusprigkeit. Falls alternative Mehle verwendet werden, achte auf die Konsistenz. Dinkelmehl könnte mehr Feuchtigkeit binden. Das Verhältnis zu anderen Mehlsorten anpassen. Mehlmenge verändert die Textur."
+- "Beim Backen unbedingt die Farbe beachten. Sieht die Unterseite goldbraun aus, dann sind sie bereit. Nach dem Backen leicht abkühlen lassen. Gehen die Kekse gleich nach dem Backen auf das Gitter, es kann schnell zu Brüchen kommen. Langsame Umstellung ist wichtig."
+faq:
+- "q: Wie lange sind die Sablés haltbar? a: Bei Raumtemperatur in luftdichten Behältern 3-4 Tage. Im Gefrierbeutel, länger frisch. Feuchtigkeit meiden. Einfrieren praktisch."
+- "q: Kann ich etwas im Rezept ersetzen? a: Ja, Butter durch Margarine. Recht unkompliziert; sie schmecken trotzdem gut. Zitronenabrieb funktioniert auch mit Limette. Muskat statt Cayenne - milde Variante."
+- "q: Was mache ich, wenn der Teig klebt? a: Mehr Mehl hinzufügen. Teig gut kühlen. Kurz in den Kühlschrank legen, einfache Lösung. Dann ist das Rollen einfacher, weniger klebrig. Wartezeit ist wichtig."
+- "q: Kann ich die Gewürze ändern? a: Natürlich, experimentiere mit deinem Geschmack. Zimt und Ingwer kann variieren. Wer mehr Schärfe will, Cayenne einfügen. Vor dem Backen prüfen; anpassen je nach Vorliebe."
+
+---
