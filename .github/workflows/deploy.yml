@@ -59,22 +59,12 @@ jobs:
           hugo --minify
           echo "✅ Build complete!"
           
-      - name: Optimize CSS with PurgeCSS
-        run: |
-          npm install -g purgecss
-          echo "🎨 Optimizing CSS..."
-          purgecss --css public/main.processed.*.css --content 'public/**/*.html' --output purged.css
-          cp purged.css public/main.processed.*.css
-          echo "✅ CSS optimized!"
-          
       - name: Debug cache after build
         run: |
           echo "📊 Resources folder after build:"
           ls -la resources/_gen/ 2>/dev/null || echo "No resources generated"
           echo "Number of generated images:"
           find resources/_gen -name "*.webp" 2>/dev/null | wc -l || echo "0"
-          echo "CSS size after optimization:"
-          ls -lah public/main.processed.*.css
           
       - name: Setup Pages
         uses: actions/configure-pages@v4
