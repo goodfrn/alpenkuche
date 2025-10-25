@@ -63,44 +63,17 @@
     <!-- En-tête recette : image + infos organisées -->
     <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-12">
       
-      <!-- Image -->
-      {{ with .Params.image }}
-        <div class="w-full max-w-md mx-auto lg:mx-0 lg:max-w-none">
-          <div class="rounded-2xl shadow-lg overflow-hidden">
-            {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
+      <!-- Colonne gauche : Image + Temps/Portions -->
+      <div class="space-y-6">
+        <!-- Image -->
+        {{ with .Params.image }}
+          <div class="w-full max-w-md mx-auto lg:mx-0 lg:max-w-none">
+            <div class="rounded-2xl shadow-lg overflow-hidden">
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
+            </div>
           </div>
-        </div>
-      {{ end }}
-      
-      <!-- Infos recette organisées -->
-      <div class="flex flex-col gap-6">
+        {{ end }}
         
-        <!-- Auteur et date -->
-        {{ if or .Params.author .Date }}
-          <div class="space-y-2">
-            {{ with .Params.author }}
-              <p class="text-lg font-semibold" style="color: var(--color-text);">
-                {{ $recipe_page.author_prefix }} {{ . }}
-              </p>
-            {{ end }}
-            {{ if .Date }}
-              <p class="text-base italic" style="color: var(--color-text-secondary);">
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
-                </time>
-              </p>
-            {{ end }}
-          </div>
-        {{ end }}
-
-        <!-- Description -->
-        {{ $intro := .Params.description | default .Summary }}
-        {{ with $intro }}
-          <div class="text-lg italic leading-relaxed" style="color: var(--color-text-secondary);">
-            {{ . | markdownify }}
-          </div>
-        {{ end }}
-
         <!-- Infos recette simples (ancien style) -->
         <div class="grid grid-cols-2 gap-4 text-sm">
           {{ with .Params.prepTime }}
@@ -134,8 +107,36 @@
             </div>
           {{ end }}
         </div>
-
-
+      </div>
+      
+      <!-- Colonne droite : Infos recette organisées -->
+      <div class="flex flex-col gap-6">
+        
+        <!-- Auteur et date -->
+        {{ if or .Params.author .Date }}
+          <div class="space-y-2">
+            {{ with .Params.author }}
+              <p class="text-lg font-semibold" style="color: var(--color-text);">
+                {{ $recipe_page.author_prefix }} {{ . }}
+              </p>
+            {{ end }}
+            {{ if .Date }}
+              <p class="text-base italic" style="color: var(--color-text-secondary);">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">
+                  {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
+                </time>
+              </p>
+            {{ end }}
+          </div>
+        {{ end }}
+        <!-- Description -->
+        {{ $intro := .Params.description | default .Summary }}
+        {{ with $intro }}
+          <div class="text-lg italic leading-relaxed" style="color: var(--color-text-secondary);">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
+        
         <!-- Tags -->
         {{ with .Params.tags }}
           <div class="flex flex-wrap gap-2">
@@ -146,7 +147,6 @@
             {{ end }}
           </div>
         {{ end }}
-
         <!-- Boutons CTA -->
         {{ partial "cta-buttons.html" . }}
       </div>
