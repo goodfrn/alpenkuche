@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Genusserlebnis mit Fazzolettis gefüllt mit Ricotta
 focusKeyphrase: "Fazzolettis Ricotta-Spinat Twist"
 date: 2025-08-15
 draft: false
-image: fazzolettis-ricotta-spinat-twist.png
+image: fazzolettis-ricotta-spinat-twist.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT50M

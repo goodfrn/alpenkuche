@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kunst der ultra-schokoladigen Ganache mit Kokosmilc
 focusKeyphrase: "Ultra-schokoladige Ganache"
 date: 2025-08-08
 draft: false
-image: ultra-schokoladige-ganache.png
+image: ultra-schokoladige-ganache.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT3M

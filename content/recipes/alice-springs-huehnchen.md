@@ -7,7 +7,7 @@ ogDescription: "Genieße das faszinierende Alice Springs Hühnchen – zartes Hu
 focusKeyphrase: "Alice Springs Hühnchen"
 date: 2025-10-17
 draft: false
-image: alice-springs-huehnchen.png
+image: alice-springs-huehnchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

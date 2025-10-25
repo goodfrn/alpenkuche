@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Wachteln mit Birnen und Gewürzsauce. Ein unwiders
 focusKeyphrase: "Wachteln mit Birnen"
 date: 2025-07-29
 draft: false
-image: wachteln-mit-birnen.png
+image: wachteln-mit-birnen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

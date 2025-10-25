@@ -7,7 +7,7 @@ ogDescription: "Zubereitungszeit für Vanille-Orange Marmor-Guimauve: 1 Stunde 2
 focusKeyphrase: "Vanille-Orange Marmor-Guimauve"
 date: 2025-09-04
 draft: false
-image: vanille-orange-marmor-guimauve.png
+image: vanille-orange-marmor-guimauve.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT45M

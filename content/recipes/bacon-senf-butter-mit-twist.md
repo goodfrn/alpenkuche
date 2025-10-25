@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Bacon-Senf-Butter mit Twist. Ideal für Grilla
 focusKeyphrase: "Bacon-Senf-Butter"
 date: 2025-07-25
 draft: false
-image: bacon-senf-butter-mit-twist.png
+image: bacon-senf-butter-mit-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Genieße Joghurt mit Karottenmarmelade, eine raffinierte Kombina
 focusKeyphrase: "Joghurt mit Karottenmarmelade"
 date: 2025-09-23
 draft: false
-image: joghurt-mit-karottenmarmelade.png
+image: joghurt-mit-karottenmarmelade.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

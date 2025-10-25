@@ -7,7 +7,7 @@ ogDescription: "Eine verführerische Maskarpone Beignets Torte mit frischen Frü
 focusKeyphrase: "Maskarpone Beignets Torte"
 date: 2025-08-16
 draft: false
-image: maskarpone-beignets-torte.png
+image: maskarpone-beignets-torte.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT0M

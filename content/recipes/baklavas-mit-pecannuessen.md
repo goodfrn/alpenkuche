@@ -7,7 +7,7 @@ ogDescription: "Backe Baklavas mit gerösteten Pecannüssen und Mandeln, gebette
 focusKeyphrase: "Baklavas Rezept"
 date: 2025-09-14
 draft: false
-image: baklavas-mit-pecannuessen.png
+image: baklavas-mit-pecannuessen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H5M

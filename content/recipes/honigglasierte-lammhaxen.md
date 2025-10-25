@@ -7,7 +7,7 @@ ogDescription: "Genieße honigglasierte Lammhaxen. Zart, süß und herb. Ideal z
 focusKeyphrase: "Honigglasierte Lammhaxen"
 date: 2025-07-28
 draft: false
-image: honigglasierte-lammhaxen.png
+image: honigglasierte-lammhaxen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT2H50M

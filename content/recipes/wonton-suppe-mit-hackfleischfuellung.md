@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Wonton-Suppe mit saftiger Füllung. Eine herzhafte
 focusKeyphrase: "Wonton-Suppe mit Hackfleischfüllung"
 date: 2025-08-17
 draft: false
-image: wonton-suppe-mit-hackfleischfuellung.png
+image: wonton-suppe-mit-hackfleischfuellung.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT15M

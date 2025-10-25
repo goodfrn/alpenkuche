@@ -7,7 +7,7 @@ ogDescription: "Leckere Lachs-Quinoa-Bowl. Mit frischen Zutaten. Gesund, glutenf
 focusKeyphrase: "Lachs-Quinoa-Bowl"
 date: 2025-07-29
 draft: false
-image: lachs-quinoa-bowl.png
+image: lachs-quinoa-bowl.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT40M

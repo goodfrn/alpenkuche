@@ -7,7 +7,7 @@ ogDescription: "Tagliatelle mit Alpenschwein eine köstliche alpine Pasta mit za
 focusKeyphrase: "Tagliatelle mit Alpenschwein"
 date: 2025-07-20
 draft: false
-image: tagliatelle-mit-alpenschwein.png
+image: tagliatelle-mit-alpenschwein.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

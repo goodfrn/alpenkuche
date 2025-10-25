@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Vegetarische Alpen-Tostadas mit Sauerkraut und Gru
 focusKeyphrase: "Vegetarische Alpen-Tostadas"
 date: 2025-07-18
 draft: false
-image: vegetarische-alpen-tostadas.png
+image: vegetarische-alpen-tostadas.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

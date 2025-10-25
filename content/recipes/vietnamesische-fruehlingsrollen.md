@@ -7,7 +7,7 @@ ogDescription: "Entdecke vietnamesische Frühlingsrollen mit Schweinefleisch, pe
 focusKeyphrase: "Vietnamesische Frühlingsrollen"
 date: 2025-09-06
 draft: false
-image: vietnamesische-fruehlingsrollen.png
+image: vietnamesische-fruehlingsrollen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT10M

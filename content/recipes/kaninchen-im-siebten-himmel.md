@@ -7,7 +7,7 @@ ogDescription: "Kaninchen im siebten Himmel: Ein raffiniertes Gericht, das safti
 focusKeyphrase: "Kaninchen im siebten Himmel"
 date: 2025-09-29
 draft: false
-image: kaninchen-im-siebten-himmel.png
+image: kaninchen-im-siebten-himmel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

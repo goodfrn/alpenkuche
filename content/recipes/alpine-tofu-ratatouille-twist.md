@@ -7,7 +7,7 @@ ogDescription: "Alpine Tofu-Ratatouille. Einfach, knackig, mit einem Hauch von W
 focusKeyphrase: "Alpine Tofu-Ratatouille"
 date: 2025-07-20
 draft: false
-image: alpine-tofu-ratatouille-twist.png
+image: alpine-tofu-ratatouille-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie eine Gemüseplatte mit Aioli. Ideal zum Teilen, fr
 focusKeyphrase: "Gemüseplatte mit Aioli"
 date: 2025-07-25
 draft: false
-image: gemuesplatte-mit-aioli.png
+image: gemuesplatte-mit-aioli.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT20M

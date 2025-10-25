@@ -7,7 +7,7 @@ ogDescription: "Knuspriger Tofu mit Reisnudeln – ideal für die Suche nach ein
 focusKeyphrase: "Knuspriger Tofu mit Reisnudeln"
 date: 2025-09-26
 draft: false
-image: knuspriger-tofu-mit-reisnudeln.png
+image: knuspriger-tofu-mit-reisnudeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

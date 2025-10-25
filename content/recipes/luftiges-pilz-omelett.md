@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein luftiges Pilz-Omelett. Geschlagen, mit frische
 focusKeyphrase: "Pilz-Omelett"
 date: 2025-08-09
 draft: false
-image: luftiges-pilz-omelett.png
+image: luftiges-pilz-omelett.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

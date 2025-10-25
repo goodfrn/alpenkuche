@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Schoko-Haselnuss Madeleines – köstliche Küchlei
 focusKeyphrase: "Schoko-Haselnuss Madeleines"
 date: 2025-08-07
 draft: false
-image: schoko-haselnuss-madeleines.png
+image: schoko-haselnuss-madeleines.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT12M

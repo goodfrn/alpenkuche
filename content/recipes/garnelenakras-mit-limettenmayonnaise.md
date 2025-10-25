@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Garnelenakras mit einer zitrischen Limettenmayonna
 focusKeyphrase: "Garnelenakras"
 date: 2025-09-03
 draft: false
-image: garnelenakras-mit-limettenmayonnaise.png
+image: garnelenakras-mit-limettenmayonnaise.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

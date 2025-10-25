@@ -7,7 +7,7 @@ ogDescription: "Schnelle Pfannkuchen-Mischung mit getrockneten Blaubeeren. Vegan
 focusKeyphrase: "Getrocknete Blaubeer-Pfannkuchen-Mischung"
 date: 2025-08-08
 draft: false
-image: getrocknete-blaubeer-pfannkuchen.png
+image: getrocknete-blaubeer-pfannkuchen.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT12M

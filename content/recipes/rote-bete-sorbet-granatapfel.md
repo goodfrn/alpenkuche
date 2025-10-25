@@ -7,7 +7,7 @@ ogDescription: "Rote-Bete-Sorbet mit Granatapfel. Perfekt leicht, erfrischend. I
 focusKeyphrase: "Rote-Bete-Sorbet"
 date: 2025-07-29
 draft: false
-image: rote-bete-sorbet-granatapfel.png
+image: rote-bete-sorbet-granatapfel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

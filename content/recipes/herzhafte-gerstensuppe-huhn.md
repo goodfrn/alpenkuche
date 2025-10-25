@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese köstliche Herzhafte Gerstensuppe Huhn mit z
 focusKeyphrase: "Herzhafte Gerstensuppe Huhn"
 date: 2025-08-10
 draft: false
-image: herzhafte-gerstensuppe-huhn.png
+image: herzhafte-gerstensuppe-huhn.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

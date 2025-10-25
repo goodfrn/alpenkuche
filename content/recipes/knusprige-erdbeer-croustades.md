@@ -7,7 +7,7 @@ ogDescription: "Vegane Erdbeer Croustades aus der Heißluftfritteuse. Knusprig, 
 focusKeyphrase: "Erdbeer Croustades"
 date: 2025-08-03
 draft: false
-image: knusprige-erdbeer-croustades.png
+image: knusprige-erdbeer-croustades.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Grosse Lasagne mit Truthahn und Spinat; perfekt für Feste, nahr
 focusKeyphrase: "Lasagne mit Truthahn und Spinat"
 date: 2025-10-06
 draft: false
-image: riesige-lasagne-mit-truthahn.png
+image: riesige-lasagne-mit-truthahn.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT65M

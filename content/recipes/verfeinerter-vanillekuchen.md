@@ -7,7 +7,7 @@ ogDescription: "Ein k√∂stlicher Vanillekuchen, der in der Pfanne gebacken wird ‚
 focusKeyphrase: "Vanillekuchen aus der Pfanne"
 date: 2025-08-06
 draft: false
-image: verfeinerter-vanillekuchen.png
+image: verfeinerter-vanillekuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

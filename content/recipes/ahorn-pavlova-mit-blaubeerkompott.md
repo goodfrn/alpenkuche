@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Ahorn-Pavlova mit frischem Blaubeerkompott. Ei
 focusKeyphrase: "Ahorn-Pavlova"
 date: 2025-07-21
 draft: false
-image: ahorn-pavlova-mit-blaubeerkompott.png
+image: ahorn-pavlova-mit-blaubeerkompott.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT2H10M

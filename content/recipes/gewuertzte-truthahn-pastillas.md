@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für gewürzte Truthahn-Pastillas. Ein 
 focusKeyphrase: "Truthahn-Pastillas"
 date: 2025-08-05
 draft: false
-image: gewuertzte-truthahn-pastillas.png
+image: gewuertzte-truthahn-pastillas.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für den gefüllten Putenbraten mit Bir
 focusKeyphrase: "Gefüllter Putenbraten"
 date: 2025-08-17
 draft: false
-image: gefuellter-putenbraten-birne-kranbeere.png
+image: gefuellter-putenbraten-birne-kranbeere.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT2H15M

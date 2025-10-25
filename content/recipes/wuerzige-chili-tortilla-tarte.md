@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie eine würzige Chili-Tortilla-Tarte. Leckeres Tex-M
 focusKeyphrase: "Würzige Chili-Tortilla-Tarte"
 date: 2025-07-26
 draft: false
-image: wuerzige-chili-tortilla-tarte.png
+image: wuerzige-chili-tortilla-tarte.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Petersilien-Spinat Pesto. Vegan, nussig und fr
 focusKeyphrase: "Petersilien-Spinat Pesto"
 date: 2025-09-27
 draft: false
-image: petersilien-spinah-pesto.png
+image: petersilien-spinah-pesto.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT10M

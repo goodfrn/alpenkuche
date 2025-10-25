@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Ahorn-Gitterplunder mit einer einzigartigen Kokosm
 focusKeyphrase: "Ahorn-Gitterplunder"
 date: 2025-08-15
 draft: false
-image: ahorn-gitterplunder.png
+image: ahorn-gitterplunder.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT40M

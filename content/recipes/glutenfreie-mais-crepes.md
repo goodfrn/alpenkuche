@@ -7,7 +7,7 @@ ogDescription: "Leckere glutenfreie Mais-Crêpes, leicht anpassbar für jeden Ge
 focusKeyphrase: "glutenfreie Mais-Crêpes"
 date: 2025-09-30
 draft: false
-image: glutenfreie-mais-crepes.png
+image: glutenfreie-mais-crepes.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gebratenen Heilbutt mit Austernpilzen und Pak Choi
 focusKeyphrase: "Gebratener Heilbutt"
 date: 2025-07-27
 draft: false
-image: gebratener-heilbutt-mit-pilzen.png
+image: gebratener-heilbutt-mit-pilzen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

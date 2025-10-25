@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die alpine Schoggistange, süßer Biskuit mit Appe
 focusKeyphrase: "Alpine Schoggistange"
 date: 2025-07-18
 draft: false
-image: alpine-schoggistange.png
+image: alpine-schoggistange.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT15M

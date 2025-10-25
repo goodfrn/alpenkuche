@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Kalter Kaffee Genuss. Cremige Sahne, fruchtige Not
 focusKeyphrase: "Kalter Kaffee Genuss"
 date: 2025-07-27
 draft: false
-image: kalter-kaffee-genuss.png
+image: kalter-kaffee-genuss.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

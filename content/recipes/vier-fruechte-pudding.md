@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Vier-Früchte-Pudding mit Erdbeeren, Himbeeren
 focusKeyphrase: "Vier-Früchte-Pudding"
 date: 2025-09-08
 draft: false
-image: vier-fruechte-pudding.png
+image: vier-fruechte-pudding.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

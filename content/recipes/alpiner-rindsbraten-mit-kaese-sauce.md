@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den alpinen Rindsbraten mit einer cremigen Käse-S
 focusKeyphrase: "Alpiner Rindsbraten mit Käse-Sauce"
 date: 2025-07-20
 draft: false
-image: alpiner-rindsbraten-mit-kaese-sauce.png
+image: alpiner-rindsbraten-mit-kaese-sauce.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

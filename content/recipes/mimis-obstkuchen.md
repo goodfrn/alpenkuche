@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Mimis Obstkuchen – saftig, voller Aromen, perfek
 focusKeyphrase: "Obstkuchen ohne Eier"
 date: 2025-09-28
 draft: false
-image: mimis-obstkuchen.png
+image: mimis-obstkuchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H55M

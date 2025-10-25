@@ -7,7 +7,7 @@ ogDescription: "Entdecke flambierte Sauerkirschen mit einem neuen Twist; einfach
 focusKeyphrase: "flambierte Sauerkirschen"
 date: 2025-08-17
 draft: false
-image: flambierte-sauerkirschen-mit-twist.png
+image: flambierte-sauerkirschen-mit-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT7M

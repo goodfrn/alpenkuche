@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Zucchinipuffer mit Minze und Petersilie
 focusKeyphrase: "Zucchinipuffer"
 date: 2025-08-04
 draft: false
-image: zucchinipuffer-mit-fruehlingskraeutern.png
+image: zucchinipuffer-mit-fruehlingskraeutern.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

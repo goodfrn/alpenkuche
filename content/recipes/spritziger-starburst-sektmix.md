@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Spritzigen Starburst Sektmix – ein erfrischender 
 focusKeyphrase: "Spritziger Starburst Sektmix"
 date: 2025-10-06
 draft: false
-image: spritziger-starburst-sektmix.png
+image: spritziger-starburst-sektmix.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

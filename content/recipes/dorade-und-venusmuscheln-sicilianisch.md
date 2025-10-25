@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen von Dorade und Venusmuscheln mit Paprik
 focusKeyphrase: "Dorade und Venusmuscheln"
 date: 2025-08-13
 draft: false
-image: dorade-und-venusmuscheln-sicilianisch.png
+image: dorade-und-venusmuscheln-sicilianisch.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT35M

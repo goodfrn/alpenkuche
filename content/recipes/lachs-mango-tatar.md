@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das leckere Lachs Mango Tatar mit Currysauce; perf
 focusKeyphrase: "Lachs Mango Tatar"
 date: 2025-09-23
 draft: false
-image: lachs-mango-tatar.png
+image: lachs-mango-tatar.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT0M

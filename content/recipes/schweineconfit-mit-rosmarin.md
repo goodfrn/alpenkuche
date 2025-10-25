@@ -7,7 +7,7 @@ ogDescription: "Erlebe die Aromen von Schweineconfit mit Rosmarin. Zart und gesc
 focusKeyphrase: "Schweineconfit"
 date: 2025-09-30
 draft: false
-image: schweineconfit-mit-rosmarin.png
+image: schweineconfit-mit-rosmarin.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H35M

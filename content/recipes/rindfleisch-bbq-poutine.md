@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Rindfleisch BBQ Poutine mit Unmengen Geschmack
 focusKeyphrase: "Rindfleisch BBQ Poutine"
 date: 2025-07-28
 draft: false
-image: rindfleisch-bbq-poutine.png
+image: rindfleisch-bbq-poutine.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

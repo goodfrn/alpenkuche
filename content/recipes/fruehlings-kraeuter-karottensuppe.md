@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Frühlings-Kräuter-Karottensuppe mit frischen
 focusKeyphrase: "Frühlings-Kräuter-Karottensuppe"
 date: 2025-08-03
 draft: false
-image: fruehlings-kraeuter-karottensuppe.png
+image: fruehlings-kraeuter-karottensuppe.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke unsere Quinoa-Süßkartoffel-Tarte; einfach zubereitet 
 focusKeyphrase: "Quinoa-Süßkartoffel-Tarte"
 date: 2025-08-13
 draft: false
-image: quinoa-suesskartoffel-tarte.png
+image: quinoa-suesskartoffel-tarte.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Earl Grey Sirup mit Moltebeeren. Traditionell, aromatisch, erfri
 focusKeyphrase: "Earl Grey Sirup mit Moltebeeren"
 date: 2025-07-19
 draft: false
-image: earl-grey-sirup-moltebeere.png
+image: earl-grey-sirup-moltebeere.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

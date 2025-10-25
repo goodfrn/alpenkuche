@@ -7,7 +7,7 @@ ogDescription: "Hähnchen Ananas Schmorgericht, aromatisch und zart. Süß-säue
 focusKeyphrase: "Hähnchen Ananas Schmorgericht"
 date: 2025-08-02
 draft: false
-image: haehnchen-ananas-schmorgericht.png
+image: haehnchen-ananas-schmorgericht.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT4H15M

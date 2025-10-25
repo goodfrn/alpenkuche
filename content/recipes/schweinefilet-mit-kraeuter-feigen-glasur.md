@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses köstliche Rezept für Schweinefilet mit einer a
 focusKeyphrase: "Schweinefilet Rezept"
 date: 2025-07-27
 draft: false
-image: schweinefilet-mit-kraeuter-feigen-glasur.png
+image: schweinefilet-mit-kraeuter-feigen-glasur.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Brokkoli-Blumenkohlsuppe mit einem Hauch Muskat. Id
 focusKeyphrase: "Brokkoli-Blumenkohlsuppe"
 date: 2025-10-23
 draft: false
-image: brokkoli-blumenkohlsuppe-mit-twist.png
+image: brokkoli-blumenkohlsuppe-mit-twist.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT28M

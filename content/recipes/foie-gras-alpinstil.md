@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die alpine Variante von Foie gras, zubereitet mit 
 focusKeyphrase: "Foie gras Alpinstil"
 date: 2025-07-19
 draft: false
-image: foie-gras-alpinstil.png
+image: foie-gras-alpinstil.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

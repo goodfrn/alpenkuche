@@ -7,7 +7,7 @@ ogDescription: "Entdecke die dänischen Lachstartines mit Kräutern. Cremig, kna
 focusKeyphrase: "Dänische Lachstartines"
 date: 2025-08-16
 draft: false
-image: daenische-lachstartines.png
+image: daenische-lachstartines.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

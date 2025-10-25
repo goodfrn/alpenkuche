@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Ananas flambé am Ahornsirup! Ein raffiniertes Des
 focusKeyphrase: "Ananas flambé am Ahornsirup"
 date: 2025-09-27
 draft: false
-image: ananas-flambe-am-ahornsirup.png
+image: ananas-flambe-am-ahornsirup.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT11M

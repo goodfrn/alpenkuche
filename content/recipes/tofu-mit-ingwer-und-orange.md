@@ -7,7 +7,7 @@ ogDescription: "Lerne, wie man Tofu mit Ingwer und Orange zubereitet. Einfach, s
 focusKeyphrase: "Tofu mit Ingwer und Orange"
 date: 2025-07-21
 draft: false
-image: tofu-mit-ingwer-und-orange.png
+image: tofu-mit-ingwer-und-orange.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

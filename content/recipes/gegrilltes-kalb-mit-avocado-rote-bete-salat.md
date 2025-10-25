@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kombination aus gegrilltem Kalb und einem erfrische
 focusKeyphrase: "Gegrilltes Kalb"
 date: 2025-08-14
 draft: false
-image: gegrilltes-kalb-mit-avocado-rote-bete-salat.png
+image: gegrilltes-kalb-mit-avocado-rote-bete-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die perfekten Red Velvet Cupcakes, lecker und saft
 focusKeyphrase: "Red Velvet Cupcakes"
 date: 2025-07-27
 draft: false
-image: rote-samt-cupcakes.png
+image: rote-samt-cupcakes.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

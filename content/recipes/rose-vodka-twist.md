@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Rosé Vodka Twist - ein erfrischender Cocktail mit 
 focusKeyphrase: "Rosé Vodka Twist"
 date: 2025-07-28
 draft: false
-image: rose-vodka-twist.png
+image: rose-vodka-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

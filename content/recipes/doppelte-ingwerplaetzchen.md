@@ -7,7 +7,7 @@ ogDescription: "Doppelte Ingwerplätzchen – ein Genuss aus kandiertem und gema
 focusKeyphrase: "Doppelte Ingwerplätzchen"
 date: 2025-08-14
 draft: false
-image: doppelte-ingwerplaetzchen.png
+image: doppelte-ingwerplaetzchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT15M

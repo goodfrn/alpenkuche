@@ -7,7 +7,7 @@ ogDescription: "Entdecke den würzigen Schoko-Orangen-Genuss – heißer Kakao m
 focusKeyphrase: "Würziger Schoko-Orangen-Genuss"
 date: 2025-08-14
 draft: false
-image: wuerziger-schoko-orangen-genuss.png
+image: wuerziger-schoko-orangen-genuss.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

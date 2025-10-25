@@ -7,7 +7,7 @@ ogDescription: "Schmortopf Schweinelende – zartes Fleisch in einer aromatische
 focusKeyphrase: "Schmortopf Schweinelende"
 date: 2025-10-23
 draft: false
-image: schmortopf-schweinelende.png
+image: schmortopf-schweinelende.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT4H30M

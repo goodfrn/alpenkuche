@@ -7,7 +7,7 @@ ogDescription: "Unwiderstehliche knusprige Yukon Pommes – ideal für Zuhause. 
 focusKeyphrase: "Knusprige Yukon Pommes"
 date: 2025-09-23
 draft: false
-image: knusprige-yukon-pommes.png
+image: knusprige-yukon-pommes.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT38M

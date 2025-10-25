@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Grüne Bohnen Auflauf. Mit Kokosmilch neu interpret
 focusKeyphrase: "Grüne Bohnen Auflauf"
 date: 2025-10-13
 draft: false
-image: gruene-bohnen-auflauf.png
+image: gruene-bohnen-auflauf.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT48M

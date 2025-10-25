@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die cremige Ahorn-Vanillesauce. Ideal zu Desserts,
 focusKeyphrase: "Ahorn-Vanillesauce"
 date: 2025-07-21
 draft: false
-image: ahorn-vanillesauce.png
+image: ahorn-vanillesauce.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT11M

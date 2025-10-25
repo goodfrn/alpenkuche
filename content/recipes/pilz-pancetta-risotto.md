@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Pilz-Pancetta Risotto Variation. Ei
 focusKeyphrase: "Pilz-Pancetta Risotto"
 date: 2025-08-08
 draft: false
-image: pilz-pancetta-risotto.png
+image: pilz-pancetta-risotto.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

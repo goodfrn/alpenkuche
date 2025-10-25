@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Trüffel-Burger Deluxe mit deftigen Rindfleisch-Pat
 focusKeyphrase: "Trüffel-Burger Deluxe"
 date: 2025-07-28
 draft: false
-image: trueffel-burger-deluxe.png
+image: trueffel-burger-deluxe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

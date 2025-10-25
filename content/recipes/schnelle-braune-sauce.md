@@ -7,7 +7,7 @@ ogDescription: "Entdecke die neue Art, eine braune Sauce zu machen. Aromatisch m
 focusKeyphrase: "Schnelle braune Sauce"
 date: 2025-08-05
 draft: false
-image: schnelle-braune-sauce.png
+image: schnelle-braune-sauce.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

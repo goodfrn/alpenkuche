@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen der Geschmorten Kaninchenpappardelle, e
 focusKeyphrase: "Geschmorte Kaninchenpappardelle"
 date: 2025-07-29
 draft: false
-image: geschmorte-kaninchenpappardelle.png
+image: geschmorte-kaninchenpappardelle.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H40M

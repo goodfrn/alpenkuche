@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rosen-Chutney mit Ingwer - fruchtig, scharf un
 focusKeyphrase: "Rosen-Chutney mit Ingwer"
 date: 2025-08-04
 draft: false
-image: rosen-chutney-mit-ingwer.png
+image: rosen-chutney-mit-ingwer.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT30M

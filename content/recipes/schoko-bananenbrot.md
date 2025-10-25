@@ -7,7 +7,7 @@ ogDescription: "Entdecke das ll Deck Schoko-Bananenbrot mit Walnuss – saftig, 
 focusKeyphrase: "Bananenbrot"
 date: 2025-08-08
 draft: false
-image: schoko-bananenbrot.png
+image: schoko-bananenbrot.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

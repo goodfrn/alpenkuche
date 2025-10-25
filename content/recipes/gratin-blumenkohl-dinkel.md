@@ -7,7 +7,7 @@ ogDescription: "Ein köstlicher Gratin aus Blumenkohl und Dinkel, der mit einer 
 focusKeyphrase: "Gratin Blumenkohl Dinkel"
 date: 2025-08-12
 draft: false
-image: gratin-blumenkohl-dinkel.png
+image: gratin-blumenkohl-dinkel.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

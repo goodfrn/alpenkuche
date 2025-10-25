@@ -7,7 +7,7 @@ ogDescription: "Weiße Thunfisch Tostadas mit frischem Rotkohl und Avocado – d
 focusKeyphrase: "Thunfisch Tostadas"
 date: 2025-08-08
 draft: false
-image: weisse-thunfisch-tostadas.png
+image: weisse-thunfisch-tostadas.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT0M

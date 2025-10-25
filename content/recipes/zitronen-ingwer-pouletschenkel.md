@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Zitronen-Ingwer Pouletschenkel. Ein Gericht voller 
 focusKeyphrase: "Zitronen-Ingwer Pouletschenkel"
 date: 2025-07-18
 draft: false
-image: zitronen-ingwer-pouletschenkel.png
+image: zitronen-ingwer-pouletschenkel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

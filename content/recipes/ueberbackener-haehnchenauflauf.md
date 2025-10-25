@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Überbackenen Hähnchenauflauf mit köstlichen
 focusKeyphrase: "Überbackener Hähnchenauflauf"
 date: 2025-10-02
 draft: false
-image: ueberbackener-haehnchenauflauf.png
+image: ueberbackener-haehnchenauflauf.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Karamell-gefüllte Donuts mit einer cremigen Füll
 focusKeyphrase: "Karamell-gefüllte Donuts"
 date: 2025-09-18
 draft: false
-image: karamell-gefuellte-donuts.png
+image: karamell-gefuellte-donuts.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

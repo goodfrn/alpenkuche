@@ -7,7 +7,7 @@ ogDescription: "Genieße Pan-Pizza Zwiebelsuppe, eine köstliche Fusion von Zwie
 focusKeyphrase: "Pan-Pizza Zwiebelsuppe"
 date: 2025-08-06
 draft: false
-image: pan-pizza-zwiebelsuppe.png
+image: pan-pizza-zwiebelsuppe.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Genieße Grapefruitwein mit köstlichen Pfirsicheiswürfeln; ein
 focusKeyphrase: "Grapefruitwein mit Pfirsischeiswürfeln"
 date: 2025-08-07
 draft: false
-image: grapefruitwein-mit-pfirsicheiswuerfeln.png
+image: grapefruitwein-mit-pfirsicheiswuerfeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

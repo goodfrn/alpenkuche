@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen von weißen Bohnen im Ofen, verfeinert 
 focusKeyphrase: "Weiße Bohnen im Ofen"
 date: 2025-09-27
 draft: false
-image: weisse-bohnen-im-ofen.png
+image: weisse-bohnen-im-ofen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H35M

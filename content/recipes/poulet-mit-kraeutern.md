@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Poulet mit Kräutern und frittiert
 focusKeyphrase: "Poulet mit Kräutern"
 date: 2025-07-21
 draft: false
-image: poulet-mit-kraeutern.png
+image: poulet-mit-kraeutern.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Leckere Mandelnuss-Pizzelles mit Orangenlikör; zart und knuspri
 focusKeyphrase: "Mandelnuss-Pizzelles"
 date: 2025-08-17
 draft: false
-image: mandelnuss-pizzelles-mit-twist.png
+image: mandelnuss-pizzelles-mit-twist.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

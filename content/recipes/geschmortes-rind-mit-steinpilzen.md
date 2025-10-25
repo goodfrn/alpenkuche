@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für geschmortes Rind mit Steinpilzen und Di
 focusKeyphrase: "geschmortes Rind mit Steinpilzen und Dinkel"
 date: 2025-08-11
 draft: false
-image: geschmortes-rind-mit-steinpilzen.png
+image: geschmortes-rind-mit-steinpilzen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT2H45M

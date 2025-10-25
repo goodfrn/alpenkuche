@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen eines Zimt-Cranberry Briochekranz, ein 
 focusKeyphrase: "Zimt-Cranberry Briochekranz"
 date: 2025-09-27
 draft: false
-image: zimt-cranberry-briochekranz.png
+image: zimt-cranberry-briochekranz.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT30M

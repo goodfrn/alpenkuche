@@ -7,7 +7,7 @@ ogDescription: "Entdecke Gewürzte Salsas und Krautsalat. Perfekt für Galetten 
 focusKeyphrase: "Gewürzte Salsas und Krautsalat"
 date: 2025-07-21
 draft: false
-image: gewuerzte-salsas-und-krautsalat.png
+image: gewuerzte-salsas-und-krautsalat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

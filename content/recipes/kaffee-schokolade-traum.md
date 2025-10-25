@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Kaffee-Schokolade Traum – ein Genuss aus dunkler 
 focusKeyphrase: "heiße Schokolade mit Espresso"
 date: 2025-09-23
 draft: false
-image: kaffee-schokolade-traum.png
+image: kaffee-schokolade-traum.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT6M

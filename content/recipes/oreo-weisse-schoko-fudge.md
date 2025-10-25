@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Oreo-Weiße-Schoko-Fudge mit gerösteten Pekannüs
 focusKeyphrase: "Oreo-Weiße-Schoko-Fudge"
 date: 2025-10-07
 draft: false
-image: oreo-weisse-schoko-fudge.png
+image: oreo-weisse-schoko-fudge.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

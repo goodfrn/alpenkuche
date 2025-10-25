@@ -7,7 +7,7 @@ ogDescription: "Schnelle Hummer Spaghetti Twist mit Garnelen; frische Kräuter u
 focusKeyphrase: "Hummer Spaghetti Twist"
 date: 2025-08-18
 draft: false
-image: hummer-spaghetti-twist.png
+image: hummer-spaghetti-twist.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT1H20M

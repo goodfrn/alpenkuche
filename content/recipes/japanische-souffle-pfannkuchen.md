@@ -7,7 +7,7 @@ ogDescription: "Fluffige japanische Soufflé-Pfannkuchen. Leicht und lecker. Mit
 focusKeyphrase: "Soufflé-Pfannkuchen"
 date: 2025-07-28
 draft: false
-image: japanische-souffle-pfannkuchen.png
+image: japanische-souffle-pfannkuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

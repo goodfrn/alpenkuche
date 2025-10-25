@@ -7,7 +7,7 @@ ogDescription: "Genieße die leckeren Tomaten Ricotta Tartelettes, perfekt für 
 focusKeyphrase: "Tomaten Ricotta Tartelettes"
 date: 2025-09-24
 draft: false
-image: tomaten-ricotta-tartelettes.png
+image: tomaten-ricotta-tartelettes.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT18M

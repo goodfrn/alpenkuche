@@ -7,7 +7,7 @@ ogDescription: "Gegrillte Pitas mit grünem Gemüse und Erbsenpaste – ideal al
 focusKeyphrase: "Gegrillte Pitas mit grüner Gemüsepfanne"
 date: 2025-08-04
 draft: false
-image: gegrillte-pitas-mit-gemuesepfanne.png
+image: gegrillte-pitas-mit-gemuesepfanne.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT10M

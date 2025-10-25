@@ -7,7 +7,7 @@ ogDescription: "Lust auf würzige Rindfleischtacos? Die Kombination aus würzige
 focusKeyphrase: "Würzige Rindfleischtacos"
 date: 2025-07-23
 draft: false
-image: wuerzige-rindfleischtacos.png
+image: wuerzige-rindfleischtacos.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

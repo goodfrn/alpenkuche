@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Spargel Velouté mit Muscheln. Eine samtige Suppe 
 focusKeyphrase: "Spargel Velouté mit Muscheln"
 date: 2025-08-05
 draft: false
-image: spargel-veloute-mit-muscheln.png
+image: spargel-veloute-mit-muscheln.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

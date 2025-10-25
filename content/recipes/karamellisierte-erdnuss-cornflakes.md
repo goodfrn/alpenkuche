@@ -7,7 +7,7 @@ ogDescription: "Karamellisierte Erdnuss-Cornflakes bieten süß-knusprigen Genus
 focusKeyphrase: "Karamellisierte Erdnuss-Cornflakes"
 date: 2025-10-05
 draft: false
-image: karamellisierte-erdnuss-cornflakes.png
+image: karamellisierte-erdnuss-cornflakes.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT2M

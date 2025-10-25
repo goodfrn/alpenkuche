@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Kürbispüree mit Pecorino. Cremig, herzhaft, ideal
 focusKeyphrase: "Kürbispüree mit Pecorino"
 date: 2025-08-15
 draft: false
-image: kuerbispuree-mit-pecorino.png
+image: kuerbispuree-mit-pecorino.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Blumenkohl Couscous Twist. Ein einfaches, vegetaris
 focusKeyphrase: "Blumenkohl Couscous"
 date: 2025-08-19
 draft: false
-image: blumenkohl-couscous-twist.png
+image: blumenkohl-couscous-twist.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Kräuter-Ei-Sandwich mit frischen Kräutern ideal für jeden Anl
 focusKeyphrase: "Kräuter-Ei-Sandwich"
 date: 2025-07-28
 draft: false
-image: kraeuter-ei-sandwich.png
+image: kraeuter-ei-sandwich.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

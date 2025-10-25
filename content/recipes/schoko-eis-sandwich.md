@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Schoko-Eis-Sandwich Gigant: Riesige Kekse gef√
 focusKeyphrase: "Schoko-Eis-Sandwich"
 date: 2025-08-10
 draft: false
-image: schoko-eis-sandwich.png
+image: schoko-eis-sandwich.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT30M

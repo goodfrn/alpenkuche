@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein Cheddar-Omelett mit süßem Ahorn-Popcorn; ein
 focusKeyphrase: "Omelett mit Ahorn-Popcorn"
 date: 2025-08-12
 draft: false
-image: geschwollenes-cheddar-omelett.png
+image: geschwollenes-cheddar-omelett.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

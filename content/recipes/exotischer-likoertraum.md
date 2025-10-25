@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Exotischen Likörtraum. Weißer Rum, Mangosaft und 
 focusKeyphrase: "Exotischer Likörtraum"
 date: 2025-07-29
 draft: false
-image: exotischer-likoertraum.png
+image: exotischer-likoertraum.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

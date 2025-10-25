@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen knusprigen asiatischen Krautsalat mit frisch
 focusKeyphrase: "Krautsalat"
 date: 2025-09-29
 draft: false
-image: knackiger-asiatischer-krautsalat.png
+image: knackiger-asiatischer-krautsalat.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT7M

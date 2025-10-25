@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Fischkruste mit Brezeln. Saftig, knusprig und 
 focusKeyphrase: "Fischkruste mit Brezeln"
 date: 2025-08-16
 draft: false
-image: fischkruste-mit-brezeln.png
+image: fischkruste-mit-brezeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

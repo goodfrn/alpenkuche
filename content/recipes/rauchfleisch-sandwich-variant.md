@@ -7,7 +7,7 @@ ogDescription: "Leckeres Rauchfleisch-Sandwich mit Avocado. Knusprig, würzig, e
 focusKeyphrase: "Rauchfleisch-Sandwich"
 date: 2025-07-23
 draft: false
-image: rauchfleisch-sandwich-variant.png
+image: rauchfleisch-sandwich-variant.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT18M

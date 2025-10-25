@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die pikante Kombination aus Appenzeller und Gruyè
 focusKeyphrase: "Würziger Alpenspies"
 date: 2025-07-19
 draft: false
-image: wuerziger-alpenspies.png
+image: wuerziger-alpenspies.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT10M

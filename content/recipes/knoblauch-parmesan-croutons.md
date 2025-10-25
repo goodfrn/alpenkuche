@@ -7,7 +7,7 @@ ogDescription: "Knoblauch Parmesan Croutons für einen würzigen Crunch. Unverzi
 focusKeyphrase: "Knoblauch Parmesan Croutons"
 date: 2025-10-13
 draft: false
-image: knoblauch-parmesan-croutons.png
+image: knoblauch-parmesan-croutons.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT18M

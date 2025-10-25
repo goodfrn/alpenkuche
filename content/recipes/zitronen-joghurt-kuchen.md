@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Joghurt-Kuchen Alpenstyle. Einfachheit trifft Geschmack
 focusKeyphrase: "Zitronen-Joghurt-Kuchen"
 date: 2025-07-18
 draft: false
-image: zitronen-joghurt-kuchen.png
+image: zitronen-joghurt-kuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

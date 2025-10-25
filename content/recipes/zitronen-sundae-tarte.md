@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Zitronen-Sundae-Tarte. Eine erfrischende Kombi
 focusKeyphrase: "Zitronen-Sundae-Tarte"
 date: 2025-07-23
 draft: false
-image: zitronen-sundae-tarte.png
+image: zitronen-sundae-tarte.jpg
 author: "Marlena"
 prepTime: PT27M
 cookTime: PT12M

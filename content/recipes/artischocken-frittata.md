@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Artischocken-Frittata mit Thymian. Ideal leich
 focusKeyphrase: "Artischocken-Frittata"
 date: 2025-07-30
 draft: false
-image: artischocken-frittata.png
+image: artischocken-frittata.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT28M

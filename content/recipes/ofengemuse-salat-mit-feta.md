@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Ofengemüse Salat mit Feta, eine erfrischende 
 focusKeyphrase: "Ofengemüse Salat mit Feta"
 date: 2025-08-18
 draft: false
-image: ofengemuse-salat-mit-feta.png
+image: ofengemuse-salat-mit-feta.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

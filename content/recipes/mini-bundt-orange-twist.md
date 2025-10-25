@@ -7,7 +7,7 @@ ogDescription: "Genie√üen Sie die Mini-Bundt Orange Twist. Frische, leichtere K√
 focusKeyphrase: "Mini-Bundt Orange Twist"
 date: 2025-07-26
 draft: false
-image: mini-bundt-orange-twist.png
+image: mini-bundt-orange-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

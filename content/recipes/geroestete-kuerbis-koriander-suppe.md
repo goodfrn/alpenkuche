@@ -7,7 +7,7 @@ ogDescription: "Lecker, würzige Kürbis-Koriander-Suppe. Ideal für jedes Essen
 focusKeyphrase: "Kürbis-Koriander-Suppe"
 date: 2025-07-23
 draft: false
-image: geroestete-kuerbis-koriander-suppe.png
+image: geroestete-kuerbis-koriander-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

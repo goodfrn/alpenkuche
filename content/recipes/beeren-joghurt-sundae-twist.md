@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Beeren-Joghurt-Sundae Twist, eine frische und 
 focusKeyphrase: "Beeren-Joghurt-Sundae Twist"
 date: 2025-08-10
 draft: false
-image: beeren-joghurt-sundae-twist.png
+image: beeren-joghurt-sundae-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

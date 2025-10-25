@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Eleganz von Parmesancreme-Bällchen mit Weißb
 focusKeyphrase: "Parmesancreme-Bällchen"
 date: 2025-08-02
 draft: false
-image: parmesancreme-baellchen.png
+image: parmesancreme-baellchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

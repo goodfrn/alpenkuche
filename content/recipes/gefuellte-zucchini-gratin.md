@@ -7,7 +7,7 @@ ogDescription: "Herzhafte gefüllte Zucchini Gratin mit saftigem Hackfleisch, ar
 focusKeyphrase: "gefüllte Zucchini Gratin"
 date: 2025-09-29
 draft: false
-image: gefuellte-zucchini-gratin.png
+image: gefuellte-zucchini-gratin.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT55M

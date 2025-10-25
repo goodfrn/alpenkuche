@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Petersilien-Sauce Vierge. Kräuter, Tabasco, Z
 focusKeyphrase: "Petersilien-Sauce Vierge"
 date: 2025-09-25
 draft: false
-image: petersilien-sauce-vierge.png
+image: petersilien-sauce-vierge.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT0M

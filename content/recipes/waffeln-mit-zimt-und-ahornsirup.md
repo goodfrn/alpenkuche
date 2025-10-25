@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Geheimnisse knuspriger Waffeln mit Zimt und Ahornsi
 focusKeyphrase: "Waffeln mit Zimt und Ahornsirup"
 date: 2025-08-15
 draft: false
-image: waffeln-mit-zimt-und-ahornsirup.png
+image: waffeln-mit-zimt-und-ahornsirup.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

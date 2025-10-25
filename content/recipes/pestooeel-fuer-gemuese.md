@@ -7,7 +7,7 @@ ogDescription: "Entdecke Pestoöl für Gemüse: simpel, aromatisch, perfekt für
 focusKeyphrase: "Pestoöl für Gemüse"
 date: 2025-08-19
 draft: false
-image: pestooeel-fuer-gemuese.png
+image: pestooeel-fuer-gemuese.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT6M

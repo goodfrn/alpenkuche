@@ -7,7 +7,7 @@ ogDescription: "Rustikaler Pâté aus Schweinehack und Sellerie; knusprige Krust
 focusKeyphrase: "Fleisch-Pâté"
 date: 2025-08-04
 draft: false
-image: rustikaler-fleisch-pate.png
+image: rustikaler-fleisch-pate.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT1H10M

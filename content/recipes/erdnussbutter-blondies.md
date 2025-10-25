@@ -7,7 +7,7 @@ ogDescription: "Probiere diese Erdnussbutter Blondies – eine köstliche Mischu
 focusKeyphrase: "Erdnussbutter Blondies"
 date: 2025-10-16
 draft: false
-image: erdnussbutter-blondies.png
+image: erdnussbutter-blondies.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

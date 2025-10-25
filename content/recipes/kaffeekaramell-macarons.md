@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die vielfaltigen Kaffeekaramell-Macarons mit salzi
 focusKeyphrase: "Kaffeekaramell-Macarons"
 date: 2025-07-25
 draft: false
-image: kaffeekaramell-macarons.png
+image: kaffeekaramell-macarons.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT18M

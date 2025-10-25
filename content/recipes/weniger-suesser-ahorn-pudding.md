@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den weniger süßen Ahorn-Pudding mit Birnen, redu
 focusKeyphrase: "Weniger süßer Ahorn-Pudding"
 date: 2025-08-14
 draft: false
-image: weniger-suesser-ahorn-pudding.png
+image: weniger-suesser-ahorn-pudding.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT45M

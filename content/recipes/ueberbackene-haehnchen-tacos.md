@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie köstliche überbackene Hähnchen-Tacos, gefüllt 
 focusKeyphrase: "Überbackene Hähnchen-Tacos"
 date: 2025-10-03
 draft: false
-image: ueberbackene-haehnchen-tacos.png
+image: ueberbackene-haehnchen-tacos.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kunst der hausgemachten Kokosmilch. Aromatisch
 focusKeyphrase: "hausgemachte Kokosmilch"
 date: 2025-10-01
 draft: false
-image: hausgemachte-kokosmilch.png
+image: hausgemachte-kokosmilch.jpg
 author: "Marlena"
 prepTime: PT16M
 cookTime: PT15M

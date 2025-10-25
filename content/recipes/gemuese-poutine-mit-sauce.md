@@ -7,7 +7,7 @@ ogDescription: "Genieße unsere Gemüse-Poutine mit würziger Sauce – perfekt 
 focusKeyphrase: "Gemüse-Poutine"
 date: 2025-08-06
 draft: false
-image: gemuese-poutine-mit-sauce.png
+image: gemuese-poutine-mit-sauce.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

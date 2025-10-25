@@ -7,7 +7,7 @@ ogDescription: "Entdecke die goldbraunen Kartoffelspitzen mit Kräutern. Einfach
 focusKeyphrase: "Kartoffelspitzen mit Kräutern"
 date: 2025-07-25
 draft: false
-image: kartoffelspitzen-mit-kraeutern.png
+image: kartoffelspitzen-mit-kraeutern.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT24M

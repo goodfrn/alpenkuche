@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie knusprige Hähnchennaans und aromatische Kräuterk
 focusKeyphrase: "Knuspriger Hähnchennaans"
 date: 2025-09-23
 draft: false
-image: knusprige-haehnchennaans.png
+image: knusprige-haehnchennaans.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT40M

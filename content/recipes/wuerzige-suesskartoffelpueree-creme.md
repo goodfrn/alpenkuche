@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Würzige Süßkartoffelpüree-Creme – aromat
 focusKeyphrase: "Würzige Süßkartoffelpüree-Creme"
 date: 2025-08-01
 draft: false
-image: wuerzige-suesskartoffelpueree-creme.png
+image: wuerzige-suesskartoffelpueree-creme.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT45M

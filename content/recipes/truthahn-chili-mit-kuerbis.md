@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Truthahn-Chili mit Chipotle und Kürbis. Schmackhaf
 focusKeyphrase: "Truthahn-Chili"
 date: 2025-08-16
 draft: false
-image: truthahn-chili-mit-kuerbis.png
+image: truthahn-chili-mit-kuerbis.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

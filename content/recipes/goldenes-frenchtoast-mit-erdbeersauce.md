@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie goldenes Frenchtoast, begleitet von einer fruchtig
 focusKeyphrase: "Goldenes Frenchtoast"
 date: 2025-09-25
 draft: false
-image: goldenes-frenchtoast-mit-erdbeersauce.png
+image: goldenes-frenchtoast-mit-erdbeersauce.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT11M

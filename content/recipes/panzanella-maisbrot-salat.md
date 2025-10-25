@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Panzanella Salat mit geröstetem Maisbrot, Ruc
 focusKeyphrase: "Panzanella Salat"
 date: 2025-09-10
 draft: false
-image: panzanella-maisbrot-salat.png
+image: panzanella-maisbrot-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

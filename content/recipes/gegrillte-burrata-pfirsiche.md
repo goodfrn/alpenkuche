@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillte Burrata mit Pfirsichen. Eine mediterrane
 focusKeyphrase: "Gegrillte Burrata mit Pfirsichen"
 date: 2025-08-17
 draft: false
-image: gegrillte-burrata-pfirsiche.png
+image: gegrillte-burrata-pfirsiche.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

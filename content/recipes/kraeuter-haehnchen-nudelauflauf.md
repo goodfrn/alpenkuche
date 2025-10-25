@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Kräuter-Hähnchen Nudelauflauf: gesund, aromatisch
 focusKeyphrase: "Kräuter-Hähnchen Nudelauflauf"
 date: 2025-10-15
 draft: false
-image: kraeuter-haehnchen-nudelauflauf.png
+image: kraeuter-haehnchen-nudelauflauf.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

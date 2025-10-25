@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Fenchel Apfel Salat. Frisch, knackig, vegan â€
 focusKeyphrase: "Fenchel Apfel Salat"
 date: 2025-09-28
 draft: false
-image: fenchel-apfel-salat.png
+image: fenchel-apfel-salat.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

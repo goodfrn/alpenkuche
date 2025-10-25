@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen umgedrehten Karamellbrioches. Buttermil
 focusKeyphrase: "Umgedrehte Karamellbrioches"
 date: 2025-08-05
 draft: false
-image: umgedrehte-karamellbrioches.png
+image: umgedrehte-karamellbrioches.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT35M

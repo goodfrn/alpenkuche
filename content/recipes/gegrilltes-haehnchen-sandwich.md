@@ -7,7 +7,7 @@ ogDescription: "Probiere dieses gegrillte Hähnchen Sandwich – saftig und gesc
 focusKeyphrase: "gegrilltes Hähnchen Sandwich"
 date: 2025-08-15
 draft: false
-image: gegrilltes-haehnchen-sandwich.png
+image: gegrilltes-haehnchen-sandwich.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT15M

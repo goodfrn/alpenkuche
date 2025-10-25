@@ -7,7 +7,7 @@ ogDescription: "Entdecke die neuen Oreo Brownies mit Apfelmus und braunem Zucker
 focusKeyphrase: "Oreo Brownies"
 date: 2025-10-07
 draft: false
-image: oreo-brownies-mit-twist.png
+image: oreo-brownies-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT28M

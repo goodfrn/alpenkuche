@@ -7,7 +7,7 @@ ogDescription: "Zimtbrioches mit Toffee: eine verführerische Kombination aus Zi
 focusKeyphrase: "Zimtbrioches mit Toffee"
 date: 2025-07-23
 draft: false
-image: zimtbrioches-mit-toffee.png
+image: zimtbrioches-mit-toffee.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT30M

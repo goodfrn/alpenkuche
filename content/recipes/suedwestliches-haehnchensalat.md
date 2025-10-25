@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Südwestliches Hähnchensalat mit zarte
 focusKeyphrase: "Hähnchensalat"
 date: 2025-10-04
 draft: false
-image: suedwestliches-haehnchensalat.png
+image: suedwestliches-haehnchensalat.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

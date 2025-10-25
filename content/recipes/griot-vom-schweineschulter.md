@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie, wie Sie Griot vom Schweineschulter zubereiten. Ei
 focusKeyphrase: "Griot vom Schweineschulter"
 date: 2025-08-20
 draft: false
-image: griot-vom-schweineschulter.png
+image: griot-vom-schweineschulter.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H40M

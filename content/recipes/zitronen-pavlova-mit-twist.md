@@ -7,7 +7,7 @@ ogDescription: "Zitronen Pavlova, überraschender Geschmack mit Kaffee und Kokos
 focusKeyphrase: "Zitronen Pavlova"
 date: 2025-08-14
 draft: false
-image: zitronen-pavlova-mit-twist.png
+image: zitronen-pavlova-mit-twist.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT4H15M

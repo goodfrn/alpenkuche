@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Bolognese vom Kalb; ein Rezept für
 focusKeyphrase: "Bolognese vom Kalb"
 date: 2025-09-24
 draft: false
-image: bolognese-vom-kalb.png
+image: bolognese-vom-kalb.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT28M

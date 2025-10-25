@@ -7,7 +7,7 @@ ogDescription: "Cremige Avocado und würziger Käse, gefüllt mit würzigem Häh
 focusKeyphrase: "Würzige Hähnchen-Tacos"
 date: 2025-08-07
 draft: false
-image: wuerzige-haehnchen-tacos.png
+image: wuerzige-haehnchen-tacos.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Speckumwickeltes Schweinelende mit Pfef
 focusKeyphrase: "Speckumwickeltes Schweinelende"
 date: 2025-10-13
 draft: false
-image: speckumwickeltes-schweinelende.png
+image: speckumwickeltes-schweinelende.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT50M

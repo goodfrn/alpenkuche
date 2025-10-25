@@ -7,7 +7,7 @@ ogDescription: "Leckerer Fattoush-Linsensalat mit geröstetem Brokkoli. Viel fri
 focusKeyphrase: "Fattoush-Linsensalat"
 date: 2025-07-28
 draft: false
-image: fattoush-linsensalat.png
+image: fattoush-linsensalat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

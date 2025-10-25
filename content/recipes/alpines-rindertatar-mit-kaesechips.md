@@ -7,7 +7,7 @@ ogDescription: "Rindertatar aus Bündner Rind, kombiniert mit knusprigen Kartoff
 focusKeyphrase: "Alpines Rindertatar"
 date: 2025-07-20
 draft: false
-image: alpines-rindertatar-mit-kaesechips.png
+image: alpines-rindertatar-mit-kaesechips.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT30M

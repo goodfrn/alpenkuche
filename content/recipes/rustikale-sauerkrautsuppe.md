@@ -7,7 +7,7 @@ ogDescription: "Entdecke die rustikale Sauerkrautsuppe mit Wirsing und Pancetta.
 focusKeyphrase: "Sauerkrautsuppe rustikal"
 date: 2025-08-04
 draft: false
-image: rustikale-sauerkrautsuppe.png
+image: rustikale-sauerkrautsuppe.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT6H15M

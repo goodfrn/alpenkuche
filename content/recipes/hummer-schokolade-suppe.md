@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Hummer Schokolade Suppe – eine exquisite Mis
 focusKeyphrase: "Hummer Schokolade Suppe"
 date: 2025-09-26
 draft: false
-image: hummer-schokolade-suppe.png
+image: hummer-schokolade-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

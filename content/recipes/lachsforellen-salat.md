@@ -7,7 +7,7 @@ ogDescription: "Lachsforellen-Salat mit frischem Spargel und sättigenden, gefü
 focusKeyphrase: "Lachsforellen-Salat"
 date: 2025-07-29
 draft: false
-image: lachsforellen-salat.png
+image: lachsforellen-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

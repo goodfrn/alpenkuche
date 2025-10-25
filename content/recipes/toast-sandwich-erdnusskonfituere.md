@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen knusprigen Toast-Sandwich mit Erdnussbutter 
 focusKeyphrase: "Toast-Sandwich Erdnusskonfitüre"
 date: 2025-09-29
 draft: false
-image: toast-sandwich-erdnusskonfituere.png
+image: toast-sandwich-erdnusskonfituere.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT12M

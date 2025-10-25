@@ -7,7 +7,7 @@ ogDescription: "Einfache Pfannen-Sauce mit aromatischem Sesamöl, ideal für sch
 focusKeyphrase: "Einfache Pfannen-Sauce"
 date: 2025-10-23
 draft: false
-image: einfache-pfannen-sauce.png
+image: einfache-pfannen-sauce.jpg
 author: "Marlena"
 prepTime: PT2M
 cookTime: PT0M

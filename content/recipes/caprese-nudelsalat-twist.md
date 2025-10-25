@@ -7,7 +7,7 @@ ogDescription: "Genieße den Caprese Nudelsalat Twist mit frischen Tomaten, crem
 focusKeyphrase: "Caprese Nudelsalat Twist"
 date: 2025-10-13
 draft: false
-image: caprese-nudelsalat-twist.png
+image: caprese-nudelsalat-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen der würzigen Tajine Lamm. Zart geschmo
 focusKeyphrase: "Tajine Lamm"
 date: 2025-08-14
 draft: false
-image: wuerzige-tajine-lamm.png
+image: wuerzige-tajine-lamm.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT4H30M

@@ -7,7 +7,7 @@ ogDescription: "Schneller Quinoa Kichererbsensalat, ideal für eine frische, ges
 focusKeyphrase: "Quinoa Kichererbsensalat"
 date: 2025-08-02
 draft: false
-image: quinoa-kichererbsensalat.png
+image: quinoa-kichererbsensalat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

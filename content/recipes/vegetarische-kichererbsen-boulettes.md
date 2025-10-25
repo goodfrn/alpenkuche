@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie vegetarische Kichererbsen-Boulettes mit intensiven
 focusKeyphrase: "Kichererbsen-Boulettes"
 date: 2025-08-13
 draft: false
-image: vegetarische-kichererbsen-boulettes.png
+image: vegetarische-kichererbsen-boulettes.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Geschmackvolle gebratene Kartoffeln mit Zwiebeln. Einfach zubere
 focusKeyphrase: "Gebratene Kartoffeln mit Zwiebeln"
 date: 2025-10-15
 draft: false
-image: gebratene-kartoffeln-mit-zwiebeln.png
+image: gebratene-kartoffeln-mit-zwiebeln.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

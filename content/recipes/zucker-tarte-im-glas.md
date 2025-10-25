@@ -7,7 +7,7 @@ ogDescription: "Verwöhne dich mit Zucker-Tarte im Glas. Süße Karamellfüllung
 focusKeyphrase: "Zucker-Tarte im Glas"
 date: 2025-09-27
 draft: false
-image: zucker-tarte-im-glas.png
+image: zucker-tarte-im-glas.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT20M

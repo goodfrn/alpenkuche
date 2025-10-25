@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Kürbis-Schokoladenkuchen. Saftig und raffiniert �
 focusKeyphrase: "Kürbis-Schokoladenkuchen"
 date: 2025-08-11
 draft: false
-image: kuerbis-schokoladenkuchen.png
+image: kuerbis-schokoladenkuchen.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT1H15M

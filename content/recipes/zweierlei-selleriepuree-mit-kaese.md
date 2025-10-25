@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Zweierlei Selleriepüree mit Käse – cremig,
 focusKeyphrase: "Zweierlei Selleriepüree mit Käse"
 date: 2025-08-05
 draft: false
-image: zweierlei-selleriepuree-mit-kaese.png
+image: zweierlei-selleriepuree-mit-kaese.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT25M

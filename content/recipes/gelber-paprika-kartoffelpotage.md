@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den intensiven Geschmack der gelben Paprika und Ka
 focusKeyphrase: "Gelber Paprika-Kartoffelpotage"
 date: 2025-08-18
 draft: false
-image: gelber-paprika-kartoffelpotage.png
+image: gelber-paprika-kartoffelpotage.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

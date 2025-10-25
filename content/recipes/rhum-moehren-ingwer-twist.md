@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Rhum Möhren Ingwer Twist. Ein innovativer Coc
 focusKeyphrase: "Rhum Möhren Ingwer Twist"
 date: 2025-07-25
 draft: false
-image: rhum-moehren-ingwer-twist.png
+image: rhum-moehren-ingwer-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

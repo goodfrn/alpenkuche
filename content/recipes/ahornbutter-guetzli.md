@@ -7,7 +7,7 @@ ogDescription: "Schweizer Guetzli mit Ahornbutter und alpine Aromen. Für die Be
 focusKeyphrase: "Ahornbutter Guetzli"
 date: 2025-07-19
 draft: false
-image: ahornbutter-guetzli.png
+image: ahornbutter-guetzli.jpg
 author: "Marlena"
 prepTime: PT1H5M
 cookTime: PT0H12M

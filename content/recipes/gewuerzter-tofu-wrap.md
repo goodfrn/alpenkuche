@@ -7,7 +7,7 @@ ogDescription: "Knuspriger Gewürzter Tofu Wrap mit frischem Salat. Perfekt für
 focusKeyphrase: "Gewürzter Tofu Wrap"
 date: 2025-08-04
 draft: false
-image: gewuerzter-tofu-wrap.png
+image: gewuerzter-tofu-wrap.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

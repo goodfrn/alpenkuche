@@ -7,7 +7,7 @@ ogDescription: "Schnelles Auberginen-Ei-Sandwich – knackig, frisch und sättig
 focusKeyphrase: "Auberginen-Ei-Sandwich"
 date: 2025-08-06
 draft: false
-image: auberginen-ei-sandwich.png
+image: auberginen-ei-sandwich.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

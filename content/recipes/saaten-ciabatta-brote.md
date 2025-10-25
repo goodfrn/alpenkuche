@@ -7,7 +7,7 @@ ogDescription: "Entdecke Saaten Ciabatta Brote mit besonderen Aromen von Kürbis
 focusKeyphrase: "Saaten Ciabatta Brote"
 date: 2025-08-09
 draft: false
-image: saaten-ciabatta-brote.png
+image: saaten-ciabatta-brote.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT23M

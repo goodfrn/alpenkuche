@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Wachteleier mit frischer Estragonmayonnaise. Einfa
 focusKeyphrase: "Wachteleier mit Estragonmayonnaise"
 date: 2025-07-28
 draft: false
-image: wachteleier-mit-estragonmayonnaise.png
+image: wachteleier-mit-estragonmayonnaise.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT6M

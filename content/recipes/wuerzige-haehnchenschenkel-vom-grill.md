@@ -7,7 +7,7 @@ ogDescription: "Grillrezepte: Würzige Hähnchenschenkel. Zart, würzig und leic
 focusKeyphrase: "Würzige Hähnchenschenkel"
 date: 2025-07-25
 draft: false
-image: wuerzige-haehnchenschenkel-vom-grill.png
+image: wuerzige-haehnchenschenkel-vom-grill.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H15M

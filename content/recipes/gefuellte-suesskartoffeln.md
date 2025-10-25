@@ -7,7 +7,7 @@ ogDescription: "Vegetarisches Rezept für gefüllte Süßkartoffeln; knusprig, n
 focusKeyphrase: "Gefüllte Süßkartoffeln"
 date: 2025-08-10
 draft: false
-image: gefuellte-suesskartoffeln.png
+image: gefuellte-suesskartoffeln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H10M

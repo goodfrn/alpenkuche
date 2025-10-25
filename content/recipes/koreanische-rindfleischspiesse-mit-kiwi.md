@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen koreanischen Rindfleischspieße. Mit Ki
 focusKeyphrase: "Rindfleischspieße mit Kiwi"
 date: 2025-07-21
 draft: false
-image: koreanische-rindfleischspiesse-mit-kiwi.png
+image: koreanische-rindfleischspiesse-mit-kiwi.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT7M

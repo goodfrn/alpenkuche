@@ -7,7 +7,7 @@ ogDescription: "Leckere Alpen-Buchweizen Crêpes, gefüllt mit Äpfeln und Appen
 focusKeyphrase: "Alpen-Buchweizen Crêpes"
 date: 2025-07-18
 draft: false
-image: alpen-buchweizen-crepes.png
+image: alpen-buchweizen-crepes.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT27M

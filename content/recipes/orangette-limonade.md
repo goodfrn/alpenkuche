@@ -7,7 +7,7 @@ ogDescription: "Genieße eine erfrischende Orangette Limonade. Einzigartig bitte
 focusKeyphrase: "Orangette Limonade"
 date: 2025-09-29
 draft: false
-image: orangette-limonade.png
+image: orangette-limonade.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT6M

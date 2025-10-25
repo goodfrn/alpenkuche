@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kühle Pekannusskekse. Knusprig, mit feiner Zimt-No
 focusKeyphrase: "Kühle Pekannusskekse"
 date: 2025-09-25
 draft: false
-image: kuhle-pekannusskekse.png
+image: kuhle-pekannusskekse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT14M

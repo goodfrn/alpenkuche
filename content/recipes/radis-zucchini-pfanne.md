@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Radis-Zucchini-Pfanne. Ein köstliches, aromat
 focusKeyphrase: "Radis-Zucchini-Pfanne"
 date: 2025-09-07
 draft: false
-image: radis-zucchini-pfanne.png
+image: radis-zucchini-pfanne.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

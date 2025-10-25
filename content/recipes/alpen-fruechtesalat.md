@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Alpen-Früchtesalat Burrata mit süßen Erdbee
 focusKeyphrase: "Alpen-Früchtesalat Burrata"
 date: 2025-07-20
 draft: false
-image: alpen-fruechtesalat.png
+image: alpen-fruechtesalat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

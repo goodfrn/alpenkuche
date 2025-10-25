@@ -7,7 +7,7 @@ ogDescription: "Kreativ mit Resten umgehen. Gefüllte Paprika mit Putenfarce und
 focusKeyphrase: "Gefüllte Paprika Restefüllung"
 date: 2025-09-27
 draft: false
-image: gefuellte-paprika-restefuellung.png
+image: gefuellte-paprika-restefuellung.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT50M

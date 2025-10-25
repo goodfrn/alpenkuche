@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Rinder-Knochenbrühe Tonkin, eine aromatische Basi
 focusKeyphrase: "Rinder-Knochenbrühe"
 date: 2025-08-28
 draft: false
-image: rinderknochenbruehe-tonkin.png
+image: rinderknochenbruehe-tonkin.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT7H15M

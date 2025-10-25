@@ -7,7 +7,7 @@ ogDescription: "Genieße die Aromen der Knoblauch-Mandel-Suppe mit Quitten – p
 focusKeyphrase: "Knoblauch-Mandel-Suppe"
 date: 2025-08-16
 draft: false
-image: knoblauch-mandel-suppe.png
+image: knoblauch-mandel-suppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

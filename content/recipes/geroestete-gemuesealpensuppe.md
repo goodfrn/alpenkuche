@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die warme Geröstete Gemüsealpensuppe, perfekte M
 focusKeyphrase: "Geröstete Gemüsealpensuppe"
 date: 2025-07-18
 draft: false
-image: geroestete-gemuesealpensuppe.png
+image: geroestete-gemuesealpensuppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

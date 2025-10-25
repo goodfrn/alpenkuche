@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Hamburger Steak mit würziger Champignonsrahmsauce
 focusKeyphrase: "Hamburger Steak mit Champignonsrahmsauce"
 date: 2025-09-25
 draft: false
-image: hamburger-steak-mit-champignonsrahmsauce.png
+image: hamburger-steak-mit-champignonsrahmsauce.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

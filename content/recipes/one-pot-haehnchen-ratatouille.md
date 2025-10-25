@@ -7,7 +7,7 @@ ogDescription: "Erlebe mit One-Pot Hähnchen Ratatouille Twist die Kombination a
 focusKeyphrase: "One-Pot Hähnchen Ratatouille Twist"
 date: 2025-10-14
 draft: false
-image: one-pot-haehnchen-ratatouille.png
+image: one-pot-haehnchen-ratatouille.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT26M

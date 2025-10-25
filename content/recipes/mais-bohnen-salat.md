@@ -7,7 +7,7 @@ ogDescription: "Ein köstlicher, frischer Salat mit geröstetem Mais und Kidneyb
 focusKeyphrase: "Mais-Bohnen-Salat"
 date: 2025-08-19
 draft: false
-image: mais-bohnen-salat.png
+image: mais-bohnen-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

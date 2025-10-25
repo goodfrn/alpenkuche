@@ -7,7 +7,7 @@ ogDescription: "Karamellisierte Nuss-Knusper ist ein süßer, knuspriger Snack. 
 focusKeyphrase: "Karamellisierte Nuss-Knusper"
 date: 2025-07-21
 draft: false
-image: karamellisierte-nuss-knusper.png
+image: karamellisierte-nuss-knusper.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT12M

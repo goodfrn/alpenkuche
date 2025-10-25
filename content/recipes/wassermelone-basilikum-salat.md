@@ -7,7 +7,7 @@ ogDescription: "Genieße den Wassermelonen-Salat – eine Geschmacksexplosion mi
 focusKeyphrase: "Wassermelonen-Salat"
 date: 2025-10-23
 draft: false
-image: wassermelone-basilikum-salat.png
+image: wassermelone-basilikum-salat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT5M

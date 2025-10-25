@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Kalbsgeschnetzeltes Marsala-Spinat, kombiniert mit
 focusKeyphrase: "Kalbsgeschnetzeltes Marsala-Spinat"
 date: 2025-07-19
 draft: false
-image: kalbsgeschnetzeltes-marsala-spinat.png
+image: kalbsgeschnetzeltes-marsala-spinat.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

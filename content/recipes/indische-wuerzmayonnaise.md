@@ -7,7 +7,7 @@ ogDescription: "Erwecke deine Geschmacksknospen mit dieser indischen Würzmayonn
 focusKeyphrase: "Indische Würzmayonnaise"
 date: 2025-08-08
 draft: false
-image: indische-wuerzmayonnaise.png
+image: indische-wuerzmayonnaise.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

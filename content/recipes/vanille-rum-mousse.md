@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie eine feine Vanille-Rum-Mousse mit Mandelnote. Perf
 focusKeyphrase: "Vanille-Rum-Mousse"
 date: 2025-09-24
 draft: false
-image: vanille-rum-mousse.png
+image: vanille-rum-mousse.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT9M

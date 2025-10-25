@@ -7,7 +7,7 @@ ogDescription: "Gänseleber-Aprikosen Häppchen. Perfekt als Vorspeise. Frisch u
 focusKeyphrase: "Gänseleber-Aprikosen Häppchen"
 date: 2025-07-26
 draft: false
-image: gaenseleber-aprikosen-haeppchen.png
+image: gaenseleber-aprikosen-haeppchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

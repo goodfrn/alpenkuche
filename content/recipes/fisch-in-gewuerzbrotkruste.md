@@ -7,7 +7,7 @@ ogDescription: "Fischfilet in gewürzter Brotkruste. Mit karamellisierten Karott
 focusKeyphrase: "Fisch in Gewürzbrotkruste"
 date: 2025-08-09
 draft: false
-image: fisch-in-gewuerzbrotkruste.png
+image: fisch-in-gewuerzbrotkruste.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

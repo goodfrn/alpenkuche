@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen Hafer-Sonnenblumen-Bratlinge; perf
 focusKeyphrase: "Hafer-Sonnenblumen-Bratling"
 date: 2025-08-16
 draft: false
-image: hafer-sonnenblumen-bratling.png
+image: hafer-sonnenblumen-bratling.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT25M

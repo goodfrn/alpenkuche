@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Apfel-Karamell Quadrate mit knuspriger Kruste und 
 focusKeyphrase: "Apfel-Karamell Quadrate"
 date: 2025-09-27
 draft: false
-image: apfel-karamell-quadrate.png
+image: apfel-karamell-quadrate.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

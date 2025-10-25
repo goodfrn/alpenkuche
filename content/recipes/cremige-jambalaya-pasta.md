@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Cremige Jambalaya-Pasta - Hähnchen und Wurst in ei
 focusKeyphrase: "Jambalaya-Pasta"
 date: 2025-10-03
 draft: false
-image: cremige-jambalaya-pasta.png
+image: cremige-jambalaya-pasta.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT27M

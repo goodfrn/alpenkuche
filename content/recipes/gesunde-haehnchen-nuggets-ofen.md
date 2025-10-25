@@ -7,7 +7,7 @@ ogDescription: "Gesunde Hähnchen-Nuggets Ofen, simpel, lecker und ohne viel Fet
 focusKeyphrase: "Gesunde Hähnchen-Nuggets"
 date: 2025-10-03
 draft: false
-image: gesunde-haehnchen-nuggets-ofen.png
+image: gesunde-haehnchen-nuggets-ofen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

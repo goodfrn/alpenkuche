@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Crêpes Burritos mit saftiger Füllung und knuspri
 focusKeyphrase: "Crêpes Burritos"
 date: 2025-07-26
 draft: false
-image: crepes-burritos-abwandlung.png
+image: crepes-burritos-abwandlung.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

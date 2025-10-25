@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie leckere Gemüsenaans mit einer aromatischen Zitron
 focusKeyphrase: "Gemüsenaans mit Zitronen-Kräuter-Mayonnaise"
 date: 2025-08-06
 draft: false
-image: gemuesenaans-mit-zitronen-kraeuter-mayonnaise.png
+image: gemuesenaans-mit-zitronen-kraeuter-mayonnaise.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT5M

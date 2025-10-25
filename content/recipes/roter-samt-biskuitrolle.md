@@ -7,7 +7,7 @@ ogDescription: "Roter Samt Biskuitrolle; entdecke ein festliches Dessert; einfac
 focusKeyphrase: "Roter Samt Biskuitrolle"
 date: 2025-08-05
 draft: false
-image: roter-samt-biskuitrolle.png
+image: roter-samt-biskuitrolle.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT25M

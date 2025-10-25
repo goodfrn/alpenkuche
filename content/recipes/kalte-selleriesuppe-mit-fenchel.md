@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die kalte Selleriesuppe mit Fenchel, perfekter Gen
 focusKeyphrase: "kalte Selleriesuppe mit Fenchel"
 date: 2025-08-14
 draft: false
-image: kalte-selleriesuppe-mit-fenchel.png
+image: kalte-selleriesuppe-mit-fenchel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

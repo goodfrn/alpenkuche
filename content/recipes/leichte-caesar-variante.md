@@ -7,7 +7,7 @@ ogDescription: "Entdecke die leichte Caesar-Variation. Knusprige Brotstücke, za
 focusKeyphrase: "leichte Caesar-Variation"
 date: 2025-08-05
 draft: false
-image: leichte-caesar-variante.png
+image: leichte-caesar-variante.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

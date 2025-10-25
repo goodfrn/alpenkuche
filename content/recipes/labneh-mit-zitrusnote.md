@@ -7,7 +7,7 @@ ogDescription: "Probier diesen cremigen Labneh mit Zitrusnote; perfekt für eine
 focusKeyphrase: "Labneh mit Zitrusnote"
 date: 2025-08-10
 draft: false
-image: labneh-mit-zitrusnote.png
+image: labneh-mit-zitrusnote.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT26H

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den würzigen Ingwersirup mit frischen Aromen von Ingwe
 focusKeyphrase: "Ingwersirup Rezept"
 date: 2025-08-06
 draft: false
-image: wuerziger-ingwersirup.png
+image: wuerziger-ingwersirup.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

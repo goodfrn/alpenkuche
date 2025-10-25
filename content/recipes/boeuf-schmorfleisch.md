@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Bœuf Schmorfleisch mit Kräutersalat – ein schm
 focusKeyphrase: "Bœuf Schmorfleisch"
 date: 2025-08-02
 draft: false
-image: boeuf-schmorfleisch.png
+image: boeuf-schmorfleisch.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT1H10M

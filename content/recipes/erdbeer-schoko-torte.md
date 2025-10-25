@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Erdbeer-Schoko-Torte – köstlich, aromatisch und 
 focusKeyphrase: "Erdbeer-Schoko-Torte"
 date: 2025-10-14
 draft: false
-image: erdbeer-schoko-torte.png
+image: erdbeer-schoko-torte.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

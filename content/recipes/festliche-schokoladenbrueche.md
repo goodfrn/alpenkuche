@@ -7,7 +7,7 @@ ogDescription: "Entdecke festliche Schokoladenbrüche. Eine süße Mischung aus 
 focusKeyphrase: "Schokoladenbrüche"
 date: 2025-07-24
 draft: false
-image: festliche-schokoladenbrueche.png
+image: festliche-schokoladenbrueche.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT6M

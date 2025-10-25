@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie zarte, glasierte Schweinekoteletts mit Thymian und
 focusKeyphrase: "Schweinekoteletts mit Honig-Twist"
 date: 2025-10-14
 draft: false
-image: balsamische-schweinekoteletts.png
+image: balsamische-schweinekoteletts.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT27M

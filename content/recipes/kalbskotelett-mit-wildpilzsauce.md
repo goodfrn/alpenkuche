@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Kalbskotelett mit Wildpilzsauce, perfekt gewürzt 
 focusKeyphrase: "Kalbskotelett"
 date: 2025-07-24
 draft: false
-image: kalbskotelett-mit-wildpilzsauce.png
+image: kalbskotelett-mit-wildpilzsauce.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese herzhaften Kartoffel-Muffin-Häppchen mit Ch
 focusKeyphrase: "Kartoffel-Muffin-Häppchen"
 date: 2025-10-23
 draft: false
-image: kartoffel-muffin-haeppchen.png
+image: kartoffel-muffin-haeppchen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Hase mit Bündnerfleisch, Steinpilzen und Alpenkä
 focusKeyphrase: "Hase mit Bündnerfleisch"
 date: 2025-07-19
 draft: false
-image: hase-mit-buendnerfleisch.png
+image: hase-mit-buendnerfleisch.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT1H05M

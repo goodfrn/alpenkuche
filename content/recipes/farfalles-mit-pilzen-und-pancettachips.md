@@ -7,7 +7,7 @@ ogDescription: "Entdecke Farfalles mit Pilzen und knusprigen Pancettachips. Ein 
 focusKeyphrase: "Farfalles mit Pilzen"
 date: 2025-08-18
 draft: false
-image: farfalles-mit-pilzen-und-pancettachips.png
+image: farfalles-mit-pilzen-und-pancettachips.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

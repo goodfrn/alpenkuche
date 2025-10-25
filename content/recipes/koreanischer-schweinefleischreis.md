@@ -7,7 +7,7 @@ ogDescription: "Dieser koreanische Schweinefleischreis ist ein Geschmackserlebni
 focusKeyphrase: "Koreanischer Schweinefleischreis"
 date: 2025-08-15
 draft: false
-image: koreanischer-schweinefleischreis.png
+image: koreanischer-schweinefleischreis.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Knusprige Würzige Eier mit aromatischer Chorizo u
 focusKeyphrase: "Knusprige Würzige Eier"
 date: 2025-07-23
 draft: false
-image: knusprige-wuerzige-eier.png
+image: knusprige-wuerzige-eier.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT20M

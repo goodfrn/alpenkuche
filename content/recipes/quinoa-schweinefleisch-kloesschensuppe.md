@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese Quinoa-Schweinefleisch Klößchensuppe, perf
 focusKeyphrase: "Quinoa-Schweinefleisch Klößchensuppe"
 date: 2025-09-29
 draft: false
-image: quinoa-schweinefleisch-kloesschensuppe.png
+image: quinoa-schweinefleisch-kloesschensuppe.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

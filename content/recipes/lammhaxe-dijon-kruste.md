@@ -7,7 +7,7 @@ ogDescription: "Entdecke die perfekte Lammhaxe mit Dijon-Kruste und glasiertem W
 focusKeyphrase: "Lammhaxe Dijon-Kruste"
 date: 2025-08-04
 draft: false
-image: lammhaxe-dijon-kruste.png
+image: lammhaxe-dijon-kruste.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT11H30M

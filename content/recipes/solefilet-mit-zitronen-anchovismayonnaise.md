@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das köstliche Solefilet mit aromatischer Zitronen
 focusKeyphrase: "Solefilet mit Zitronen-Anchovismayonnaise"
 date: 2025-09-28
 draft: false
-image: solefilet-mit-zitronen-anchovismayonnaise.png
+image: solefilet-mit-zitronen-anchovismayonnaise.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

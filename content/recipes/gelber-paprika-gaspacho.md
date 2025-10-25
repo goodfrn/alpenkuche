@@ -7,7 +7,7 @@ ogDescription: "Gelber Paprika Gaspacho mit Mango - Eine vegane, erfrischende Vo
 focusKeyphrase: "Gaspacho"
 date: 2025-08-04
 draft: false
-image: gelber-paprika-gaspacho.png
+image: gelber-paprika-gaspacho.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

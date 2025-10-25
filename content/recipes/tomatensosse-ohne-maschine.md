@@ -7,7 +7,7 @@ ogDescription: "Entdecke die frische Tomatensoße ohne Küchenmaschine. Mit regi
 focusKeyphrase: "Tomatensoße ohne Maschine"
 date: 2025-08-04
 draft: false
-image: tomatensosse-ohne-maschine.png
+image: tomatensosse-ohne-maschine.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT50M

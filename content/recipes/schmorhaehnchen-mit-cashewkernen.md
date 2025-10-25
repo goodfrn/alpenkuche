@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Schmorhähnchen mit Cashewkernen. 
 focusKeyphrase: "Schmorhähnchen mit Cashewkernen"
 date: 2025-10-04
 draft: false
-image: schmorhaehnchen-mit-cashewkernen.png
+image: schmorhaehnchen-mit-cashewkernen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT3H10M

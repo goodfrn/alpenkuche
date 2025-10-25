@@ -7,7 +7,7 @@ ogDescription: "Entdecke das köstliche Walnuss Pesto mit Zoodles – eine gesun
 focusKeyphrase: "Walnuss Pesto mit Zoodles"
 date: 2025-10-06
 draft: false
-image: walnuss-pesto-mit-zoodles.png
+image: walnuss-pesto-mit-zoodles.jpg
 author: "Marlena"
 prepTime: PT32M
 cookTime: PT6M

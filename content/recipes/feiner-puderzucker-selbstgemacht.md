@@ -7,7 +7,7 @@ ogDescription: "Feiner Puderzucker selbstgemacht. Der perfekte Zucker für dein 
 focusKeyphrase: "Puderzucker selbstgemacht"
 date: 2025-10-11
 draft: false
-image: feiner-puderzucker-selbstgemacht.png
+image: feiner-puderzucker-selbstgemacht.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

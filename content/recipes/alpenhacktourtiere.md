@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Alpenhacktourtière. Eine herzhafte Pastete mit Kal
 focusKeyphrase: "Alpenhacktourtière"
 date: 2025-07-19
 draft: false
-image: alpenhacktourtiere.png
+image: alpenhacktourtiere.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT1H55M

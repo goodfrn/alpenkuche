@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Tomaten-Zucchini-Tarte. Leicht und 
 focusKeyphrase: "Tomaten-Zucchini-Tarte Rezept"
 date: 2025-07-30
 draft: false
-image: tomaten-zucchini-tarte.png
+image: tomaten-zucchini-tarte.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

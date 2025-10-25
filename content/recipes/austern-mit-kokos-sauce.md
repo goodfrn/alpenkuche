@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Austern mit einer köstlichen Kokos-Zitronengras-S
 focusKeyphrase: "Austern mit Kokos-Zitronengras-Sauce"
 date: 2025-09-25
 draft: false
-image: austern-mit-kokos-sauce.png
+image: austern-mit-kokos-sauce.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT5M

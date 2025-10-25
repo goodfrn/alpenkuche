@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Grüne Kräuter-Chermoula – ein frischer und
 focusKeyphrase: "Grüne Kräuter-Chermoula"
 date: 2025-08-03
 draft: false
-image: gruene-kraeuter-chermoula.png
+image: gruene-kraeuter-chermoula.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

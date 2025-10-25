@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die alpigen Käse-Arancinis, gefüllt mit Schweize
 focusKeyphrase: "Käse-Arancinis"
 date: 2025-07-18
 draft: false
-image: alpiger-kaese-arancinis.png
+image: alpiger-kaese-arancinis.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT55M

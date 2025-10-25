@@ -7,7 +7,7 @@ ogDescription: "Süßkartoffeln gebacken, Knoblauch geröstet, Joghurt frisch, e
 focusKeyphrase: "Geröstete Süßkartoffelcreme"
 date: 2025-07-21
 draft: false
-image: geroestete-suesskartoffelcreme.png
+image: geroestete-suesskartoffelcreme.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT28M

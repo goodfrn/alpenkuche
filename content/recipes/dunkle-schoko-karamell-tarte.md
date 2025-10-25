@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Dunkle Schoko-Karamell-Tarte mit Meersalz; ein
 focusKeyphrase: "Dunkle Schoko-Karamell-Tarte"
 date: 2025-08-05
 draft: false
-image: dunkle-schoko-karamell-tarte.png
+image: dunkle-schoko-karamell-tarte.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT35M

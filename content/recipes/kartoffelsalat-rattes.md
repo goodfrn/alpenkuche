@@ -7,7 +7,7 @@ ogDescription: "Entdecke Kartoffelsalat Rattes mit knusprigen Grünkohlchips; le
 focusKeyphrase: "Kartoffelsalat Rattes"
 date: 2025-08-07
 draft: false
-image: kartoffelsalat-rattes.png
+image: kartoffelsalat-rattes.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke knusprige Tofu-Stäbchen, umhüllt mit Reis-Crunchies. 
 focusKeyphrase: "Knusprige Tofu-Stäbchen"
 date: 2025-09-27
 draft: false
-image: knusprige-tofu-staebchen.png
+image: knusprige-tofu-staebchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT9M

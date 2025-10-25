@@ -7,7 +7,7 @@ ogDescription: "Geniesse glutenfreie Schokoladen-Soufflés mit frischer Orangens
 focusKeyphrase: "Schokoladen-Soufflés ohne Gluten"
 date: 2025-08-07
 draft: false
-image: schokoladen-souffles-ohne-gluten.png
+image: schokoladen-souffles-ohne-gluten.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

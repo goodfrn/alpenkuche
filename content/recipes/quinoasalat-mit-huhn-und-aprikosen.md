@@ -7,7 +7,7 @@ ogDescription: "Quinoasalat mit zarten Hühnchenstücken und süßen Aprikosen. 
 focusKeyphrase: "Quinoasalat"
 date: 2025-08-13
 draft: false
-image: quinoasalat-mit-huhn-und-aprikosen.png
+image: quinoasalat-mit-huhn-und-aprikosen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

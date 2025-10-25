@@ -7,7 +7,7 @@ ogDescription: "Genieße Boeuf Tataki; frische Aromen, zarte Texturen und ein le
 focusKeyphrase: "Boeuf Tataki"
 date: 2025-08-06
 draft: false
-image: boeuf-tataki-mit-limette.png
+image: boeuf-tataki-mit-limette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

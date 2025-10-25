@@ -7,7 +7,7 @@ ogDescription: "Genussvoller Crudo vom Saibling mit einer köstlichen Cranberry-
 focusKeyphrase: "Crudo vom Saibling"
 date: 2025-09-23
 draft: false
-image: crudo-vom-saibling.png
+image: crudo-vom-saibling.jpg
 author: "Marlena"
 prepTime: PT27M
 cookTime: PT10M

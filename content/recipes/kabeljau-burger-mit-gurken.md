@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kombination aus Kabeljau und frittierten Gurken in 
 focusKeyphrase: "Kabeljau-Burger"
 date: 2025-08-07
 draft: false
-image: kabeljau-burger-mit-gurken.png
+image: kabeljau-burger-mit-gurken.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Gaufres Alpen Art – Waffeln mit Bündnerfleisch,
 focusKeyphrase: "Gaufres Alpen Art"
 date: 2025-07-20
 draft: false
-image: gaufres-alpen-art.png
+image: gaufres-alpen-art.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT25M

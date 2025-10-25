@@ -7,7 +7,7 @@ ogDescription: "Erleben Sie den Bok Choy Schweinefilet Salat, eine Fusion aus as
 focusKeyphrase: "Bok Choy Schweinefilet Salat"
 date: 2025-09-25
 draft: false
-image: bok-choy-schweinefilet-salat.png
+image: bok-choy-schweinefilet-salat.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT30M

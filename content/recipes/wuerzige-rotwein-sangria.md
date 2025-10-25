@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Würzige Rotwein Sangria mit frischen Zitrusfr
 focusKeyphrase: "Würzige Rotwein Sangria"
 date: 2025-08-05
 draft: false
-image: wuerzige-rotwein-sangria.png
+image: wuerzige-rotwein-sangria.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

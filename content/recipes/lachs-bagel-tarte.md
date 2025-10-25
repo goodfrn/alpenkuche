@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Lachs-Bagel-Tarte. Ein knuspriger Blätterteigboden
 focusKeyphrase: "Lachs-Bagel-Tarte Rezept"
 date: 2025-08-01
 draft: false
-image: lachs-bagel-tarte.png
+image: lachs-bagel-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

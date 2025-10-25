@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die knusprige Apfeltarte mit Calvados, die im Herb
 focusKeyphrase: "Apfeltarte mit Calvados"
 date: 2025-07-27
 draft: false
-image: knusprige-apfeltarte.png
+image: knusprige-apfeltarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

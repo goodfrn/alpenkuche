@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Maccheroni mit Chorizo und Mais – eine köstlich
 focusKeyphrase: "Maccheroni mit Chorizo"
 date: 2025-08-15
 draft: false
-image: maccheroni-mit-chorizo-und-mais.png
+image: maccheroni-mit-chorizo-und-mais.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für frische Pasta mit Eigelb, die perf
 focusKeyphrase: "frische Pasta"
 date: 2025-08-12
 draft: false
-image: frische-pasta-mit-eigelb.png
+image: frische-pasta-mit-eigelb.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT20M

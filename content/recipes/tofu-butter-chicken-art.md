@@ -7,7 +7,7 @@ ogDescription: "Tofu Butter Chicken Art – Ein köstliches, indisch-vegetarisch
 focusKeyphrase: "Tofu Butter Chicken"
 date: 2025-09-25
 draft: false
-image: tofu-butter-chicken-art.png
+image: tofu-butter-chicken-art.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

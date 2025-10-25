@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Orecchiettes mit scharfer Salsiccia und Rapini. Ge
 focusKeyphrase: "Orecchiettes mit scharfer Salsiccia"
 date: 2025-09-28
 draft: false
-image: orecchiettes-mit-scharfer-salsiccia.png
+image: orecchiettes-mit-scharfer-salsiccia.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

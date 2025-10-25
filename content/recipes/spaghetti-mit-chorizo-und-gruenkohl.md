@@ -7,7 +7,7 @@ ogDescription: "Spaghetti mit Chorizo und Grünkohl – ein einfaches, aromatisc
 focusKeyphrase: "Spaghetti mit Chorizo"
 date: 2025-09-27
 draft: false
-image: spaghetti-mit-chorizo-und-gruenkohl.png
+image: spaghetti-mit-chorizo-und-gruenkohl.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

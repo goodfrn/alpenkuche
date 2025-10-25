@@ -7,7 +7,7 @@ ogDescription: "Genieße Karamell-Pekan-Zimtschnecken, frisch gebacken, knusprig
 focusKeyphrase: "Karamell-Pekan-Zimtschnecken"
 date: 2025-10-13
 draft: false
-image: karamell-pekan-zimtschnecken.png
+image: karamell-pekan-zimtschnecken.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

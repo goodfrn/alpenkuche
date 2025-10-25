@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Rote-Beeren-Konfi mit Orange und Pfeffer. Alpenfris
 focusKeyphrase: "Rote-Beeren-Konfi"
 date: 2025-07-19
 draft: false
-image: rote-beeren-konfi.png
+image: rote-beeren-konfi.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

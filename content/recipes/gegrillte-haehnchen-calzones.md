@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die köstlichen gegrillten Hähnchen-Calzones mit 
 focusKeyphrase: "Gegrillte Hähnchen-Calzones"
 date: 2025-08-18
 draft: false
-image: gegrillte-haehnchen-calzones.png
+image: gegrillte-haehnchen-calzones.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT18M

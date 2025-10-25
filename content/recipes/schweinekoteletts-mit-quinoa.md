@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Schweinekoteletts mit Quinoa Gemüse – ein schne
 focusKeyphrase: "Schweinekoteletts mit Quinoa"
 date: 2025-09-26
 draft: false
-image: schweinekoteletts-mit-quinoa.png
+image: schweinekoteletts-mit-quinoa.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für geschmortes Rindfleisch mit Paprik
 focusKeyphrase: "geschmortes Rindfleisch"
 date: 2025-09-25
 draft: false
-image: geschmortes-rindfleisch-paprika.png
+image: geschmortes-rindfleisch-paprika.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT3H10M

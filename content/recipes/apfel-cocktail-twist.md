@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Apfel-Cocktail Twist; fruchtig, erfrischend und per
 focusKeyphrase: "Apfel-Cocktail Twist"
 date: 2025-08-11
 draft: false
-image: apfel-cocktail-twist.png
+image: apfel-cocktail-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

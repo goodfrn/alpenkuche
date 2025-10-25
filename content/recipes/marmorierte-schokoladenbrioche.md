@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die feine Marmorierung dieser Schokoladenbrioche. 
 focusKeyphrase: "Marmorierte Schokoladenbrioche"
 date: 2025-08-16
 draft: false
-image: marmorierte-schokoladenbrioche.png
+image: marmorierte-schokoladenbrioche.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

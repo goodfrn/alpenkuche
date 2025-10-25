@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie dieses vegane Brokkoli-Knoblauch-Püree mit nussig
 focusKeyphrase: "Brokkoli-Knoblauch-Püree"
 date: 2025-07-27
 draft: false
-image: brokkoli-knoblauch-puree.png
+image: brokkoli-knoblauch-puree.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT1H

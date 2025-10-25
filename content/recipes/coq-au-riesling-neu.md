@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Coq au Riesling neu interpretiert. Ein rustikales 
 focusKeyphrase: "Coq au Riesling"
 date: 2025-08-18
 draft: false
-image: coq-au-riesling-neu.png
+image: coq-au-riesling-neu.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H10M

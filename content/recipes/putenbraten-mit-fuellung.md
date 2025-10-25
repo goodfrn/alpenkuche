@@ -7,7 +7,7 @@ ogDescription: "Erlebe einen besonderen Putenbraten – saftig gefüllt mit Anan
 focusKeyphrase: "Putenbraten mit exotischer Füllung"
 date: 2025-08-08
 draft: false
-image: putenbraten-mit-fuellung.png
+image: putenbraten-mit-fuellung.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT2H40M

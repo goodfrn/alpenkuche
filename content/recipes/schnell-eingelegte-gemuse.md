@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie schnell eingelegte Gemüse in einem schnellen und 
 focusKeyphrase: "schnell eingelegte Gemüse"
 date: 2025-10-23
 draft: false
-image: schnell-eingelegte-gemuse.png
+image: schnell-eingelegte-gemuse.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Buttermilch-Roggen-Crumpets mit einer frischen Zitr
 focusKeyphrase: "Buttermilch-Roggen-Crumpets"
 date: 2025-08-13
 draft: false
-image: buttermilch-roggen-crumpets.png
+image: buttermilch-roggen-crumpets.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT32M

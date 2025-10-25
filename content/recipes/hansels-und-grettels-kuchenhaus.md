@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für ein essbares Kuchenhaus. Rustikaler Sch
 focusKeyphrase: "Kuchenhaus Rezept"
 date: 2025-08-18
 draft: false
-image: hansels-und-grettels-kuchenhaus.png
+image: hansels-und-grettels-kuchenhaus.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT35M

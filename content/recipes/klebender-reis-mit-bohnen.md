@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie klebrigen Reis mit Bohnen, ein kreolisches Rezept 
 focusKeyphrase: "Klebender Reis mit Bohnen"
 date: 2025-07-27
 draft: false
-image: klebender-reis-mit-bohnen.png
+image: klebender-reis-mit-bohnen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

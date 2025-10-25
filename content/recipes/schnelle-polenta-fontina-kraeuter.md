@@ -7,7 +7,7 @@ ogDescription: "Genieße diese schnelle Polenta mit Fontina und frischen Kräute
 focusKeyphrase: "Schnelle Polenta"
 date: 2025-08-14
 draft: false
-image: schnelle-polenta-fontina-kraeuter.png
+image: schnelle-polenta-fontina-kraeuter.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die rustikalen Melasse-Bananen-Kipferli. Perfekt für d
 focusKeyphrase: "Melasse-Bananen-Kipferli"
 date: 2025-07-19
 draft: false
-image: melasse-bananen-kipferli.png
+image: melasse-bananen-kipferli.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

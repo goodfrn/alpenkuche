@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den würzigen Nudelsalat und die Zitronengras-Schw
 focusKeyphrase: "Würzige Nudelsalat"
 date: 2025-07-22
 draft: false
-image: wuerzige-nudelsalat-und-zitronengras-schweine-spiesse.png
+image: wuerzige-nudelsalat-und-zitronengras-schweine-spiesse.jpg
 author: "Marlena"
 prepTime: PT1H15M
 cookTime: PT15M

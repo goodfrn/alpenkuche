@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie, wie hausgemachte Sojamilch mit Ingwer zubereitet 
 focusKeyphrase: "Hausgemachte Sojamilch"
 date: 2025-08-02
 draft: false
-image: hausgemachte-sojamilch-mit-ingwer.png
+image: hausgemachte-sojamilch-mit-ingwer.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

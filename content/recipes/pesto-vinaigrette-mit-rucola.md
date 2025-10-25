@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Pesto-Vinaigrette mit Rucola; wunderbar frisch, ein
 focusKeyphrase: "Pesto-Vinaigrette mit Rucola"
 date: 2025-08-14
 draft: false
-image: pesto-vinaigrette-mit-rucola.png
+image: pesto-vinaigrette-mit-rucola.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

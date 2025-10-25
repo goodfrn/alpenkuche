@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie geschmorte Rindspappardelle mit Kürbis. Ein rusti
 focusKeyphrase: "geschmorte Rindspappardelle"
 date: 2025-08-13
 draft: false
-image: geschmorte-rindspappardelle-kurbis.png
+image: geschmorte-rindspappardelle-kurbis.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT2H15M

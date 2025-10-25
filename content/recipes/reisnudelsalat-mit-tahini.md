@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie einen köstlichen Reisnudelsalat mit Tahini und To
 focusKeyphrase: "Reisnudelsalat mit Tahini und Tofu"
 date: 2025-09-26
 draft: false
-image: reisnudelsalat-mit-tahini.png
+image: reisnudelsalat-mit-tahini.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT4M

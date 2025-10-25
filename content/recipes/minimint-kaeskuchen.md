@@ -7,7 +7,7 @@ ogDescription: "Minimint Käsekuchen vereint Minze und weiße Schokolade in klei
 focusKeyphrase: "Minimint Käsekuchen"
 date: 2025-10-17
 draft: false
-image: minimint-kaeskuchen.png
+image: minimint-kaeskuchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT1H20M

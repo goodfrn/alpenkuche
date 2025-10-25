@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen luftigen Schokoladen Tannenbaum Kuchen, perf
 focusKeyphrase: "Schokoladen Tannenbaum Kuchen"
 date: 2025-07-25
 draft: false
-image: schokoladen-tannenbaum-kuchen.png
+image: schokoladen-tannenbaum-kuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT55M

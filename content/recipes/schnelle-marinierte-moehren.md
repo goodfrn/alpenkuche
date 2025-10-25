@@ -7,7 +7,7 @@ ogDescription: "Knackige, marinierte Möhren mit Apfelessig und Fenchelsamen. Ei
 focusKeyphrase: "Marinierte Möhren"
 date: 2025-08-07
 draft: false
-image: schnelle-marinierte-moehren.png
+image: schnelle-marinierte-moehren.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT6M

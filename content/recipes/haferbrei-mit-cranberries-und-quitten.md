@@ -7,7 +7,7 @@ ogDescription: "Schneller Haferbrei mit Quitten und Cranberries. Ein gesunder Ge
 focusKeyphrase: "Haferbrei mit Quitten"
 date: 2025-08-14
 draft: false
-image: haferbrei-mit-cranberries-und-quitten.png
+image: haferbrei-mit-cranberries-und-quitten.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT6M

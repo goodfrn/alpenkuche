@@ -7,7 +7,7 @@ ogDescription: "Schoko-Blaubeerauflauf ist ein einfacher und leckerer Nachtisch 
 focusKeyphrase: "Schoko-Blaubeerauflauf"
 date: 2025-07-24
 draft: false
-image: schoko-blaubeerauflauf.png
+image: schoko-blaubeerauflauf.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie fluffige Zimt-Scones, die überrascht mit Dinkel u
 focusKeyphrase: "Buttrige Zimt-Scones"
 date: 2025-08-14
 draft: false
-image: buttrige-zimt-scones.png
+image: buttrige-zimt-scones.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

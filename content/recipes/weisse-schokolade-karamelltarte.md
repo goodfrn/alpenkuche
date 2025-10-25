@@ -7,7 +7,7 @@ ogDescription: "Die Weiße Schokolade Karamelltarte besticht durch ihre kontrast
 focusKeyphrase: "Weiße Schokolade Karamelltarte"
 date: 2025-07-27
 draft: false
-image: weisse-schokolade-karamelltarte.png
+image: weisse-schokolade-karamelltarte.jpg
 author: "Marlena"
 prepTime: PT1H10M
 cookTime: PT3H45M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die schokoladigen Haselnuss-Kirsch Brownies mit Amarett
 focusKeyphrase: "Haselnuss-Kirsch Brownies"
 date: 2025-07-21
 draft: false
-image: haselnuss-kirsch-brownies.png
+image: haselnuss-kirsch-brownies.jpg
 author: "Marlena"
 prepTime: PT1H15M
 cookTime: PT50M

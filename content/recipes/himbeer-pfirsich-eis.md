@@ -7,7 +7,7 @@ ogDescription: "Genieße Himbeer-Pfirsich-Eis am Stiel mit cremigem Joghurt. Lei
 focusKeyphrase: "Himbeer-Pfirsich-Eis am Stiel"
 date: 2025-09-29
 draft: false
-image: himbeer-pfirsich-eis.png
+image: himbeer-pfirsich-eis.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT0M

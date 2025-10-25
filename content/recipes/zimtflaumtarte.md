@@ -7,7 +7,7 @@ ogDescription: "Probiere die Zimtflaumtarte mit Pflaumen und genieße das Zusamm
 focusKeyphrase: "Zimtflaumtarte"
 date: 2025-09-30
 draft: false
-image: zimtflaumtarte.png
+image: zimtflaumtarte.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT45M

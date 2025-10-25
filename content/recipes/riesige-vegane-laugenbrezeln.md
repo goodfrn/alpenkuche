@@ -7,7 +7,7 @@ ogDescription: "Holen Sie sich das Rezept für riesige vegane Laugenbrezeln. Aro
 focusKeyphrase: "vegane Laugenbrezeln"
 date: 2025-07-25
 draft: false
-image: riesige-vegane-laugenbrezeln.png
+image: riesige-vegane-laugenbrezeln.jpg
 author: "Marlena"
 prepTime: PT75M
 cookTime: PT7M

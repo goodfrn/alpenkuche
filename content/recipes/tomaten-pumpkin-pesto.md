@@ -7,7 +7,7 @@ ogDescription: "Entdecke ein köstliches Tomaten-Pumpkin-Pesto mit gerösteten K
 focusKeyphrase: "Tomaten-Pumpkin-Pesto"
 date: 2025-09-25
 draft: false
-image: tomaten-pumpkin-pesto.png
+image: tomaten-pumpkin-pesto.jpg
 author: "Marlena"
 prepTime: PT9M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Eier mit Kürbis türkisch, ein genussvolles Gericht. Ideal zum 
 focusKeyphrase: "Eier mit Kürbis türkisch"
 date: 2025-08-03
 draft: false
-image: eier-mit-kuerbis.png
+image: eier-mit-kuerbis.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

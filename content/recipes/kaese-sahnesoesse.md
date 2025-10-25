@@ -7,7 +7,7 @@ ogDescription: "Ein cremiges Rezept für Leichte Käse-Sahnesoße, ideal für Pa
 focusKeyphrase: "Käse-Sahnesoße"
 date: 2025-10-10
 draft: false
-image: kaese-sahnesoesse.png
+image: kaese-sahnesoesse.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT28M

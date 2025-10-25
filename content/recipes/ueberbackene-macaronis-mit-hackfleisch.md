@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese überbackenen Macaronis mit Hackfleisch, rei
 focusKeyphrase: "Überbackene Macaronis mit Hackfleisch"
 date: 2025-09-30
 draft: false
-image: ueberbackene-macaronis-mit-hackfleisch.png
+image: ueberbackene-macaronis-mit-hackfleisch.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

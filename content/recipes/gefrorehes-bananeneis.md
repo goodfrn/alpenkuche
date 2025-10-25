@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefrorenes Bananeneis – optimal bei Laktoseintoleranz
 focusKeyphrase: "Gefrorenes Bananeneis"
 date: 2025-10-06
 draft: false
-image: gefrorehes-bananeneis.png
+image: gefrorehes-bananeneis.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

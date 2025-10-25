@@ -7,7 +7,7 @@ ogDescription: "Der herbstliche Panzanella Salat vereint knusprige Brotwürfel u
 focusKeyphrase: "Herbstlicher Panzanella Salat"
 date: 2025-10-05
 draft: false
-image: herbstlicher-panzanella-salat.png
+image: herbstlicher-panzanella-salat.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

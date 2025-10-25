@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rote-Bete-Tofu Sandwich Twist. Ein herzhaftes, vega
 focusKeyphrase: "Rote-Bete-Tofu Sandwich"
 date: 2025-08-18
 draft: false
-image: rote-bete-tofu-sandwich.png
+image: rote-bete-tofu-sandwich.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT15M

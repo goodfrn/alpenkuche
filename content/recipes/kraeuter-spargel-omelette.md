@@ -7,7 +7,7 @@ ogDescription: "Kräuter-Spargel-Omelette. Einfache Anleitung für ein schmackha
 focusKeyphrase: "Kräuter-Spargel-Omelette"
 date: 2025-08-10
 draft: false
-image: kraeuter-spargel-omelette.png
+image: kraeuter-spargel-omelette.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

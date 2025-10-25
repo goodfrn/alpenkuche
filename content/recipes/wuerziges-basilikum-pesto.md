@@ -7,7 +7,7 @@ ogDescription: "Entdecke unser würziges Basilikum-Pesto. Aromatisch und perfekt
 focusKeyphrase: "Würziges Basilikum-Pesto"
 date: 2025-08-05
 draft: false
-image: wuerziges-basilikum-pesto.png
+image: wuerziges-basilikum-pesto.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT7M

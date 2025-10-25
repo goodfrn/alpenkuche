@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gefüllte Kartoffeln mit Jakobsmuscheln und einer 
 focusKeyphrase: "Gefüllte Kartoffeln"
 date: 2025-09-26
 draft: false
-image: gefuellte-kartoffeln-mit-jakobsmuscheln.png
+image: gefuellte-kartoffeln-mit-jakobsmuscheln.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT27M

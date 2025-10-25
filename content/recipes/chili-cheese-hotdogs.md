@@ -7,7 +7,7 @@ ogDescription: "Chili-Cheese Hotdogs – Würzig und cremig, perfekt für gesell
 focusKeyphrase: "Chili-Cheese Hotdogs"
 date: 2025-09-29
 draft: false
-image: chili-cheese-hotdogs.png
+image: chili-cheese-hotdogs.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT50M

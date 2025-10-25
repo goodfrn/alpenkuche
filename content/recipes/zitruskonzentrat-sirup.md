@@ -7,7 +7,7 @@ ogDescription: "Zitruskonzentrat Sirup selbst gemacht. Erleben Sie frische Arome
 focusKeyphrase: "Zitruskonzentrat Sirup"
 date: 2025-09-26
 draft: false
-image: zitruskonzentrat-sirup.png
+image: zitruskonzentrat-sirup.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Garnelenpfanne mit Kimchi und Alpenkäse eine 
 focusKeyphrase: "Garnelenpfanne"
 date: 2025-07-20
 draft: false
-image: garnelenpfanne-mit-kimchi.png
+image: garnelenpfanne-mit-kimchi.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT10M

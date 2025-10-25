@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie S'mores Snack Mix, eine kreative Kombination aus C
 focusKeyphrase: "S'mores Snack Mix"
 date: 2025-10-14
 draft: false
-image: smoresh-snack-mix.png
+image: smoresh-snack-mix.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

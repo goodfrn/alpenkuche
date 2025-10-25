@@ -7,7 +7,7 @@ ogDescription: "Leckere Hähnchen-Chorizo Spieße – aromatisch und saftig. Per
 focusKeyphrase: "Hähnchen-Chorizo Spieße"
 date: 2025-09-25
 draft: false
-image: haehnchen-chorizo-spiesse.png
+image: haehnchen-chorizo-spiesse.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

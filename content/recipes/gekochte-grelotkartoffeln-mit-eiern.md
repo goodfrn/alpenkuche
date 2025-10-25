@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unseren Gekochte Grelotkartoffeln mit Eiern Salat.
 focusKeyphrase: "Gekochte Grelotkartoffeln mit Eiern"
 date: 2025-08-06
 draft: false
-image: gekochte-grelotkartoffeln-mit-eiern.png
+image: gekochte-grelotkartoffeln-mit-eiern.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

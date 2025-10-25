@@ -7,7 +7,7 @@ ogDescription: "Entdecke die knusprigen Sesam Garnelen Tartines. Ein Genuss mit 
 focusKeyphrase: "Sesam Garnelen Tartines"
 date: 2025-09-24
 draft: false
-image: sesam-garnelen-tartines.png
+image: sesam-garnelen-tartines.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

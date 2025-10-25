@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Brathähnchen mit Wurzelgemüse - 
 focusKeyphrase: "Brathähnchen mit Wurzelgemüse"
 date: 2025-08-28
 draft: false
-image: brathaehnchen-mit-wurzelgemues.png
+image: brathaehnchen-mit-wurzelgemues.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT1H55M

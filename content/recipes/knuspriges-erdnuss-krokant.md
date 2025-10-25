@@ -7,7 +7,7 @@ ogDescription: "Knuspriges Erdnuss-Krokant, perfekt für den Kaffeetisch oder al
 focusKeyphrase: "Knuspriges Erdnuss-Krokant"
 date: 2025-08-13
 draft: false
-image: knuspriges-erdnuss-krokant.png
+image: knuspriges-erdnuss-krokant.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT12M

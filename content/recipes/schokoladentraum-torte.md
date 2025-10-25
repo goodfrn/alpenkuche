@@ -7,7 +7,7 @@ ogDescription: "Genieße die Schokoladentraum Torte; eine intensive Kombination 
 focusKeyphrase: "Schokoladentraum Torte"
 date: 2025-08-05
 draft: false
-image: schokoladentraum-torte.png
+image: schokoladentraum-torte.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

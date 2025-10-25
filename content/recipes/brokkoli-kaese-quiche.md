@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese aromatische Brokkoli-Käse-Quiche, einfach z
 focusKeyphrase: "Brokkoli-Käse-Quiche"
 date: 2025-08-09
 draft: false
-image: brokkoli-kaese-quiche.png
+image: brokkoli-kaese-quiche.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H15M

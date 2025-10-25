@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen fruchtigen Passionsfrucht Kokos Pudding. Exo
 focusKeyphrase: "Passionsfrucht Kokos Pudding"
 date: 2025-07-21
 draft: false
-image: passionsfrucht-kokos-pudding.png
+image: passionsfrucht-kokos-pudding.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT45M

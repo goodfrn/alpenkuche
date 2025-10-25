@@ -7,7 +7,7 @@ ogDescription: "Ahorn Pudding aus dem Slow Cooker; entdecken Sie eine traumhafte
 focusKeyphrase: "Ahorn Pudding"
 date: 2025-08-11
 draft: false
-image: ahorn-pudding-slow-cooker.png
+image: ahorn-pudding-slow-cooker.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H55M

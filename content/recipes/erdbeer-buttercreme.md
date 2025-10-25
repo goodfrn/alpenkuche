@@ -7,7 +7,7 @@ ogDescription: "Erdbeer-Buttercreme: Erleben Sie die elegante Balance von frucht
 focusKeyphrase: "Erdbeer-Buttercreme"
 date: 2025-10-13
 draft: false
-image: erdbeer-buttercreme.png
+image: erdbeer-buttercreme.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen von gerösteten Tomaten und Fenchel in 
 focusKeyphrase: "Geröstete Tomatensuppe"
 date: 2025-08-07
 draft: false
-image: geroestete-tomatensuppe-mit-fenchel.png
+image: geroestete-tomatensuppe-mit-fenchel.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Eine inspirierende Kombination aus Hähnchen, Pancetta und gerä
 focusKeyphrase: "Hähnchen-Caesar-Spieße"
 date: 2025-08-05
 draft: false
-image: haehnchen-caesar-spiesse.png
+image: haehnchen-caesar-spiesse.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

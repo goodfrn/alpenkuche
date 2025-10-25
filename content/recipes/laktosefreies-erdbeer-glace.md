@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein laktosefreies Erdbeer-Glace mit frischen, reif
 focusKeyphrase: "laktosefreies Erdbeer-Glace"
 date: 2025-07-21
 draft: false
-image: laktosefreies-erdbeer-glace.png
+image: laktosefreies-erdbeer-glace.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT7M

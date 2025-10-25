@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Ahorn-Karamell French Toast mit Blaubeerkompott. E
 focusKeyphrase: "Ahorn-Karamell French Toast"
 date: 2025-09-29
 draft: false
-image: ahorn-karamell-french-toast.png
+image: ahorn-karamell-french-toast.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

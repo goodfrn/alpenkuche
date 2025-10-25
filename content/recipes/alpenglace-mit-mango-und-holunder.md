@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie das Alpenglace mit Mango und Holunder. Ein Sommerd
 focusKeyphrase: "Alpenglace mit Mango und Holunder"
 date: 2025-07-18
 draft: false
-image: alpenglace-mit-mango-und-holunder.png
+image: alpenglace-mit-mango-und-holunder.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

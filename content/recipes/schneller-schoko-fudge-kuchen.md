@@ -7,7 +7,7 @@ ogDescription: "Ein köstlicher Schoko-Fudge-Kuchen mit Espresso und Kakaogeschm
 focusKeyphrase: "Schneller Schoko-Fudge-Kuchen"
 date: 2025-10-13
 draft: false
-image: schneller-schoko-fudge-kuchen.png
+image: schneller-schoko-fudge-kuchen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT38M

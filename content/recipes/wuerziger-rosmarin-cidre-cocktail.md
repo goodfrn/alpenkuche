@@ -7,7 +7,7 @@ ogDescription: "Erfrischender Würziger Rosmarin-Cidre-Cocktail mit einzigartige
 focusKeyphrase: "Würziger Rosmarin-Cidre-Cocktail"
 date: 2025-08-16
 draft: false
-image: wuerziger-rosmarin-cidre-cocktail.png
+image: wuerziger-rosmarin-cidre-cocktail.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

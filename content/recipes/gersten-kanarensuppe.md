@@ -7,7 +7,7 @@ ogDescription: "Rustikale Gersten-Kanarensuppe, perfekt für kalte Tage. Graupen
 focusKeyphrase: "Gersten-Kanarensuppe"
 date: 2025-08-01
 draft: false
-image: gersten-kanarensuppe.png
+image: gersten-kanarensuppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Hähnchen-Piadina mit Prosciutto und Blumenkoh
 focusKeyphrase: "Hähnchen-Piadina"
 date: 2025-09-30
 draft: false
-image: haehnchen-piadina-mit-prosciutto.png
+image: haehnchen-piadina-mit-prosciutto.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

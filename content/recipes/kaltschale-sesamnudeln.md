@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese kalten Sesamnudeln mit Räuchertofu. Schnell
 focusKeyphrase: "Kaltschale Sesamnudeln"
 date: 2025-09-25
 draft: false
-image: kaltschale-sesamnudeln.png
+image: kaltschale-sesamnudeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT8M

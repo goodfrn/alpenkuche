@@ -7,7 +7,7 @@ ogDescription: "Finde heraus, wie du mit Erdbeer-Limetten-Wasser besondere Erfri
 focusKeyphrase: "Erdbeer-Limetten-Wasser"
 date: 2025-08-13
 draft: false
-image: erdbeer-limetten-wasser.png
+image: erdbeer-limetten-wasser.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

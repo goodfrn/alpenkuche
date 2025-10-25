@@ -7,7 +7,7 @@ ogDescription: "Würzige Hoisin-Mustard Sauce, ideal für asiatische Küche. Veg
 focusKeyphrase: "Hoisin-Mustard Sauce"
 date: 2025-08-04
 draft: false
-image: hoisin-senf-sauce-twist.png
+image: hoisin-senf-sauce-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

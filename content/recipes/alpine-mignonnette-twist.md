@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Alpine Mignonnette Twist, eine zarte Sauce mit
 focusKeyphrase: "Alpine Mignonnette Twist"
 date: 2025-07-19
 draft: false
-image: alpine-mignonnette-twist.png
+image: alpine-mignonnette-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

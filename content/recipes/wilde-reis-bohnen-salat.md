@@ -7,7 +7,7 @@ ogDescription: "Entdecke den erdigen Geschmack des Wildreises in diesem salzigen
 focusKeyphrase: "Wilde Reis-Bohnen-Salat"
 date: 2025-08-07
 draft: false
-image: wilde-reis-bohnen-salat.png
+image: wilde-reis-bohnen-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H5M

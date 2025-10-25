@@ -7,7 +7,7 @@ ogDescription: "Fruchtiger Obst-Shake mit Zitrusnoten und Avocado. Der ideale Sn
 focusKeyphrase: "Sonniger Obst-Shake"
 date: 2025-08-13
 draft: false
-image: sonniger-obst-shake.png
+image: sonniger-obst-shake.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT0M

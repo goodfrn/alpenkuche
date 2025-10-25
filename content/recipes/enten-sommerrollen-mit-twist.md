@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einmalige Enten Sommerrollen mit knackigem Gemüse
 focusKeyphrase: "Enten Sommerrollen"
 date: 2025-08-05
 draft: false
-image: enten-sommerrollen-mit-twist.png
+image: enten-sommerrollen-mit-twist.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT5M

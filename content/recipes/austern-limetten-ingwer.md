@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Austern Limetten Ingwer. Frisch un
 focusKeyphrase: "Austern Limetten Ingwer"
 date: 2025-07-27
 draft: false
-image: austern-limetten-ingwer.png
+image: austern-limetten-ingwer.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT0M

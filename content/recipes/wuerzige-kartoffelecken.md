@@ -7,7 +7,7 @@ ogDescription: "Entdecke die würzigen Kartoffelecken, perfekt gebacken mit eine
 focusKeyphrase: "Würzige Kartoffelecken"
 date: 2025-10-03
 draft: false
-image: wuerzige-kartoffelecken.png
+image: wuerzige-kartoffelecken.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

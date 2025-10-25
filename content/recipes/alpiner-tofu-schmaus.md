@@ -7,7 +7,7 @@ ogDescription: "Scharf-milder Alpiner Tofu-Schmaus mit Tofu, Steinpilzen und kna
 focusKeyphrase: "Alpiner Tofu-Schmaus"
 date: 2025-07-18
 draft: false
-image: alpiner-tofu-schmaus.png
+image: alpiner-tofu-schmaus.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

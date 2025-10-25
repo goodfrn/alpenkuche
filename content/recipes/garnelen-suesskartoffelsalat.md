@@ -7,7 +7,7 @@ ogDescription: "Garnelen Süßkartoffelsalat; verbindet süß und salzig, ideal 
 focusKeyphrase: "Garnelen Süßkartoffelsalat"
 date: 2025-08-17
 draft: false
-image: garnelen-suesskartoffelsalat.png
+image: garnelen-suesskartoffelsalat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

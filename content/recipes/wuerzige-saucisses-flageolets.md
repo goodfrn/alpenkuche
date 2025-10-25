@@ -7,7 +7,7 @@ ogDescription: "Würzige Saucisses mit Flageolets – Ein herzhaftes Gericht fü
 focusKeyphrase: "Würzige Saucisses mit Flageolets"
 date: 2025-09-24
 draft: false
-image: wuerzige-saucisses-flageolets.png
+image: wuerzige-saucisses-flageolets.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT3H

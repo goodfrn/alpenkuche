@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Gravlax mit Apfel-Calvados. Ein Genuss,
 focusKeyphrase: "Gravlax mit Apfel-Calvados"
 date: 2025-08-19
 draft: false
-image: gravlax-mit-apfel-calvados.png
+image: gravlax-mit-apfel-calvados.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

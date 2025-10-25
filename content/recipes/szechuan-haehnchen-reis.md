@@ -7,7 +7,7 @@ ogDescription: "Szechuan Hähnchen Reis – würziges Hähnchen in süß-saurer 
 focusKeyphrase: "Szechuan Hähnchen Reis"
 date: 2025-10-23
 draft: false
-image: szechuan-haehnchen-reis.png
+image: szechuan-haehnchen-reis.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

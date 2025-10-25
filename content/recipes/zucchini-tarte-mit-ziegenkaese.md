@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese Zucchini-Tarte mit Ziegenkäse. Knuspriger B
 focusKeyphrase: "Zucchini-Tarte mit Ziegenkäse"
 date: 2025-07-21
 draft: false
-image: zucchini-tarte-mit-ziegenkaese.png
+image: zucchini-tarte-mit-ziegenkaese.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT20M

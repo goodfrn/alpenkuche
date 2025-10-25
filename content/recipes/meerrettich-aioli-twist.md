@@ -7,7 +7,7 @@ ogDescription: "Ein einzigartiger Meerrettich Aioli Twist mit frischen Aromen. P
 focusKeyphrase: "Meerrettich Aioli"
 date: 2025-10-21
 draft: false
-image: meerrettich-aioli-twist.png
+image: meerrettich-aioli-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

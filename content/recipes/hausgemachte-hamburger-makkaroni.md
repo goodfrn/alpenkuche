@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen Hamburger-Makkaroni. Ein herzhafte
 focusKeyphrase: "Hamburger-Makkaroni"
 date: 2025-10-10
 draft: false
-image: hausgemachte-hamburger-makkaroni.png
+image: hausgemachte-hamburger-makkaroni.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Twist des Coney Island Iced Teas mit frischen Arome
 focusKeyphrase: "Coney Island Eis Tee"
 date: 2025-08-12
 draft: false
-image: twists-coney-island-eis-tee.png
+image: twists-coney-island-eis-tee.jpg
 author: "Marlena"
 prepTime: PT4M
 cookTime: PT0M

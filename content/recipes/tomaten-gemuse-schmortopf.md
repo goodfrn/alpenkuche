@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Tomaten-Gemüse Schmortopf, ein vegetarisches Geric
 focusKeyphrase: "Tomaten-Gemüse Schmortopf"
 date: 2025-08-13
 draft: false
-image: tomaten-gemuse-schmortopf.png
+image: tomaten-gemuse-schmortopf.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

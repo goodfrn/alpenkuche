@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Lachs Cranberry Twist. Ein Gericht aus frischem La
 focusKeyphrase: "Lachs Cranberry Twist"
 date: 2025-08-07
 draft: false
-image: lachs-cranberry-twist.png
+image: lachs-cranberry-twist.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen unseres Hähnchens mit Soße neu: knusp
 focusKeyphrase: "Hähnchen mit Soße"
 date: 2025-10-07
 draft: false
-image: haehnchen-mit-sosse-neu.png
+image: haehnchen-mit-sosse-neu.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT48M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke Gnocchi Rind Rosmarin. Hausgemachte Gnocchi mit Rind- u
 focusKeyphrase: "Gnocchi Rind Rosmarin"
 date: 2025-08-12
 draft: false
-image: gnocchi-rind-rosmarin.png
+image: gnocchi-rind-rosmarin.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT6H30M

@@ -7,7 +7,7 @@ ogDescription: "Luftiges Soufflé-Omelett mit Avocado-Salsa; ideal für ein gesc
 focusKeyphrase: "Mexikanisches Soufflé-Omelett"
 date: 2025-08-05
 draft: false
-image: mexikanisches-souffle-omelett.png
+image: mexikanisches-souffle-omelett.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

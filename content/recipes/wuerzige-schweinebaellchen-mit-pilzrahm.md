@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Würzigen Schweinebällchen mit Pilzrahm – ein he
 focusKeyphrase: "Würzige Schweinebällchen"
 date: 2025-08-16
 draft: false
-image: wuerzige-schweinebaellchen-mit-pilzrahm.png
+image: wuerzige-schweinebaellchen-mit-pilzrahm.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H20M

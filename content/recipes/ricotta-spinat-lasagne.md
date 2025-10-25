@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Ricotta-Spinat-Lasagne. Ideal für Famil
 focusKeyphrase: "Ricotta-Spinat-Lasagne"
 date: 2025-08-08
 draft: false
-image: ricotta-spinat-lasagne.png
+image: ricotta-spinat-lasagne.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT1H

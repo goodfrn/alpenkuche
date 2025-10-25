@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gebratene Garnelen mit Korianderwurzel. Aromatisch
 focusKeyphrase: "Gebratene Garnelen mit Korianderwurzel"
 date: 2025-08-08
 draft: false
-image: gebratene-garnelen-mit-korianderwurzel.png
+image: gebratene-garnelen-mit-korianderwurzel.jpg
 author: "Marlena"
 prepTime: PT0H12M
 cookTime: PT0H6M

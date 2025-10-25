@@ -7,7 +7,7 @@ ogDescription: "Genieße dieses Senfhähnchen mit Kräutersauce. Zarte Hähnchen
 focusKeyphrase: "Senfhähnchen mit Kräutersauce"
 date: 2025-10-09
 draft: false
-image: senfhaehnchen-mit-kraeutersauce.png
+image: senfhaehnchen-mit-kraeutersauce.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT21M

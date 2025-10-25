@@ -7,7 +7,7 @@ ogDescription: "Entdecke die rustikale Sommerfruchttarte - frische Früchte und 
 focusKeyphrase: "Rustikale Sommerfruchttarte"
 date: 2025-09-28
 draft: false
-image: rustikale-sommerfruchttarte.png
+image: rustikale-sommerfruchttarte.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT32M

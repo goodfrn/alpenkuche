@@ -7,7 +7,7 @@ ogDescription: "Wer kann einem knusprigen Keks widerstehen? Nüsse, Trockenfrüc
 focusKeyphrase: "Nuss-Trail-Mix-Kekse"
 date: 2025-10-16
 draft: false
-image: knusprige-nuss-trail-mix-kekse.png
+image: knusprige-nuss-trail-mix-kekse.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT10M

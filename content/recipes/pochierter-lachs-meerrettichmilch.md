@@ -7,7 +7,7 @@ ogDescription: "Pochierter Lachs in Meerrettichmilch - ein Gericht voller Überr
 focusKeyphrase: "Pochierter Lachs"
 date: 2025-08-02
 draft: false
-image: pochierter-lachs-meerrettichmilch.png
+image: pochierter-lachs-meerrettichmilch.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

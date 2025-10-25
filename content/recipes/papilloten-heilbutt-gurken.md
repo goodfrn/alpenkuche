@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für Papilloten Heilbutt Gurken. Fris
 focusKeyphrase: "Papilloten Heilbutt Gurken"
 date: 2025-07-27
 draft: false
-image: papilloten-heilbutt-gurken.png
+image: papilloten-heilbutt-gurken.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT14M

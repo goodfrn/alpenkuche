@@ -7,7 +7,7 @@ ogDescription: "Entdecke den würzigen Bier-Chili Drink mit rauchigem Paprika un
 focusKeyphrase: "Würziger Bier-Chili Drink"
 date: 2025-08-13
 draft: false
-image: wuerziger-bier-chili-drink.png
+image: wuerziger-bier-chili-drink.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

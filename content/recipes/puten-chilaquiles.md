@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Chilaquiles mit Pute. Zarte Putenbrust und eine ra
 focusKeyphrase: "Chilaquiles mit Pute"
 date: 2025-07-22
 draft: false
-image: puten-chilaquiles.png
+image: puten-chilaquiles.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H25M

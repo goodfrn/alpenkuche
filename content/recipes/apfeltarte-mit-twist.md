@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Apfeltarte mit Twist. Knuspriger Mürbeteig, k
 focusKeyphrase: "Apfeltarte"
 date: 2025-08-01
 draft: false
-image: apfeltarte-mit-twist.png
+image: apfeltarte-mit-twist.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

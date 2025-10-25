@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Nordische Garnelentatar-Bowl für ein geschmac
 focusKeyphrase: "Nordische Garnelentatar-Bowl"
 date: 2025-08-12
 draft: false
-image: nordische-garnelentatar-bowl.png
+image: nordische-garnelentatar-bowl.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT18M

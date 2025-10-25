@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie die Alpen-Maispfannkuchen, glutenfrei und voll mit
 focusKeyphrase: "Alpen-Maispfannkuchen"
 date: 2025-07-18
 draft: false
-image: alpen-maispfannkuchen.png
+image: alpen-maispfannkuchen.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT14M

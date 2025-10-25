@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Lachs im Miso-Papillote; zart, aromatisch und schn
 focusKeyphrase: "Lachs im Miso-Papillote"
 date: 2025-08-16
 draft: false
-image: lachs-im-miso-papillote.png
+image: lachs-im-miso-papillote.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

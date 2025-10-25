@@ -7,7 +7,7 @@ ogDescription: "Asiatisch gedämpfter Lachs mit intensiven Aromen; perfektes Rez
 focusKeyphrase: "gedämpfter asiatischer Lachs"
 date: 2025-08-13
 draft: false
-image: gedampfter-asiatischer-lachs.png
+image: gedampfter-asiatischer-lachs.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Genieße Enten-Spieße mit Honig-Glasur, aromatisch und perfekt 
 focusKeyphrase: "Enten-Spieße"
 date: 2025-09-23
 draft: false
-image: enten-spiess-mit-honig-glasur.png
+image: enten-spiess-mit-honig-glasur.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für einen spritzigen Apfel-Ingwer Spri
 focusKeyphrase: "Apfel-Ingwer Spritz Twist"
 date: 2025-07-28
 draft: false
-image: apfel-ingwer-spritz-twist.png
+image: apfel-ingwer-spritz-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

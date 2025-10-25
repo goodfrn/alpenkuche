@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Süß-Scharfe Paprika-Soße; eine harmonische Fusio
 focusKeyphrase: "Süß-Scharfe Paprika-Soße"
 date: 2025-08-19
 draft: false
-image: suess-scharfe-paprika-sosse.png
+image: suess-scharfe-paprika-sosse.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

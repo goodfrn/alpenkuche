@@ -7,7 +7,7 @@ ogDescription: "Blumenkohl-Ricotta-Gnocchi vereinen Aromen und Texturen; begleit
 focusKeyphrase: "Blumenkohl-Ricotta-Gnocchi"
 date: 2025-09-29
 draft: false
-image: blumenkohl-ricotta-gnocchi.png
+image: blumenkohl-ricotta-gnocchi.jpg
 author: "Marlena"
 prepTime: PT75M
 cookTime: PT38M

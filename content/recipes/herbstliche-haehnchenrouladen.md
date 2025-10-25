@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie herbstliche Hähnchenrouladen, gefüllt mit buntem
 focusKeyphrase: "Hähnchenrouladen mit Gemüse"
 date: 2025-08-13
 draft: false
-image: herbstliche-haehnchenrouladen.png
+image: herbstliche-haehnchenrouladen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT35M

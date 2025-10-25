@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unsere Rhabarber-Hibiskus Limonade. Erfrischend un
 focusKeyphrase: "Rhabarber-Hibiskus Limonade"
 date: 2025-07-25
 draft: false
-image: rhabarber-hibiskus-limonade.png
+image: rhabarber-hibiskus-limonade.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

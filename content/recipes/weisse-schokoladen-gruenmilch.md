@@ -7,7 +7,7 @@ ogDescription: "Entdecke die bunte Weiße Schokoladen-Grünmilch, ein einzigarti
 focusKeyphrase: "Weiße Schokoladen-Grünmilch"
 date: 2025-07-25
 draft: false
-image: weisse-schokoladen-gruenmilch.png
+image: weisse-schokoladen-gruenmilch.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

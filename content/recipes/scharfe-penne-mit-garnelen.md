@@ -7,7 +7,7 @@ ogDescription: "Entdecke scharfe Penne mit Garnelen. Einfaches Rezept mit kräft
 focusKeyphrase: "scharfe Penne mit Garnelen"
 date: 2025-07-25
 draft: false
-image: scharfe-penne-mit-garnelen.png
+image: scharfe-penne-mit-garnelen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

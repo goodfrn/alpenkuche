@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für würziges Hühnchen mit Honigmelon
 focusKeyphrase: "Würziges Hühnchen Rezept"
 date: 2025-08-05
 draft: false
-image: wuerziges-huehnchen-mit-honigmelone.png
+image: wuerziges-huehnchen-mit-honigmelone.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT12M

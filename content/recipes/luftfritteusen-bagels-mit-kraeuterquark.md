@@ -7,7 +7,7 @@ ogDescription: "Entdecke die luftigen Bagels aus Dinkel und Buchweizen, ideal al
 focusKeyphrase: "Luftfritteusen-Bagels"
 date: 2025-08-18
 draft: false
-image: luftfritteusen-bagels-mit-kraeuterquark.png
+image: luftfritteusen-bagels-mit-kraeuterquark.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

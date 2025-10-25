@@ -7,7 +7,7 @@ ogDescription: "Perfekte gegrillte Hähnchenschnitzel, kombiniert mit fruchtiger
 focusKeyphrase: "Gegrillte Hähnchenschnitzel"
 date: 2025-08-19
 draft: false
-image: gegrillte-haehnchenschnitzel-tomate-mozzarella.png
+image: gegrillte-haehnchenschnitzel-tomate-mozzarella.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

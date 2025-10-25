@@ -7,7 +7,7 @@ ogDescription: "Vielfalt auf dem Tisch: Entdecke knusprige und cremige Tartines 
 focusKeyphrase: "Tartines Rezept"
 date: 2025-08-08
 draft: false
-image: herzhafte-und-suess-tartines.png
+image: herzhafte-und-suess-tartines.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

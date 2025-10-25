@@ -7,7 +7,7 @@ ogDescription: "Erdbeer-Thymian Gin Smash: Ein spritziger Cocktail für alle, di
 focusKeyphrase: "Erdbeer-Thymian Gin Smash"
 date: 2025-09-24
 draft: false
-image: erdbeer-thymian-gin-smash.png
+image: erdbeer-thymian-gin-smash.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

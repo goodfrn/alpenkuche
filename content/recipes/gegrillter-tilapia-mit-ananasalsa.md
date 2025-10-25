@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillten Tilapia mit Ananassalsa auf Reisnudeln.
 focusKeyphrase: "gegrillter Tilapia"
 date: 2025-08-03
 draft: false
-image: gegrillter-tilapia-mit-ananasalsa.png
+image: gegrillter-tilapia-mit-ananasalsa.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

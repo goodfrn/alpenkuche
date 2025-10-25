@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Alpine Tonkatsu-Soße Twist. Eine Kombination, die 
 focusKeyphrase: "Alpine Tonkatsu-Soße"
 date: 2025-07-19
 draft: false
-image: alpine-tonkatsu-sosse.png
+image: alpine-tonkatsu-sosse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

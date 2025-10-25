@@ -7,7 +7,7 @@ ogDescription: "Probiere den Negroni Colada Twist – Kombination aus unkonventi
 focusKeyphrase: "Negroni Colada Twist"
 date: 2025-08-11
 draft: false
-image: negroni-colada-twist.png
+image: negroni-colada-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

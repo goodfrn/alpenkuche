@@ -7,7 +7,7 @@ ogDescription: "Würziger Antipasto-Mix, ein raffinierter Mix aus Paprika, Olive
 focusKeyphrase: "Würziger Antipasto-Mix"
 date: 2025-09-29
 draft: false
-image: wuerziger-antipasto-mix.png
+image: wuerziger-antipasto-mix.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT10M

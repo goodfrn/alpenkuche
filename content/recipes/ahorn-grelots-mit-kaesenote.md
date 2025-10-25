@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie kleine Grelots, gebraten mit Ahornsirup und Käse.
 focusKeyphrase: "Ahorn Grelots mit Käsenote"
 date: 2025-07-21
 draft: false
-image: ahorn-grelots-mit-kaesenote.png
+image: ahorn-grelots-mit-kaesenote.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

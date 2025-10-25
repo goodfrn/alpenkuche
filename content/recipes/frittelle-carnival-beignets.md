@@ -7,7 +7,7 @@ ogDescription: "Frittelle Carnival Beignets bieten knusprigen Genuss. Ideal für
 focusKeyphrase: "Frittelle Carnival Beignets"
 date: 2025-09-25
 draft: false
-image: frittelle-carnival-beignets.png
+image: frittelle-carnival-beignets.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT18M

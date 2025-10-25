@@ -7,7 +7,7 @@ ogDescription: "Würziges Chili Vegetarisch, eine perfekte Kombination aus edlen
 focusKeyphrase: "Würziges Chili Vegetarisch"
 date: 2025-08-10
 draft: false
-image: wuerziges-chili-vegetarisch.png
+image: wuerziges-chili-vegetarisch.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

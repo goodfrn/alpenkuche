@@ -7,7 +7,7 @@ ogDescription: "Fruchtiges Feigen-Blaubeer-Chutney. Perfekt für Käse oder Brot
 focusKeyphrase: "Feigen-Blaubeer-Chutney"
 date: 2025-09-25
 draft: false
-image: feigen-blaubeer-chutney.png
+image: feigen-blaubeer-chutney.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

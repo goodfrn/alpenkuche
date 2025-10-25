@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Spätzle mit Rucola & Hähnchen – eine raffinier
 focusKeyphrase: "Spätzle mit Rucola & Hähnchen"
 date: 2025-08-20
 draft: false
-image: spaetzle-mit-rucola-haehnchen.png
+image: spaetzle-mit-rucola-haehnchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

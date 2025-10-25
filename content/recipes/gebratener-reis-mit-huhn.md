@@ -7,7 +7,7 @@ ogDescription: "Leckerer gebratener Reis mit zartem Huhn und aromatischen Pilzen
 focusKeyphrase: "gebratener Reis mit Huhn"
 date: 2025-09-24
 draft: false
-image: gebratener-reis-mit-huhn.png
+image: gebratener-reis-mit-huhn.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT22M

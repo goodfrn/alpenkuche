@@ -7,7 +7,7 @@ ogDescription: "Schnelle Nüsse. Mikrowelle, kein Öl. Schnell gemacht. Knusprig
 focusKeyphrase: "Mikrowellen Nuss Röster"
 date: 2025-07-28
 draft: false
-image: mikrowellen-nuss-roester.png
+image: mikrowellen-nuss-roester.jpg
 author: "Marlena"
 prepTime: PT2M
 cookTime: PT3M

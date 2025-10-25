@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Mascarpone Cannoli, ein Genuss mit frischen Aromen. Knu
 focusKeyphrase: "Zitronen-Mascarpone Cannoli"
 date: 2025-08-03
 draft: false
-image: zitronen-mascarpone-cannoli.png
+image: zitronen-mascarpone-cannoli.jpg
 author: "Marlena"
 prepTime: PT1H25M
 cookTime: PT15M

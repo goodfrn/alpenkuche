@@ -7,7 +7,7 @@ ogDescription: "Entdecke mein gefrorenes Himbeersorbet-Experiment. Frische Himbe
 focusKeyphrase: "Himbeersorbet"
 date: 2025-08-12
 draft: false
-image: gefroenes-himbeersorbet-experiment.png
+image: gefroenes-himbeersorbet-experiment.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

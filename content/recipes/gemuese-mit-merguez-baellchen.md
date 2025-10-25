@@ -7,7 +7,7 @@ ogDescription: "Langsam gegartes Gemüse mit würzigen Merguez-Bällchen. Ein ec
 focusKeyphrase: "Merguez-Bällchen mit Gemüse"
 date: 2025-08-02
 draft: false
-image: gemuese-mit-merguez-baellchen.png
+image: gemuese-mit-merguez-baellchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT8H25M

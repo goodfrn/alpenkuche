@@ -7,7 +7,7 @@ ogDescription: "Eine gesunde und würzige alpine Dessertalternative ohne Milchpr
 focusKeyphrase: "Alpiner Chai-Crème ohne Lacto"
 date: 2025-07-19
 draft: false
-image: alpiner-chai-creme.png
+image: alpiner-chai-creme.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Ahorn-Rosmarin Cocktail. Apfelvermouth und Gin
 focusKeyphrase: "Ahorn-Rosmarin Cocktail"
 date: 2025-07-23
 draft: false
-image: ahorn-rosmarin-cocktail.png
+image: ahorn-rosmarin-cocktail.jpg
 author: "Marlena"
 prepTime: PT0H17M
 cookTime: PT0H0M

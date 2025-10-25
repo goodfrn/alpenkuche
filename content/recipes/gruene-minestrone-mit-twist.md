@@ -7,7 +7,7 @@ ogDescription: "Entdecke die grüne Minestrone mit einem speziellen Twist. Herzh
 focusKeyphrase: "grüne Minestrone"
 date: 2025-08-14
 draft: false
-image: gruene-minestrone-mit-twist.png
+image: gruene-minestrone-mit-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

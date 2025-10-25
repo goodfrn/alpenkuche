@@ -7,7 +7,7 @@ ogDescription: "Alpines Chou-Omelett mit Meer und Speck - eine spannende Fusion,
 focusKeyphrase: "Alpines Chou-Omelett"
 date: 2025-07-20
 draft: false
-image: alpines-chou-omelett.png
+image: alpines-chou-omelett.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Mini-Limetten Cupcakes mit Kokoscreme – ein fruchtiger Genuss 
 focusKeyphrase: "Mini-Limetten Cupcakes"
 date: 2025-08-16
 draft: false
-image: mini-limetten-cupcakes.png
+image: mini-limetten-cupcakes.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT15M

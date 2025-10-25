@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Tannenpute mit Perlzwiebelsoße; kräftiges Ge
 focusKeyphrase: "Tannenpute"
 date: 2025-08-03
 draft: false
-image: tannenpute-mit-perlzwiebelsose.png
+image: tannenpute-mit-perlzwiebelsose.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT1H25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Eclairs mit Alpen-Schokolade. Brandteig, Vanillecr
 focusKeyphrase: "Eclairs mit Alpen-Schokolade"
 date: 2025-07-21
 draft: false
-image: eclairs-mit-alpen-schokolade.png
+image: eclairs-mit-alpen-schokolade.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT32M

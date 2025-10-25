@@ -7,7 +7,7 @@ ogDescription: "Knuspriger Alpiger Kräuterbuttertoast. Mit handgeschlagener But
 focusKeyphrase: "Alpiger Kräuterbuttertoast"
 date: 2025-07-18
 draft: false
-image: alpiger-kraeuterbuttertoast.png
+image: alpiger-kraeuterbuttertoast.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

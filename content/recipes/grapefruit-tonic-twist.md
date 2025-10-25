@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Grapefruit Tonic Twist, ein erfrischendes, alk
 focusKeyphrase: "Grapefruit Tonic Twist"
 date: 2025-08-06
 draft: false
-image: grapefruit-tonic-twist.png
+image: grapefruit-tonic-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

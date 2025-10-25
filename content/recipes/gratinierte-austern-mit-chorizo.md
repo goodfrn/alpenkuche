@@ -7,7 +7,7 @@ ogDescription: "Gratinierte Austern mit einer würzigen Chorizo-Füllung; ideal 
 focusKeyphrase: "gratinierte Austern"
 date: 2025-09-28
 draft: false
-image: gratinierte-austern-mit-chorizo.png
+image: gratinierte-austern-mit-chorizo.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT12M

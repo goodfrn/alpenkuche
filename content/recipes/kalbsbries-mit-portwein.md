@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Kalbsbries in Portweinsauce, ergänzt mit Trauben 
 focusKeyphrase: "Kalbsbries Rezept"
 date: 2025-09-29
 draft: false
-image: kalbsbries-mit-portwein.png
+image: kalbsbries-mit-portwein.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT22M

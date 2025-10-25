@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Gemüse-Tofu-Pfanne mit Cashews. Bunt, protein
 focusKeyphrase: "Gemüse-Tofu-Pfanne"
 date: 2025-07-25
 draft: false
-image: gemuese-tofu-pfanne.png
+image: gemuese-tofu-pfanne.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT18M

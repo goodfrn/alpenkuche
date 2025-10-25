@@ -7,7 +7,7 @@ ogDescription: "Mango-Lassi Eis am Stiel – Ein erfrischendes, cremiges Dessert
 focusKeyphrase: "Mango-Lassi Eis am Stiel"
 date: 2025-09-25
 draft: false
-image: mango-lassi-eis-am-stiel.png
+image: mango-lassi-eis-am-stiel.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

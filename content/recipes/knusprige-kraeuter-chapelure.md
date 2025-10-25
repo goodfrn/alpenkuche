@@ -7,7 +7,7 @@ ogDescription: "Knusprige Kräuter-Chapelure für Salate und Aufläufe. Vegane Z
 focusKeyphrase: "Knusprige Kräuter-Chapelure"
 date: 2025-07-22
 draft: false
-image: knusprige-kraeuter-chapelure.png
+image: knusprige-kraeuter-chapelure.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

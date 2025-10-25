@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Käsekroketten mit Walnüssen, ein schnelles und s
 focusKeyphrase: "Käsekroketten"
 date: 2025-07-23
 draft: false
-image: kaesekroketten-mit-walnuessen.png
+image: kaesekroketten-mit-walnuessen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den leckeren Quinoa Power Salat mit frischem Gemü
 focusKeyphrase: "Quinoa Power Salat"
 date: 2025-10-05
 draft: false
-image: quinoa-power-salat.png
+image: quinoa-power-salat.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Leckere Gewürz-Kürbis Quadrate mit exotischen Gewürzen. Genie
 focusKeyphrase: "Gewürz-Kürbis Quadrate"
 date: 2025-07-26
 draft: false
-image: gewuerz-kuerbis-quadrate.png
+image: gewuerz-kuerbis-quadrate.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT50M

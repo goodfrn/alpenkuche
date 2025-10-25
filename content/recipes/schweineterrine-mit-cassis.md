@@ -7,7 +7,7 @@ ogDescription: "Die Schweineterrine mit Cassis ist ein wahrer Genuss. Verfeinert
 focusKeyphrase: "Schweineterrine mit Cassis"
 date: 2025-07-28
 draft: false
-image: schweineterrine-mit-cassis.png
+image: schweineterrine-mit-cassis.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H20M

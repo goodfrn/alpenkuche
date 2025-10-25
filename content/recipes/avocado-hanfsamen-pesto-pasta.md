@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Avocado-Hanfsamen-Pesto-Pasta. Einf
 focusKeyphrase: "Avocado-Hanfsamen-Pesto-Pasta"
 date: 2025-10-09
 draft: false
-image: avocado-hanfsamen-pesto-pasta.png
+image: avocado-hanfsamen-pesto-pasta.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT14M

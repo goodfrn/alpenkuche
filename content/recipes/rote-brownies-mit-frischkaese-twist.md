@@ -7,7 +7,7 @@ ogDescription: "Rote Brownies mit Frischkäse-Twist. Verändert klassisch, frisc
 focusKeyphrase: "rote brownies"
 date: 2025-08-07
 draft: false
-image: rote-brownies-mit-frischkaese-twist.png
+image: rote-brownies-mit-frischkaese-twist.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

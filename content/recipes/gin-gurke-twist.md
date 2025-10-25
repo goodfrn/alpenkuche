@@ -7,7 +7,7 @@ ogDescription: "Genieße den Gin Gurke Twist; erfrischender Cocktail mit Gurkens
 focusKeyphrase: "Gin Gurke Twist"
 date: 2025-08-19
 draft: false
-image: gin-gurke-twist.png
+image: gin-gurke-twist.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

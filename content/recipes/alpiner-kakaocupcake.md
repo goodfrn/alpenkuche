@@ -7,7 +7,7 @@ ogDescription: "Schokoladige Cupcakes mit einem Hauch Appenzeller Käse. Perfekt
 focusKeyphrase: "Alpiner Kakaocupcake"
 date: 2025-07-21
 draft: false
-image: alpiner-kakaocupcake.png
+image: alpiner-kakaocupcake.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

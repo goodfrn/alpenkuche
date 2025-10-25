@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das neue Rezept für hausgemachtes Kimchi - voller
 focusKeyphrase: "hausgemachtes Kimchi"
 date: 2025-08-14
 draft: false
-image: hausgemachtes-kimchi.png
+image: hausgemachtes-kimchi.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT15M

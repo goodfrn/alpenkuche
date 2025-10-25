@@ -7,7 +7,7 @@ ogDescription: "Entdecke Fastenbrioche mit fruchtigen Rosinen und Aprikosen. Lec
 focusKeyphrase: "Fastenbrioche Rezept"
 date: 2025-07-24
 draft: false
-image: fastenbrioche-mit-rosinen-und-aprikosen.png
+image: fastenbrioche-mit-rosinen-und-aprikosen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

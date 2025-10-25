@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie rustikales mongolisches Rindfleisch; zartes Fleisc
 focusKeyphrase: "Mongolisches Rindfleisch"
 date: 2025-10-11
 draft: false
-image: rustikales-mongolisches-rindfleisch.png
+image: rustikales-mongolisches-rindfleisch.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

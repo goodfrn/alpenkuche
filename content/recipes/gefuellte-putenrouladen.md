@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gefüllte Putenrouladen mit Quinoa und einer cremi
 focusKeyphrase: "Gefüllte Putenrouladen"
 date: 2025-08-10
 draft: false
-image: gefuellte-putenrouladen.png
+image: gefuellte-putenrouladen.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H20M

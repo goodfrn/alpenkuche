@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie diesen mehrschichtigen Kuchen voller frischer Himb
 focusKeyphrase: "Weißer Schokoladen-Himbeer Kuchen"
 date: 2025-07-30
 draft: false
-image: weisser-schokoladen-himbeer-kuchen.png
+image: weisser-schokoladen-himbeer-kuchen.jpg
 author: "Marlena"
 prepTime: PT75M
 cookTime: PT20M

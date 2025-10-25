@@ -7,7 +7,7 @@ ogDescription: "Méchoui Schwein am Spieß - Entdecken Sie das Geheimnis hinter 
 focusKeyphrase: "Méchoui Schwein am Spieß"
 date: 2025-08-09
 draft: false
-image: mechoui-schwein-am-spiess.png
+image: mechoui-schwein-am-spiess.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT9H30M

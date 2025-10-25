@@ -7,7 +7,7 @@ ogDescription: "Entdecke die rustikale Gersten-Bohnensuppe, sättigend und aroma
 focusKeyphrase: "Gersten-Bohnensuppe"
 date: 2025-09-27
 draft: false
-image: gersten-bohnensuppe.png
+image: gersten-bohnensuppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT65M

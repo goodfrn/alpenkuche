@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen Tomaten-Bohnen-Eintopf mit Rosmarin – per
 focusKeyphrase: "Tomaten-Bohnen-Eintopf"
 date: 2025-08-02
 draft: false
-image: tomaten-bohnen-eintopf.png
+image: tomaten-bohnen-eintopf.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

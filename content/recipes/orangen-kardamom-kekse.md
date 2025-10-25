@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Orangen-Kardamom Kekse. Ein köstliches Rezept
 focusKeyphrase: "Orangen-Kardamom Kekse"
 date: 2025-10-13
 draft: false
-image: orangen-kardamom-kekse.png
+image: orangen-kardamom-kekse.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT13M

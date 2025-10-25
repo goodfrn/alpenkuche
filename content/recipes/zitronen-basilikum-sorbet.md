@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Basilikum-Sorbet - Erfrischend und aromatisch. Ein mode
 focusKeyphrase: "Zitronen-Basilikum-Sorbet"
 date: 2025-08-18
 draft: false
-image: zitronen-basilikum-sorbet.png
+image: zitronen-basilikum-sorbet.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT7M

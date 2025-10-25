@@ -7,7 +7,7 @@ ogDescription: "Gurken-Feta-Avocado Salat – einfach zuzubereiten, frisch und l
 focusKeyphrase: "Gurken-Feta-Avocado Salat"
 date: 2025-08-09
 draft: false
-image: gurken-feta-avocado-salat.png
+image: gurken-feta-avocado-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

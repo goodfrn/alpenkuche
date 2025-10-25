@@ -7,7 +7,7 @@ ogDescription: "Kalter Lachs Taboulé ist eine genussvolle Kombination aus zarte
 focusKeyphrase: "Kalter Lachs Taboulé"
 date: 2025-07-26
 draft: false
-image: kalter-lachs-taboule.png
+image: kalter-lachs-taboule.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Pecorino-Hähnchen mit Kartoffeln. Voller Geschmack, ei
 focusKeyphrase: "Zitronen-Pecorino-Hähnchen"
 date: 2025-08-07
 draft: false
-image: zitronen-pecorino-haehnchen.png
+image: zitronen-pecorino-haehnchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT40M

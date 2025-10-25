@@ -7,7 +7,7 @@ ogDescription: "Unser Vierfrüchte-Ingwer-Tarte Rezept kombiniert frische Äpfel
 focusKeyphrase: "Vierfrüchte-Ingwer-Tarte"
 date: 2025-07-30
 draft: false
-image: vierfruechte-ingwer-tarte.png
+image: vierfruechte-ingwer-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT55M

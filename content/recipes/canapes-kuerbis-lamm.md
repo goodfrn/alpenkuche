@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen von Butternut-Kürbis und Lammfleisch i
 focusKeyphrase: "Canapés Kürbis Lamm"
 date: 2025-09-23
 draft: false
-image: canapes-kuerbis-lamm.png
+image: canapes-kuerbis-lamm.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT32M

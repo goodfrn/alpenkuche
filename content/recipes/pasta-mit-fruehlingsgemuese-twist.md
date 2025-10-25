@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Pasta mit Frühlingsgemüse-Twist. Leicht und arom
 focusKeyphrase: "Pasta mit Frühlingsgemüse"
 date: 2025-07-23
 draft: false
-image: pasta-mit-fruehlingsgemuese-twist.png
+image: pasta-mit-fruehlingsgemuese-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Quesadillas mit Truthahnresten – eine einfache, 
 focusKeyphrase: "Quesadillas mit Truthahn"
 date: 2025-09-27
 draft: false
-image: quesadillas-mit-truthahnresten.png
+image: quesadillas-mit-truthahnresten.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gebratenen Hähnchenreis mit knackigem Gemüse und
 focusKeyphrase: "Gebratener Hähnchenreis"
 date: 2025-10-17
 draft: false
-image: gebratener-haehnchenreis.png
+image: gebratener-haehnchenreis.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT14M

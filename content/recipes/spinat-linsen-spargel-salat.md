@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie einen köstlichen Spinat Linsen Spargel Salat mit 
 focusKeyphrase: "Spinat Linsen Spargel Salat"
 date: 2025-08-13
 draft: false
-image: spinat-linsen-spargel-salat.png
+image: spinat-linsen-spargel-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

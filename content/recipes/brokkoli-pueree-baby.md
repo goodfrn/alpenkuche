@@ -7,7 +7,7 @@ ogDescription: "Brokkoli-Püree Baby – Schnelles Rezept für den perfekten Bre
 focusKeyphrase: "Brokkoli-Püree für Babys"
 date: 2025-09-26
 draft: false
-image: brokkoli-pueree-baby.png
+image: brokkoli-pueree-baby.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke diesen mediterranen Nudelsalat mit Thunfisch. Lecker, f
 focusKeyphrase: "Mediterraner Nudelsalat mit Thunfisch"
 date: 2025-08-09
 draft: false
-image: mediterraner-nudelsalat-mit-thunfisch.png
+image: mediterraner-nudelsalat-mit-thunfisch.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

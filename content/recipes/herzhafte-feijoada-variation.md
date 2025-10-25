@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Herzhafte Feijoada Variation mit Geheimtipps z
 focusKeyphrase: "Herzhafte Feijoada"
 date: 2025-08-11
 draft: false
-image: herzhafte-feijoada-variation.png
+image: herzhafte-feijoada-variation.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT2H45M

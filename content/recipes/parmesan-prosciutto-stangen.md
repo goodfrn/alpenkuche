@@ -7,7 +7,7 @@ ogDescription: "Parmesan-Prosciutto Stangen sind der perfekte Snack, aromatisch 
 focusKeyphrase: "Parmesan-Prosciutto Stangen"
 date: 2025-10-08
 draft: false
-image: parmesan-prosciutto-stangen.png
+image: parmesan-prosciutto-stangen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen cremigen Sellerie-Käse-Dip mit Cheddar und 
 focusKeyphrase: "Sellerie-Käse-Dip"
 date: 2025-08-03
 draft: false
-image: sellerie-kaese-dip.png
+image: sellerie-kaese-dip.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

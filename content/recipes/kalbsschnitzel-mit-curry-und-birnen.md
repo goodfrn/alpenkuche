@@ -7,7 +7,7 @@ ogDescription: "Kalbsschnitzel mit Curry und Birnen; ein Gericht, das die Aromen
 focusKeyphrase: "Kalbsschnitzel mit Curry und Birnen"
 date: 2025-09-23
 draft: false
-image: kalbsschnitzel-mit-curry-und-birnen.png
+image: kalbsschnitzel-mit-curry-und-birnen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

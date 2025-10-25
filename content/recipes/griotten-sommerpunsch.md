@@ -7,7 +7,7 @@ ogDescription: "Griotten Sommerpunsch ist der perfekte fruchtige Drink für jede
 focusKeyphrase: "Griotten Sommerpunsch"
 date: 2025-07-28
 draft: false
-image: griotten-sommerpunsch.png
+image: griotten-sommerpunsch.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

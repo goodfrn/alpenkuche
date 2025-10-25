@@ -7,7 +7,7 @@ ogDescription: "Warme Schokoladentarte mit knackiger Kruste und flüssiger Füll
 focusKeyphrase: "Warme Schokoladentarte"
 date: 2025-07-29
 draft: false
-image: warme-schokoladentarte.png
+image: warme-schokoladentarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Gewürzten Masala Chai Twist – ein neuartiger Gen
 focusKeyphrase: "Gewürzter Masala Chai Twist"
 date: 2025-08-14
 draft: false
-image: gewuertzter-masala-chai-twist.png
+image: gewuertzter-masala-chai-twist.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT25M

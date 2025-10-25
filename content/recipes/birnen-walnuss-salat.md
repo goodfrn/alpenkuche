@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen knackigen Birnen-Walnuss Salat mit Ziegenfri
 focusKeyphrase: "Birnen-Walnuss Salat"
 date: 2025-10-15
 draft: false
-image: birnen-walnuss-salat.png
+image: birnen-walnuss-salat.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT0M

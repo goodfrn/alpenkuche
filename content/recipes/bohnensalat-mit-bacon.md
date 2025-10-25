@@ -7,7 +7,7 @@ ogDescription: "Probiere unseren Bohnensalat mit Bacon und Panzanella. Einfache 
 focusKeyphrase: "Bohnensalat mit Bacon und Panzanella"
 date: 2025-07-21
 draft: false
-image: bohnensalat-mit-bacon.png
+image: bohnensalat-mit-bacon.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

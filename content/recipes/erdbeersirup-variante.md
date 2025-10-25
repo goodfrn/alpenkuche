@@ -7,7 +7,7 @@ ogDescription: "Frischer Erdbeersirup mit Ahornsirup und Zitronensaft, intensiv 
 focusKeyphrase: "Erdbeersirup Rezept"
 date: 2025-08-05
 draft: false
-image: erdbeersirup-variante.png
+image: erdbeersirup-variante.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

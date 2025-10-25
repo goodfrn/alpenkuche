@@ -7,7 +7,7 @@ ogDescription: "Leckere Apfel-Cranberry-Walnuss-Tarte – perfekt für deinen n�
 focusKeyphrase: "Apfel-Cranberry-Walnuss-Tarte"
 date: 2025-08-14
 draft: false
-image: apfel-cranberry-walnuss-tarte.png
+image: apfel-cranberry-walnuss-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

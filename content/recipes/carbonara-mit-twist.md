@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die einzigartige Carbonara mit Twist. Eine Kombina
 focusKeyphrase: "Carbonara"
 date: 2025-10-16
 draft: false
-image: carbonara-mit-twist.png
+image: carbonara-mit-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT19M

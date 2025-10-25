@@ -7,7 +7,7 @@ ogDescription: "Zartes Lammgigot mit Rotwein und Gewürzen. Ein mediterranes Ger
 focusKeyphrase: "Mediterraner Lammgigot"
 date: 2025-08-17
 draft: false
-image: mediterraner-lammgigot.png
+image: mediterraner-lammgigot.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT2H20M

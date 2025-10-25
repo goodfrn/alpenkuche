@@ -7,7 +7,7 @@ ogDescription: "Weiße Schokoladen Scones kombiniert mit frischem Grapefruitaufs
 focusKeyphrase: "Weiße Schokoladen Scones"
 date: 2025-07-27
 draft: false
-image: weisse-schokoladen-scones.png
+image: weisse-schokoladen-scones.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT18M

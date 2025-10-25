@@ -7,7 +7,7 @@ ogDescription: "Entdecke Mutters Schokoladenpudding. Ein schokoladiger Genuss mi
 focusKeyphrase: "Mutters Schokoladenpudding"
 date: 2025-07-29
 draft: false
-image: mutters-schokoladenpudding.png
+image: mutters-schokoladenpudding.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT40M

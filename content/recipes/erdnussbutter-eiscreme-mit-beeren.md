@@ -7,7 +7,7 @@ ogDescription: "Entdecke Erdnussbutter-Eiscreme mit Beeren; cremig, fruchtig –
 focusKeyphrase: "Erdnussbutter-Eiscreme"
 date: 2025-08-14
 draft: false
-image: erdnussbutter-eiscreme-mit-beeren.png
+image: erdnussbutter-eiscreme-mit-beeren.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Küchenliebe: Bananen-Crème-Tarte mit einem würzigen Hauch von
 focusKeyphrase: "Bananen-Crème-Tarte"
 date: 2025-07-19
 draft: false
-image: bananen-creme-tarte.png
+image: bananen-creme-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

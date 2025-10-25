@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Würzige Grundtrockmarinade für Fleisch, Gemüse o
 focusKeyphrase: "Würzige Grundtrockmarinade"
 date: 2025-08-03
 draft: false
-image: wuerzige-grundtrockmarinade.png
+image: wuerzige-grundtrockmarinade.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

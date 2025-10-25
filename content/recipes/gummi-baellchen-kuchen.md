@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Gummi-Bällchen Kuchen: Locker, frisch und verspiel
 focusKeyphrase: "Gummi-Bällchen Kuchen"
 date: 2025-08-17
 draft: false
-image: gummi-baellchen-kuchen.png
+image: gummi-baellchen-kuchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT50M

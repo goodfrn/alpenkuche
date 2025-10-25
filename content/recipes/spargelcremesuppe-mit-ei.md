@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Spargelcremesuppe mit pizzazz. In dieser himml
 focusKeyphrase: "Spargelcremesuppe"
 date: 2025-08-10
 draft: false
-image: spargelcremesuppe-mit-ei.png
+image: spargelcremesuppe-mit-ei.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT35M

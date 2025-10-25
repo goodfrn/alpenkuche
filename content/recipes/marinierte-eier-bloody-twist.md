@@ -7,7 +7,7 @@ ogDescription: "Entdecke die aufregenden Aromen marinierter Eier in einer spezie
 focusKeyphrase: "Marinierte Eier"
 date: 2025-08-08
 draft: false
-image: marinierte-eier-bloody-twist.png
+image: marinierte-eier-bloody-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT5M

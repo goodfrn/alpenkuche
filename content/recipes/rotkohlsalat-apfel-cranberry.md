@@ -7,7 +7,7 @@ ogDescription: "Ein knackiger Rotkohlsalat mit Apfel und Cranberries, perfekt al
 focusKeyphrase: "Rotkohlsalat"
 date: 2025-08-08
 draft: false
-image: rotkohlsalat-apfel-cranberry.png
+image: rotkohlsalat-apfel-cranberry.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Reissalat mit Tofu und Apfel. Ein gesunder, ve
 focusKeyphrase: "Reissalat mit Tofu und Apfel"
 date: 2025-09-27
 draft: false
-image: reissalat-mit-tofu-und-apfel.png
+image: reissalat-mit-tofu-und-apfel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H

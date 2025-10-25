@@ -7,7 +7,7 @@ ogDescription: "Erlebe die köstliche Kombination von Zitronen-Kokos-Granité un
 focusKeyphrase: "Zitronen-Kokos-Granité Affogato"
 date: 2025-09-30
 draft: false
-image: zitronen-kokos-granite-affogato.png
+image: zitronen-kokos-granite-affogato.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

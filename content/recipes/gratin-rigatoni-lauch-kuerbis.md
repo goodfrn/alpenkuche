@@ -7,7 +7,7 @@ ogDescription: "Gratin Rigatoni Lauch Kürbis ist ein saisonaler Auflauf mit cre
 focusKeyphrase: "Gratin Rigatoni Lauch Kürbis"
 date: 2025-09-21
 draft: false
-image: gratin-rigatoni-lauch-kuerbis.png
+image: gratin-rigatoni-lauch-kuerbis.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT65M

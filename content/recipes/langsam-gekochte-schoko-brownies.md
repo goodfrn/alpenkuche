@@ -7,7 +7,7 @@ ogDescription: "Köstliche Schoko-Brownies aus der Mijoteuse; genussvoll weich u
 focusKeyphrase: "Schoko-Brownies Rezept"
 date: 2025-08-06
 draft: false
-image: langsam-gekochte-schoko-brownies.png
+image: langsam-gekochte-schoko-brownies.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT2H30M

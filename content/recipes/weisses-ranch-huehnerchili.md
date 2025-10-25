@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das cremige weiße Ranch Hühnerchili. Ein herzhaf
 focusKeyphrase: "Weißes Ranch Hühnerchili"
 date: 2025-10-17
 draft: false
-image: weisses-ranch-huehnerchili.png
+image: weisses-ranch-huehnerchili.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT6H45M

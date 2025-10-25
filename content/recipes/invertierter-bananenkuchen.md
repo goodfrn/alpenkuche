@@ -7,7 +7,7 @@ ogDescription: "Entdecke den invertierten Bananenkuchen – eine wahre Geschmack
 focusKeyphrase: "Invertierter Bananenkuchen"
 date: 2025-08-09
 draft: false
-image: invertierter-bananenkuchen.png
+image: invertierter-bananenkuchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Hähnchen-Kürbis-Auflauf, herzhaft und mit fe
 focusKeyphrase: "Hähnchen-Kürbis-Auflauf"
 date: 2025-08-13
 draft: false
-image: haehnchen-kuerbis-auflauf.png
+image: haehnchen-kuerbis-auflauf.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Köstliche Himbeer-Whoopie-Pies mit Schokolade und frischen Arom
 focusKeyphrase: "Himbeer-Whoopie-Pies"
 date: 2025-08-06
 draft: false
-image: himbeer-whoopie-pies.png
+image: himbeer-whoopie-pies.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT30M

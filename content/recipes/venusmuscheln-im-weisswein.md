@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Venusmuscheln in Weißwein, ergänzt durch ein knu
 focusKeyphrase: "Venusmuscheln im Weißwein"
 date: 2025-08-18
 draft: false
-image: venusmuscheln-im-weisswein.png
+image: venusmuscheln-im-weisswein.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

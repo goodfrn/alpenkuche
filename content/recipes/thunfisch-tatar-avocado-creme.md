@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Thunfisch Tatar, eine spannende Mischung aus
 focusKeyphrase: "Thunfisch Tatar"
 date: 2025-08-03
 draft: false
-image: thunfisch-tatar-avocado-creme.png
+image: thunfisch-tatar-avocado-creme.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

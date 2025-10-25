@@ -7,7 +7,7 @@ ogDescription: "Grapefruit-Kuchen mit Zitronenmelisse, fruchtig, locker, ideal z
 focusKeyphrase: "Grapefruit-Kuchen"
 date: 2025-08-03
 draft: false
-image: grapefruit-kuchen-mit-twist.png
+image: grapefruit-kuchen-mit-twist.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Selbstgemachtes Kräutersalz mit Bärlauch und Zitronenthymian. 
 focusKeyphrase: "Kräutersalz"
 date: 2025-07-27
 draft: false
-image: krautersalz-baerlauch-zitronenthymian.png
+image: krautersalz-baerlauch-zitronenthymian.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

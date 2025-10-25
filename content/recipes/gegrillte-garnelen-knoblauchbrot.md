@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillte Garnelen Knoblauchbrot; eine köstliche 
 focusKeyphrase: "gegrillte Garnelen"
 date: 2025-09-28
 draft: false
-image: gegrillte-garnelen-knoblauchbrot.png
+image: gegrillte-garnelen-knoblauchbrot.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Probier gefüllte Kartoffeln mit Brokkoli und italienischer Wurs
 focusKeyphrase: "Gefüllte Kartoffeln Brokkoli Wurst"
 date: 2025-08-11
 draft: false
-image: gefuellte-kartoffeln-brokkoli-wurst.png
+image: gefuellte-kartoffeln-brokkoli-wurst.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

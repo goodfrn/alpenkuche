@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie köstliche Apfel-Karamell-Kekse mit einer fruchtig
 focusKeyphrase: "Apfel-Karamell-Kekse"
 date: 2025-08-15
 draft: false
-image: apfelkaramellkekse.png
+image: apfelkaramellkekse.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT45M

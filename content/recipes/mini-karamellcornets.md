@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Mini-Karamellcornets. Süßes Dessert, das bei jede
 focusKeyphrase: "Mini-Karamellcornets"
 date: 2025-07-27
 draft: false
-image: mini-karamellcornets.png
+image: mini-karamellcornets.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

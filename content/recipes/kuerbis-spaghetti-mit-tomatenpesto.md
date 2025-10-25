@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die aromatischen Kürbis-Spaghetti mit würzigem T
 focusKeyphrase: "Kürbis-Spaghetti mit Tomatenpesto"
 date: 2025-08-04
 draft: false
-image: kuerbis-spaghetti-mit-tomatenpesto.png
+image: kuerbis-spaghetti-mit-tomatenpesto.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT40M

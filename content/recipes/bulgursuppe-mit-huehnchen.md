@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Bulgursuppe mit Hühnchen – eine herzhafte Mischu
 focusKeyphrase: "Bulgursuppe mit Hühnchen"
 date: 2025-09-25
 draft: false
-image: bulgursuppe-mit-huehnchen.png
+image: bulgursuppe-mit-huehnchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

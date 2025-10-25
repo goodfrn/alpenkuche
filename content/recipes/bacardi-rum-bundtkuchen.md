@@ -7,7 +7,7 @@ ogDescription: "Genieße einen köstlichen Bacardi Rum Bundtkuchen, saftig und m
 focusKeyphrase: "Bacardi Rum Bundtkuchen"
 date: 2025-10-03
 draft: false
-image: bacardi-rum-bundtkuchen.png
+image: bacardi-rum-bundtkuchen.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT52M

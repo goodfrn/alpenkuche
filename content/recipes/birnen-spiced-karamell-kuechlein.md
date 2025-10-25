@@ -7,7 +7,7 @@ ogDescription: "Genieße diese unwiderstehlichen Birnen-Spiced Karamell Küchlei
 focusKeyphrase: "Birnen-Spiced Karamell Küchlein"
 date: 2025-08-12
 draft: false
-image: birnen-spiced-karamell-kuechlein.png
+image: birnen-spiced-karamell-kuechlein.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT55M

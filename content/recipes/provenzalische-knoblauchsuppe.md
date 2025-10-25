@@ -7,7 +7,7 @@ ogDescription: "Genussvolle Knoblauchsuppe mit pochiertem Ei; perfekt für kalte
 focusKeyphrase: "Provenzalische Knoblauchsuppe"
 date: 2025-08-06
 draft: false
-image: provenzalische-knoblauchsuppe.png
+image: provenzalische-knoblauchsuppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

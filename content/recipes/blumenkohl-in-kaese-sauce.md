@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Blumenkohl in Käse-Sauce – französisch inspiri
 focusKeyphrase: "Blumenkohl in Käse-Sauce"
 date: 2025-09-28
 draft: false
-image: blumenkohl-in-kaese-sauce.png
+image: blumenkohl-in-kaese-sauce.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT28M

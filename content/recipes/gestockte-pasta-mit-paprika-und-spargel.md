@@ -7,7 +7,7 @@ ogDescription: "Pasta mit bunten Paprika und frischem Spargel, ein mediterranes 
 focusKeyphrase: "Gestockte Pasta mit Paprika und Spargel"
 date: 2025-08-12
 draft: false
-image: gestockte-pasta-mit-paprika-und-spargel.png
+image: gestockte-pasta-mit-paprika-und-spargel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

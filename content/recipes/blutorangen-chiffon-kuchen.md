@@ -7,7 +7,7 @@ ogDescription: "Entdecke den verführerischen Blutorangen Chiffon Kuchen – lei
 focusKeyphrase: "Blutorangen Chiffon Kuchen"
 date: 2025-08-02
 draft: false
-image: blutorangen-chiffon-kuchen.png
+image: blutorangen-chiffon-kuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Cremige Knoblauch-Sauce mit Avocado. Gesund, vielseitig und eine
 focusKeyphrase: "Knoblauch-Sauce mit Avocado"
 date: 2025-08-04
 draft: false
-image: knoblauch-sauce-mit-avocado.png
+image: knoblauch-sauce-mit-avocado.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

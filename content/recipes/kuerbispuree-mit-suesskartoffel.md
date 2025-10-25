@@ -7,7 +7,7 @@ ogDescription: "Kürbispüree mit Süßkartoffel – Eine neue, raffinierte Vari
 focusKeyphrase: "Kürbispüree mit Süßkartoffel"
 date: 2025-08-12
 draft: false
-image: kuerbispuree-mit-suesskartoffel.png
+image: kuerbispuree-mit-suesskartoffel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

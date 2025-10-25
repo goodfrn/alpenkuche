@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie indisches Chili mit einem Twist – würzig und cr
 focusKeyphrase: "Indisches Chili mit Twist"
 date: 2025-08-05
 draft: false
-image: indisches-chili-mit-twist.png
+image: indisches-chili-mit-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

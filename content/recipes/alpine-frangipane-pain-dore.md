@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Alpine Frangipane-Pain Doré. Ein perfekter Genuss 
 focusKeyphrase: "Alpine Frangipane-Pain Doré"
 date: 2025-07-18
 draft: false
-image: alpine-frangipane-pain-dore.png
+image: alpine-frangipane-pain-dore.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT30M

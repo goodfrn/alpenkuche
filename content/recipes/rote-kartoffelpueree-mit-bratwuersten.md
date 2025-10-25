@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie rot und cremiges Kartoffelpüree mit saftigen Brat
 focusKeyphrase: "Rote Kartoffelpüree mit Bratwürsten"
 date: 2025-09-24
 draft: false
-image: rote-kartoffelpueree-mit-bratwuersten.png
+image: rote-kartoffelpueree-mit-bratwuersten.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Genieße Milchbrötchen mit leicht süßem Honiggeschmack. Perfe
 focusKeyphrase: "Milchbrötchen mit Honig"
 date: 2025-09-26
 draft: false
-image: milchbroetchen-mit-honig.png
+image: milchbroetchen-mit-honig.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

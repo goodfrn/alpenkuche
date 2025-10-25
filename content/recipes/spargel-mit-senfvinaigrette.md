@@ -7,7 +7,7 @@ ogDescription: "Spargel mit Senfvinaigrette – Genießen Sie die kräftigen Aro
 focusKeyphrase: "Spargel mit Senfvinaigrette"
 date: 2025-08-10
 draft: false
-image: spargel-mit-senfvinaigrette.png
+image: spargel-mit-senfvinaigrette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

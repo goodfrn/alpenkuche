@@ -7,7 +7,7 @@ ogDescription: "Schweinebavette mit Pilzen und Feigen. Aromatisch und herzhaft. 
 focusKeyphrase: "Schweinebavette Rezept"
 date: 2025-08-08
 draft: false
-image: schweinebavette-mit-pilzen.png
+image: schweinebavette-mit-pilzen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT17M

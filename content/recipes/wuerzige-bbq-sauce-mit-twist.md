@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie diese herzhafte BBQ Sauce mit Schalotte und Meerre
 focusKeyphrase: "Würzige BBQ Sauce"
 date: 2025-08-03
 draft: false
-image: wuerzige-bbq-sauce-mit-twist.png
+image: wuerzige-bbq-sauce-mit-twist.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die gegrillte Tomatensauce mit intensiven Aromen. 
 focusKeyphrase: "gegrillte Tomatensauce"
 date: 2025-09-03
 draft: false
-image: gegrillte-tomatensauce.png
+image: gegrillte-tomatensauce.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H50M

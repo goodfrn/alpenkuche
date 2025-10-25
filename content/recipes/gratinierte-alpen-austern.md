@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die gratinierten Alpen-Austern, eine Schweizer Kö
 focusKeyphrase: "gratinierte Alpen-Austern"
 date: 2025-07-20
 draft: false
-image: gratinierte-alpen-austern.png
+image: gratinierte-alpen-austern.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

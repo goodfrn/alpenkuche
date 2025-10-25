@@ -7,7 +7,7 @@ ogDescription: "Entdecke den rustikalen Sloppy Joe - ein herzhaftes Gericht voll
 focusKeyphrase: "rustikaler Sloppy Joe"
 date: 2025-08-09
 draft: false
-image: rustikaler-sloppy-joe.png
+image: rustikaler-sloppy-joe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

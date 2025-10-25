@@ -7,7 +7,7 @@ ogDescription: "Entdecke den besten Zwiebel-Dip! Karamellisierte Zwiebeln verein
 focusKeyphrase: "Karamellisierte Zwiebel-Dip"
 date: 2025-09-23
 draft: false
-image: karamellisierte-zwiebel-dip.png
+image: karamellisierte-zwiebel-dip.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

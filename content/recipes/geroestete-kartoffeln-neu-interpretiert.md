@@ -7,7 +7,7 @@ ogDescription: "Geröstete Kartoffeln neu interpretiert - knusprig, aromatisch u
 focusKeyphrase: "geröstete Kartoffeln"
 date: 2025-10-21
 draft: false
-image: geroestete-kartoffeln-neu-interpretiert.png
+image: geroestete-kartoffeln-neu-interpretiert.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT37M

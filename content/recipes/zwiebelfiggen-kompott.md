@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das einzigartige Zwiebelfiggen Kompott. Süß, her
 focusKeyphrase: "Zwiebelfiggen Kompott"
 date: 2025-07-24
 draft: false
-image: zwiebelfiggen-kompott.png
+image: zwiebelfiggen-kompott.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT30M

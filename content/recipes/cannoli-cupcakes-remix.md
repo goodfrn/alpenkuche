@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Cannoli Cupcakes Remix – ein himmlischer Gen
 focusKeyphrase: "Cannoli Cupcakes Remix"
 date: 2025-10-03
 draft: false
-image: cannoli-cupcakes-remix.png
+image: cannoli-cupcakes-remix.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT30M

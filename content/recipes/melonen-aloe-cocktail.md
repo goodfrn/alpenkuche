@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen erfrischenden Melonen-Aloe-Cocktail. Perfekt
 focusKeyphrase: "Melonen-Aloe-Cocktail"
 date: 2025-08-12
 draft: false
-image: melonen-aloe-cocktail.png
+image: melonen-aloe-cocktail.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

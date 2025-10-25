@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unseren Rhabarber Holunderkuchen. Erleben Sie sü�
 focusKeyphrase: "Rhabarber Holunderkuchen"
 date: 2025-09-26
 draft: false
-image: rhabarber-holunderkuchen.png
+image: rhabarber-holunderkuchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT35M

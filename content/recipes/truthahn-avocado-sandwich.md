@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Truthahn-Avocado Sandwich – einfach zuzubereiten 
 focusKeyphrase: "Truthahn-Avocado Sandwich"
 date: 2025-09-27
 draft: false
-image: truthahn-avocado-sandwich.png
+image: truthahn-avocado-sandwich.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT0M

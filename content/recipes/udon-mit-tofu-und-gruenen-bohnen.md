@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses einfache Rezept für Udon-Nudeln mit Tofu und gr
 focusKeyphrase: "Udon mit Tofu"
 date: 2025-07-30
 draft: false
-image: udon-mit-tofu-und-gruenen-bohnen.png
+image: udon-mit-tofu-und-gruenen-bohnen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

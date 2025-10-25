@@ -7,7 +7,7 @@ ogDescription: "Köstliches Pangasius Kokos-Curry, das frisch und würzig die Si
 focusKeyphrase: "Pangasius Kokos-Curry"
 date: 2025-08-17
 draft: false
-image: pangasius-kokos-curry.png
+image: pangasius-kokos-curry.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT18M

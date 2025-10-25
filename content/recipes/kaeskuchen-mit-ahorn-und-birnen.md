@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unseren Käsekuchen mit Ahorn und Birnen. Ein Genu
 focusKeyphrase: "Käsekuchen mit Ahorn und Birnen"
 date: 2025-08-02
 draft: false
-image: kaeskuchen-mit-ahorn-und-birnen.png
+image: kaeskuchen-mit-ahorn-und-birnen.jpg
 author: "Marlena"
 prepTime: PT1H10M
 cookTime: PT2H15M

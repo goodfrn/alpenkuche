@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Marsala Kalbsschmorbraten mit Kartoffeln – ein h
 focusKeyphrase: "Kalbsschmorbraten"
 date: 2025-09-24
 draft: false
-image: kalbsschmorbraten-mit-kartoffeln.png
+image: kalbsschmorbraten-mit-kartoffeln.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT2H

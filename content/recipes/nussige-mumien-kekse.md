@@ -7,7 +7,7 @@ ogDescription: "Lustige Mumien-Kekse mit Mandelnote, einfach gemacht, perfekt f√
 focusKeyphrase: "Mumien-Kekse"
 date: 2025-10-17
 draft: false
-image: nussige-mumien-kekse.png
+image: nussige-mumien-kekse.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT0M

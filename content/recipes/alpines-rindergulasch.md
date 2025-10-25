@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser alpines Rindergulasch mit Appenzeller. Defti
 focusKeyphrase: "Alpines Rindergulasch"
 date: 2025-07-19
 draft: false
-image: alpines-rindergulasch.png
+image: alpines-rindergulasch.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT2H30M

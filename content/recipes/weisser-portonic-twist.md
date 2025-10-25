@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Weißer Portonic Twist ein leichtes Getränk mit we
 focusKeyphrase: "Weißer Portonic Twist"
 date: 2025-07-27
 draft: false
-image: weisser-portonic-twist.png
+image: weisser-portonic-twist.jpg
 author: "Marlena"
 prepTime: PT4M
 cookTime: PT0M

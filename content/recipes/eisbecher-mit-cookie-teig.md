@@ -7,7 +7,7 @@ ogDescription: "Leckerer Eisbecher mit Cookie-Teig. Cremige Textur und knusprige
 focusKeyphrase: "Eisbecher mit Cookie-Teig"
 date: 2025-09-25
 draft: false
-image: eisbecher-mit-cookie-teig.png
+image: eisbecher-mit-cookie-teig.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

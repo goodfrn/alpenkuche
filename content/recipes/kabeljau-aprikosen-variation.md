@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Kabeljau Aprikosen Variation mit frischer Minze un
 focusKeyphrase: "Kabeljau Aprikosen Variation"
 date: 2025-08-13
 draft: false
-image: kabeljau-aprikosen-variation.png
+image: kabeljau-aprikosen-variation.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

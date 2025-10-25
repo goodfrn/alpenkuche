@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie 6 aufregende Vinaigrette-Varianten. Ungewöhnliche
 focusKeyphrase: "Vinaigrettes Varianz"
 date: 2025-07-23
 draft: false
-image: verschiedene-vinaigrettes.png
+image: verschiedene-vinaigrettes.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT5M

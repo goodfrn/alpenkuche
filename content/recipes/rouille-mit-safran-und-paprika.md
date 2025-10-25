@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Rouille mit Safran und Paprika, eine köstliche, w
 focusKeyphrase: "Rouille Rezept"
 date: 2025-09-27
 draft: false
-image: rouille-mit-safran-und-paprika.png
+image: rouille-mit-safran-und-paprika.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT0M

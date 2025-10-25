@@ -7,7 +7,7 @@ ogDescription: "Ein köstliches Hähnchen Curry mit Apfel; die perfekte Kombinat
 focusKeyphrase: "Hähnchen Curry mit Apfel"
 date: 2025-08-28
 draft: false
-image: haehnchen-curry-mit-apfel.png
+image: haehnchen-curry-mit-apfel.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H35M

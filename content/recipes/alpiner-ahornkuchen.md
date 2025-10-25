@@ -7,7 +7,7 @@ ogDescription: "Genieße diesen alpinen Kuchen mit Appenzeller und Ahornsirup. I
 focusKeyphrase: "Alpiner Ahornkuchen"
 date: 2025-07-20
 draft: false
-image: alpiner-ahornkuchen.png
+image: alpiner-ahornkuchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT35M

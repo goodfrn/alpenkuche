@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie diese köstlichen Kebbés mit einer speziellen Fü
 focusKeyphrase: "Kebbés"
 date: 2025-08-09
 draft: false
-image: kebbes-mit-twist.png
+image: kebbes-mit-twist.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT17M

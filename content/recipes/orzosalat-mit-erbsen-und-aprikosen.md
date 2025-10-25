@@ -7,7 +7,7 @@ ogDescription: "Kühler Orzosalat mit knackigen Zuckerschoten und getrockneten A
 focusKeyphrase: "Orzosalat mit Erbsen und Aprikosen"
 date: 2025-08-19
 draft: false
-image: orzosalat-mit-erbsen-und-aprikosen.png
+image: orzosalat-mit-erbsen-und-aprikosen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

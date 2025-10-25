@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Alpine Grill-Dumplings mit Saté, ein Genuss a
 focusKeyphrase: "Alpine Grill-Dumplings"
 date: 2025-07-21
 draft: false
-image: alpine-grill-dumplings.png
+image: alpine-grill-dumplings.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT55M

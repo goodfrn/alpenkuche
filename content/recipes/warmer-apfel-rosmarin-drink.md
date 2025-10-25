@@ -7,7 +7,7 @@ ogDescription: "Wärmender Apfel-Rosmarin-Drink. Aromatisch, alkoholfrei, perfek
 focusKeyphrase: "Apfel-Rosmarin-Drink"
 date: 2025-09-23
 draft: false
-image: warmer-apfel-rosmarin-drink.png
+image: warmer-apfel-rosmarin-drink.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT13M

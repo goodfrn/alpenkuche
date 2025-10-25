@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das cremige Herzdessert - ein köstliches, glutenf
 focusKeyphrase: "Cremiges Herzdessert"
 date: 2025-07-29
 draft: false
-image: cremiges-herzdessert.png
+image: cremiges-herzdessert.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

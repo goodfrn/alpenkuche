@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Ahorn-Whisky-Kuchen. Süße und Würze vereint
 focusKeyphrase: "Ahorn-Whisky-Kuchen"
 date: 2025-07-27
 draft: false
-image: ahorn-whisky-kuchen.png
+image: ahorn-whisky-kuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT65M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke Rhabarber-Bostocks mit Haselnuss, ein vegetarisches Des
 focusKeyphrase: "Rhabarber-Bostocks"
 date: 2025-08-08
 draft: false
-image: rhabarber-bostocks.png
+image: rhabarber-bostocks.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

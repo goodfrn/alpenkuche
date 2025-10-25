@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Aromen von Rindfleisch Champignon Pasta – herzhaf
 focusKeyphrase: "Rindfleisch Champignon Pasta"
 date: 2025-08-28
 draft: false
-image: rindfleisch-champignon-pasta.png
+image: rindfleisch-champignon-pasta.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

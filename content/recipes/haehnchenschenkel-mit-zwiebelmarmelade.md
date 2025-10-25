@@ -7,7 +7,7 @@ ogDescription: "Entdecke Hähnchenschenkel mit Zwiebelmarmelade. Kombiniere rauc
 focusKeyphrase: "Hähnchenschenkel mit Zwiebelmarmelade"
 date: 2025-07-24
 draft: false
-image: haehnchenschenkel-mit-zwiebelmarmelade.png
+image: haehnchenschenkel-mit-zwiebelmarmelade.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT28M

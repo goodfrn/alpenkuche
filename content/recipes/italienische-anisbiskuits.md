@@ -7,7 +7,7 @@ ogDescription: "Entdecke die aromatischen, veganen Anisbiskuits aus Italien, per
 focusKeyphrase: "Italienische Anisbiskuits"
 date: 2025-08-13
 draft: false
-image: italienische-anisbiskuits.png
+image: italienische-anisbiskuits.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT15M

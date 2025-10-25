@@ -7,7 +7,7 @@ ogDescription: "Köstliches Kirsche-Limetten Sorbet für heiße Tage. Frisch und
 focusKeyphrase: "Kirsche-Limetten Sorbet"
 date: 2025-10-02
 draft: false
-image: kirsche-limetten-sorbet.png
+image: kirsche-limetten-sorbet.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

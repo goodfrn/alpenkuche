@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Gewürzten Rahm-Zucker-Cocktail – ein cremig
 focusKeyphrase: "Gewürzter Rahm-Zucker-Cocktail"
 date: 2025-08-14
 draft: false
-image: gewuerzter-rahm-zucker-cocktail.png
+image: gewuerzter-rahm-zucker-cocktail.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT5M

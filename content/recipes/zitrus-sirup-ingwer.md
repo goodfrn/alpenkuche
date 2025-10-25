@@ -7,7 +7,7 @@ ogDescription: "Erfrischender Zitrus-Sirup mit Ingwer. Vegan und glutenfrei. Per
 focusKeyphrase: "Zitrus-Sirup mit Ingwer"
 date: 2025-07-24
 draft: false
-image: zitrus-sirup-ingwer.png
+image: zitrus-sirup-ingwer.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT8M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Neujahrszitronenkuchen mit Yoghurtelementen und aro
 focusKeyphrase: "Neujahrszitronenkuchen"
 date: 2025-08-18
 draft: false
-image: neujahrszitronenkuchen.png
+image: neujahrszitronenkuchen.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT55M

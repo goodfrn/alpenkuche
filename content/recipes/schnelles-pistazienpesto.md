@@ -7,7 +7,7 @@ ogDescription: "Schnelles Pistazienpesto, cremig und aromatisch; ideal für Past
 focusKeyphrase: "Schnelles Pistazienpesto"
 date: 2025-10-02
 draft: false
-image: schnelles-pistazienpesto.png
+image: schnelles-pistazienpesto.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die aromatischen Käse-Sonnenflocken, die perfekte
 focusKeyphrase: "Käse-Sonnenflocken"
 date: 2025-08-09
 draft: false
-image: kaese-sonnenflocken.png
+image: kaese-sonnenflocken.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT28M

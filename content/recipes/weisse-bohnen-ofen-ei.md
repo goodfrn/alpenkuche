@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für weisse Bohnen im Ofen mit einem perfekt
 focusKeyphrase: "Weisse Bohnen im Ofen"
 date: 2025-08-11
 draft: false
-image: weisse-bohnen-ofen-ei.png
+image: weisse-bohnen-ofen-ei.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H25M

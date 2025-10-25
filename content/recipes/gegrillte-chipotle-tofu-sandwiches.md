@@ -7,7 +7,7 @@ ogDescription: "Entdecke die perfekten gegrillten Chipotle-Tofu Sandwiches; wür
 focusKeyphrase: "Gegrillte Chipotle-Tofu Sandwiches"
 date: 2025-09-01
 draft: false
-image: gegrillte-chipotle-tofu-sandwiches.png
+image: gegrillte-chipotle-tofu-sandwiches.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT7M

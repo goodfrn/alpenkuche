@@ -7,7 +7,7 @@ ogDescription: "Herzhafter Rindergulasch mit Biss. Kleine Makkaroni saugen den w
 focusKeyphrase: "Rindergulasch mit Makkaroni"
 date: 2025-10-04
 draft: false
-image: herzhafter-rindergulasch.png
+image: herzhafter-rindergulasch.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT42M

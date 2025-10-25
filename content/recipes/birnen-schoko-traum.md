@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Birnen-Schoko-Traum. Ein luftiger Schokokuchen
 focusKeyphrase: "Birnen-Schoko-Traum"
 date: 2025-09-24
 draft: false
-image: birnen-schoko-traum.png
+image: birnen-schoko-traum.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT40M

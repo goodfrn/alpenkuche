@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen kalifornischen Schweineflankensalat mit zar
 focusKeyphrase: "Kalifornischer Schweineflankensalat"
 date: 2025-08-01
 draft: false
-image: kalifornischer-schweineflankensalat.png
+image: kalifornischer-schweineflankensalat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

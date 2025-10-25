@@ -7,7 +7,7 @@ ogDescription: "Erlebe einen würzigen Blutigen Caesar mit frischem Koriander un
 focusKeyphrase: "Blutiger Caesar"
 date: 2025-08-03
 draft: false
-image: blutiger-caesar-limette.png
+image: blutiger-caesar-limette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

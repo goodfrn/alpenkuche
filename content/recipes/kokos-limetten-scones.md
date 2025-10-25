@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kokos-Limetten-Scones. Frisch, aromatisch, leicht u
 focusKeyphrase: "Kokos-Limetten-Scones"
 date: 2025-07-21
 draft: false
-image: kokos-limetten-scones.png
+image: kokos-limetten-scones.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

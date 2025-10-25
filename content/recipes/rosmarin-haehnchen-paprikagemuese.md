@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Rosmarin Hähnchen Paprikagemüse, ein raffinierte
 focusKeyphrase: "Rosmarin Hähnchen Paprikagemüse"
 date: 2025-08-08
 draft: false
-image: rosmarin-haehnchen-paprikagemuese.png
+image: rosmarin-haehnchen-paprikagemuese.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

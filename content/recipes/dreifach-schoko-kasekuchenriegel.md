@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Dreifach-Schoko-Käsekuchenriegel. Eine Kombination
 focusKeyphrase: "Dreifach-Schoko-Käsekuchenriegel"
 date: 2025-10-17
 draft: false
-image: dreifach-schoko-kasekuchenriegel.png
+image: dreifach-schoko-kasekuchenriegel.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT42M

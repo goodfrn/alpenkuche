@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Hähnchen mit Herbstgemüse, ein frisches Gericht 
 focusKeyphrase: "Hähnchen mit Herbstgemüse"
 date: 2025-07-26
 draft: false
-image: haehnchen-mit-herbstgemuese.png
+image: haehnchen-mit-herbstgemuese.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

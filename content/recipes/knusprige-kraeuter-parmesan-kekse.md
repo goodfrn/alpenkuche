@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie knusprige Kräuter-Parmesan-Kekse, der perfekte Sn
 focusKeyphrase: "Kräuter-Parmesan-Kekse"
 date: 2025-08-18
 draft: false
-image: knusprige-kraeuter-parmesan-kekse.png
+image: knusprige-kraeuter-parmesan-kekse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Mandeltorte mit Rotweinbirnen, ein traditionsreich
 focusKeyphrase: "Mandeltorte mit Rotweinbirnen"
 date: 2025-07-19
 draft: false
-image: mandeltorte-mit-rotweinbirnen.png
+image: mandeltorte-mit-rotweinbirnen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H10M

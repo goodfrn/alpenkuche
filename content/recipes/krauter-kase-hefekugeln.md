@@ -7,7 +7,7 @@ ogDescription: "Entdecke Kräuter-Käse-Hefekugeln. Ein köstlicher Snack aus lo
 focusKeyphrase: "Kräuter-Käse-Hefekugeln"
 date: 2025-07-27
 draft: false
-image: krauter-kase-hefekugeln.png
+image: krauter-kase-hefekugeln.jpg
 author: "Marlena"
 prepTime: PT1H30M
 cookTime: PT45M

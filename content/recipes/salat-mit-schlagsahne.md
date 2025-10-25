@@ -7,7 +7,7 @@ ogDescription: "Erlebe den Salat mit Schlagsahne: Ein leichter, frischer Genuss 
 focusKeyphrase: "Salat mit Schlagsahne"
 date: 2025-08-18
 draft: false
-image: salat-mit-schlagsahne.png
+image: salat-mit-schlagsahne.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

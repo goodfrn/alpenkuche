@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillte Spaghetti mit Miesmuscheln, einer aufreg
 focusKeyphrase: "gegrillte Spaghetti mit Miesmuscheln"
 date: 2025-08-19
 draft: false
-image: gegrillte-spaghetti-mit-miesmuscheln.png
+image: gegrillte-spaghetti-mit-miesmuscheln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

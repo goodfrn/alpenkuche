@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die würzige Fleisch-Blätterteigpastete mit Rinde
 focusKeyphrase: "Fleisch-Blätterteigpastete"
 date: 2025-08-14
 draft: false
-image: fleisch-blatterteigpastete.png
+image: fleisch-blatterteigpastete.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H20M

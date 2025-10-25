@@ -7,7 +7,7 @@ ogDescription: "Entdecke den knackigen Caesar Salat mit Rosmarin-Croutons, der d
 focusKeyphrase: "Caesar Salat"
 date: 2025-09-28
 draft: false
-image: knackiger-caesar-salat.png
+image: knackiger-caesar-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

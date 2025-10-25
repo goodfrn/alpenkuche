@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Pfirsich-Risotto mit weisser Schokolade. Süß, cre
 focusKeyphrase: "Pfirsich-Risotto"
 date: 2025-09-20
 draft: false
-image: pfirsich-risotto.png
+image: pfirsich-risotto.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H10M

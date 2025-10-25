@@ -7,7 +7,7 @@ ogDescription: "Erfrischendes Mangensorbet mit Limette; ideal für die Sommerhit
 focusKeyphrase: "Mangensorbet mit Limette"
 date: 2025-09-27
 draft: false
-image: mangensorbet-mit-limette.png
+image: mangensorbet-mit-limette.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

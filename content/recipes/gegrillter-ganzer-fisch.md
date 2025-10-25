@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie aromatischen gegrillten Fisch mit frischen Kräute
 focusKeyphrase: "Gegrillter ganzer Fisch"
 date: 2025-09-02
 draft: false
-image: gegrillter-ganzer-fisch.png
+image: gegrillter-ganzer-fisch.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT14M

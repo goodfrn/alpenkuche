@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche gegrillte Tomatensauce mit Thunfisc
 focusKeyphrase: "Gegrillte Tomatensauce mit Thunfisch"
 date: 2025-08-09
 draft: false
-image: gegrillte-tomatensauce-mit-thunfisch.png
+image: gegrillte-tomatensauce-mit-thunfisch.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

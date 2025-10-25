@@ -7,7 +7,7 @@ ogDescription: "Kochen Sie sanfte Pintobohnen, die in aromatischen Kräutern und
 focusKeyphrase: "Sanfte Pintobohnen"
 date: 2025-10-16
 draft: false
-image: sanfte-pintobohnen.png
+image: sanfte-pintobohnen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H40M

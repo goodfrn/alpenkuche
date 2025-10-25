@@ -7,7 +7,7 @@ ogDescription: "Entdecke rustikale Mendiants, einfache Schokoladenplättchen vol
 focusKeyphrase: "Mendiants Rezept"
 date: 2025-08-19
 draft: false
-image: rustikale-mendiants.png
+image: rustikale-mendiants.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

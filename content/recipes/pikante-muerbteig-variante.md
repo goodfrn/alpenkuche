@@ -7,7 +7,7 @@ ogDescription: "Pikante Mürbteig-Variante. Lecker zubereiten mit viel Aroma von
 focusKeyphrase: "pikante Mürbteig-Variante"
 date: 2025-08-07
 draft: false
-image: pikante-muerbteig-variante.png
+image: pikante-muerbteig-variante.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT12M

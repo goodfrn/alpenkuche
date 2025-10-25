@@ -7,7 +7,7 @@ ogDescription: "Genieße den Gegrillten Gemüse-Chimichurri-Salat. Ein vegetaris
 focusKeyphrase: "Gegrillte Gemüse-Chimichurri-Salat"
 date: 2025-07-24
 draft: false
-image: gegrillte-gemuese-chimichurri-salat.png
+image: gegrillte-gemuese-chimichurri-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

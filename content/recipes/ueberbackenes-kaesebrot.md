@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie überbackenes Käsebrot mit aromatischem Käse und
 focusKeyphrase: "Überbackenes Käsebrot"
 date: 2025-08-17
 draft: false
-image: ueberbackenes-kaesebrot.png
+image: ueberbackenes-kaesebrot.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

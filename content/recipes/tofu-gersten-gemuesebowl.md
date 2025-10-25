@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Tofu Gersten Gemüse Bowl – eine nahrhafte K
 focusKeyphrase: "Tofu Gersten Gemüse Bowl"
 date: 2025-08-06
 draft: false
-image: tofu-gersten-gemuesebowl.png
+image: tofu-gersten-gemuesebowl.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Fondue Japonaise Würzig mit Hühner- und Rinderbr
 focusKeyphrase: "Fondue Japonaise Würzig"
 date: 2025-08-10
 draft: false
-image: fondue-japonaise-wuerzig.png
+image: fondue-japonaise-wuerzig.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Gruyère-Morchel-Fondue, eine geschmackvolle Käsev
 focusKeyphrase: "Gruyère-Morchel-Fondue"
 date: 2025-08-11
 draft: false
-image: gruyere-morchel-fondue.png
+image: gruyere-morchel-fondue.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Türmchen-Tindroulade. Gefüllt, farbenfroh und vol
 focusKeyphrase: "Türmchen-Tindroulade"
 date: 2025-07-19
 draft: false
-image: tuermchen-tindroulade.png
+image: tuermchen-tindroulade.jpg
 author: "Marlena"
 prepTime: PT1H10M
 cookTime: PT1H45M

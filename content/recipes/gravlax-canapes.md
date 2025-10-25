@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unser Rezept für Gravlax-Canapés neu, ein köstl
 focusKeyphrase: "Gravlax-Canapés"
 date: 2025-08-03
 draft: false
-image: gravlax-canapes.png
+image: gravlax-canapes.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT0M

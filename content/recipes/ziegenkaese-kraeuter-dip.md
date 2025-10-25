@@ -7,7 +7,7 @@ ogDescription: "Frischer Ziegenkäse-Dip mit Kräutern und knackiger Rohkost. Ei
 focusKeyphrase: "Ziegenkäse-Kräuter-Dip"
 date: 2025-08-13
 draft: false
-image: ziegenkaese-kraeuter-dip.png
+image: ziegenkaese-kraeuter-dip.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

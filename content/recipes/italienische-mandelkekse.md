@@ -7,7 +7,7 @@ ogDescription: "Diese italienischen Mandelkekse sind weich, nussig und leicht s√
 focusKeyphrase: "Italienische Mandelkekse"
 date: 2025-10-11
 draft: false
-image: italienische-mandelkekse.png
+image: italienische-mandelkekse.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT10M

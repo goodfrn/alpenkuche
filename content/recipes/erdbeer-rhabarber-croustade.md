@@ -7,7 +7,7 @@ ogDescription: "Genieße die glutenfreie Erdbeer-Rhabarber-Croustade—fruchtig 
 focusKeyphrase: "glutenfreie Croustade"
 date: 2025-09-28
 draft: false
-image: erdbeer-rhabarber-croustade.png
+image: erdbeer-rhabarber-croustade.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT48M

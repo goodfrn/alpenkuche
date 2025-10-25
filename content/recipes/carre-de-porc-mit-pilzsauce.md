@@ -7,7 +7,7 @@ ogDescription: "Saftiges Carré de porc, begleitet von sämiger Pilzsauce. Ideal
 focusKeyphrase: "Carré de porc mit Pilzsauce"
 date: 2025-09-23
 draft: false
-image: carre-de-porc-mit-pilzsauce.png
+image: carre-de-porc-mit-pilzsauce.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H30M

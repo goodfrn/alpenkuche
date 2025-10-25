@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die samtige Velouté Schalotten Alpen Art. Ein ech
 focusKeyphrase: "Velouté Schalotten Alpen Art"
 date: 2025-07-20
 draft: false
-image: veloute-schalotten-alpen-art.png
+image: veloute-schalotten-alpen-art.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Genieße Zucchini-Limetten-Muffins, eine spannende, feuchte Leck
 focusKeyphrase: "Zucchini-Limetten-Muffins"
 date: 2025-08-16
 draft: false
-image: zucchini-limetten-muffins.png
+image: zucchini-limetten-muffins.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

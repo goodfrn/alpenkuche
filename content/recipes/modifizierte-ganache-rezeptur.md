@@ -7,7 +7,7 @@ ogDescription: "Entdecke die modifizierte Ganache Rezeptur – mit Kokosmilch un
 focusKeyphrase: "Modifizierte Ganache"
 date: 2025-08-13
 draft: false
-image: modifizierte-ganache-rezeptur.png
+image: modifizierte-ganache-rezeptur.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT3M

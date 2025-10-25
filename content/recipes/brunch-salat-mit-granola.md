@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unseren Brunch Salat mit würzigem Granola und cre
 focusKeyphrase: "Brunch Salat mit Granola"
 date: 2025-08-10
 draft: false
-image: brunch-salat-mit-granola.png
+image: brunch-salat-mit-granola.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT23M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die pikanten Dan Dan Schweine-Nudeln; ein herzhaftes Ge
 focusKeyphrase: "Dan Dan Schweine-Nudeln"
 date: 2025-09-26
 draft: false
-image: dan-dan-schweine-nudeln.png
+image: dan-dan-schweine-nudeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

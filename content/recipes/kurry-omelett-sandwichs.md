@@ -7,7 +7,7 @@ ogDescription: "Kurry-Omelett-Sandwichs vereinen schmackhaftes Omelett, knackige
 focusKeyphrase: "Kurry-Omelett-Sandwichs"
 date: 2025-07-30
 draft: false
-image: kurry-omelett-sandwichs.png
+image: kurry-omelett-sandwichs.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unsere Krabben-Pasta mit Zitrone und Spargel – p
 focusKeyphrase: "Krabben-Pasta"
 date: 2025-09-17
 draft: false
-image: krabben-pasta-mit-zitrone.png
+image: krabben-pasta-mit-zitrone.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

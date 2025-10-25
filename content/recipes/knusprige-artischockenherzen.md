@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie knusprige Artischockenherzen, einfach gebacken mit
 focusKeyphrase: "knusprige Artischockenherzen"
 date: 2025-10-06
 draft: false
-image: knusprige-artischockenherzen.png
+image: knusprige-artischockenherzen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

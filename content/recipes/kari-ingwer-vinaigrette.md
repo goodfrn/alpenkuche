@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kari-Ingwer Vinaigrette Deluxe. Frisch, würzi
 focusKeyphrase: "Vinaigrette mit Ingwer und Curry"
 date: 2025-07-24
 draft: false
-image: kari-ingwer-vinaigrette.png
+image: kari-ingwer-vinaigrette.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

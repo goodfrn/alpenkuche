@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie marinierte Austernpilze mit Perlzwiebeln. Ein einf
 focusKeyphrase: "Marinierte Austernpilze"
 date: 2025-09-24
 draft: false
-image: marinierte-austernpilze-mit-perlzwiebeln.png
+image: marinierte-austernpilze-mit-perlzwiebeln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

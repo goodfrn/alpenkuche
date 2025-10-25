@@ -7,7 +7,7 @@ ogDescription: "Würziger Alpenreis aus Milchreis, Appenzeller Butter und Alpenk
 focusKeyphrase: "Würziger Alpenreis"
 date: 2025-07-19
 draft: false
-image: wuerziger-alpenreis.png
+image: wuerziger-alpenreis.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT25M

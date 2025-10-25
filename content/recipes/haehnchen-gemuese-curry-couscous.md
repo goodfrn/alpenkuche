@@ -7,7 +7,7 @@ ogDescription: "Hähnchen Gemüse Curry Couscous: Ein unkompliziertes Gericht mi
 focusKeyphrase: "Hähnchen Gemüse Curry Couscous"
 date: 2025-09-24
 draft: false
-image: haehnchen-gemuese-curry-couscous.png
+image: haehnchen-gemuese-curry-couscous.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

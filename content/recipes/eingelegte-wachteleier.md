@@ -7,7 +7,7 @@ ogDescription: "Eingelegte Wachteleier mit rosa Pfeffer und Rosmarin; ein köstl
 focusKeyphrase: "Eingelegte Wachteleier"
 date: 2025-09-26
 draft: false
-image: eingelegte-wachteleier.png
+image: eingelegte-wachteleier.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT4M

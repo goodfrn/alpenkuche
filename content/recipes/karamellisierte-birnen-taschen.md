@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen Karamell-Taschen mit Birnen. Einfach zu
 focusKeyphrase: "Karamellisierte Birnen-Taschen"
 date: 2025-08-13
 draft: false
-image: karamellisierte-birnen-taschen.png
+image: karamellisierte-birnen-taschen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT50M

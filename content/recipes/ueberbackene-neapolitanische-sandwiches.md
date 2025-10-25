@@ -7,7 +7,7 @@ ogDescription: "Knusprige Sandwiches, gefüllt mit einer Mischung aus Ricotta, M
 focusKeyphrase: "Überbackene Neapolitanische Sandwiches"
 date: 2025-08-11
 draft: false
-image: ueberbackene-neapolitanische-sandwiches.png
+image: ueberbackene-neapolitanische-sandwiches.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT28M

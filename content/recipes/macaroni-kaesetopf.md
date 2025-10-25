@@ -7,7 +7,7 @@ ogDescription: "Macaroni Käsetopf mit Rauchgeschmack. Ideal für schnelle Küch
 focusKeyphrase: "Macaroni Käsetopf"
 date: 2025-08-05
 draft: false
-image: macaroni-kaesetopf.png
+image: macaroni-kaesetopf.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

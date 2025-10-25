@@ -7,7 +7,7 @@ ogDescription: "Leckerer Zitronen-Vanille Shortcake mit frischen Erdbeeren; ein 
 focusKeyphrase: "Zitronen-Vanille Shortcake"
 date: 2025-08-02
 draft: false
-image: zitronen-vanille-shortcake.png
+image: zitronen-vanille-shortcake.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Schoko-Minimuffins Twist, ein Genuss mit vanilliger
 focusKeyphrase: "Schoko-Minimuffins"
 date: 2025-08-08
 draft: false
-image: schoko-minimuffins-twist.png
+image: schoko-minimuffins-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

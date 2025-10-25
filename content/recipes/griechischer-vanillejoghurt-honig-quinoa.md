@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Griechischen Vanillejoghurt mit Honig-Quinoa; 
 focusKeyphrase: "Griechischer Vanillejoghurt mit Honig-Quinoa"
 date: 2025-09-24
 draft: false
-image: griechischer-vanillejoghurt-honig-quinoa.png
+image: griechischer-vanillejoghurt-honig-quinoa.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

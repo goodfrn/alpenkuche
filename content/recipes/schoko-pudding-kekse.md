@@ -7,7 +7,7 @@ ogDescription: "Lust auf Schoko-Pudding-Kekse? Dieses Rezept vereint Schokolade 
 focusKeyphrase: "Schoko-Pudding-Kekse"
 date: 2025-10-03
 draft: false
-image: schoko-pudding-kekse.png
+image: schoko-pudding-kekse.jpg
 author: "Marlena"
 prepTime: PT38M
 cookTime: PT11M

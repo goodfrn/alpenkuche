@@ -7,7 +7,7 @@ ogDescription: "Erlebe das delikate Ahorn-Ingwer-Fondue; cremig und fruchtig fü
 focusKeyphrase: "Ahorn-Ingwer-Fondue"
 date: 2025-08-19
 draft: false
-image: ahorn-ingwer-fondue.png
+image: ahorn-ingwer-fondue.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

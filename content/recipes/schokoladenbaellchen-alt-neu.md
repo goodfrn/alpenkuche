@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese schokoladigen Bällchen, knusprig und aromat
 focusKeyphrase: "Schokoladenbällchen"
 date: 2025-08-10
 draft: false
-image: schokoladenbaellchen-alt-neu.png
+image: schokoladenbaellchen-alt-neu.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

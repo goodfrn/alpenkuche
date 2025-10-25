@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Limetten-Honig-Marinade mit Rosmarin; subtile 
 focusKeyphrase: "Limetten-Honig-Marinade"
 date: 2025-08-06
 draft: false
-image: limetten-honig-marinade.png
+image: limetten-honig-marinade.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT5M

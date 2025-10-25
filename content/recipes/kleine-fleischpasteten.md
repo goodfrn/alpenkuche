@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen kleinen Fleischpasteten, perfekt a
 focusKeyphrase: "Kleine Fleischpasteten"
 date: 2025-09-29
 draft: false
-image: kleine-fleischpasteten.png
+image: kleine-fleischpasteten.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT50M

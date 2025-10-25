@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Passionsfrucht Pavlova Twist. Ein G
 focusKeyphrase: "Passionsfrucht Pavlova"
 date: 2025-09-26
 draft: false
-image: passionsfrucht-pavlova-twist.png
+image: passionsfrucht-pavlova-twist.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT2H10M

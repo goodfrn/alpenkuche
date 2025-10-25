@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Orangen-vanille Smoothie Twist. Perfekt für heiße
 focusKeyphrase: "Orangen-vanille Smoothie"
 date: 2025-07-21
 draft: false
-image: orangen-vanille-smoothie.png
+image: orangen-vanille-smoothie.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

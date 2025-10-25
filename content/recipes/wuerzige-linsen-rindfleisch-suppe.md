@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die würzige Linsen-Rindfleisch-Suppe. Herzhafter 
 focusKeyphrase: "Linsen-Rindfleisch-Suppe"
 date: 2025-07-26
 draft: false
-image: wuerzige-linsen-rindfleisch-suppe.png
+image: wuerzige-linsen-rindfleisch-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H05M

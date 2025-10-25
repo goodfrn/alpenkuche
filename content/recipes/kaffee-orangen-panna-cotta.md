@@ -7,7 +7,7 @@ ogDescription: "Erfrischende Kaffee-Orangen-Panna Cotta. Kalt genießen. Einfach
 focusKeyphrase: "Kaffee-Orangen-Panna Cotta"
 date: 2025-07-27
 draft: false
-image: kaffee-orangen-panna-cotta.png
+image: kaffee-orangen-panna-cotta.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Hähnchen Cordon Bleu Auflauf: Entdecke diesen köstlichen Aufla
 focusKeyphrase: "Hähnchen Cordon Bleu Auflauf"
 date: 2025-10-14
 draft: false
-image: haehnchen-cordon-bleu-auflauf.png
+image: haehnchen-cordon-bleu-auflauf.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

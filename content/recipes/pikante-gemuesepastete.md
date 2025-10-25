@@ -7,7 +7,7 @@ ogDescription: "Entdecke die pikante Gemüse-Pastete, eine gesunde und schmackha
 focusKeyphrase: "Pikante Gemüse-Pastete"
 date: 2025-09-27
 draft: false
-image: pikante-gemuesepastete.png
+image: pikante-gemuesepastete.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Herzhaft und einfach: Hähnchen-Fajita-Auflauf, ideal für ein s
 focusKeyphrase: "Hähnchen-Fajita-Auflauf"
 date: 2025-10-16
 draft: false
-image: haehnchen-fajita-auflauf.png
+image: haehnchen-fajita-auflauf.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT50M

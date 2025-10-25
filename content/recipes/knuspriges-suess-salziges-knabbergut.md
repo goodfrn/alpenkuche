@@ -7,7 +7,7 @@ ogDescription: "Knuspriges süß-salziges Knabbergut – ein Genuss für spontan
 focusKeyphrase: "Knuspriges süß-salziges Knabbergut"
 date: 2025-08-14
 draft: false
-image: knuspriges-suess-salziges-knabbergut.png
+image: knuspriges-suess-salziges-knabbergut.jpg
 author: "Marlena"
 prepTime: PT4M
 cookTime: PT3M

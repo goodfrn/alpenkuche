@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Alp-Won-ton mit Truthahn und Gruyère. Gefüll
 focusKeyphrase: "Alp-Won-ton mit Truthahn und Gruyère"
 date: 2025-07-20
 draft: false
-image: alp-won-ton-mit-truthahn.png
+image: alp-won-ton-mit-truthahn.jpg
 author: "Marlena"
 prepTime: PT27M
 cookTime: PT23M

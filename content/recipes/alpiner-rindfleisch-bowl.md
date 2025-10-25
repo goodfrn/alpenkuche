@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Alpiner Rindfleisch-Bowl. Ein Gericht, das Sch
 focusKeyphrase: "Alpiner Rindfleisch-Bowl"
 date: 2025-07-21
 draft: false
-image: alpiner-rindfleisch-bowl.png
+image: alpiner-rindfleisch-bowl.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT15M

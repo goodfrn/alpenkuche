@@ -7,7 +7,7 @@ ogDescription: "Dreifarbige Biskuits; verführerisch und abwechslungsreich; idea
 focusKeyphrase: "Dreifarbige Biskuits"
 date: 2025-09-11
 draft: false
-image: dreifarbige-biskuits.png
+image: dreifarbige-biskuits.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT12M

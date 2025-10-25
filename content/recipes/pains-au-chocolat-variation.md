@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Pains au Chocolat Variation mit Zartbitter-Kakao un
 focusKeyphrase: "Pains au Chocolat Variation"
 date: 2025-08-10
 draft: false
-image: pains-au-chocolat-variation.png
+image: pains-au-chocolat-variation.jpg
 author: "Marlena"
 prepTime: PT32M
 cookTime: PT30M

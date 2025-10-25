@@ -7,7 +7,7 @@ ogDescription: "Ein unwiderstehlicher Schokoladen-Cranberry-Zopf für gemütlich
 focusKeyphrase: "Schokoladen-Cranberry-Zopf"
 date: 2025-07-26
 draft: false
-image: schokoladen-cranberry-zopf.png
+image: schokoladen-cranberry-zopf.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT28M

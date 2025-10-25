@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie ein Rezept für Poulet-Bacon-Pfirsich-Bouchées. P
 focusKeyphrase: "Poulet-Bacon-Pfirsich-Bouchées"
 date: 2025-07-19
 draft: false
-image: poulet-bacon-pfirsich-bouchees.png
+image: poulet-bacon-pfirsich-bouchees.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

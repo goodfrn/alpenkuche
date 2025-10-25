@@ -7,7 +7,7 @@ ogDescription: "Zitronenstücke neu gedacht. Erlebe die frische Kombination aus 
 focusKeyphrase: "Zitronenstücke neu gedacht"
 date: 2025-08-04
 draft: false
-image: zitronenkuchen-mit-mandelboden.png
+image: zitronenkuchen-mit-mandelboden.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT50M

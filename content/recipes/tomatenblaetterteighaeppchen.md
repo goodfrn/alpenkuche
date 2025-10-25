@@ -7,7 +7,7 @@ ogDescription: "Entdecke die knusprigen Tomaten-Blätterteig-Häppchen; vegan un
 focusKeyphrase: "Tomaten-Blätterteig-Häppchen"
 date: 2025-09-27
 draft: false
-image: tomatenblaetterteighaeppchen.png
+image: tomatenblaetterteighaeppchen.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT26M

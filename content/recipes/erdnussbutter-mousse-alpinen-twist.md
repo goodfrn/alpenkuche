@@ -7,7 +7,7 @@ ogDescription: "Genieße die Erdnussbutter-Mousse mit Appenzeller und Bergschoko
 focusKeyphrase: "Erdnussbutter-Mousse"
 date: 2025-07-19
 draft: false
-image: erdnussbutter-mousse-alpinen-twist.png
+image: erdnussbutter-mousse-alpinen-twist.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT15M

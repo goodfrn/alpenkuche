@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die perfekte Kombination aus Hähnchen, Chorizo un
 focusKeyphrase: "Hähnchen mit Chorizo und Zitrone"
 date: 2025-08-28
 draft: false
-image: haehnchen-mit-chorizo-und-zitrone.png
+image: haehnchen-mit-chorizo-und-zitrone.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT1H20M

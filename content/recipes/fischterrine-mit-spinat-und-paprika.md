@@ -7,7 +7,7 @@ ogDescription: "Fischterrine mit frischem Seelachs und knackigem Gemüse – per
 focusKeyphrase: "Fischterrine mit Spinat und Paprika"
 date: 2025-08-17
 draft: false
-image: fischterrine-mit-spinat-und-paprika.png
+image: fischterrine-mit-spinat-und-paprika.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT35M

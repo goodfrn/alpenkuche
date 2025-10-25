@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Hähnchen-Mango-Curry Sandwich - frisch, würzig un
 focusKeyphrase: "Hähnchen-Mango-Curry Sandwich"
 date: 2025-08-19
 draft: false
-image: haehnchen-mango-curry-sandwich.png
+image: haehnchen-mango-curry-sandwich.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

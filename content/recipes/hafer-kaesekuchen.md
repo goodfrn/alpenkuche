@@ -7,7 +7,7 @@ ogDescription: "Leckerer Hafer-Käsekuchen mit frischem Beerenpüree. Ideal für
 focusKeyphrase: "Hafer-Käsekuchen"
 date: 2025-07-30
 draft: false
-image: hafer-kaesekuchen.png
+image: hafer-kaesekuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H

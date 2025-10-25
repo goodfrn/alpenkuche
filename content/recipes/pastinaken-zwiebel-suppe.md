@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Pastinaken-Zwiebel Suppe mit knusprigen Käsec
 focusKeyphrase: "Pastinaken-Zwiebel Suppe"
 date: 2025-09-25
 draft: false
-image: pastinaken-zwiebel-suppe.png
+image: pastinaken-zwiebel-suppe.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kunst des Butterscotch Ziehens – süße Fäden au
 focusKeyphrase: "Butterscotch Schneefäden"
 date: 2025-08-18
 draft: false
-image: butterscotch-schneefaeden.png
+image: butterscotch-schneefaeden.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

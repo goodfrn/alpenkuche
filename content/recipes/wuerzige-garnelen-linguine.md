@@ -7,7 +7,7 @@ ogDescription: "Garnelen Linguine vereint würzige Aromen und cremige Texturen. 
 focusKeyphrase: "Würzige Garnelen Linguine"
 date: 2025-08-17
 draft: false
-image: wuerzige-garnelen-linguine.png
+image: wuerzige-garnelen-linguine.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

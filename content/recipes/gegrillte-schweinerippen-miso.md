@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses Rezept für gegrillte Schweinerippen mit einer e
 focusKeyphrase: "gegrillte Schweinerippen"
 date: 2025-07-23
 draft: false
-image: gegrillte-schweinerippen-miso.png
+image: gegrillte-schweinerippen-miso.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT2H15M

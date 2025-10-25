@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Alpen-Rindsbällchen mit Wurzelgemüse, eine defti
 focusKeyphrase: "Alpen-Rindsbällchen"
 date: 2025-07-20
 draft: false
-image: alpen-rindsbaellchen.png
+image: alpen-rindsbaellchen.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT25M

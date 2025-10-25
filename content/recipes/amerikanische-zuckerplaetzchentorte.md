@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Amerikanische Zuckerplätzchentorte; frisch, f
 focusKeyphrase: "Amerikanische Zuckerplätzchentorte"
 date: 2025-10-13
 draft: false
-image: amerikanische-zuckerplaetzchentorte.png
+image: amerikanische-zuckerplaetzchentorte.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT28M

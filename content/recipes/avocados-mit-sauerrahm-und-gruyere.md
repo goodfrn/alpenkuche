@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Avocados mit Sauerrahm und Gruyère. Eine alpine V
 focusKeyphrase: "Avocados mit Sauerrahm und Gruyère"
 date: 2025-07-21
 draft: false
-image: avocados-mit-sauerrahm-und-gruyere.png
+image: avocados-mit-sauerrahm-und-gruyere.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

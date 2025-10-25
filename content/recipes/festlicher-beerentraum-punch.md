@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Festlicher Beerentraum Punch. Ein fruchtiger G
 focusKeyphrase: "Festlicher Beerentraum Punch"
 date: 2025-08-02
 draft: false
-image: festlicher-beerentraum-punch.png
+image: festlicher-beerentraum-punch.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie eine kreative Joghurt-Tartarsauce – frisch, crem
 focusKeyphrase: "Joghurt-Tartarsauce"
 date: 2025-09-30
 draft: false
-image: joghurt-tartarsauce-mit-twist.png
+image: joghurt-tartarsauce-mit-twist.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

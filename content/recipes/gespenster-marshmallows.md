@@ -7,7 +7,7 @@ ogDescription: "Gespenster-Marshmallows sind schaurig süß, einfach zuzubereite
 focusKeyphrase: "Gespenster-Marshmallows"
 date: 2025-07-29
 draft: false
-image: gespenster-marshmallows.png
+image: gespenster-marshmallows.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT3M

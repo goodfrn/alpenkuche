@@ -7,7 +7,7 @@ ogDescription: "Genieße die Tomaten-Tortellini-Suppe, eine geschmackvolle itali
 focusKeyphrase: "Tomaten-Tortellini-Suppe"
 date: 2025-10-23
 draft: false
-image: tomaten-tortellini-suppe.png
+image: tomaten-tortellini-suppe.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

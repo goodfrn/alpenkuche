@@ -7,7 +7,7 @@ ogDescription: "Entdecke die feinen Zitronen-Spitzbuben mit ansprechender Spiege
 focusKeyphrase: "Zitronen-Spitzbuben"
 date: 2025-08-20
 draft: false
-image: zitronen-spitzbuben.png
+image: zitronen-spitzbuben.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT20M

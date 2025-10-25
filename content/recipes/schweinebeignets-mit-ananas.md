@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie leckere Schweinebeignets mit fruchtiger Ananassauc
 focusKeyphrase: "Schweinebeignets mit Ananas"
 date: 2025-07-21
 draft: false
-image: schweinebeignets-mit-ananas.png
+image: schweinebeignets-mit-ananas.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT35M

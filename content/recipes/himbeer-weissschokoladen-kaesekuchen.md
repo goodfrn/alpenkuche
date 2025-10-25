@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen Himbeer-Weißschokoladen-Käsekuchen, cremig
 focusKeyphrase: "Himbeer-Weißschokoladen-Käsekuchen"
 date: 2025-10-13
 draft: false
-image: himbeer-weissschokoladen-kaesekuchen.png
+image: himbeer-weissschokoladen-kaesekuchen.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H35M

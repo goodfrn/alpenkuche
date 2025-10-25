@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Linguine mit Venusmuscheln, einer 
 focusKeyphrase: "Linguine mit Venusmuscheln"
 date: 2025-10-05
 draft: false
-image: linguine-mit-venusmuscheln.png
+image: linguine-mit-venusmuscheln.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT16M

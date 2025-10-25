@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Dunkle Hühnergravy neu – eine reichhaltige 
 focusKeyphrase: "Dunkle Hühnergravy"
 date: 2025-08-12
 draft: false
-image: dunkle-huehnergravy.png
+image: dunkle-huehnergravy.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT2H15M

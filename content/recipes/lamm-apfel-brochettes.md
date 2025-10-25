@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Lamm-Apfel-Brochettes glasiert – ein Grilltraum m
 focusKeyphrase: "Lamm-Apfel-Brochettes"
 date: 2025-08-13
 draft: false
-image: lamm-apfel-brochettes.png
+image: lamm-apfel-brochettes.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

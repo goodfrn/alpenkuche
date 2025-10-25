@@ -7,7 +7,7 @@ ogDescription: "Genieße würzigen gebratenen Fisch mit einem samtigen Karottenp
 focusKeyphrase: "Würziger Gebratener Fisch"
 date: 2025-09-27
 draft: false
-image: wuerziger-gebratener-fisch.png
+image: wuerziger-gebratener-fisch.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT27M

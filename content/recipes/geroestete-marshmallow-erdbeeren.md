@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie geröstete Marshmallow Erdbeeren - eine einzigarti
 focusKeyphrase: "geröstete Marshmallow Erdbeeren"
 date: 2025-10-07
 draft: false
-image: geroestete-marshmallow-erdbeeren.png
+image: geroestete-marshmallow-erdbeeren.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT4M

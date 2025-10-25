@@ -7,7 +7,7 @@ ogDescription: "Genieße leckere Karamell-Erdnussriegel, süß und knusprig, ide
 focusKeyphrase: "Karamell-Erdnussriegel"
 date: 2025-07-24
 draft: false
-image: karamell-erdnussriegel.png
+image: karamell-erdnussriegel.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

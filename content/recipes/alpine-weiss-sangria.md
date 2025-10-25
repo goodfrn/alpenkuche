@@ -7,7 +7,7 @@ ogDescription: "Erfrischende Weiss-Sangria mit Kirsch, Tonic und Bergminze. Idea
 focusKeyphrase: "Alpine Weiss-Sangria"
 date: 2025-07-20
 draft: false
-image: alpine-weiss-sangria.png
+image: alpine-weiss-sangria.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT0M

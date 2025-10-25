@@ -7,7 +7,7 @@ ogDescription: "Genieße den Kremigen Chorizo-Dip. Mit würzigem Chorizo und fri
 focusKeyphrase: "Kremiger Chorizo-Dip"
 date: 2025-09-29
 draft: false
-image: kremiger-chorizo-dip.png
+image: kremiger-chorizo-dip.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT6M

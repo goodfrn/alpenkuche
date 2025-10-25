@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie gebratenen Tilapia mit einer frischen Grapefruit-V
 focusKeyphrase: "gebratener Tilapia"
 date: 2025-08-02
 draft: false
-image: gebratener-tilapia-mit-grapefruit-vinaigrette.png
+image: gebratener-tilapia-mit-grapefruit-vinaigrette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Schmackhafter Karamell-Popcorn Erdnusskuchen vereint salzige und
 focusKeyphrase: "Karamell-Popcorn Erdnusskuchen"
 date: 2025-08-19
 draft: false
-image: karamell-popcorn-erdnusskuchen.png
+image: karamell-popcorn-erdnusskuchen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT50M

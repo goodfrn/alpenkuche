@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie diesen würzigen Fisch mit Honig-Senf-Kruste. Ein 
 focusKeyphrase: "Würziger Fisch mit Honig-Senf-Kruste"
 date: 2025-08-05
 draft: false
-image: wuerziger-fisch-mit-honig-senf-kruste.png
+image: wuerziger-fisch-mit-honig-senf-kruste.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

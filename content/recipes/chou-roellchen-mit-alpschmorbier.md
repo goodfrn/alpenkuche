@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Chou-Röllchen mit Alpschmorbier. Verfeinert m
 focusKeyphrase: "Chou-Röllchen mit Alpschmorbier"
 date: 2025-07-20
 draft: false
-image: chou-roellchen-mit-alpschmorbier.png
+image: chou-roellchen-mit-alpschmorbier.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT1H55M

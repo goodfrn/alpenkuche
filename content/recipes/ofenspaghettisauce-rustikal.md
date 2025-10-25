@@ -7,7 +7,7 @@ ogDescription: "Leckere Ofenspaghettisauce rustikal, perfekt für Pasta-Abende. 
 focusKeyphrase: "Ofenspaghettisauce"
 date: 2025-09-26
 draft: false
-image: ofenspaghettisauce-rustikal.png
+image: ofenspaghettisauce-rustikal.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

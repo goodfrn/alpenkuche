@@ -7,7 +7,7 @@ ogDescription: "Genieße Schweinekoteletts mit Birnen. Knusprige Koteletts, perf
 focusKeyphrase: "Schweinekoteletts mit karamellisierten Birnen"
 date: 2025-08-04
 draft: false
-image: schweinekoteletts-mit-birnen.png
+image: schweinekoteletts-mit-birnen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

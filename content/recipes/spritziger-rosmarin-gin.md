@@ -7,7 +7,7 @@ ogDescription: "Genieße den Spritzigen Rosmarin-Gin — ein erfrischender Cockt
 focusKeyphrase: "Spritziger Rosmarin-Gin"
 date: 2025-08-03
 draft: false
-image: spritziger-rosmarin-gin.png
+image: spritziger-rosmarin-gin.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

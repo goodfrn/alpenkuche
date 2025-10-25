@@ -7,7 +7,7 @@ ogDescription: "Ein herzhafter Kürbis Zimt Brotpudding, der warm mit Schlagsahn
 focusKeyphrase: "Kürbis Zimt Brotpudding"
 date: 2025-10-01
 draft: false
-image: kuerbis-zimt-brotpudding.png
+image: kuerbis-zimt-brotpudding.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

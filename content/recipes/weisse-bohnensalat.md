@@ -7,7 +7,7 @@ ogDescription: "Erfrischender Weiße Bohnensalat Variiert, schnell zubereitet un
 focusKeyphrase: "Weiße Bohnensalat"
 date: 2025-07-29
 draft: false
-image: weisse-bohnensalat.png
+image: weisse-bohnensalat.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

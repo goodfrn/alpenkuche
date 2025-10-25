@@ -7,7 +7,7 @@ ogDescription: "Klassisches Tiramisu Twist ist ein frisch interpretiertes italie
 focusKeyphrase: "Tiramisu Rezept"
 date: 2025-08-08
 draft: false
-image: klassisches-tiramisu-twist.png
+image: klassisches-tiramisu-twist.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT5M

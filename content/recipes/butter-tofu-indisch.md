@@ -7,7 +7,7 @@ ogDescription: "Entdecke Butter-Tofu indisch. Ein würziges Gericht mit fester T
 focusKeyphrase: "Butter-Tofu indisch"
 date: 2025-09-25
 draft: false
-image: butter-tofu-indisch.png
+image: butter-tofu-indisch.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

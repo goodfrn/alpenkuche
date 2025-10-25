@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Tapenade Fisch-Tarte mit Kabeljau und frischen
 focusKeyphrase: "Tapenade Fisch-Tarte"
 date: 2025-08-09
 draft: false
-image: tapenade-fisch-tarte.png
+image: tapenade-fisch-tarte.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

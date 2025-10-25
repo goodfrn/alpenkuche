@@ -7,7 +7,7 @@ ogDescription: "Erleben Sie Gratin aus Schinken und Spargel: cremig, herzhaft un
 focusKeyphrase: "Gratin aus Schinken und Spargel"
 date: 2025-08-05
 draft: false
-image: gratin-aus-schinken-und-spargel.png
+image: gratin-aus-schinken-und-spargel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

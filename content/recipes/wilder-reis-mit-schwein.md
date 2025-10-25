@@ -7,7 +7,7 @@ ogDescription: "Wilder Reis mit Schwein und Erdnüssen vereint Texturen und Arom
 focusKeyphrase: "Wilder Reis mit Schwein"
 date: 2025-08-08
 draft: false
-image: wilder-reis-mit-schwein.png
+image: wilder-reis-mit-schwein.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT55M

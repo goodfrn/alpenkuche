@@ -7,7 +7,7 @@ ogDescription: "Mangold-Speck-Quiche. Eine neu gedachte Quiche mit Putenstreifen
 focusKeyphrase: "Mangold-Speck-Quiche"
 date: 2025-07-21
 draft: false
-image: mangold-speck-quiche.png
+image: mangold-speck-quiche.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

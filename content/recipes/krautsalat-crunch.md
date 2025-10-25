@@ -7,7 +7,7 @@ ogDescription: "Ein erfrischender Krautsalat mit knackigem Kohl und einem besond
 focusKeyphrase: "Krautsalat Crunch"
 date: 2025-08-16
 draft: false
-image: krautsalat-crunch.png
+image: krautsalat-crunch.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Orangenhähnchen Neu Erlebt, ein tolles Gericht mit
 focusKeyphrase: "Orangenhähnchen Rezept"
 date: 2025-10-14
 draft: false
-image: orangenhaehnchen-neu-erlebt.png
+image: orangenhaehnchen-neu-erlebt.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT28M

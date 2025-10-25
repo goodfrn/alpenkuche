@@ -7,7 +7,7 @@ ogDescription: "Genieße Kichererbsen-Hähnchen mit knusprigen Fladenbroten. Ein
 focusKeyphrase: "Kichererbsen-Hähnchen"
 date: 2025-08-01
 draft: false
-image: kichererbsen-haehnchen.png
+image: kichererbsen-haehnchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

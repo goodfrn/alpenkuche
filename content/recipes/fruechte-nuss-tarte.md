@@ -7,7 +7,7 @@ ogDescription: "Genieße eine perfekte Früchte-Nuss-Tarte; kombiniert nussige A
 focusKeyphrase: "Früchte-Nuss-Tarte"
 date: 2025-09-26
 draft: false
-image: fruechte-nuss-tarte.png
+image: fruechte-nuss-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

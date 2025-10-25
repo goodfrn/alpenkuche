@@ -7,7 +7,7 @@ ogDescription: "Zaubere leckere Schichtkekse im Glas. Ideal als Geschenk oder Sn
 focusKeyphrase: "Schichtkeks im Glas"
 date: 2025-07-24
 draft: false
-image: schichtkeks-im-glas.png
+image: schichtkeks-im-glas.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für zarte Vanille-Mandel Sablés. Butter, M
 focusKeyphrase: "Vanille-Mandel Sablés"
 date: 2025-08-03
 draft: false
-image: vanille-mandel-sables.png
+image: vanille-mandel-sables.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

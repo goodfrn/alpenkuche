@@ -7,7 +7,7 @@ ogDescription: "Kokos-Rum Panna Cotta kombiniert cremige Kokosmilch und harmonis
 focusKeyphrase: "Kokos-Rum Panna Cotta"
 date: 2025-09-26
 draft: false
-image: kokos-rum-panna-cotta.png
+image: kokos-rum-panna-cotta.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT10M

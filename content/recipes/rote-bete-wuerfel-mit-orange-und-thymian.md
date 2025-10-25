@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Rote Bete Würfel mit Orange und Thymian; eine kö
 focusKeyphrase: "Rote Bete Würfel"
 date: 2025-08-04
 draft: false
-image: rote-bete-wuerfel-mit-orange-und-thymian.png
+image: rote-bete-wuerfel-mit-orange-und-thymian.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gebratenen Kabeljau auf Couscous mit Erbsen und Gr
 focusKeyphrase: "Gebratene Kabeljau mit Couscous"
 date: 2025-09-27
 draft: false
-image: gebratene-kabeljau-mit-couscous.png
+image: gebratene-kabeljau-mit-couscous.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

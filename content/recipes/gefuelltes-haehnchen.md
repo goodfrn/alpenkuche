@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das unikate Rezept für gefülltes Hähnchen mit F
 focusKeyphrase: "gefülltes Hähnchen"
 date: 2025-08-09
 draft: false
-image: gefuelltes-haehnchen.png
+image: gefuelltes-haehnchen.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT1H35M

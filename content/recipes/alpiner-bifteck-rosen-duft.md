@@ -7,7 +7,7 @@ ogDescription: "Alpiner Bifteck Rosen-Duft saftiges Entrecôte, Bergsalz, aromat
 focusKeyphrase: "Alpiner Bifteck"
 date: 2025-07-19
 draft: false
-image: alpiner-bifteck-rosen-duft.png
+image: alpiner-bifteck-rosen-duft.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT18M

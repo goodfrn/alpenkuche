@@ -7,7 +7,7 @@ ogDescription: "Hummer-Croque aus dem Jura. Appenzeller Käse trifft auf Bauernb
 focusKeyphrase: "Alpiner Hummer-Croque"
 date: 2025-07-18
 draft: false
-image: alpiner-hummer-croque.png
+image: alpiner-hummer-croque.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

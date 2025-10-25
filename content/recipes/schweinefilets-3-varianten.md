@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie zart gebratene Schweinefilets mit drei einzigartig
 focusKeyphrase: "Schweinefilets 3 Varianten"
 date: 2025-08-04
 draft: false
-image: schweinefilets-3-varianten.png
+image: schweinefilets-3-varianten.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

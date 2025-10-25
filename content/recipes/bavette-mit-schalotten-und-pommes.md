@@ -7,7 +7,7 @@ ogDescription: "Bavette mit Schalotten und Pommes; entdecken Sie die Aromen von 
 focusKeyphrase: "Bavette mit Schalotten und Pommes"
 date: 2025-08-02
 draft: false
-image: bavette-mit-schalotten-und-pommes.png
+image: bavette-mit-schalotten-und-pommes.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

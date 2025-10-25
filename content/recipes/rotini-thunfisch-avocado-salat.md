@@ -7,7 +7,7 @@ ogDescription: "Erlebe den frischen Rotini Thunfisch Avocado Salat – leicht un
 focusKeyphrase: "Rotini Thunfisch Avocado Salat"
 date: 2025-09-30
 draft: false
-image: rotini-thunfisch-avocado-salat.png
+image: rotini-thunfisch-avocado-salat.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die besten schwarzen Bohnen-Brownies – nussig, saftig
 focusKeyphrase: "Schwarze-Bohnen-Brownies"
 date: 2025-08-13
 draft: false
-image: schwarze-bohnen-brownies-mit-twist.png
+image: schwarze-bohnen-brownies-mit-twist.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Diese schokoladigen Avocado Brownie Biscuits sind leicht, feucht
 focusKeyphrase: "Avocado Brownie Biscuits"
 date: 2025-09-29
 draft: false
-image: avocado-brownie-biscuits.png
+image: avocado-brownie-biscuits.jpg
 author: "Marlena"
 prepTime: PT26M
 cookTime: PT19M

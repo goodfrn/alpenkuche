@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Kalbsbacken Alpen-Art. Ein traditi
 focusKeyphrase: "Kalbsbacken Alpen-Art"
 date: 2025-07-19
 draft: false
-image: kalbsbacken-alpen-art.png
+image: kalbsbacken-alpen-art.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT2H50M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für österliche Trockenfrüchte-Brio
 focusKeyphrase: "Trockenfrüchte-Brioches"
 date: 2025-07-24
 draft: false
-image: oesterliche-trockenfruechte-brioches.png
+image: oesterliche-trockenfruechte-brioches.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Genieße diese Penne mit Merguez, würzig und frisch mit einer p
 focusKeyphrase: "Tunisische Penne mit Merguez"
 date: 2025-08-12
 draft: false
-image: tunisische-penne-mit-merguez.png
+image: tunisische-penne-mit-merguez.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

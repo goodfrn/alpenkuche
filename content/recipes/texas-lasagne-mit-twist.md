@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie die Texas-Lasagne mit Twist. Böden von Tortillas,
 focusKeyphrase: "Texas-Lasagne"
 date: 2025-10-08
 draft: false
-image: texas-lasagne-mit-twist.png
+image: texas-lasagne-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT55M

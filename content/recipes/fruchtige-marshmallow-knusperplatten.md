@@ -7,7 +7,7 @@ ogDescription: "Genieße die fruchtigen Marshmallow-Knusperplatten – eine leck
 focusKeyphrase: "Marshmallow-Knusperplatten"
 date: 2025-10-05
 draft: false
-image: fruchtige-marshmallow-knusperplatten.png
+image: fruchtige-marshmallow-knusperplatten.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

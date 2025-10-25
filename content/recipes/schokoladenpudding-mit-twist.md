@@ -7,7 +7,7 @@ ogDescription: "Entdecke den verführerischen Schokoladenpudding mit einer karam
 focusKeyphrase: "Schokoladenpudding"
 date: 2025-10-04
 draft: false
-image: schokoladenpudding-mit-twist.png
+image: schokoladenpudding-mit-twist.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT12M

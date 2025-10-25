@@ -7,7 +7,7 @@ ogDescription: "Entdecke Quinoa Gebratener Reis Varianz: köstlicher, gesunder E
 focusKeyphrase: "Quinoa Gebratener Reis"
 date: 2025-10-13
 draft: false
-image: quinoa-gebratener-reis.png
+image: quinoa-gebratener-reis.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT16M

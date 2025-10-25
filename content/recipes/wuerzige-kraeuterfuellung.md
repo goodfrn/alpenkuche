@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Würzige Kräuter-Füllung. Eine Kombination a
 focusKeyphrase: "Würzige Kräuter-Füllung"
 date: 2025-10-04
 draft: false
-image: wuerzige-kraeuterfuellung.png
+image: wuerzige-kraeuterfuellung.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

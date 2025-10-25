@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie diese köstliche gegrillte Rinderbavette kombinier
 focusKeyphrase: "gegrillte Rinderbavette"
 date: 2025-07-24
 draft: false
-image: gegrillte-rinderbavette.png
+image: gegrillte-rinderbavette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

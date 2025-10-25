@@ -7,7 +7,7 @@ ogDescription: "Genieße unseren cremigen Kakao-Smoothie! Banane, Avocado, ein K
 focusKeyphrase: "Kakao-Smoothie Rezept"
 date: 2025-07-25
 draft: false
-image: cremiger-kakao-smoothie.png
+image: cremiger-kakao-smoothie.jpg
 author: "Marlena"
 prepTime: PTFIFTEENM
 cookTime: PTFIVEM

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gefüllte Tomaten mit Bratwurst und Kräutern. Ein
 focusKeyphrase: "Gefüllte Tomaten mit Bratwurst"
 date: 2025-07-23
 draft: false
-image: gefuellte-tomaten-mit-bratwurst.png
+image: gefuellte-tomaten-mit-bratwurst.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

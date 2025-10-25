@@ -7,7 +7,7 @@ ogDescription: "Entdecke Zuckerplätzchen mit Twist; einfach und aromatisch, ide
 focusKeyphrase: "Zuckerplätzchen"
 date: 2025-09-28
 draft: false
-image: zuckerplaetzchen-mit-twist.png
+image: zuckerplaetzchen-mit-twist.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT13M

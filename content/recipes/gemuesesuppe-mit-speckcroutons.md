@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Gemüsesuppe mit Speckcroûtons. Rustikal und 
 focusKeyphrase: "Gemüsesuppe mit Speckcroûtons"
 date: 2025-07-27
 draft: false
-image: gemuesesuppe-mit-speckcroutons.png
+image: gemuesesuppe-mit-speckcroutons.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

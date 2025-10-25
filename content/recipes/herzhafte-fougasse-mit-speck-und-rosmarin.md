@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die herzhaften Aromen einer Fougasse mit Speck und
 focusKeyphrase: "Fougasse mit Speck und Rosmarin"
 date: 2025-08-07
 draft: false
-image: herzhafte-fougasse-mit-speck-und-rosmarin.png
+image: herzhafte-fougasse-mit-speck-und-rosmarin.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

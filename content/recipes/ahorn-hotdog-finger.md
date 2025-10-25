@@ -7,7 +7,7 @@ ogDescription: "Probier diese Ahorn-Hotdog Finger, ideal als Fingerfood. Unglaub
 focusKeyphrase: "Ahorn-Hotdog Finger"
 date: 2025-07-25
 draft: false
-image: ahorn-hotdog-finger.png
+image: ahorn-hotdog-finger.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

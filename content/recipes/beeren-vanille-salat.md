@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Beeren-Vanille-Salat mit Rosmarin; ein optisch ansp
 focusKeyphrase: "Beeren-Vanille-Salat"
 date: 2025-08-03
 draft: false
-image: beeren-vanille-salat.png
+image: beeren-vanille-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

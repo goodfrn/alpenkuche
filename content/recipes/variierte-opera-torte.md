@@ -7,7 +7,7 @@ ogDescription: "Entdecke die variierte Opéra Torte. Biskuit mit Haselnussmehl u
 focusKeyphrase: "Variierte Opéra Torte"
 date: 2025-08-16
 draft: false
-image: variierte-opera-torte.png
+image: variierte-opera-torte.jpg
 author: "Marlena"
 prepTime: PT1H25M
 cookTime: PT0H15M

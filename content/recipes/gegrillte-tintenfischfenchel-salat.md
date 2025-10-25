@@ -7,7 +7,7 @@ ogDescription: "Genieße den gegrillten Tintenfischfenchel-Salat. Kombination au
 focusKeyphrase: "gegrillte Tintenfischfenchel-Salat"
 date: 2025-07-20
 draft: false
-image: gegrillte-tintenfischfenchel-salat.png
+image: gegrillte-tintenfischfenchel-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

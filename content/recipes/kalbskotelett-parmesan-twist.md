@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Knusprigkeit der Kalbskoteletts, perfekt paniert mi
 focusKeyphrase: "Kalbskotelett Parmesan Twist"
 date: 2025-08-01
 draft: false
-image: kalbskotelett-parmesan-twist.png
+image: kalbskotelett-parmesan-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

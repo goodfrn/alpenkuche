@@ -7,7 +7,7 @@ ogDescription: "Cooles Rezept für Vanille-Eiscreme ganz ohne Eismaschine. Ideal
 focusKeyphrase: "Vanille-Eiscreme ohne Eismaschine"
 date: 2025-08-15
 draft: false
-image: vanille-eiscreme-ohne-eismaschine.png
+image: vanille-eiscreme-ohne-eismaschine.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

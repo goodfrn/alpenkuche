@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Orangen-Karotten-Fenchel-Salat. Knackig und aromati
 focusKeyphrase: "Orangen-Karotten-Fenchel-Salat"
 date: 2025-09-01
 draft: false
-image: orangen-karotten-fenchel-salat.png
+image: orangen-karotten-fenchel-salat.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT0M

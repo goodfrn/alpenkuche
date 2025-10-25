@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die warme Krabbentrempette; perfekt als Dip oder B
 focusKeyphrase: "Warme Krabbentrempette"
 date: 2025-08-07
 draft: false
-image: warme-krabbentrempette.png
+image: warme-krabbentrempette.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT12M

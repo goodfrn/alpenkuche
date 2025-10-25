@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Kartoffelsalat mit würziger Kräutervinaigrette. U
 focusKeyphrase: "Kartoffelsalat mit Kräutervinaigrette"
 date: 2025-07-29
 draft: false
-image: kartoffelsalat-mit-kraeutervinaigrette.png
+image: kartoffelsalat-mit-kraeutervinaigrette.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT25M

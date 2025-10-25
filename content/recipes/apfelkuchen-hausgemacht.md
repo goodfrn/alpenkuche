@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unseren wunderbaren Rezept für Apfelkuchen mit fr
 focusKeyphrase: "Apfelkuchen Rezept"
 date: 2025-10-23
 draft: false
-image: apfelkuchen-hausgemacht.png
+image: apfelkuchen-hausgemacht.jpg
 author: "Marlena"
 prepTime: PT2H10M
 cookTime: PT40M

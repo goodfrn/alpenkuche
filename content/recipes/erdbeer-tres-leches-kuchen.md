@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Erdbeer-Tres Leches Kuchen mit Kokosmilch und 
 focusKeyphrase: "Erdbeer-Tres Leches Kuchen"
 date: 2025-10-05
 draft: false
-image: erdbeer-tres-leches-kuchen.png
+image: erdbeer-tres-leches-kuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den bunte Gersten-Salat mit Paprika, Feta und Minz
 focusKeyphrase: "Gersten-Salat"
 date: 2025-08-15
 draft: false
-image: gersten-salat-mit-paprika.png
+image: gersten-salat-mit-paprika.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Kartoffelsuppe mit Käsebrot, ideal für kalte Tage. Schnell zub
 focusKeyphrase: "Kartoffelsuppe mit Käsebrot"
 date: 2025-10-04
 draft: false
-image: kartoffelsuppe-mit-kaesebrot.png
+image: kartoffelsuppe-mit-kaesebrot.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT17M

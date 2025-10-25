@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Vanille-Orangen Guimauves: Ein veganes Rezept mit i
 focusKeyphrase: "Vanille-Orangen Guimauves"
 date: 2025-08-09
 draft: false
-image: vanille-orangen-guimauves.png
+image: vanille-orangen-guimauves.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT10M

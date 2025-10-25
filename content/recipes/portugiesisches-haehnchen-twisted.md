@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Portugiesisches Hähnchen Twisted. Saft
 focusKeyphrase: "Portugiesisches Hähnchen"
 date: 2025-08-03
 draft: false
-image: portugiesisches-haehnchen-twisted.png
+image: portugiesisches-haehnchen-twisted.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

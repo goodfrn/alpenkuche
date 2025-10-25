@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie alpinen Schweinebauch mit Gruyère-Dampfbrötchen.
 focusKeyphrase: "Schweinebauch mit Dampfbrötchen"
 date: 2025-07-20
 draft: false
-image: alpiner-schweinebauch-mit-gruyere.png
+image: alpiner-schweinebauch-mit-gruyere.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT2H10M

@@ -7,7 +7,7 @@ ogDescription: "Seidentofu Erdnuss Schüssel. Schnell zubereitet. Mit Reisvermic
 focusKeyphrase: "Seidentofu Erdnuss Schüssel"
 date: 2025-07-23
 draft: false
-image: seidentofu-erdnuss-schuessel.png
+image: seidentofu-erdnuss-schuessel.jpg
 author: "Marlena"
 prepTime: PT27M
 cookTime: PT4M

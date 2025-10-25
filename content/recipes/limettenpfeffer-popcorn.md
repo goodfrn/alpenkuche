@@ -7,7 +7,7 @@ ogDescription: "Limettenpfeffer Popcorn vegan - Ein Snack, der frisch und scharf
 focusKeyphrase: "Limettenpfeffer Popcorn"
 date: 2025-08-07
 draft: false
-image: limettenpfeffer-popcorn.png
+image: limettenpfeffer-popcorn.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT12M

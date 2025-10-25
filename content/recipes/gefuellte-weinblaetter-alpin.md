@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gefüllte Weinblätter Alpin, ein traditionelles G
 focusKeyphrase: "Gefüllte Weinblätter Alpin"
 date: 2025-07-19
 draft: false
-image: gefuellte-weinblaetter-alpin.png
+image: gefuellte-weinblaetter-alpin.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

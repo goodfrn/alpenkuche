@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die perfekten Thunfisch-Acras. Glutenfrei, schnell
 focusKeyphrase: "Thunfisch-Acras"
 date: 2025-08-02
 draft: false
-image: glutenfreie-thunfisch-acras.png
+image: glutenfreie-thunfisch-acras.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

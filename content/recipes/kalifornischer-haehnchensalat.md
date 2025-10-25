@@ -7,7 +7,7 @@ ogDescription: "Probier diesen kalifornischen Hähnchensalat. Mit Avocado und Pa
 focusKeyphrase: "Kalifornischer Hähnchensalat"
 date: 2025-08-12
 draft: false
-image: kalifornischer-haehnchensalat.png
+image: kalifornischer-haehnchensalat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

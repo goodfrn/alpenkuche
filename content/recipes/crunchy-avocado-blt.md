@@ -7,7 +7,7 @@ ogDescription: "Genieße einen Crunchy Avocado BLT: weniger Speck, mehr Geschmac
 focusKeyphrase: "Crunchy Avocado BLT"
 date: 2025-08-10
 draft: false
-image: crunchy-avocado-blt.png
+image: crunchy-avocado-blt.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

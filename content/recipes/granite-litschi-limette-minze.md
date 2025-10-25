@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Granité Litschi Limette Minze, eine kühle und fr
 focusKeyphrase: "Granité Litschi"
 date: 2025-07-26
 draft: false
-image: granite-litschi-limette-minze.png
+image: granite-litschi-limette-minze.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

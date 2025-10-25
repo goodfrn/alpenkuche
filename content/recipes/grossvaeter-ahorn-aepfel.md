@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Großväter Ahorn-Äpfel. Himmlische Teigkugeln mi
 focusKeyphrase: "Großväter Ahorn-Äpfel"
 date: 2025-08-11
 draft: false
-image: grossvaeter-ahorn-aepfel.png
+image: grossvaeter-ahorn-aepfel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

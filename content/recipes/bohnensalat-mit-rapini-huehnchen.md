@@ -7,7 +7,7 @@ ogDescription: "Ein leckerer Bohnensalat mit Rapini und gegrilltem Hühnchen. Fr
 focusKeyphrase: "Bohnensalat mit Rapini"
 date: 2025-07-30
 draft: false
-image: bohnensalat-mit-rapini-huehnchen.png
+image: bohnensalat-mit-rapini-huehnchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

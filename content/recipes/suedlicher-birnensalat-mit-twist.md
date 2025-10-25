@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen Südlichen Birnensalat mit Twist, der frisc
 focusKeyphrase: "Südlicher Birnensalat"
 date: 2025-10-17
 draft: false
-image: suedlicher-birnensalat-mit-twist.png
+image: suedlicher-birnensalat-mit-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

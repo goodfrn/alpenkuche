@@ -7,7 +7,7 @@ ogDescription: "Genussvolles Rezept für einen warmen Zwiebeldip; ideal für das
 focusKeyphrase: "Warme Zwiebeldip"
 date: 2025-08-02
 draft: false
-image: warme-zwiebeldip-mit-crostinis.png
+image: warme-zwiebeldip-mit-crostinis.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

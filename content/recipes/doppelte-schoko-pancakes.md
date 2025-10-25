@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie doppelt so schokoladige Pancakes, perfekt für jed
 focusKeyphrase: "Doppelte Schoko-Pancakes"
 date: 2025-09-25
 draft: false
-image: doppelte-schoko-pancakes.png
+image: doppelte-schoko-pancakes.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

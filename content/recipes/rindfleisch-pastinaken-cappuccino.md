@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Rindfleisch Pastinaken Cappuccino; ein einziga
 focusKeyphrase: "Rindfleisch Pastinaken Cappuccino"
 date: 2025-08-15
 draft: false
-image: rindfleisch-pastinaken-cappuccino.png
+image: rindfleisch-pastinaken-cappuccino.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H35M

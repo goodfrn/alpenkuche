@@ -7,7 +7,7 @@ ogDescription: "Genieße die perfekte Kombination aus saftigen Fleischbällchen,
 focusKeyphrase: "Schwedische Fleischbällchen"
 date: 2025-08-17
 draft: false
-image: schwedische-fleischbaellchen-neu.png
+image: schwedische-fleischbaellchen-neu.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

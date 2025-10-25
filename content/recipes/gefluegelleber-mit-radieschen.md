@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Geflügelleber mit Radieschen; ein
 focusKeyphrase: "Geflügelleber Rezept"
 date: 2025-08-17
 draft: false
-image: gefluegelleber-mit-radieschen.png
+image: gefluegelleber-mit-radieschen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

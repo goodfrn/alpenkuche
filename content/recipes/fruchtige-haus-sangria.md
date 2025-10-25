@@ -7,7 +7,7 @@ ogDescription: "Genieße die fruchtige Haus-Sangria mit Rotwein und Grapefruitsa
 focusKeyphrase: "Haus-Sangria"
 date: 2025-09-28
 draft: false
-image: fruchtige-haus-sangria.png
+image: fruchtige-haus-sangria.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Tofu-Gemüse-Wraps mit Alpen-Twist. Vegetarisc
 focusKeyphrase: "Tofu-Gemüse-Wraps"
 date: 2025-07-21
 draft: false
-image: tofu-gemuesewraps-mit-alpen-twist.png
+image: tofu-gemuesewraps-mit-alpen-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

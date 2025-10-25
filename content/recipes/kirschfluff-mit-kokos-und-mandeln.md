@@ -7,7 +7,7 @@ ogDescription: "Genieße Kirschfluff mit Kokos und Mandeln. Ein lockerer Nachtis
 focusKeyphrase: "Kirschfluff Rezept"
 date: 2025-10-21
 draft: false
-image: kirschfluff-mit-kokos-und-mandeln.png
+image: kirschfluff-mit-kokos-und-mandeln.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

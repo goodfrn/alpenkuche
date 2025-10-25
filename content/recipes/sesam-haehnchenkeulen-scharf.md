@@ -7,7 +7,7 @@ ogDescription: "Knusprige Hähnchenkeulen mit Sesam und einer scharfen Sauce aus
 focusKeyphrase: "Sesam-Hähnchenkeulen"
 date: 2025-07-28
 draft: false
-image: sesam-haehnchenkeulen-scharf.png
+image: sesam-haehnchenkeulen-scharf.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

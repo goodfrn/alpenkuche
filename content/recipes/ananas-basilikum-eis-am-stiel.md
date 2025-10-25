@@ -7,7 +7,7 @@ ogDescription: "Geniesse das Ananas-Basilikum Eis am Stiel. Perfekt für den Som
 focusKeyphrase: "Ananas-Basilikum Eis am Stiel"
 date: 2025-07-21
 draft: false
-image: ananas-basilikum-eis-am-stiel.png
+image: ananas-basilikum-eis-am-stiel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

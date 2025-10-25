@@ -7,7 +7,7 @@ ogDescription: "Genieße diesen frischen grünen Salat mit gerösteten Schalotte
 focusKeyphrase: "Grüner Gemüse Salat"
 date: 2025-08-03
 draft: false
-image: gruener-gemuesesalat.png
+image: gruener-gemuesesalat.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT17M

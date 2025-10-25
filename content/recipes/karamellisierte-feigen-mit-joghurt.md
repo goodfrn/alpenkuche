@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie karamellisierte Feigen mit cremigem Joghurt. Ein g
 focusKeyphrase: "Karamellisierte Feigen mit Joghurt"
 date: 2025-08-12
 draft: false
-image: karamellisierte-feigen-mit-joghurt.png
+image: karamellisierte-feigen-mit-joghurt.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

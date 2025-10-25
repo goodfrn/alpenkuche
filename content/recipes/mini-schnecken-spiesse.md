@@ -7,7 +7,7 @@ ogDescription: "Leckere Mini Schnecken-Spieße mit Pastis. Aromatische Kombinati
 focusKeyphrase: "Mini Schnecken-Spieße"
 date: 2025-07-25
 draft: false
-image: mini-schnecken-spiesse.png
+image: mini-schnecken-spiesse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

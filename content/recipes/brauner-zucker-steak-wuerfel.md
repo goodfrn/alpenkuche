@@ -7,7 +7,7 @@ ogDescription: "Brauner Zucker Steak Würfel – Aromatische Kombination aus Zuc
 focusKeyphrase: "Brauner Zucker Steak Würfel"
 date: 2025-10-16
 draft: false
-image: brauner-zucker-steak-wuerfel.png
+image: brauner-zucker-steak-wuerfel.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT13M

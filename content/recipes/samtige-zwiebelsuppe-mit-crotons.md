@@ -7,7 +7,7 @@ ogDescription: "Erlebe die perfekte Zwiebelsuppe mit Aromen von karamellisierten
 focusKeyphrase: "Zwiebelsuppe"
 date: 2025-08-11
 draft: false
-image: samtige-zwiebelsuppe-mit-crotons.png
+image: samtige-zwiebelsuppe-mit-crotons.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT40M

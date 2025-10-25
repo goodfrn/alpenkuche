@@ -7,7 +7,7 @@ ogDescription: "Hol dir das Rezept für einen erfrischenden Zitronen-Limettenkuc
 focusKeyphrase: "Zitronen-Limettenkuchen"
 date: 2025-10-05
 draft: false
-image: frisch-zitronen-limettenkuchen.png
+image: frisch-zitronen-limettenkuchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Verdrehter Quatre-Quarts. Ein einfacher Kuchen
 focusKeyphrase: "Verdrehter Quatre-Quarts"
 date: 2025-07-30
 draft: false
-image: verdrehter-quatre-quarts.png
+image: verdrehter-quatre-quarts.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

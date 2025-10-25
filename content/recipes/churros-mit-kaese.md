@@ -7,7 +7,7 @@ ogDescription: "Entdecke die unwiderstehlichen Käse-Churros. Knusprig frittiert
 focusKeyphrase: "Käse-Churros"
 date: 2025-08-08
 draft: false
-image: churros-mit-kaese.png
+image: churros-mit-kaese.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Schweine-Schulter Orangenzimt Ein herzhafter Braten mit Kräuter
 focusKeyphrase: "Schweine-Schulter Orangenzimt"
 date: 2025-07-18
 draft: false
-image: schweine-schulter-orangenzimt.png
+image: schweine-schulter-orangenzimt.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT3H20M

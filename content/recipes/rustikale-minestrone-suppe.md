@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unsere rustikale Minestrone Suppe. Frisches Gemüs
 focusKeyphrase: "Minestrone Suppe"
 date: 2025-10-14
 draft: false
-image: rustikale-minestrone-suppe.png
+image: rustikale-minestrone-suppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT28M

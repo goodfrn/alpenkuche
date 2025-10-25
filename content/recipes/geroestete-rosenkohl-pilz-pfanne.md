@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie diese ansprechende Rosenkohl Pilz Pfanne. Die Rös
 focusKeyphrase: "geröstete Rosenkohl Pilz Pfanne"
 date: 2025-10-06
 draft: false
-image: geroestete-rosenkohl-pilz-pfanne.png
+image: geroestete-rosenkohl-pilz-pfanne.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Würzige Indische Rote Linsensuppe mit Kreuzkümmel und Kokosöl
 focusKeyphrase: "Indische Rote Linsensuppe"
 date: 2025-07-28
 draft: false
-image: indische-rote-linsensuppe.png
+image: indische-rote-linsensuppe.jpg
 author: "Marlena"
 prepTime: PT0H20M
 cookTime: PT0H30M

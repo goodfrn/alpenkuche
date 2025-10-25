@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefüllte Hähnchen-Tortillas mit knusprigem Geschmack 
 focusKeyphrase: "Gefüllte Hähnchen-Tortillas"
 date: 2025-09-24
 draft: false
-image: gefuellte-haehnchen-tortillas.png
+image: gefuellte-haehnchen-tortillas.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT17M

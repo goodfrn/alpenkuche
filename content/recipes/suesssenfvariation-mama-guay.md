@@ -7,7 +7,7 @@ ogDescription: "Entdecke die süsse Senfvariation Mama Guay. Ideal für Fleisch,
 focusKeyphrase: "Süße Senfvariation"
 date: 2025-07-28
 draft: false
-image: suesssenfvariation-mama-guay.png
+image: suesssenfvariation-mama-guay.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT22M

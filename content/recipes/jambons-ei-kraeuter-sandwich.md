@@ -7,7 +7,7 @@ ogDescription: "Schnell zubereitetes Sandwich mit Schinken, Eiern und Kräutern.
 focusKeyphrase: "Jambons-Ei-Kräuter-Sandwich"
 date: 2025-07-28
 draft: false
-image: jambons-ei-kraeuter-sandwich.png
+image: jambons-ei-kraeuter-sandwich.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unseren Apfel-Karamell Kuchen; köstlich, saftig m
 focusKeyphrase: "Apfel-Karamell Kuchen"
 date: 2025-08-02
 draft: false
-image: apfel-karamell-kuchen.png
+image: apfel-karamell-kuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H35M

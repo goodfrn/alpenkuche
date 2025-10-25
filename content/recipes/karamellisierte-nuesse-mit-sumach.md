@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Karamellisierten Nüsse mit Sumach – Eine leckere
 focusKeyphrase: "Karamellisierte Nüsse"
 date: 2025-09-30
 draft: false
-image: karamellisierte-nuesse-mit-sumach.png
+image: karamellisierte-nuesse-mit-sumach.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT18M

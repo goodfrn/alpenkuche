@@ -7,7 +7,7 @@ ogDescription: "Entdecke gebratene Rosenkohl mit Speck; schneller Genuss. Einfac
 focusKeyphrase: "Gebratene Rosenkohl mit Speck"
 date: 2025-10-07
 draft: false
-image: gebratene-rosenkohl-mit-speck.png
+image: gebratene-rosenkohl-mit-speck.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT19M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen pikanten Blumenkohl-Pickles. Frisc
 focusKeyphrase: "Pikante Blumenkohl-Pickles"
 date: 2025-08-01
 draft: false
-image: pikante-blumenkohl-pickles.png
+image: pikante-blumenkohl-pickles.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT10M

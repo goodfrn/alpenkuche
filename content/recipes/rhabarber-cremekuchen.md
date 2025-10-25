@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Rhabarber-Cremekuchen - eine köstliche Kombin
 focusKeyphrase: "Rhabarber-Cremekuchen"
 date: 2025-10-06
 draft: false
-image: rhabarber-cremekuchen.png
+image: rhabarber-cremekuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

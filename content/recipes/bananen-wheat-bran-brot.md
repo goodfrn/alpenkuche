@@ -7,7 +7,7 @@ ogDescription: "Entdecke das köstliche Bananen-Wheat Bran Brot, perfekt für ei
 focusKeyphrase: "Bananenbrot"
 date: 2025-09-24
 draft: false
-image: bananen-wheat-bran-brot.png
+image: bananen-wheat-bran-brot.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H05M

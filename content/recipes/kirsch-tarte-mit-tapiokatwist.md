@@ -7,7 +7,7 @@ ogDescription: "Kirsch-Tarte mit einem innovativen Tapiokatwist – zauberhaft u
 focusKeyphrase: "Kirsch-Tarte mit Tapiokatwist"
 date: 2025-09-29
 draft: false
-image: kirsch-tarte-mit-tapiokatwist.png
+image: kirsch-tarte-mit-tapiokatwist.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT55M

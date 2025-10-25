@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie panierte Käse-Sandwiches mit Gouda und frischen K
 focusKeyphrase: "panierte Käse-Sandwiches"
 date: 2025-08-09
 draft: false
-image: ueberraschende-panierte-kaese-sandwiches.png
+image: ueberraschende-panierte-kaese-sandwiches.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Kürbis-Gewürz-Kuchenauflauf - Probier diesen köstlichen Aufla
 focusKeyphrase: "Kürbis-Gewürz-Kuchenauflauf"
 date: 2025-10-23
 draft: false
-image: kuerbisgewuerzkuchenauflauf.png
+image: kuerbisgewuerzkuchenauflauf.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT55M

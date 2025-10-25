@@ -7,7 +7,7 @@ ogDescription: "Genieße Kräuterfilet mit Joghurt-Pasta. Zart und voller Aromen
 focusKeyphrase: "Kräuterfilet mit Joghurt-Pasta"
 date: 2025-08-06
 draft: false
-image: kraeuterfilet-mit-joghurt-pasta.png
+image: kraeuterfilet-mit-joghurt-pasta.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die würzige Pasta im Glas: schnelles Gericht, per
 focusKeyphrase: "Würzige Pasta im Glas"
 date: 2025-08-08
 draft: false
-image: wuerzige-pasta-im-glas.png
+image: wuerzige-pasta-im-glas.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

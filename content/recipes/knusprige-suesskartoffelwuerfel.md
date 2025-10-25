@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie knusprige Süßkartoffelwürfel, die mit geräuche
 focusKeyphrase: "Knusprige Süßkartoffelwürfel"
 date: 2025-08-11
 draft: false
-image: knusprige-suesskartoffelwuerfel.png
+image: knusprige-suesskartoffelwuerfel.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Saftige Forelle Rote-Bete-Salat Ein delikates Reze
 focusKeyphrase: "Saftige Forelle Rote-Bete-Salat"
 date: 2025-07-29
 draft: false
-image: saftige-forelle-mit-roter-bete-salat.png
+image: saftige-forelle-mit-roter-bete-salat.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Der Gaspacho Salat Twist vereint frisches Gemüse mit knusprigem
 focusKeyphrase: "Gaspacho Salat Twist"
 date: 2025-07-24
 draft: false
-image: gaspacho-salat-twist.png
+image: gaspacho-salat-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

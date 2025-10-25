@@ -7,7 +7,7 @@ ogDescription: "Alpen-Honig-Kartoffeln. Herzhaft und honigsüß. Für gemütlich
 focusKeyphrase: "Alpen-Honig-Kartoffeln"
 date: 2025-07-20
 draft: false
-image: alpen-honig-kartoffeln.png
+image: alpen-honig-kartoffeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H20M

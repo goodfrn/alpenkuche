@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Birnenbutter Zimt Twist – eine aromatische Misch
 focusKeyphrase: "Birnenbutter Rezept"
 date: 2025-07-20
 draft: false
-image: birnenbutter-zimt-twist.png
+image: birnenbutter-zimt-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H35M

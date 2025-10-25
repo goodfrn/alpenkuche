@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Knusprigen Reblochon Täschchen, gefüllt mit 
 focusKeyphrase: "Knusprige Reblochon Täschchen"
 date: 2025-08-14
 draft: false
-image: knusprige-reblochon-taeschchen.png
+image: knusprige-reblochon-taeschchen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

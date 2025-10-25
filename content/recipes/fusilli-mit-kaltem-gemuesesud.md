@@ -7,7 +7,7 @@ ogDescription: "Fusilli mit kaltem Gemüse, vegan, schnell zubereitet. Perfektes
 focusKeyphrase: "Fusilli mit kaltem Gemüsesud"
 date: 2025-07-27
 draft: false
-image: fusilli-mit-kaltem-gemuesesud.png
+image: fusilli-mit-kaltem-gemuesesud.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT8M

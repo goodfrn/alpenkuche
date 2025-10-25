@@ -7,7 +7,7 @@ ogDescription: "Billots an Camerises. Ein fruchtiges Biskuit mit kamerisensirup 
 focusKeyphrase: "Billots an Camerises"
 date: 2025-08-11
 draft: false
-image: billots-an-camerises.png
+image: billots-an-camerises.jpg
 author: "Marlena"
 prepTime: PT1H20M
 cookTime: PT25M

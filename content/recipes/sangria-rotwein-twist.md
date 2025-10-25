@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Sangria Rotwein Twist mit limettfrischem
 focusKeyphrase: "Sangria Rotwein Twist"
 date: 2025-09-28
 draft: false
-image: sangria-rotwein-twist.png
+image: sangria-rotwein-twist.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT6M

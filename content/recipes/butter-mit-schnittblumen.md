@@ -7,7 +7,7 @@ ogDescription: "Frische Kräuterbutter mit Schnittlauchblüten. Aromatisch und b
 focusKeyphrase: "Butter mit Schnittblumen"
 date: 2025-07-29
 draft: false
-image: butter-mit-schnittblumen.png
+image: butter-mit-schnittblumen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

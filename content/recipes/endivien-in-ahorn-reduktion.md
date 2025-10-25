@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die harmonische Mischung aus bitteren Endivien und
 focusKeyphrase: "Endivien in Ahorn-Reduktion"
 date: 2025-09-29
 draft: false
-image: endivien-in-ahorn-reduktion.png
+image: endivien-in-ahorn-reduktion.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT40M

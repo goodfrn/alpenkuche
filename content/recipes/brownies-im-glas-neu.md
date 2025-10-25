@@ -7,7 +7,7 @@ ogDescription: "Entdecke die neuen Brownies im Glas mit Dinkelvollkorn und Kokos
 focusKeyphrase: "Brownies im Glas"
 date: 2025-08-17
 draft: false
-image: brownies-im-glas-neu.png
+image: brownies-im-glas-neu.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT17M

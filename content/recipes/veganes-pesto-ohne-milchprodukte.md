@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie ein veganes Pesto ohne Milchprodukte, das mit Waln
 focusKeyphrase: "Pesto ohne Milchprodukte"
 date: 2025-08-28
 draft: false
-image: veganes-pesto-ohne-milchprodukte.png
+image: veganes-pesto-ohne-milchprodukte.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

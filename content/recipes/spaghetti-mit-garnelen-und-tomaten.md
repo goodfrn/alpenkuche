@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Spaghetti mit Garnelen und Tomaten, eine harmonisc
 focusKeyphrase: "Spaghetti mit Garnelen und Tomaten"
 date: 2025-08-14
 draft: false
-image: spaghetti-mit-garnelen-und-tomaten.png
+image: spaghetti-mit-garnelen-und-tomaten.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillte Hähnchen-Wraps mit köstlichem Senf-Dre
 focusKeyphrase: "Hähnchen-Wraps"
 date: 2025-08-15
 draft: false
-image: gegrillte-haehnchen-wraps.png
+image: gegrillte-haehnchen-wraps.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Hähnchen Wildreis Auflauf; cremig, würzig und mit einer frisch
 focusKeyphrase: "Hähnchen Wildreis Auflauf"
 date: 2025-10-06
 draft: false
-image: haehnchen-wildreis-auflauf.png
+image: haehnchen-wildreis-auflauf.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gegrillte Spargelspieße mit einer maritimen Note 
 focusKeyphrase: "Gegrillte Spargelspieße"
 date: 2025-08-15
 draft: false
-image: gegrillte-spargelspiesse.png
+image: gegrillte-spargelspiesse.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

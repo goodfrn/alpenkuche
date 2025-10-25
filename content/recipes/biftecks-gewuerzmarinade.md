@@ -7,7 +7,7 @@ ogDescription: "Zwei kreative Marinaden für Biftecks, amerikanisch und asiatisc
 focusKeyphrase: "Biftecks Gewürzmarinade"
 date: 2025-09-21
 draft: false
-image: biftecks-gewuerzmarinade.png
+image: biftecks-gewuerzmarinade.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

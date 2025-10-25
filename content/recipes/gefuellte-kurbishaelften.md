@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie gefüllte Kürbishälften – eine Kombination aus
 focusKeyphrase: "Gefüllte Kürbishälften"
 date: 2025-08-07
 draft: false
-image: gefuellte-kurbishaelften.png
+image: gefuellte-kurbishaelften.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Hühnersuppe mit Kurkuma und Dinkelnudeln – 
 focusKeyphrase: "Hühnersuppe mit Kurkuma"
 date: 2025-08-06
 draft: false
-image: huehnersuppe-mit-kurkuma.png
+image: huehnersuppe-mit-kurkuma.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT2H15M

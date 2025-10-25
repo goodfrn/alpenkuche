@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Hafer-Mandel Waffeln, die leicht und fluffig sind;
 focusKeyphrase: "Hafer-Mandel Waffeln"
 date: 2025-08-13
 draft: false
-image: hafer-almond-waffeln.png
+image: hafer-almond-waffeln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für zerfetzte Tofu Sandwiches. Voller Gesch
 focusKeyphrase: "Zerfetzter Tofu Sandwich"
 date: 2025-07-30
 draft: false
-image: zerfetzter-tofu-sandwich.png
+image: zerfetzter-tofu-sandwich.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

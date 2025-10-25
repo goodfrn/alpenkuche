@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie die köstliche Basmati Hähnchen Pfanne mit frisch
 focusKeyphrase: "Basmati Hähnchen Pfanne"
 date: 2025-07-21
 draft: false
-image: basmati-haehnchen-pfanne.png
+image: basmati-haehnchen-pfanne.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT40M

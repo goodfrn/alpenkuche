@@ -7,7 +7,7 @@ ogDescription: "Rezept für Alpenkartoffelgratin mit cremiger Konsistenz und knu
 focusKeyphrase: "Alpenkartoffelgratin"
 date: 2025-07-20
 draft: false
-image: knusprig-zarter-alpenkartoffelgratin.png
+image: knusprig-zarter-alpenkartoffelgratin.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT2H10M

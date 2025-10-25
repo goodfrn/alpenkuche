@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Birnen-Butter mit Ingwer. Süß, würzig
 focusKeyphrase: "Birnen-Butter mit Ingwer"
 date: 2025-09-19
 draft: false
-image: birnen-butter-ingwer.png
+image: birnen-butter-ingwer.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT3H10M

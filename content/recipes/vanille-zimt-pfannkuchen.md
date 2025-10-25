@@ -7,7 +7,7 @@ ogDescription: "Genieße Vanille-Zimt Pfannkuchen, die einfach zu machen sind. P
 focusKeyphrase: "Vanille-Zimt Pfannkuchen"
 date: 2025-07-23
 draft: false
-image: vanille-zimt-pfannkuchen.png
+image: vanille-zimt-pfannkuchen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Boulangère Kartoffeln mit Weißwein – ein köst
 focusKeyphrase: "Boulangère Kartoffeln"
 date: 2025-09-28
 draft: false
-image: boulangere-kartoffeln.png
+image: boulangere-kartoffeln.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT3H15M

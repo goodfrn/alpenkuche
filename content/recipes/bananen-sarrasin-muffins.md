@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen Bananen-Sarrasin-Muffins mit Mandeln un
 focusKeyphrase: "Bananen-Sarrasin-Muffins"
 date: 2025-08-10
 draft: false
-image: bananen-sarrasin-muffins.png
+image: bananen-sarrasin-muffins.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT25M

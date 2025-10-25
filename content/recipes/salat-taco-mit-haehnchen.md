@@ -7,7 +7,7 @@ ogDescription: "Genieße Salat-Tacos mit Hähnchen. Frisch, würzig und voller A
 focusKeyphrase: "Salat-Taco mit Hähnchen"
 date: 2025-09-26
 draft: false
-image: salat-taco-mit-haehnchen.png
+image: salat-taco-mit-haehnchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

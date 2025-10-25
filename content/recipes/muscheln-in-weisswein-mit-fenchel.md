@@ -7,7 +7,7 @@ ogDescription: "Entdecke Muscheln in Weißwein mit Fenchel – Ein köstliches R
 focusKeyphrase: "Muscheln in Weißwein"
 date: 2025-08-08
 draft: false
-image: muscheln-in-weisswein-mit-fenchel.png
+image: muscheln-in-weisswein-mit-fenchel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

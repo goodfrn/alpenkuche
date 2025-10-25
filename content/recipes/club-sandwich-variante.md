@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Club Sandwich Variante, die knusprigen S
 focusKeyphrase: "Club Sandwich Variante"
 date: 2025-09-27
 draft: false
-image: club-sandwich-variante.png
+image: club-sandwich-variante.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Schnelle karamellisierte Banane in Alufolie. Kombination von Hon
 focusKeyphrase: "Karamellisierte Banane in Alufolie"
 date: 2025-07-20
 draft: false
-image: karamellisierte-banana-alufolie.png
+image: karamellisierte-banana-alufolie.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT15M

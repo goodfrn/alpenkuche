@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Blumenkohl-Pizzaboden mit frischem Spinat und Gouda
 focusKeyphrase: "Blumenkohl-Pizzaboden"
 date: 2025-08-17
 draft: false
-image: blumenkohl-pizzaboden-mit-spinat.png
+image: blumenkohl-pizzaboden-mit-spinat.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT22M

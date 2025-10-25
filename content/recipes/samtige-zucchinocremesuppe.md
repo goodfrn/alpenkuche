@@ -7,7 +7,7 @@ ogDescription: "Entdecke die samtige Zucchinocremesuppe – leicht und frisch, i
 focusKeyphrase: "Zucchinocremesuppe"
 date: 2025-09-27
 draft: false
-image: samtige-zucchinocremesuppe.png
+image: samtige-zucchinocremesuppe.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

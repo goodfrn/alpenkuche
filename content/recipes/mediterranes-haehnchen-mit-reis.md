@@ -7,7 +7,7 @@ ogDescription: "Probier dieses mediterrane Hähnchen mit Reis; kombiniert Safran
 focusKeyphrase: "Mediterranes Hähnchen mit Reis"
 date: 2025-10-05
 draft: false
-image: mediterranes-haehnchen-mit-reis.png
+image: mediterranes-haehnchen-mit-reis.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

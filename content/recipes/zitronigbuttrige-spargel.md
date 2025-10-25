@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Zitronigbuttrige Spargel Rezept. Leicht, frisc
 focusKeyphrase: "Zitronigbuttrige Spargel"
 date: 2025-07-24
 draft: false
-image: zitronigbuttrige-spargel.png
+image: zitronigbuttrige-spargel.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT23M

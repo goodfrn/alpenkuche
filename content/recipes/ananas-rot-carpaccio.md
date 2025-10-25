@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Ananas Rot Carpaccio mit frischen Himbeeren. Eine 
 focusKeyphrase: "Ananas Rot Carpaccio"
 date: 2025-09-23
 draft: false
-image: ananas-rot-carpaccio.png
+image: ananas-rot-carpaccio.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT10M

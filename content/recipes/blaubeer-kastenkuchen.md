@@ -7,7 +7,7 @@ ogDescription: "Locker-saftiger Blaubeer-Kastenkuchen mit einer besonderen Füll
 focusKeyphrase: "Blaubeer-Kastenkuchen"
 date: 2025-09-25
 draft: false
-image: blaubeer-kastenkuchen.png
+image: blaubeer-kastenkuchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Alpine Wurstbällchen mit Orzo. Ein kräftiges Ger
 focusKeyphrase: "Alpine Wurstbällchen mit Orzo"
 date: 2025-07-19
 draft: false
-image: alpine-wurstbaellchen-mit-orzo.png
+image: alpine-wurstbaellchen-mit-orzo.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein gegrilltes Rindfleisch Sandwich mit Fenchel; h
 focusKeyphrase: "gegrilltes Rindfleisch Sandwich"
 date: 2025-08-14
 draft: false
-image: gegrilltes-rindfleisch-sandwich.png
+image: gegrilltes-rindfleisch-sandwich.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Knuspriger Grundteig für Quiches oder süsse Wähen. Mit Dinkel
 focusKeyphrase: "Alpen-Pâte Brisée"
 date: 2025-07-19
 draft: false
-image: rustikale-alpen-pate-brisee.png
+image: rustikale-alpen-pate-brisee.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

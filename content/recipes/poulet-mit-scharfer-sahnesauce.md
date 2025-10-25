@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie das alpine Mexiko mit Poulet in scharfer Sahnesauc
 focusKeyphrase: "Poulet mit scharfer Sahnesauce"
 date: 2025-07-20
 draft: false
-image: poulet-mit-scharfer-sahnesauce.png
+image: poulet-mit-scharfer-sahnesauce.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT35M

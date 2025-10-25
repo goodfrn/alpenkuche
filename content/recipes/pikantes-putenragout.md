@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses würzige Putenragout mit Kartoffeln und Paprika,
 focusKeyphrase: "Pikantes Putenragout"
 date: 2025-09-26
 draft: false
-image: pikantes-putenragout.png
+image: pikantes-putenragout.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

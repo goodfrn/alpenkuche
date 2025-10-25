@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Frittata Alpenstil, voll mit Spinat und würzi
 focusKeyphrase: "Frittata Alpenstil"
 date: 2025-07-20
 draft: false
-image: frittata-alpenstil.png
+image: frittata-alpenstil.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

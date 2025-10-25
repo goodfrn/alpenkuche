@@ -7,7 +7,7 @@ ogDescription: "Würzige Käsebällchen-Happen; cremig und knusprig; ideal für 
 focusKeyphrase: "Käsebällchen Rezept"
 date: 2025-10-13
 draft: false
-image: wuerziger-kaesebaellchen-happen.png
+image: wuerziger-kaesebaellchen-happen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

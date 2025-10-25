@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gewürzten Chai Latte warm oder kalt. Ein intensiv
 focusKeyphrase: "gewürzter Chai Latte"
 date: 2025-08-03
 draft: false
-image: gewuerzter-chai-latte.png
+image: gewuerzter-chai-latte.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT17M

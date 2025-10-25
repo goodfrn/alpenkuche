@@ -7,7 +7,7 @@ ogDescription: "Geniesse den Alpencocktail Spritz mit Fendant, Arven-Infused Bit
 focusKeyphrase: "Alpencocktail Spritz"
 date: 2025-07-20
 draft: false
-image: alpencocktail-spritz.png
+image: alpencocktail-spritz.jpg
 author: "Marlena"
 prepTime: PT06M
 cookTime: PT00M

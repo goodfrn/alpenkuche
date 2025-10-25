@@ -7,7 +7,7 @@ ogDescription: "Leckerer Süßkartoffel-Brokkoli-Salat mit Hähnchen und frisch 
 focusKeyphrase: "Süßkartoffel-Brokkoli-Salat"
 date: 2025-08-05
 draft: false
-image: suesskartoffel-brokkoli-salat.png
+image: suesskartoffel-brokkoli-salat.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT35M

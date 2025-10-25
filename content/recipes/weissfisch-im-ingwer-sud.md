@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Weißfisch im Ingwer-Sud mit Mangold. Schnell geko
 focusKeyphrase: "Weißfisch im Ingwer-Sud"
 date: 2025-07-21
 draft: false
-image: weissfisch-im-ingwer-sud.png
+image: weissfisch-im-ingwer-sud.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

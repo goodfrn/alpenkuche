@@ -7,7 +7,7 @@ ogDescription: "Saftige Käseburger mit cremigem Käse. Perfekt gebraten, in Bri
 focusKeyphrase: "Saftige Käseburger"
 date: 2025-10-13
 draft: false
-image: saftige-kaeseburger.png
+image: saftige-kaeseburger.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT14M

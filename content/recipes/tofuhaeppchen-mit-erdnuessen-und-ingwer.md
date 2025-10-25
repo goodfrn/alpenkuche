@@ -7,7 +7,7 @@ ogDescription: "Genieße Tofuhäppchen mit Erdnüssen und Ingwer; eine köstlich
 focusKeyphrase: "Tofuhäppchen"
 date: 2025-08-04
 draft: false
-image: tofuhaeppchen-mit-erdnuessen-und-ingwer.png
+image: tofuhaeppchen-mit-erdnuessen-und-ingwer.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT15M

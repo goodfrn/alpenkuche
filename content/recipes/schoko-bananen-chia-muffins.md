@@ -7,7 +7,7 @@ ogDescription: "Entdecke die besten Schoko-Bananen-Chia-Muffins; saftig, nahrhaf
 focusKeyphrase: "Schoko-Bananen-Chia-Muffins"
 date: 2025-10-17
 draft: false
-image: schoko-bananen-chia-muffins.png
+image: schoko-bananen-chia-muffins.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT28M

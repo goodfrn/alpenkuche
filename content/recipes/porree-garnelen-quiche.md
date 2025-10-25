@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Porree-Garnelen Quiche; herzhaft, cremig
 focusKeyphrase: "Porree-Garnelen Quiche"
 date: 2025-08-16
 draft: false
-image: porree-garnelen-quiche.png
+image: porree-garnelen-quiche.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

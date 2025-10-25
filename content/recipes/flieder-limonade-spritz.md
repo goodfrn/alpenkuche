@@ -7,7 +7,7 @@ ogDescription: "Genieße die köstliche Flieder-Limonade Spritz, ein blumiger Co
 focusKeyphrase: "Flieder-Limonade Spritz"
 date: 2025-07-25
 draft: false
-image: flieder-limonade-spritz.png
+image: flieder-limonade-spritz.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT7M

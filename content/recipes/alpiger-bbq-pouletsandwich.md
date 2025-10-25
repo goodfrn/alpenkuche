@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein rustikales Alpiger BBQ Pouletsandwich mit fris
 focusKeyphrase: "Alpiger BBQ Pouletsandwich"
 date: 2025-07-20
 draft: false
-image: alpiger-bbq-pouletsandwich.png
+image: alpiger-bbq-pouletsandwich.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie asiatische Karotten-Nudeln mit einer köstlichen E
 focusKeyphrase: "Karotten-Nudeln mit Erdnusssauce"
 date: 2025-07-27
 draft: false
-image: asiatische-karotten-nudeln.png
+image: asiatische-karotten-nudeln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

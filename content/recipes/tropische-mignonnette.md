@@ -7,7 +7,7 @@ ogDescription: "Frische Tropische Mignonnette, perfekt für Austern. Ananas, Lim
 focusKeyphrase: "Tropische Mignonnette"
 date: 2025-09-23
 draft: false
-image: tropische-mignonnette.png
+image: tropische-mignonnette.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

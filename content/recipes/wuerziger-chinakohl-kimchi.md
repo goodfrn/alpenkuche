@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für würzigen Chinakohl Kimchi. Fris
 focusKeyphrase: "Würziger Chinakohl Kimchi"
 date: 2025-07-21
 draft: false
-image: wuerziger-chinakohl-kimchi.png
+image: wuerziger-chinakohl-kimchi.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

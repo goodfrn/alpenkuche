@@ -7,7 +7,7 @@ ogDescription: "Geniesse einen fruchtigen Blaubeer-Cocktail, mit Wodka, Blue Cur
 focusKeyphrase: "Blaubeer-Cocktail"
 date: 2025-10-13
 draft: false
-image: fruchtiger-blaubeer-cocktail.png
+image: fruchtiger-blaubeer-cocktail.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

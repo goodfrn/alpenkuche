@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Ahorn Brioche Schlange mit Schweize
 focusKeyphrase: "Ahorn Brioche Schlange"
 date: 2025-07-20
 draft: false
-image: ahorn-brioche-schlange.png
+image: ahorn-brioche-schlange.jpg
 author: "Marlena"
 prepTime: PT1H20M
 cookTime: PT35M

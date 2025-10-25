@@ -7,7 +7,7 @@ ogDescription: "Die würzigen Cashew-Ortenägel sind nussig, knusprig und perfek
 focusKeyphrase: "Würzige Cashew-Ortenägel"
 date: 2025-08-12
 draft: false
-image: wuerzige-cashew-orrenaegel.png
+image: wuerzige-cashew-orrenaegel.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT18M

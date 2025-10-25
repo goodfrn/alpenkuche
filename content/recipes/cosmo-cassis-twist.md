@@ -7,7 +7,7 @@ ogDescription: "Genieße den Cosmo Cassis Twist, einen fruchtigen Cocktail. Erfr
 focusKeyphrase: "Cosmo Cassis Twist"
 date: 2025-07-30
 draft: false
-image: cosmo-cassis-twist.png
+image: cosmo-cassis-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

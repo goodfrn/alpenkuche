@@ -7,7 +7,7 @@ ogDescription: "Genieße die cremige Mais-Crème, verfeinert mit Karamell-Cornfl
 focusKeyphrase: "Mais-Crème mit Karamell-Cornflakes"
 date: 2025-09-29
 draft: false
-image: mais-creme-mit-karamell-cornflakes.png
+image: mais-creme-mit-karamell-cornflakes.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

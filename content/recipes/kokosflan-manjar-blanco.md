@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Kokosflan Manjar Blanco, einen erfrisch
 focusKeyphrase: "Kokosflan"
 date: 2025-09-27
 draft: false
-image: kokosflan-manjar-blanco.png
+image: kokosflan-manjar-blanco.jpg
 author: "Marlena"
 prepTime: PT16M
 cookTime: PT6M

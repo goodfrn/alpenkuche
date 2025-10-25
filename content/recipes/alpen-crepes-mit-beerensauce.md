@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Alpen-Crêpes mit Beerensauce. Ein Brunch-Hit,
 focusKeyphrase: "Alpen-Crêpes"
 date: 2025-07-19
 draft: false
-image: alpen-crepes-mit-beerensauce.png
+image: alpen-crepes-mit-beerensauce.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT22M

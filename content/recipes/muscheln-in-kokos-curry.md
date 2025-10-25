@@ -7,7 +7,7 @@ ogDescription: "Muscheln in Kokos-Curry, aromatisch und cremig, passt perfekt zu
 focusKeyphrase: "Muscheln in Kokos-Curry"
 date: 2025-08-19
 draft: false
-image: muscheln-in-kokos-curry.png
+image: muscheln-in-kokos-curry.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

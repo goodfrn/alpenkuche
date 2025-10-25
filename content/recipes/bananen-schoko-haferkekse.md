@@ -7,7 +7,7 @@ ogDescription: "Vegane Bananen-Schoko Haferkekse, ideal für ein schnelles Früh
 focusKeyphrase: "Bananen-Schoko Haferkekse"
 date: 2025-08-17
 draft: false
-image: bananen-schoko-haferkekse.png
+image: bananen-schoko-haferkekse.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT18M

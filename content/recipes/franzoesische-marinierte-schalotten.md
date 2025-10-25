@@ -7,7 +7,7 @@ ogDescription: "Entdecke die scharfen, marinierten Schalotten. Einfach, frisch u
 focusKeyphrase: "marinierte Schalotten"
 date: 2025-07-21
 draft: false
-image: franzoesische-marinierte-schalotten.png
+image: franzoesische-marinierte-schalotten.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT0M

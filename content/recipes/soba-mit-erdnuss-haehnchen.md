@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Soba mit Erdnuss-Hähnchen, eine köstliche Mischu
 focusKeyphrase: "Soba mit Erdnuss-Hähnchen"
 date: 2025-08-14
 draft: false
-image: soba-mit-erdnuss-haehnchen.png
+image: soba-mit-erdnuss-haehnchen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

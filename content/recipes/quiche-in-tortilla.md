@@ -7,7 +7,7 @@ ogDescription: "Leckere Quiche in Tortilla, im Airfryer zubereitet, vollgepackt 
 focusKeyphrase: "Quiche im Airfryer"
 date: 2025-09-28
 draft: false
-image: quiche-in-tortilla.png
+image: quiche-in-tortilla.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

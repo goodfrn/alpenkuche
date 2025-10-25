@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein feuriges Hähnchen-Sandwich mit frischen Erbse
 focusKeyphrase: "Feuriges Hähnchen-Sandwich"
 date: 2025-09-07
 draft: false
-image: feuriges-haehnchen-sandwich.png
+image: feuriges-haehnchen-sandwich.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Schnelle Zwiebelbrühe-Mischung für alle Gerichte. Aromatisch, 
 focusKeyphrase: "Zwiebelbrühe-Mischung"
 date: 2025-10-14
 draft: false
-image: hausgemachte-zwiebelbruehe-mischung.png
+image: hausgemachte-zwiebelbruehe-mischung.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

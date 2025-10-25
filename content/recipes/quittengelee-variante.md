@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Quittengelee Variante. Ein einzigartiges Rezept mit
 focusKeyphrase: "Quittengelee Rezept"
 date: 2025-09-29
 draft: false
-image: quittengelee-variante.png
+image: quittengelee-variante.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Blätterteig Schinken Käse Häppchen; perfekt für gesellige An
 focusKeyphrase: "Blätterteig Schinken Käse Häppchen"
 date: 2025-10-07
 draft: false
-image: blaetterteig-schinken-kaese-haeppchen.png
+image: blaetterteig-schinken-kaese-haeppchen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT17M

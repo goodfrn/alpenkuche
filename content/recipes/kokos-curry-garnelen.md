@@ -7,7 +7,7 @@ ogDescription: "Kokos-Curry-Garnelen mit festem Gemüse und süß-säuerlicher A
 focusKeyphrase: "Kokos-Curry-Garnelen"
 date: 2025-08-15
 draft: false
-image: kokos-curry-garnelen.png
+image: kokos-curry-garnelen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

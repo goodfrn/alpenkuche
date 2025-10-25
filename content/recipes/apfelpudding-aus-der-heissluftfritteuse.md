@@ -7,7 +7,7 @@ ogDescription: "Entdecke diesen himmlischen Apfelpudding aus der Heißluftfritte
 focusKeyphrase: "Apfelpudding"
 date: 2025-09-24
 draft: false
-image: apfelpudding-aus-der-heissluftfritteuse.png
+image: apfelpudding-aus-der-heissluftfritteuse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

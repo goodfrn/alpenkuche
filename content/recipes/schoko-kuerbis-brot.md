@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Schoko-Kürbis-Brot neu. Saftig, lecker
 focusKeyphrase: "Schoko-Kürbis-Brot"
 date: 2025-10-23
 draft: false
-image: schoko-kuerbis-brot.png
+image: schoko-kuerbis-brot.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT55M

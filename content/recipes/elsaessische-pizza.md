@@ -7,7 +7,7 @@ ogDescription: "Elsässische Pizza mit knusprigem Teig und aromatischen Belägen
 focusKeyphrase: "Elsässische Pizza"
 date: 2025-09-28
 draft: false
-image: elsaessische-pizza.png
+image: elsaessische-pizza.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

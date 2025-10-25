@@ -7,7 +7,7 @@ ogDescription: "Genieße ein fruchtiges Ananas-Acerum Granité, perfekt für hei
 focusKeyphrase: "Ananas-Acerum Granité"
 date: 2025-08-18
 draft: false
-image: ananas-acerum-granite.png
+image: ananas-acerum-granite.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die rustikale Hähnchenpastete: köstlich gefüllt
 focusKeyphrase: "Hähnchenpastete"
 date: 2025-09-19
 draft: false
-image: haehnchenpastete-rustikal.png
+image: haehnchenpastete-rustikal.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

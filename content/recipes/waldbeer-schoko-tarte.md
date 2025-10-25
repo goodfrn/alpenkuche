@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Waldbeer-Schoko-Tarte mit knusprigem Boden und
 focusKeyphrase: "Waldbeer-Schoko-Tarte"
 date: 2025-08-06
 draft: false
-image: waldbeer-schoko-tarte.png
+image: waldbeer-schoko-tarte.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT25M

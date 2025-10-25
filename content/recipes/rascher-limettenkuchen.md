@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Rascher Limettenkuchen; er ist die ideale Erfr
 focusKeyphrase: "Rascher Limettenkuchen"
 date: 2025-09-28
 draft: false
-image: rascher-limettenkuchen.png
+image: rascher-limettenkuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT45M

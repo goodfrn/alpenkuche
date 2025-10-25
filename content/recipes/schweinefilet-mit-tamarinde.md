@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Schweinefilet mit Tamarinde. Frisch, süß und sau
 focusKeyphrase: "Schweinefilet mit Tamarinde"
 date: 2025-08-14
 draft: false
-image: schweinefilet-mit-tamarinde.png
+image: schweinefilet-mit-tamarinde.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

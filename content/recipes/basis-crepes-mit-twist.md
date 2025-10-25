@@ -7,7 +7,7 @@ ogDescription: "Genussvolle Basis-Crêpes mit Dinkel und Kokosblütenzucker. Zar
 focusKeyphrase: "Basis-Crêpes"
 date: 2025-08-07
 draft: false
-image: basis-crepes-mit-twist.png
+image: basis-crepes-mit-twist.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT13M

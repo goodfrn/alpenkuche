@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Rotwein-Jus mit Schalotten für das perfekte Dinne
 focusKeyphrase: "Rotwein-Jus mit Schalotten"
 date: 2025-10-04
 draft: false
-image: rotwein-jus-mit-schalotten.png
+image: rotwein-jus-mit-schalotten.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT32M

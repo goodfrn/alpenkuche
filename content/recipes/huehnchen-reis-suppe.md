@@ -7,7 +7,7 @@ ogDescription: "Hühnchen-Reis-Suppe rustikal ist eine herzhafte, wärmende Mahl
 focusKeyphrase: "Hühnchen-Reis-Suppe"
 date: 2025-09-29
 draft: false
-image: huehnchen-reis-suppe.png
+image: huehnchen-reis-suppe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen vietnamesischen Schweinebrochettes
 focusKeyphrase: "Vietnamesische Schweinebrochettes"
 date: 2025-08-13
 draft: false
-image: vietnamesische-schweinebrochettes.png
+image: vietnamesische-schweinebrochettes.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

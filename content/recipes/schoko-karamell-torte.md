@@ -7,7 +7,7 @@ ogDescription: "Schoko-Karamell Torte mit vier saftigen Schichten. Karamellisier
 focusKeyphrase: "Schoko-Karamell Torte"
 date: 2025-07-29
 draft: false
-image: schoko-karamell-torte.png
+image: schoko-karamell-torte.jpg
 author: "Marlena"
 prepTime: PT100M
 cookTime: PT50M

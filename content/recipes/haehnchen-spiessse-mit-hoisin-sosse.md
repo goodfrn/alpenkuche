@@ -7,7 +7,7 @@ ogDescription: "Hähnchen-Spieße mit Hoisin-Soße. Saftig und würzig. Einfache
 focusKeyphrase: "Hähnchen-Spieße"
 date: 2025-07-28
 draft: false
-image: haehnchen-spiessse-mit-hoisin-sosse.png
+image: haehnchen-spiessse-mit-hoisin-sosse.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT12M

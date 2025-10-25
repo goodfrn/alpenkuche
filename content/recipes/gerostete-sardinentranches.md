@@ -7,7 +7,7 @@ ogDescription: "Entdecke geröstete Sardinentranches mit rauchigen Sardinen und 
 focusKeyphrase: "Geröstete Sardinentranches"
 date: 2025-08-06
 draft: false
-image: gerostete-sardinentranches.png
+image: gerostete-sardinentranches.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

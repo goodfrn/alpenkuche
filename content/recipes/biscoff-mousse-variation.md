@@ -7,7 +7,7 @@ ogDescription: "Genieße eine luftig leichte Biscoff Mousse; perfekt für Desser
 focusKeyphrase: "Biscoff Mousse"
 date: 2025-10-17
 draft: false
-image: biscoff-mousse-variation.png
+image: biscoff-mousse-variation.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT0M

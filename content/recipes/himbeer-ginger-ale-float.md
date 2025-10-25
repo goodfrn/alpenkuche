@@ -7,7 +7,7 @@ ogDescription: "Erfrischender Himbeer-Ginger-Ale-Float. Perfekt für den Garten.
 focusKeyphrase: "Himbeer-Ginger-Ale-Float"
 date: 2025-07-23
 draft: false
-image: himbeer-ginger-ale-float.png
+image: himbeer-ginger-ale-float.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

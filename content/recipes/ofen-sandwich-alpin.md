@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Ofen-Sandwich alpin mit würzigem Käse-Öl, f
 focusKeyphrase: "Ofen-Sandwich alpin"
 date: 2025-07-19
 draft: false
-image: ofen-sandwich-alpin.png
+image: ofen-sandwich-alpin.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT3M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie warmen Wildsalat mit Birnen, Rebhuhn und geröstet
 focusKeyphrase: "Warmes Wildsalat mit Birnen"
 date: 2025-07-20
 draft: false
-image: warmes-wildsalat-mit-birnen.png
+image: warmes-wildsalat-mit-birnen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

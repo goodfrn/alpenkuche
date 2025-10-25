@@ -7,7 +7,7 @@ ogDescription: "Knuspriger Teig ohne Butter? Probiere dieses Rezept mit Sonnenbl
 focusKeyphrase: "knuspriger Teig mit Öl"
 date: 2025-08-16
 draft: false
-image: knuspriger-teig-mit-oel.png
+image: knuspriger-teig-mit-oel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

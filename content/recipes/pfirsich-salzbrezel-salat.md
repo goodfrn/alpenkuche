@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Pfirsich-Salzbrezel-Salat, eine überraschende
 focusKeyphrase: "Pfirsich-Salzbrezel-Salat"
 date: 2025-10-20
 draft: false
-image: pfirsich-salzbrezel-salat.png
+image: pfirsich-salzbrezel-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

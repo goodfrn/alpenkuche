@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen Eierlikör-Käsekuchen mit Amarettini-Krust
 focusKeyphrase: "Eierlikör-Käsekuchen"
 date: 2025-08-16
 draft: false
-image: eierlikoer-kaeskuchen.png
+image: eierlikoer-kaeskuchen.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H10M

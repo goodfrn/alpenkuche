@@ -7,7 +7,7 @@ ogDescription: "Verwandle warme Milch in einen köstlichen weißen Schokolade Tr
 focusKeyphrase: "weiße Schokolade Trink"
 date: 2025-10-17
 draft: false
-image: weisse-schokolade-trink.png
+image: weisse-schokolade-trink.jpg
 author: "Marlena"
 prepTime: PT3M
 cookTime: PT11M

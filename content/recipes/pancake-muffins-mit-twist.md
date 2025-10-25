@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Pancake Muffins mit Zimt; lecker, fluffig und berei
 focusKeyphrase: "Pancake Muffins"
 date: 2025-10-16
 draft: false
-image: pancake-muffins-mit-twist.png
+image: pancake-muffins-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT22M

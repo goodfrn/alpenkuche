@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Hähnchen-Gemüse-Frikassee, ein einfaches Gericht
 focusKeyphrase: "Hähnchen-Gemüse-Frikassee"
 date: 2025-07-29
 draft: false
-image: haehnchen-gemuese-frikassee.png
+image: haehnchen-gemuese-frikassee.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT45M

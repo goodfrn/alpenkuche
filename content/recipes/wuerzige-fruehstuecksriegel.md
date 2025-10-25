@@ -7,7 +7,7 @@ ogDescription: "Entdecke die würzigen Frühstücksriegel – eine leckere Misch
 focusKeyphrase: "Würzige Frühstücksriegel"
 date: 2025-08-03
 draft: false
-image: wuerzige-fruehstuecksriegel.png
+image: wuerzige-fruehstuecksriegel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT27M

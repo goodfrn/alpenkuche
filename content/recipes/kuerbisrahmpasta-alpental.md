@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Kürbisrahmpasta Alpental – eine rustikale K
 focusKeyphrase: "Kürbisrahmpasta"
 date: 2025-07-19
 draft: false
-image: kuerbisrahmpasta-alpental.png
+image: kuerbisrahmpasta-alpental.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT50M

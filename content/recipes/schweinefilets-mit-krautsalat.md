@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie zarte Schweinefilets mit einem frischen, gegrillte
 focusKeyphrase: "Schweinefilets mit gegrilltem Mais-Krautsalat"
 date: 2025-08-09
 draft: false
-image: schweinefilets-mit-krautsalat.png
+image: schweinefilets-mit-krautsalat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

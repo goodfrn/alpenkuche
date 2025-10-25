@@ -7,7 +7,7 @@ ogDescription: "Diese Apfeltarte mit Orangenmarmelade begeistert mit knusprigem 
 focusKeyphrase: "Apfeltarte mit Orangenmarmelade"
 date: 2025-09-10
 draft: false
-image: apfeltarte-orangenmarmelade.png
+image: apfeltarte-orangenmarmelade.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT55M

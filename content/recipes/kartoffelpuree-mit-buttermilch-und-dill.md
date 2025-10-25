@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Kartoffelpüree mit Buttermilch und Dill – Ein R
 focusKeyphrase: "Kartoffelpüree mit Buttermilch und Dill"
 date: 2025-08-02
 draft: false
-image: kartoffelpuree-mit-buttermilch-und-dill.png
+image: kartoffelpuree-mit-buttermilch-und-dill.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke Fondue Chinoise mit Kurkuma - einzigartige Aromen und g
 focusKeyphrase: "Fondue Chinoise mit Kurkuma"
 date: 2025-08-10
 draft: false
-image: fondue-chinoise-mit-kurkuma.png
+image: fondue-chinoise-mit-kurkuma.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

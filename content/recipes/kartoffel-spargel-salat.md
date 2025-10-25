@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Kartoffel Spargel Salat, ein köstlicher Salat mit
 focusKeyphrase: "Kartoffel Spargel Salat"
 date: 2025-08-18
 draft: false
-image: kartoffel-spargel-salat.png
+image: kartoffel-spargel-salat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

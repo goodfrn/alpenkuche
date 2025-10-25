@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen spezieller Hähnchenflügel – würzig
 focusKeyphrase: "amerikanische Hähnchenflügel"
 date: 2025-08-15
 draft: false
-image: amerikanische-haehnchenfluegel.png
+image: amerikanische-haehnchenfluegel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

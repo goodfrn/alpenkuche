@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie eine Mischung aus knackigem Hähnchen und frischen
 focusKeyphrase: "Curry-Hähnchen-Salat-Tartines"
 date: 2025-08-19
 draft: false
-image: curry-haehnchen-salat.png
+image: curry-haehnchen-salat.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

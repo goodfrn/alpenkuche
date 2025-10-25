@@ -7,7 +7,7 @@ ogDescription: "Weiße Schoko-Kokos Trüffel bieten eine cremige Textur und ein 
 focusKeyphrase: "Weiße Schoko-Kokos Trüffel"
 date: 2025-08-15
 draft: false
-image: weisse-schoko-kokos-truefel.png
+image: weisse-schoko-kokos-truefel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die perfekte Kombination aus knusprigem Ziegenkäs
 focusKeyphrase: "knuspriger Ziegenkäse-Salat"
 date: 2025-08-13
 draft: false
-image: knuspriger-ziegenkaese-salat.png
+image: knuspriger-ziegenkaese-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT10M

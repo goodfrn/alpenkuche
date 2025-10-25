@@ -7,7 +7,7 @@ ogDescription: "Knoblauch-Zucchini-Mischung; schnell zubereitet, gesund, aromati
 focusKeyphrase: "Knoblauch-Zucchini-Mischung"
 date: 2025-08-17
 draft: false
-image: knoblauch-zucchini-mischung.png
+image: knoblauch-zucchini-mischung.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT10M

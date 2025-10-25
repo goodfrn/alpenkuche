@@ -7,7 +7,7 @@ ogDescription: "Entdecke das köstliche Zwetschgen-Crumble mit Haselnüssen – 
 focusKeyphrase: "Zwetschgen-Crumble"
 date: 2025-09-29
 draft: false
-image: zwetschgen-crumble.png
+image: zwetschgen-crumble.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

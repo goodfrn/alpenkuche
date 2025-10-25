@@ -7,7 +7,7 @@ ogDescription: "Ein klassisches Gericht mit köstlicher Sauce – gebratenes Hä
 focusKeyphrase: "gebratenes Hähnchen"
 date: 2025-09-27
 draft: false
-image: gebratenes-haehnchen-mit-weisswein-thymiansauce.png
+image: gebratenes-haehnchen-mit-weisswein-thymiansauce.jpg
 author: "Marlena"
 prepTime: PT70M
 cookTime: PT80M

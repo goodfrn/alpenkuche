@@ -7,7 +7,7 @@ ogDescription: "Blaubeer-Käsekuchen mit Honigmelisse | Ein leichtes, aber cremi
 focusKeyphrase: "Blaubeer-Käsekuchen"
 date: 2025-08-19
 draft: false
-image: blaubeer-kaesekuchen.png
+image: blaubeer-kaesekuchen.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT1H20M

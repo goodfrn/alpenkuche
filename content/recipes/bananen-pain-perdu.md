@@ -7,7 +7,7 @@ ogDescription: "Bananen-Pain Perdu alpinstyle – eine köstliche Mischung aus s
 focusKeyphrase: "Bananen-Pain Perdu"
 date: 2025-07-18
 draft: false
-image: bananen-pain-perdu.png
+image: bananen-pain-perdu.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

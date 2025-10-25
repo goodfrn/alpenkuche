@@ -7,7 +7,7 @@ ogDescription: "Vegane Parmesan-Alternative, einfach zu machen mit Mandeln. Perf
 focusKeyphrase: "Vegane Parmesan-Alternative"
 date: 2025-08-17
 draft: false
-image: vegane-parmesan-alternative.png
+image: vegane-parmesan-alternative.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

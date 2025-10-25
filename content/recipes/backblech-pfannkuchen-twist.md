@@ -7,7 +7,7 @@ ogDescription: "Schnelle Backblechkuchen mit Buttermilch. Variieren mit Früchte
 focusKeyphrase: "Backblech-Pfannkuchen"
 date: 2025-10-20
 draft: false
-image: backblech-pfannkuchen-twist.png
+image: backblech-pfannkuchen-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT13M

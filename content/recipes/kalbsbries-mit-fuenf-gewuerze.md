@@ -7,7 +7,7 @@ ogDescription: "Kalbsbries mit Fünf-Gewürze; verpasse nicht diese spannende Re
 focusKeyphrase: "Kalbsbries mit Fünf-Gewürze"
 date: 2025-09-28
 draft: false
-image: kalbsbries-mit-fuenf-gewuerze.png
+image: kalbsbries-mit-fuenf-gewuerze.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

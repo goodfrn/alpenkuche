@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie vegane Pistazien-Zitronen-Biscotti – knusprig un
 focusKeyphrase: "Vegane Pistazien-Zitronen-Biscotti"
 date: 2025-09-28
 draft: false
-image: vegane-pistazien-zitronen-biscotti.png
+image: vegane-pistazien-zitronen-biscotti.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

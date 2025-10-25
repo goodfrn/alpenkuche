@@ -7,7 +7,7 @@ ogDescription: "Leckeres Tofu-Orzo Millefeuille Rezept. Gesund, vegetarisch und 
 focusKeyphrase: "Tofu-Orzo Millefeuille"
 date: 2025-08-04
 draft: false
-image: tofu-orzo-millefeuille.png
+image: tofu-orzo-millefeuille.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

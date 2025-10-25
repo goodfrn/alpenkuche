@@ -7,7 +7,7 @@ ogDescription: "Schweinefilets im Ofen, dazu Mangochutney – eine aromatische K
 focusKeyphrase: "Schweinefilets mit Mangochutney"
 date: 2025-09-28
 draft: false
-image: schweinefilets-mit-mangochutney.png
+image: schweinefilets-mit-mangochutney.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT27M

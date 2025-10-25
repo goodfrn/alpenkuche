@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Weiße Bohnensalat mit knusprigem Bacon und Garnel
 focusKeyphrase: "Weiße Bohnensalat mit Garnelen"
 date: 2025-07-24
 draft: false
-image: weisse-bohnensalat-garnelen.png
+image: weisse-bohnensalat-garnelen.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

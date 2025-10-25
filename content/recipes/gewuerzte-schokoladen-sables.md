@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie diese unwiderstehlichen gewürzten Schokoladen-Sab
 focusKeyphrase: "Gewürzte Schokoladen-Sablés"
 date: 2025-08-16
 draft: false
-image: gewuerzte-schokoladen-sables.png
+image: gewuerzte-schokoladen-sables.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT12M

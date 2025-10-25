@@ -7,7 +7,7 @@ ogDescription: "Entdecke die aromatischen Saucen für vietnamesisches Fondue. Va
 focusKeyphrase: "Vietnam Fondue Saucen"
 date: 2025-08-15
 draft: false
-image: vietnam-fondue-saucen-remix.png
+image: vietnam-fondue-saucen-remix.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT5M

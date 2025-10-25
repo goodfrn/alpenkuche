@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die knusprige Spargelrolle mit Kräutersauce – e
 focusKeyphrase: "knusprige Spargelrolle"
 date: 2025-08-17
 draft: false
-image: knusprige-spargelrolle.png
+image: knusprige-spargelrolle.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT15M

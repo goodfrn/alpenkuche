@@ -7,7 +7,7 @@ ogDescription: "Entdecke die geschmorte Ratatouille-Variation – ideal für Gem
 focusKeyphrase: "geschmorte Ratatouille-Variation"
 date: 2025-09-23
 draft: false
-image: geschmorte-ratatouille-variation.png
+image: geschmorte-ratatouille-variation.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

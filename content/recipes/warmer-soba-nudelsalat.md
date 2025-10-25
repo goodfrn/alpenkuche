@@ -7,7 +7,7 @@ ogDescription: "Warmer Soba Nudelsalat, frische Kräuter, geröstete Kichererbse
 focusKeyphrase: "Warmer Soba Nudelsalat"
 date: 2025-07-24
 draft: false
-image: warmer-soba-nudelsalat.png
+image: warmer-soba-nudelsalat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT25M

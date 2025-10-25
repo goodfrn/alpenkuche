@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unseren Limetten-Basmati-Reis, aromatisch und vega
 focusKeyphrase: "Basmati-Reis"
 date: 2025-08-08
 draft: false
-image: limetten-basmati-reis.png
+image: limetten-basmati-reis.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT23M

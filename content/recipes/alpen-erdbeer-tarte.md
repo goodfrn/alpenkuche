@@ -7,7 +7,7 @@ ogDescription: "Alpen Erdbeer Tarte mit Käsecreme frische Erdbeeren, Holunderbl
 focusKeyphrase: "Alpen Erdbeer Tarte"
 date: 2025-07-19
 draft: false
-image: alpen-erdbeer-tarte.png
+image: alpen-erdbeer-tarte.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

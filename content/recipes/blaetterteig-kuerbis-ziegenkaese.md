@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für Blätterteig-Kürbis Ziegenkäse
 focusKeyphrase: "Blätterteig-Kürbis Ziegenkäse"
 date: 2025-09-28
 draft: false
-image: blaetterteig-kuerbis-ziegenkaese.png
+image: blaetterteig-kuerbis-ziegenkaese.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT40M

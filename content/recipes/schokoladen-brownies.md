@@ -7,7 +7,7 @@ ogDescription: "Leckere schokoladige Brownies in nur 11 Minuten. Mit hitzebehand
 focusKeyphrase: "Schokoladen-Brownie-Masse"
 date: 2025-10-23
 draft: false
-image: schokoladen-brownies.png
+image: schokoladen-brownies.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT4M

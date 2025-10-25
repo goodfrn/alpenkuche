@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Schweinefilet Ahorn mit Thymian. Z
 focusKeyphrase: "Schweinefilet Ahorn mit Thymian"
 date: 2025-08-18
 draft: false
-image: schweinefilet-ahorn-thymian.png
+image: schweinefilet-ahorn-thymian.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

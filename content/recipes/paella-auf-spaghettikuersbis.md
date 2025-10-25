@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Paella auf Spaghettikürbis, eine k
 focusKeyphrase: "Paella auf Spaghettikürbis"
 date: 2025-08-19
 draft: false
-image: paella-auf-spaghettikuersbis.png
+image: paella-auf-spaghettikuersbis.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

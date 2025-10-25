@@ -7,7 +7,7 @@ ogDescription: "Spinnennetz Cupcakes sind ideale Leckerbissen für jede Hallowee
 focusKeyphrase: "Spinnennetz Cupcakes"
 date: 2025-08-15
 draft: false
-image: spinnennetz-cupcakes.png
+image: spinnennetz-cupcakes.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unsere Fisch Tacos mit Avocado-Salsa – frisch, l
 focusKeyphrase: "Fisch Tacos"
 date: 2025-08-06
 draft: false
-image: fisch-tacos-mit-avocado-salsa.png
+image: fisch-tacos-mit-avocado-salsa.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

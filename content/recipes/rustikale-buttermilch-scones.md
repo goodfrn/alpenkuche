@@ -7,7 +7,7 @@ ogDescription: "Rustikale Buttermilch Scones. Perfekt für den Frühstückstisch
 focusKeyphrase: "Buttermilch Scones"
 date: 2025-07-30
 draft: false
-image: rustikale-buttermilch-scones.png
+image: rustikale-buttermilch-scones.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

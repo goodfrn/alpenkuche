@@ -7,7 +7,7 @@ ogDescription: "Entdecke unser Rezept für festlichen Schokoladen-Fudge, der cre
 focusKeyphrase: "Schokoladen-Fudge"
 date: 2025-10-04
 draft: false
-image: festliche-schokoladen-fudge.png
+image: festliche-schokoladen-fudge.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT22M

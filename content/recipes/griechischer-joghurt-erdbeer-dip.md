@@ -7,7 +7,7 @@ ogDescription: "Entdecke den griechischen Joghurt Erdbeer Dip. Frisch, cremig un
 focusKeyphrase: "Griechischer Joghurt Erdbeer Dip"
 date: 2025-09-30
 draft: false
-image: griechischer-joghurt-erdbeer-dip.png
+image: griechischer-joghurt-erdbeer-dip.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT0M

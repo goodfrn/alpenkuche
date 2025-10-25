@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die exquisite Schoko-Ginger Mousse mit kandierten 
 focusKeyphrase: "Schoko-Ginger Mousse"
 date: 2025-07-30
 draft: false
-image: schoko-ginger-mousse.png
+image: schoko-ginger-mousse.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT40M

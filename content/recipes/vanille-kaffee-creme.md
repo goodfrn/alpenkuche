@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Vanille-Kaffee-Creme Dessert. Eine verführeri
 focusKeyphrase: "Vanille-Kaffee-Creme Dessert"
 date: 2025-08-13
 draft: false
-image: vanille-kaffee-creme.png
+image: vanille-kaffee-creme.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT5M

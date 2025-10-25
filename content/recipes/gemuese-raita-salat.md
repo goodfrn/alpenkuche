@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Gemüse-Raita-Salat; frisches Gemüse vereint mit J
 focusKeyphrase: "Gemüse-Raita-Salat"
 date: 2025-09-28
 draft: false
-image: gemuese-raita-salat.png
+image: gemuese-raita-salat.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

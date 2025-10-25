@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Abgewandelte Glasur Royale. Eine unkompliziert
 focusKeyphrase: "Abgewandelte Glasur Royale"
 date: 2025-08-03
 draft: false
-image: abgewandelte-glasur-royale.png
+image: abgewandelte-glasur-royale.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

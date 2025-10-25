@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses rustikale Rezept für gegrillte Ranch Eier mit s
 focusKeyphrase: "gegrillte Ranch Eier"
 date: 2025-09-27
 draft: false
-image: gegrillte-ranch-eier.png
+image: gegrillte-ranch-eier.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

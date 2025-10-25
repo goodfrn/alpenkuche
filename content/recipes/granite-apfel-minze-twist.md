@@ -7,7 +7,7 @@ ogDescription: "Granité Apfel-Minze Twist ist die erfrischende Dessert-Alternat
 focusKeyphrase: "Granité Apfel-Minze Twist"
 date: 2025-07-27
 draft: false
-image: granite-apfel-minze-twist.png
+image: granite-apfel-minze-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT3M

@@ -7,7 +7,7 @@ ogDescription: "Zartes, geschmortes Rindfleisch in einem würzigen Ofengericht. 
 focusKeyphrase: "Langsam geschmortes Rindfleisch"
 date: 2025-10-14
 draft: false
-image: langsam-geschmortes-rindfleisch.png
+image: langsam-geschmortes-rindfleisch.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT3H

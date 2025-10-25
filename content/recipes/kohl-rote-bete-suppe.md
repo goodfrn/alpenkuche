@@ -7,7 +7,7 @@ ogDescription: "Schmecke die besondere Kombination von Kohl und Roter Bete in di
 focusKeyphrase: "Kohl-Rote-Bete-Suppe"
 date: 2025-09-27
 draft: false
-image: kohl-rote-bete-suppe.png
+image: kohl-rote-bete-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

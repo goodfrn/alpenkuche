@@ -7,7 +7,7 @@ ogDescription: "Erlebe den Kimchi Napa Salat mit knackigem Chinakohl, Gochugaru 
 focusKeyphrase: "Kimchi Napa Salat"
 date: 2025-09-26
 draft: false
-image: kimchi-napa-salat.png
+image: kimchi-napa-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

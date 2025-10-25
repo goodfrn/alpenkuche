@@ -7,7 +7,7 @@ ogDescription: "Schnelle Schoko-Haferflocken-Kekse; eine schokoladige Versuchung
 focusKeyphrase: "Schnelle Schoko-Haferflocken-Kekse"
 date: 2025-10-08
 draft: false
-image: schnelle-schoko-haferflocken-kekse.png
+image: schnelle-schoko-haferflocken-kekse.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT11M

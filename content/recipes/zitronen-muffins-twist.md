@@ -7,7 +7,7 @@ ogDescription: "Diese Zitronen Muffins haben eine frische Limetten-Buttercreme. 
 focusKeyphrase: "Zitronen Muffins"
 date: 2025-10-21
 draft: false
-image: zitronen-muffins-twist.png
+image: zitronen-muffins-twist.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT26M

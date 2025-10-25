@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen erfrischenden Melonen Tomate Feta Twist; di
 focusKeyphrase: "Melone Tomate Feta Twist"
 date: 2025-08-19
 draft: false
-image: melone-tomate-feta-twist.png
+image: melone-tomate-feta-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

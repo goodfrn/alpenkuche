@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Hähnchen mit Zwiebeln. Saftig, aromatisch. Perfekt mit
 focusKeyphrase: "Zitronen-Hähnchen"
 date: 2025-07-27
 draft: false
-image: zitronen-haehnchen.png
+image: zitronen-haehnchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

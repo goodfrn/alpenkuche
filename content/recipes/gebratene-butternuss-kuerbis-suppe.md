@@ -7,7 +7,7 @@ ogDescription: "Wärmen Sie sich mit einer delikaten gebratenen Butternuss-Kürb
 focusKeyphrase: "Gebratene Butternuss-Kürbis Suppe"
 date: 2025-10-05
 draft: false
-image: gebratene-butternuss-kuerbis-suppe.png
+image: gebratene-butternuss-kuerbis-suppe.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT55M

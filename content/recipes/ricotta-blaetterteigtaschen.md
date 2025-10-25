@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen Ricotta-Blätterteigtaschen. Ideal
 focusKeyphrase: "Ricotta-Blätterteigtaschen"
 date: 2025-07-21
 draft: false
-image: ricotta-blaetterteigtaschen.png
+image: ricotta-blaetterteigtaschen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

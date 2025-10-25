@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für knusprige Oliven-Gressins. Vegan, einfa
 focusKeyphrase: "Krosse Oliven-Gressins"
 date: 2025-07-29
 draft: false
-image: krosse-oliven-gressins.png
+image: krosse-oliven-gressins.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT10M

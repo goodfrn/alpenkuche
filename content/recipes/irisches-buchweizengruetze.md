@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Irisches Buchweizengrütze Schnell. Einfach zubere
 focusKeyphrase: "Irisches Buchweizengrütze"
 date: 2025-07-19
 draft: false
-image: irisches-buchweizengruetze.png
+image: irisches-buchweizengruetze.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT14M

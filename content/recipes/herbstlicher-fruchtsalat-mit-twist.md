@@ -7,7 +7,7 @@ ogDescription: "Fruchtsalat für den Herbst, frisch und farbenfroh. Mit Himbeere
 focusKeyphrase: "Herbstlicher Fruchtsalat"
 date: 2025-08-06
 draft: false
-image: herbstlicher-fruchtsalat-mit-twist.png
+image: herbstlicher-fruchtsalat-mit-twist.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

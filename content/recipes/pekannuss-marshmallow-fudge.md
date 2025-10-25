@@ -7,7 +7,7 @@ ogDescription: "Entdecke die geschmackvolle Pekannuss-Marshmallow Fudge; ein Rez
 focusKeyphrase: "Pekannuss-Marshmallow Fudge"
 date: 2025-08-08
 draft: false
-image: pekannuss-marshmallow-fudge.png
+image: pekannuss-marshmallow-fudge.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie gefrorenen Rhabarberkuchen mit einem Hauch Vanille
 focusKeyphrase: "Gefrorener Rhabarberkuchen"
 date: 2025-08-15
 draft: false
-image: gefrorener-rhabarberkuchen.png
+image: gefrorener-rhabarberkuchen.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT50M

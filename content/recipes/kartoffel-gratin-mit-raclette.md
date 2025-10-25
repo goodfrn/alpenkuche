@@ -7,7 +7,7 @@ ogDescription: "Kartoffel-Gratin mit einer Käsesensation aus Raclette und Bergk
 focusKeyphrase: "Kartoffel-Gratin"
 date: 2025-08-18
 draft: false
-image: kartoffel-gratin-mit-raclette.png
+image: kartoffel-gratin-mit-raclette.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT22M

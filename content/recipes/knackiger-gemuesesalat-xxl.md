@@ -7,7 +7,7 @@ ogDescription: "Entdecke einen bunten Gemüse-Salat. Frisch, knackig und perfekt
 focusKeyphrase: "Knackiger Gemüse-Salat"
 date: 2025-08-17
 draft: false
-image: knackiger-gemuesesalat-xxl.png
+image: knackiger-gemuesesalat-xxl.jpg
 author: "Marlena"
 prepTime: PT0H12M
 cookTime: PT0H0M

@@ -7,7 +7,7 @@ ogDescription: "Frischkäse gefüllte Schoko-Cookies; die Kombination aus zarter
 focusKeyphrase: "Frischkäse gefüllte Schoko-Cookies"
 date: 2025-10-20
 draft: false
-image: frischkaese-gefuellte-schoko-cookies.png
+image: frischkaese-gefuellte-schoko-cookies.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT13M

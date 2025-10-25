@@ -7,7 +7,7 @@ ogDescription: "Scharfe Würzige Tomatensalsa, die Tomaten und Paprika vereint. 
 focusKeyphrase: "Würzige Tomatensalsa"
 date: 2025-08-10
 draft: false
-image: wuerzige-tomatensalsa.png
+image: wuerzige-tomatensalsa.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Kraftvolles Weizenkleiebrot mit Aprikosen. Rustikales Aroma, saf
 focusKeyphrase: "Weizenkleiebrot"
 date: 2025-08-06
 draft: false
-image: weizenkleiebrot-mit-aprikosen.png
+image: weizenkleiebrot-mit-aprikosen.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT45M

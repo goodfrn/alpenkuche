@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Farben und Aromen der Bikolorige Paprikasuppe, die 
 focusKeyphrase: "Bikolorige Paprikasuppe"
 date: 2025-08-09
 draft: false
-image: bikolorige-paprikasuppe.png
+image: bikolorige-paprikasuppe.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT35M

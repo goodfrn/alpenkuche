@@ -7,7 +7,7 @@ ogDescription: "Leckerer Zitronen-Käse-Dip mit Gruyère. Perfekt für alpine Ja
 focusKeyphrase: "Zitronige Käse-Früchtdip"
 date: 2025-07-19
 draft: false
-image: zitronige-kaese-fruechtdip.png
+image: zitronige-kaese-fruechtdip.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT0M

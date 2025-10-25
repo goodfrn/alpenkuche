@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die rustikale Wirzsuppe mit Käse, ideal für kalt
 focusKeyphrase: "Wirzsuppe mit Käse"
 date: 2025-07-29
 draft: false
-image: rustikale-wirzsuppe.png
+image: rustikale-wirzsuppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Mini-Quiches mit Endivien und Schinken. Knuspriger Mürbeteig, z
 focusKeyphrase: "Mini-Quiches Endivien Schinken"
 date: 2025-08-02
 draft: false
-image: mini-quiches-endivien-schinken.png
+image: mini-quiches-endivien-schinken.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT30M

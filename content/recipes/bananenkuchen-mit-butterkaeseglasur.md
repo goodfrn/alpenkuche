@@ -7,7 +7,7 @@ ogDescription: "Bananenkuchen mit Butterkäseglasur – genussvoll, nussig und e
 focusKeyphrase: "Bananenkuchen"
 date: 2025-09-15
 draft: false
-image: bananenkuchen-mit-butterkaeseglasur.png
+image: bananenkuchen-mit-butterkaeseglasur.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den köstlichen Blaubeer-Toastpudding mit aromatis
 focusKeyphrase: "Blaubeer-Toastpudding"
 date: 2025-09-29
 draft: false
-image: blaubeer-toastpudding.png
+image: blaubeer-toastpudding.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

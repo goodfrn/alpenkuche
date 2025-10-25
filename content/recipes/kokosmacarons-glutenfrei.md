@@ -7,7 +7,7 @@ ogDescription: "Entdecke die besten glutenfreien Kokosmacarons - leicht, cremig,
 focusKeyphrase: "Kokosmacarons glutenfrei"
 date: 2025-09-26
 draft: false
-image: kokosmacarons-glutenfrei.png
+image: kokosmacarons-glutenfrei.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT22M

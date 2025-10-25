@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den fruchtigen Beerensirup, perfekt für Ihre Somm
 focusKeyphrase: "Beerensirup"
 date: 2025-08-03
 draft: false
-image: fruchtiger-beerensirup.png
+image: fruchtiger-beerensirup.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT18M

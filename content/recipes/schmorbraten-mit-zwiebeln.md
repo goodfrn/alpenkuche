@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie, wie köstlicher Schmorbraten mit Zwiebeln entsteh
 focusKeyphrase: "Schmorbraten mit Zwiebeln"
 date: 2025-08-18
 draft: false
-image: schmorbraten-mit-zwiebeln.png
+image: schmorbraten-mit-zwiebeln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H25M

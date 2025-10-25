@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die bunten Alpine Süsse Spiesse. Frische Erdbeere
 focusKeyphrase: "Alpine Süsse Spiesse"
 date: 2025-07-20
 draft: false
-image: alpine-suess-spiesse.png
+image: alpine-suess-spiesse.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT0M

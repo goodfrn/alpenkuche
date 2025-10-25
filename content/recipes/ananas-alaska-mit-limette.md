@@ -7,7 +7,7 @@ ogDescription: "Genieße Ananas Alaska mit Limette. Karamellisierte Stücke und 
 focusKeyphrase: "Ananas Alaska"
 date: 2025-09-01
 draft: false
-image: ananas-alaska-mit-limette.png
+image: ananas-alaska-mit-limette.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

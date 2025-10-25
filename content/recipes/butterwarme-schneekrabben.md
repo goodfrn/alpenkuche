@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie butterwarme Schneekrabben mit einer besonderen Not
 focusKeyphrase: "Butterwarme Schneekrabben"
 date: 2025-09-28
 draft: false
-image: butterwarme-schneekrabben.png
+image: butterwarme-schneekrabben.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT17M

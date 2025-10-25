@@ -7,7 +7,7 @@ ogDescription: "Diese kräftige Suppe aus geröstetem Pfefferkürbis begeistert 
 focusKeyphrase: "gerösteter Pfefferkürbis-Suppe"
 date: 2025-09-28
 draft: false
-image: gerosteter-pfefferkuerbis-suppe.png
+image: gerosteter-pfefferkuerbis-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

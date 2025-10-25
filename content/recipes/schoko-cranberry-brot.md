@@ -7,7 +7,7 @@ ogDescription: "Genieße Schoko-Cranberry Brot. Ein einfaches Rezept mit kräfti
 focusKeyphrase: "Schoko-Cranberry Brot"
 date: 2025-07-27
 draft: false
-image: schoko-cranberry-brot.png
+image: schoko-cranberry-brot.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT55M

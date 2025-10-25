@@ -7,7 +7,7 @@ ogDescription: "Fruchtige Ananas-Kokos-Riegel mit einer tollen Textur. Perfekt a
 focusKeyphrase: "Ananas-Kokos-Riegel"
 date: 2025-09-29
 draft: false
-image: ananas-kokos-riegel.png
+image: ananas-kokos-riegel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

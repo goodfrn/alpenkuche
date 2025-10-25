@@ -7,7 +7,7 @@ ogDescription: "Verleihen Sie Ihren Grillkünsten Schwung mit diesen köstlichen
 focusKeyphrase: "Yakitori Hähnchenflügel"
 date: 2025-10-21
 draft: false
-image: yakitori-haehnchenfluegel.png
+image: yakitori-haehnchenfluegel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

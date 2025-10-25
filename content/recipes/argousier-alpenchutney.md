@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das fruchtige Argousier-Alpenchutney mit Appenzell
 focusKeyphrase: "Argousier-Alpenchutney"
 date: 2025-07-20
 draft: false
-image: argousier-alpenchutney.png
+image: argousier-alpenchutney.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Zitronen-Glasur Royal, eine herrliche vegane Glasur
 focusKeyphrase: "Zitronen-Glasur Royal"
 date: 2025-08-07
 draft: false
-image: zitronen-glasur-royal.png
+image: zitronen-glasur-royal.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

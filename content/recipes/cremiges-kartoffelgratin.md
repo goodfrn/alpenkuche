@@ -7,7 +7,7 @@ ogDescription: "Kartoffelgratin mit geröstetem Knoblauch und Fontina. Cremig, w
 focusKeyphrase: "Kartoffelgratin"
 date: 2025-08-14
 draft: false
-image: cremiges-kartoffelgratin.png
+image: cremiges-kartoffelgratin.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H40M

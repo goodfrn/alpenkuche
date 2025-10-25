@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unseren warmen Kartoffel-Escargot-Salat. Lecker, l
 focusKeyphrase: "warmer kartoffel-escargot-salat"
 date: 2025-07-23
 draft: false
-image: warmer-kartoffel-escargot-salat.png
+image: warmer-kartoffel-escargot-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Pfannen-Lasagne mit Truthahn; eine einfache und sch
 focusKeyphrase: "Pfannen-Lasagne mit Truthahn"
 date: 2025-10-16
 draft: false
-image: pfannen-lasagne-mit-truthahn.png
+image: pfannen-lasagne-mit-truthahn.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT23M

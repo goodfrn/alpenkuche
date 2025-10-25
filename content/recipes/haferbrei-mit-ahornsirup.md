@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie cremigen Haferbrei mit einer süßen Note aus Ahor
 focusKeyphrase: "Haferbrei Rezept"
 date: 2025-07-23
 draft: false
-image: haferbrei-mit-ahornsirup.png
+image: haferbrei-mit-ahornsirup.jpg
 author: "Marlena"
 prepTime: PT8M
 cookTime: PT17M

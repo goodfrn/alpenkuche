@@ -7,7 +7,7 @@ ogDescription: "Italienische Sauce Spaghetti. Herzhaft, würzig. Ideal für Past
 focusKeyphrase: "Italienische Sauce Spaghetti"
 date: 2025-07-29
 draft: false
-image: italienische-sauce-spaghetti.png
+image: italienische-sauce-spaghetti.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT3H10M

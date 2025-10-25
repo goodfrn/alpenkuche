@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie pochierte Eier in indischer Tomatensoße. Eine aro
 focusKeyphrase: "Pochierte Eier Indisch"
 date: 2025-07-24
 draft: false
-image: pochierte-eier-indisch.png
+image: pochierte-eier-indisch.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT35M

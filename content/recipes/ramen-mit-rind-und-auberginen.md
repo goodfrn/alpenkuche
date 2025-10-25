@@ -7,7 +7,7 @@ ogDescription: "Entdecke Ramen mit Rind und Auberginen – ein köstliches Geric
 focusKeyphrase: "Ramen mit Rind"
 date: 2025-09-24
 draft: false
-image: ramen-mit-rind-und-auberginen.png
+image: ramen-mit-rind-und-auberginen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

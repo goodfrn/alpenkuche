@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Hähnchen-Tagliatelle mit Zitrone und Oliven. Ein 
 focusKeyphrase: "Hähnchen-Tagliatelle"
 date: 2025-07-23
 draft: false
-image: haehnchen-tagliatelle-zitronen-oliven.png
+image: haehnchen-tagliatelle-zitronen-oliven.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

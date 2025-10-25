@@ -7,7 +7,7 @@ ogDescription: "Erlebe die Aromen der Blumenkohlsuppe mit Muscheln; perfektes Ge
 focusKeyphrase: "Blumenkohlsuppe mit Muscheln"
 date: 2025-08-02
 draft: false
-image: blumenkohlsuppe-mit-muscheln.png
+image: blumenkohlsuppe-mit-muscheln.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

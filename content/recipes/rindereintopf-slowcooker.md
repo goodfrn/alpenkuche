@@ -7,7 +7,7 @@ ogDescription: "Rindereintopf für 6 Portionen. Langsame Zubereitung im Slowcook
 focusKeyphrase: "Rindereintopf"
 date: 2025-10-04
 draft: false
-image: rindereintopf-slowcooker.png
+image: rindereintopf-slowcooker.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT3H15M

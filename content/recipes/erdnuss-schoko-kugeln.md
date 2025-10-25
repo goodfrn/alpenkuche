@@ -7,7 +7,7 @@ ogDescription: "Erdnuss-Schoko Kugeln – zarte Bällchen umhüllt von flüssige
 focusKeyphrase: "Erdnuss-Schoko Kugeln"
 date: 2025-10-23
 draft: false
-image: erdnuss-schoko-kugeln.png
+image: erdnuss-schoko-kugeln.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT0M

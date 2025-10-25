@@ -7,7 +7,7 @@ ogDescription: "Huhn mit Morcheln – ein klassisches Rezept für Genuss mit get
 focusKeyphrase: "Huhn mit Morcheln"
 date: 2025-09-27
 draft: false
-image: huhn-mit-morcheln.png
+image: huhn-mit-morcheln.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H20M

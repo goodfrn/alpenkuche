@@ -7,7 +7,7 @@ ogDescription: "Geschmortes Rindfleisch mit Kichererbsen; ein herzhaftes Gericht
 focusKeyphrase: "geschmortes Rindfleisch"
 date: 2025-09-05
 draft: false
-image: geschmortes-rindfleisch-mit-kichererbsen.png
+image: geschmortes-rindfleisch-mit-kichererbsen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT7H40M

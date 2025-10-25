@@ -7,7 +7,7 @@ ogDescription: "Cremige Muschelsuppe mit Lauch und Mais, rustikal serviert, sät
 focusKeyphrase: "Creme-Muschel-Suppe"
 date: 2025-07-24
 draft: false
-image: creme-muschel-suppe.png
+image: creme-muschel-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

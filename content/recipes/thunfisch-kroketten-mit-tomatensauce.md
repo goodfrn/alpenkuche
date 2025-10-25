@@ -7,7 +7,7 @@ ogDescription: "Genieße Thunfisch-Kroketten mit einer aromatischen Tomatensauce
 focusKeyphrase: "Thunfisch-Kroketten"
 date: 2025-08-10
 draft: false
-image: thunfisch-kroketten-mit-tomatensauce.png
+image: thunfisch-kroketten-mit-tomatensauce.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

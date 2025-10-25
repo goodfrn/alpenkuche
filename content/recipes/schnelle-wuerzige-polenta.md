@@ -7,7 +7,7 @@ ogDescription: "Entdecke die schnelle würzige Polenta – eine köstliche, crem
 focusKeyphrase: "schnelle würzige Polenta"
 date: 2025-08-09
 draft: false
-image: schnelle-wuerzige-polenta.png
+image: schnelle-wuerzige-polenta.jpg
 author: "Marlena"
 prepTime: PT3M
 cookTime: PT12M

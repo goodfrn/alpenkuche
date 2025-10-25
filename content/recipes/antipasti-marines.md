@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Antipasti Marinés Variation – eine köstlic
 focusKeyphrase: "Antipasti Marinés Variation"
 date: 2025-08-19
 draft: false
-image: antipasti-marines.png
+image: antipasti-marines.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese Vanille-Panna Cotta mit fruchtigem Rhabarber
 focusKeyphrase: "Vanille-Panna Cotta"
 date: 2025-09-29
 draft: false
-image: vanille-panna-cotta-mit-rhabarberkompott.png
+image: vanille-panna-cotta-mit-rhabarberkompott.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT13M

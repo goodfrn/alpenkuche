@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Porto Orange Eisdrink. Erfrischender Cocktail 
 focusKeyphrase: "Porto Orange Eisdrink"
 date: 2025-08-01
 draft: false
-image: porto-orange-eisdrink.png
+image: porto-orange-eisdrink.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

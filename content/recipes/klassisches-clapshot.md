@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für klassisches Clapshot mit Sellerie.
 focusKeyphrase: "Clapshot Rezept"
 date: 2025-09-01
 draft: false
-image: klassisches-clapshot.png
+image: klassisches-clapshot.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

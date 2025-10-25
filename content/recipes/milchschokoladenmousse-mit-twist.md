@@ -7,7 +7,7 @@ ogDescription: "Genieße eine köstliche Milchschokoladenmousse mit Kokosöl und
 focusKeyphrase: "Milchschokoladenmousse"
 date: 2025-08-11
 draft: false
-image: milchschokoladenmousse-mit-twist.png
+image: milchschokoladenmousse-mit-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT3M

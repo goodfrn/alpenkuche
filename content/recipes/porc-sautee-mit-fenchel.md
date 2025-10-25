@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie unser Rezept für Porc sautée mit Fenchel. Ein ge
 focusKeyphrase: "Porc sautée mit Fenchel"
 date: 2025-08-01
 draft: false
-image: porc-sautee-mit-fenchel.png
+image: porc-sautee-mit-fenchel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

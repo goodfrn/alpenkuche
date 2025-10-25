@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kombination aus zartem Schweinefilet und Kirsc
 focusKeyphrase: "Schweinemedaillons mit Kirsch-Gewürzsauce"
 date: 2025-08-05
 draft: false
-image: schweinemedaillons-mit-kirsch-sauce.png
+image: schweinemedaillons-mit-kirsch-sauce.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

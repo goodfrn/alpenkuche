@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Zucchini-Feta-Dip, eine cremige Besonderheit f
 focusKeyphrase: "Zucchini-Feta-Dip"
 date: 2025-08-18
 draft: false
-image: zucchini-feta-dip.png
+image: zucchini-feta-dip.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Blaubeer Soufflé Pfannkuchen. Knusprig, lufti
 focusKeyphrase: "Blaubeer Soufflé Pfannkuchen"
 date: 2025-09-09
 draft: false
-image: blaubeer-souffle-pfannkuchen.png
+image: blaubeer-souffle-pfannkuchen.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT16M

@@ -7,7 +7,7 @@ ogDescription: "Herzhafter Shepherd's Pie – ideal für ein geselliges Essen. C
 focusKeyphrase: "Shepherd's Pie"
 date: 2025-10-17
 draft: false
-image: herzhafter-shepherds-pie.png
+image: herzhafter-shepherds-pie.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

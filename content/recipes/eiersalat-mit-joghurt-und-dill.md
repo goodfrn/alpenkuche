@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unsere Rezeptur für Eiersalat mit Joghurt und Dil
 focusKeyphrase: "Eiersalat mit Joghurt und Dill"
 date: 2025-10-21
 draft: false
-image: eiersalat-mit-joghurt-und-dill.png
+image: eiersalat-mit-joghurt-und-dill.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT12M

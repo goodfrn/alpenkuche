@@ -7,7 +7,7 @@ ogDescription: "Leckere Zitronen-Cupcakes mit einem Hauch gemahlenem Ingwer. Ide
 focusKeyphrase: "Zitronen-Cupcakes"
 date: 2025-10-01
 draft: false
-image: zitronen-cupcakes-mit-ingwer.png
+image: zitronen-cupcakes-mit-ingwer.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

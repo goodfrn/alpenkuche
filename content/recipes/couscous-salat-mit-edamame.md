@@ -7,7 +7,7 @@ ogDescription: "Ein gesunder Couscous Salat mit knackig-frischem Gemüse und wü
 focusKeyphrase: "Couscous Salat"
 date: 2025-08-06
 draft: false
-image: couscous-salat-mit-edamame.png
+image: couscous-salat-mit-edamame.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Pizza-Hähnchen Rolle. Diese Kombination aus k
 focusKeyphrase: "Pizza-Hähnchen Rolle"
 date: 2025-10-14
 draft: false
-image: pizza-haehnchen-rolle.png
+image: pizza-haehnchen-rolle.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die neuen Apfel-Blaubeer-Muffins, jetzt mit Himbee
 focusKeyphrase: "Apfel-Blaubeer-Muffins"
 date: 2025-07-29
 draft: false
-image: apfel-blaubeer-muffins.png
+image: apfel-blaubeer-muffins.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT28M

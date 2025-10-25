@@ -7,7 +7,7 @@ ogDescription: "Leckere Tomatensauce mit roten Paprika; vegan und perfekt als Di
 focusKeyphrase: "Tomatensauce mit Paprika"
 date: 2025-09-26
 draft: false
-image: tomatensauce-mit-paprika.png
+image: tomatensauce-mit-paprika.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT22M

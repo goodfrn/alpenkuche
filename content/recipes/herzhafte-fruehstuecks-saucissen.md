@@ -7,7 +7,7 @@ ogDescription: "Herzhafte Saucissen für Frühstück oder Brunch. Saftige Pattie
 focusKeyphrase: "Herzhafte Frühstücks-Saucissen"
 date: 2025-08-16
 draft: false
-image: herzhafte-fruehstuecks-saucissen.png
+image: herzhafte-fruehstuecks-saucissen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

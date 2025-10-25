@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den würzigen Risotto Mix im Glas – ideal für g
 focusKeyphrase: "Würziger Risotto Mix im Glas"
 date: 2025-09-25
 draft: false
-image: wuerziger-risotto-mix-im-glas.png
+image: wuerziger-risotto-mix-im-glas.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT6M

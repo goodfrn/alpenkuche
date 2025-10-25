@@ -7,7 +7,7 @@ ogDescription: "Luftige Käse-Gougères mit Rosmarin; einfach lecker und perfekt
 focusKeyphrase: "Käse-Gougères"
 date: 2025-09-25
 draft: false
-image: kaese-gougeres-mit-rosmarin.png
+image: kaese-gougeres-mit-rosmarin.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H5M

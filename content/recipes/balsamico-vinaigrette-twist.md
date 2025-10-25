@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie die leckere Balsamico Vinaigrette Twist. Ideal fü
 focusKeyphrase: "Balsamico Vinaigrette"
 date: 2025-07-28
 draft: false
-image: balsamico-vinaigrette-twist.png
+image: balsamico-vinaigrette-twist.jpg
 author: "Marlena"
 prepTime: PT3M
 cookTime: PT0M

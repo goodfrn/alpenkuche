@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die würzige Rindfleischpfanne mit Reis. Lecker, s
 focusKeyphrase: "Würzige Rindfleischpfanne"
 date: 2025-07-23
 draft: false
-image: wuerzige-rindfleischpfanne.png
+image: wuerzige-rindfleischpfanne.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

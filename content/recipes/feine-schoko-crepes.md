@@ -7,7 +7,7 @@ ogDescription: "Zarte Schoko-Crêpes. Einfach zubereiten, toll für den Brunch. 
 focusKeyphrase: "Schoko-Crêpes"
 date: 2025-07-26
 draft: false
-image: feine-schoko-crepes.png
+image: feine-schoko-crepes.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT27M

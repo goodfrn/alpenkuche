@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Hühnchen Tzatziki Mix Rezept. Griechische Fla
 focusKeyphrase: "Hühnchen Tzatziki Mix"
 date: 2025-07-28
 draft: false
-image: huehnchen-tzatziki-mix.png
+image: huehnchen-tzatziki-mix.jpg
 author: "Marlena"
 prepTime: PT14M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese Spargel-Quiche mit Bergkäse. Knuspriger Tei
 focusKeyphrase: "Spargel-Quiche mit Bergkäse"
 date: 2025-08-04
 draft: false
-image: spargel-quiche-mit-bergkaese.png
+image: spargel-quiche-mit-bergkaese.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

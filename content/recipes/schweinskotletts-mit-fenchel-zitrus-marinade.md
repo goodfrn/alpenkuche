@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Schweinskotletts, mariniert in Fenchel und Zitrus.
 focusKeyphrase: "Schweinskotletts grillen"
 date: 2025-07-19
 draft: false
-image: schweinskotletts-mit-fenchel-zitrus-marinade.png
+image: schweinskotletts-mit-fenchel-zitrus-marinade.jpg
 author: "Marlena"
 prepTime: PT12H10M
 cookTime: PT25M

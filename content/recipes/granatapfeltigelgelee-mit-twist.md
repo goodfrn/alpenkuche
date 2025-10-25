@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Granatapfeltigelgelée mit einer frischen Note, ko
 focusKeyphrase: "Granatapfeltigelée"
 date: 2025-08-12
 draft: false
-image: granatapfeltigelgelee-mit-twist.png
+image: granatapfeltigelgelee-mit-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

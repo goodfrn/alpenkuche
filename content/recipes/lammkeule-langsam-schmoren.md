@@ -7,7 +7,7 @@ ogDescription: "Langsam geschmorte Lammkeule. Knoblauch in Fleisch, frischer Thy
 focusKeyphrase: "Lammkeule Langsam Schmoren"
 date: 2025-07-29
 draft: false
-image: lammkeule-langsam-schmoren.png
+image: lammkeule-langsam-schmoren.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT7H20M

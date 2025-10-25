@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstliche Rezeptur für hausgemachte Hühnerb
 focusKeyphrase: "Hausgemachte Hühnerbrühe"
 date: 2025-07-30
 draft: false
-image: hausgemachte-huehnerbruehe.png
+image: hausgemachte-huehnerbruehe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H25M

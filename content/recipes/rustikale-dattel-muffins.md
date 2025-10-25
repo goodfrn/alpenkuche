@@ -7,7 +7,7 @@ ogDescription: "Rustikale Dattel-Muffins sind saftig, geschmackvoll und kommen o
 focusKeyphrase: "Dattel-Muffins"
 date: 2025-08-16
 draft: false
-image: rustikale-dattel-muffins.png
+image: rustikale-dattel-muffins.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT28M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke knusprige Maisküchlein mit geräuchertem Paprika; voll
 focusKeyphrase: "Knusprige Maisküchlein"
 date: 2025-10-14
 draft: false
-image: knusprige-maiskuechlein-mit-twist.png
+image: knusprige-maiskuechlein-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

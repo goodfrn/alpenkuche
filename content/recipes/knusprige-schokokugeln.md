@@ -7,7 +7,7 @@ ogDescription: "Entdecke die knusprigen Schokokugeln – gesund und schokoladig,
 focusKeyphrase: "Knusprige Schokokugeln"
 date: 2025-07-30
 draft: false
-image: knusprige-schokokugeln.png
+image: knusprige-schokokugeln.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

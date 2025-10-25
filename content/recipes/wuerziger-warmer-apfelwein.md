@@ -7,7 +7,7 @@ ogDescription: "Köstlicher warmer Apfelwein, verfeinert mit Zimt und Muskat. Pe
 focusKeyphrase: "Würziger Warmer Apfelwein"
 date: 2025-09-24
 draft: false
-image: wuerziger-warmer-apfelwein.png
+image: wuerziger-warmer-apfelwein.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Kartoffel-Focaccia mit Räucherschinken: Ein herzhafter Genuss f
 focusKeyphrase: "Kartoffel-Focaccia"
 date: 2025-08-02
 draft: false
-image: kartoffel-focaccia-mit-raucherschinken.png
+image: kartoffel-focaccia-mit-raucherschinken.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

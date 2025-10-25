@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Ragout aus Rind und Rote Bete, ein harmonische
 focusKeyphrase: "Ragout aus Rind und Rote Bete"
 date: 2025-08-16
 draft: false
-image: ragout-aus-rind-und-rote-bete.png
+image: ragout-aus-rind-und-rote-bete.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT3H10M

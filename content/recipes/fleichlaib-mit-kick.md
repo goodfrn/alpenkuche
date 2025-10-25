@@ -7,7 +7,7 @@ ogDescription: "Fleischlaib mit Kick; kräftig, würzig und ganz einfach zuzuber
 focusKeyphrase: "Fleischlaib"
 date: 2025-10-03
 draft: false
-image: fleichlaib-mit-kick.png
+image: fleichlaib-mit-kick.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Wildreis-Hähnchen-Pitas – eine gesunde Kombinat
 focusKeyphrase: "Wildreis-Hähnchen-Pitas"
 date: 2025-09-28
 draft: false
-image: wildreis-haehnchen-pitas.png
+image: wildreis-haehnchen-pitas.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT55M

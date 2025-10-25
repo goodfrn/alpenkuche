@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Weiße Schoko-Cranberry-Pistazien Quadrate – ein 
 focusKeyphrase: "Weiße Schoko-Cranberry-Pistazien Quadrate"
 date: 2025-09-25
 draft: false
-image: weisse-schoko-cranberry-pistazien-quadrate.png
+image: weisse-schoko-cranberry-pistazien-quadrate.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT5M

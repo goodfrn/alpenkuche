@@ -7,7 +7,7 @@ ogDescription: "Dieser Grünkohl-Hühner-Salat mit Feigen bietet harmonische Aro
 focusKeyphrase: "Grünkohl-Hühner-Salat"
 date: 2025-08-07
 draft: false
-image: kale-huehner-salat.png
+image: kale-huehner-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

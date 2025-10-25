@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kombination von Lachs und Fenchel in diesem ei
 focusKeyphrase: "Lachsrosen auf Fenchelrahm"
 date: 2025-08-08
 draft: false
-image: lachsrosen-auf-fenchelrahm.png
+image: lachsrosen-auf-fenchelrahm.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

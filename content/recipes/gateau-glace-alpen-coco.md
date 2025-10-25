@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Gâteau glacé Alpen-Coco. Knusprigkeit trifft auf 
 focusKeyphrase: "Gâteau glacé Alpen-Coco"
 date: 2025-07-19
 draft: false
-image: gateau-glace-alpen-coco.png
+image: gateau-glace-alpen-coco.jpg
 author: "Marlena"
 prepTime: PT43M
 cookTime: PT23M

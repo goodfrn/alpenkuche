@@ -7,7 +7,7 @@ ogDescription: "Schichte deine Pistazien Eisbox Torte. Kühles Dessert mit Puddi
 focusKeyphrase: "Pistazien Eisbox Torte"
 date: 2025-10-02
 draft: false
-image: pistazien-eisbox-torte.png
+image: pistazien-eisbox-torte.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT0M

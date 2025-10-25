@@ -7,7 +7,7 @@ ogDescription: "Genieße den Croque Madame Twist. Ein köstliches Sandwich, übe
 focusKeyphrase: "Croque Madame Twist"
 date: 2025-07-23
 draft: false
-image: croque-madame-twist.png
+image: croque-madame-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

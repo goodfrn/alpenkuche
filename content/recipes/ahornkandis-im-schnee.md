@@ -7,7 +7,7 @@ ogDescription: "Entdecke Ahornkandis im Schnee, die süße Wintertradition. Geni
 focusKeyphrase: "Ahornkandis im Schnee"
 date: 2025-07-25
 draft: false
-image: ahornkandis-im-schnee.png
+image: ahornkandis-im-schnee.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT12M

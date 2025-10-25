@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Choco-Vanille-Nussfüllung, die nussige und cr
 focusKeyphrase: "Choco-Vanille-Nussfüllung"
 date: 2025-08-03
 draft: false
-image: choco-vanille-nussfuellung.png
+image: choco-vanille-nussfuellung.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

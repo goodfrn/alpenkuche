@@ -7,7 +7,7 @@ ogDescription: "Probier den Mediterranen Thunfisch-Quinoasalat. Eine erfrischend
 focusKeyphrase: "Thunfisch-Quinoasalat"
 date: 2025-10-15
 draft: false
-image: mediterraner-thunfisch-quinoasalat.png
+image: mediterraner-thunfisch-quinoasalat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

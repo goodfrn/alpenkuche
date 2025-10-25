@@ -7,7 +7,7 @@ ogDescription: "Genieße One-Pot Cremige Bohnen mit Wurst. Ein schnelles, würzi
 focusKeyphrase: "Cremige Bohnen mit Wurst"
 date: 2025-09-29
 draft: false
-image: cremige-bohnen-mit-wurst.png
+image: cremige-bohnen-mit-wurst.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT22M

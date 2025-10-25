@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Karottencreme mit Tahini und Brokkoli - Eine vollmu
 focusKeyphrase: "Karottencreme mit Tahini"
 date: 2025-08-07
 draft: false
-image: karottencreme-mit-tahini.png
+image: karottencreme-mit-tahini.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

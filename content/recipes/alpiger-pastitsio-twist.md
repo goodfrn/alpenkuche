@@ -7,7 +7,7 @@ ogDescription: "Ein alpiner Klassiker, der Hackfleischsauce mit Appenzeller, Hö
 focusKeyphrase: "Alpiger Pastitsio Twist"
 date: 2025-07-20
 draft: false
-image: alpiger-pastitsio-twist.png
+image: alpiger-pastitsio-twist.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H40M

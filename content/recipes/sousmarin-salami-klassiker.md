@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Sousmarin Salami Klassiker, ein Sandwich, das 
 focusKeyphrase: "Sousmarin Salami Klassiker"
 date: 2025-08-02
 draft: false
-image: sousmarin-salami-klassiker.png
+image: sousmarin-salami-klassiker.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT0M

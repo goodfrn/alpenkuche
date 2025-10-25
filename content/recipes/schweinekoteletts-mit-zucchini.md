@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Schweinekoteletts mit Zucchini aus der Pfanne. Fri
 focusKeyphrase: "Schweinekoteletts mit gebratenen Zucchinis"
 date: 2025-07-23
 draft: false
-image: schweinekoteletts-mit-zucchini.png
+image: schweinekoteletts-mit-zucchini.jpg
 author: "Marlena"
 prepTime: PT17M
 cookTime: PT16M

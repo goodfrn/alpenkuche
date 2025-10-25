@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Fleischbällchen in Tomatensauce, eine köstliche 
 focusKeyphrase: "Fleischbällchen in Tomatensauce"
 date: 2025-07-28
 draft: false
-image: fleischbaellchen-in-tomatensauce.png
+image: fleischbaellchen-in-tomatensauce.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT2H50M

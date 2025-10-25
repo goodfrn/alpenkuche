@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Fenchelsalat mit Zitrusnote. Lecker und schnell gem
 focusKeyphrase: "Fenchelsalat"
 date: 2025-07-22
 draft: false
-image: fenchelsalat-mit-zitrusnote.png
+image: fenchelsalat-mit-zitrusnote.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

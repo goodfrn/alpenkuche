@@ -7,7 +7,7 @@ ogDescription: "Warmer Kabeljau-Bohnensalat. Zartes Fischfilet. Weiße Bohnen. F
 focusKeyphrase: "Kabeljau-Bohnensalat"
 date: 2025-07-23
 draft: false
-image: warmer-kabeljau-bohnensalat.png
+image: warmer-kabeljau-bohnensalat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

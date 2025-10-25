@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen leckeren, veganes Spargelsalat mit Seidentof
 focusKeyphrase: "gegrillte Spargelsalat mit Seidentofu"
 date: 2025-07-24
 draft: false
-image: gegrillter-spargelsalat.png
+image: gegrillter-spargelsalat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

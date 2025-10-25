@@ -7,7 +7,7 @@ ogDescription: "Gebackene Feta-Tomaten-Pasta; schnell gemacht und voller Aromen.
 focusKeyphrase: "Gebackene Feta-Tomaten-Pasta"
 date: 2025-08-16
 draft: false
-image: gebackene-feta-tomaten-pasta.png
+image: gebackene-feta-tomaten-pasta.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT35M

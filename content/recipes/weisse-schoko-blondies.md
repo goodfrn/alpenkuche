@@ -7,7 +7,7 @@ ogDescription: "Weiße-Schoko Blondies: Eine weniger süße Variante mit cremige
 focusKeyphrase: "Weiße-Schoko Blondies"
 date: 2025-08-06
 draft: false
-image: weisse-schoko-blondies.png
+image: weisse-schoko-blondies.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

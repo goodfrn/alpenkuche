@@ -7,7 +7,7 @@ ogDescription: "Entdecke unseren Pistazienkuchen mit Karamell. Süß und nussig,
 focusKeyphrase: "Pistazienkuchen"
 date: 2025-07-24
 draft: false
-image: pistazienkuchen-mit-karamell.png
+image: pistazienkuchen-mit-karamell.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT55M

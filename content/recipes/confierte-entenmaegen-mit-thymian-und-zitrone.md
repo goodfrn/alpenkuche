@@ -7,7 +7,7 @@ ogDescription: "Leckere Confierte Entenmägen mit Zitrone und Thymian. Ideal als
 focusKeyphrase: "Confierte Entenmägen"
 date: 2025-08-19
 draft: false
-image: confierte-entenmaegen-mit-thymian-und-zitrone.png
+image: confierte-entenmaegen-mit-thymian-und-zitrone.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT18M

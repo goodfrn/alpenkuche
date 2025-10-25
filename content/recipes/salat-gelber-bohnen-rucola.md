@@ -7,7 +7,7 @@ ogDescription: "Salat mit gelben Bohnen und Rucola; saftig, aromatisch, überras
 focusKeyphrase: "Salat gelber Bohnen und Rucola"
 date: 2025-09-01
 draft: false
-image: salat-gelber-bohnen-rucola.png
+image: salat-gelber-bohnen-rucola.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT4M

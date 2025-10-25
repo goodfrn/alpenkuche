@@ -7,7 +7,7 @@ ogDescription: "Köstliche Frischkäse-Bacon-Hähnchen-Pasta, ideal für jeden T
 focusKeyphrase: "Frischkäse-Bacon-Hähnchen-Pasta"
 date: 2025-10-14
 draft: false
-image: frischkaese-bacon-haehnchen-pasta.png
+image: frischkaese-bacon-haehnchen-pasta.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT27M

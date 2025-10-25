@@ -7,7 +7,7 @@ ogDescription: "Leckeres Joghurt-Fladenbrot ohne Hefe, aromatisch und fluffig, p
 focusKeyphrase: "Joghurt-Fladenbrot"
 date: 2025-09-26
 draft: false
-image: joghurt-fladenbrot-ohne-hefe.png
+image: joghurt-fladenbrot-ohne-hefe.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie frisches Ananas-Limetten-Vanille Eis, das fruchtig
 focusKeyphrase: "Ananas-Limetten-Vanille Eis"
 date: 2025-08-02
 draft: false
-image: ananas-limetten-vanille-eis.png
+image: ananas-limetten-vanille-eis.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

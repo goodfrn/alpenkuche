@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kunst des mongolischen Rindfleischs; aromatisch, kn
 focusKeyphrase: "Mongolisches Rindfleisch"
 date: 2025-10-23
 draft: false
-image: mongolisches-rindfleisch.png
+image: mongolisches-rindfleisch.jpg
 author: "Marlena"
 prepTime: PT14M
 cookTime: PT16M

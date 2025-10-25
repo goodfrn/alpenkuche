@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Ananas mit Limetten-Granité. Erfrischend, fruchti
 focusKeyphrase: "Ananas mit Limetten-Granité"
 date: 2025-07-30
 draft: false
-image: ananas-mit-limetten-granite.png
+image: ananas-mit-limetten-granite.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT0M

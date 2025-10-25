@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Kartoffelratatouille rustikal. Ein schmackhaftes G
 focusKeyphrase: "Kartoffelratatouille"
 date: 2025-09-23
 draft: false
-image: kartoffelratatouille-rustikal.png
+image: kartoffelratatouille-rustikal.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

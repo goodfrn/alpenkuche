@@ -7,7 +7,7 @@ ogDescription: "Grillrezepte mit Schweizer Twist. Pouletbrust marinieren für ar
 focusKeyphrase: "Poulet Miso Ingwer Alpenart"
 date: 2025-07-19
 draft: false
-image: poulet-miso-ingwer.png
+image: poulet-miso-ingwer.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

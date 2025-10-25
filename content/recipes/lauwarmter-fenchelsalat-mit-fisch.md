@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Lauwarmen Fenchelsalat mit Fisch. Frisch, leic
 focusKeyphrase: "Lauwarmer Fenchelsalat mit Fisch"
 date: 2025-07-22
 draft: false
-image: lauwarmter-fenchelsalat-mit-fisch.png
+image: lauwarmter-fenchelsalat-mit-fisch.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

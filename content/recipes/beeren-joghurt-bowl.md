@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Beeren-Joghurt-Bowl, schnell zubereitet und le
 focusKeyphrase: "Beeren-Joghurt-Bowl"
 date: 2025-07-24
 draft: false
-image: beeren-joghurt-bowl.png
+image: beeren-joghurt-bowl.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

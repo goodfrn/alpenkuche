@@ -7,7 +7,7 @@ ogDescription: "Mürbteig mit Dinkel und Kürbiskernöl für köstliche Tartes. 
 focusKeyphrase: "Mürbteig Rezept"
 date: 2025-08-02
 draft: false
-image: klassischer-muerbteig-mit-twist.png
+image: klassischer-muerbteig-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

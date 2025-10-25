@@ -7,7 +7,7 @@ ogDescription: "Ein köstlicher Auflauf mit Karamellzwiebeln und Schweizer Käse
 focusKeyphrase: "Französischer Zwiebel-Hähnchenauflauf"
 date: 2025-10-16
 draft: false
-image: franzoesischer-zwiebel-haehnchenauflauf.png
+image: franzoesischer-zwiebel-haehnchenauflauf.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT45M

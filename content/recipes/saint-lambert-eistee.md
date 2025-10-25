@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Saint Lambert Eistee – ein fruchtiger Cockta
 focusKeyphrase: "Saint Lambert Eistee"
 date: 2025-09-25
 draft: false
-image: saint-lambert-eistee.png
+image: saint-lambert-eistee.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Eiskalt Holunder-Cidre: Erfrischend und prickelnd, perfekt für 
 focusKeyphrase: "Holunder-Cidre Rezept"
 date: 2025-08-08
 draft: false
-image: eiskalt-holunder-cidre.png
+image: eiskalt-holunder-cidre.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

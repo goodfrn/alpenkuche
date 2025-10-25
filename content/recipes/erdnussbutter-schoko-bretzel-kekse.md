@@ -7,7 +7,7 @@ ogDescription: "Versuche diese Erdnussbutter-Schoko-Bretzel-Kekse für ein kontr
 focusKeyphrase: "Erdnussbutter-Schoko-Bretzel-Kekse"
 date: 2025-07-29
 draft: false
-image: erdnussbutter-schoko-bretzel-kekse.png
+image: erdnussbutter-schoko-bretzel-kekse.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT15M

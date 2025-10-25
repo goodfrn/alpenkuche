@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie unsere Zitronen-Buttercreme mit Kokoswasser. Perfe
 focusKeyphrase: "Zitronen-Buttercreme"
 date: 2025-08-05
 draft: false
-image: zitronen-buttercreme-mit-twist.png
+image: zitronen-buttercreme-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Ricotta Honig Zimt Creme – ein samtiges Dessert, 
 focusKeyphrase: "Ricotta Honig Zimt Creme"
 date: 2025-08-17
 draft: false
-image: ricotta-honig-zimt-creme.png
+image: ricotta-honig-zimt-creme.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT5M

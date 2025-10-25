@@ -7,7 +7,7 @@ ogDescription: "Entdecke Jackfrucht-Tofu-Barbecue; eine köstliche, vegane Haupt
 focusKeyphrase: "Jackfrucht-Tofu-Barbecue"
 date: 2025-08-02
 draft: false
-image: jackfrucht-tofu-barbecue.png
+image: jackfrucht-tofu-barbecue.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

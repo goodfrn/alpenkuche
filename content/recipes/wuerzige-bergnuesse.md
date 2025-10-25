@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die würzigen Bergnüsse. Ideal für jeden Anlass,
 focusKeyphrase: "Würzige Bergnüsse"
 date: 2025-07-18
 draft: false
-image: wuerzige-bergnuesse.png
+image: wuerzige-bergnuesse.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT14M

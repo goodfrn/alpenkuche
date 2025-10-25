@@ -7,7 +7,7 @@ ogDescription: "Entdecke Chimichurri mit Minze. Ein Kräutergenuss, der jedes Gr
 focusKeyphrase: "Chimichurri mit Minze"
 date: 2025-10-14
 draft: false
-image: chimichurri-mit-minze.png
+image: chimichurri-mit-minze.jpg
 author: "Marlena"
 prepTime: PT11M
 cookTime: PT0M

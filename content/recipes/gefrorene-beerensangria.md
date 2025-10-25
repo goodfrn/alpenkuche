@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die gefrorene Beerensangria – eine spritzige Erf
 focusKeyphrase: "Gefrorene Beerensangria"
 date: 2025-08-11
 draft: false
-image: gefrorene-beerensangria.png
+image: gefrorene-beerensangria.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT4M

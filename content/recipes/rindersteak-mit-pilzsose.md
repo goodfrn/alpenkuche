@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Rindersteak mit Pilzsoße. Kräftiges Aroma und to
 focusKeyphrase: "Rindersteak mit Pilzsoße"
 date: 2025-10-02
 draft: false
-image: rindersteak-mit-pilzsose.png
+image: rindersteak-mit-pilzsose.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT31M

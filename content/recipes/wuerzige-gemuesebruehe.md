@@ -7,7 +7,7 @@ ogDescription: "Entdecke die aromatische Würzige Gemüsebrühe mit Pilzen; eine
 focusKeyphrase: "Würzige Gemüsebrühe"
 date: 2025-08-07
 draft: false
-image: wuerzige-gemuesebruehe.png
+image: wuerzige-gemuesebruehe.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Gebratene Eier in der Fonduepfanne. Perfekt gewür
 focusKeyphrase: "Gebratene Eier Fonduepfanne"
 date: 2025-07-28
 draft: false
-image: gebratene-eier-fonduepfanne.png
+image: gebratene-eier-fonduepfanne.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT12M

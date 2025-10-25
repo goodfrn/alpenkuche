@@ -7,7 +7,7 @@ ogDescription: "Einfache Ranchsalzmischung für viele Snacks. Frische Kräuter, 
 focusKeyphrase: "Ranchsalzmischung"
 date: 2025-07-23
 draft: false
-image: wuerzige-ranchsalzmischung.png
+image: wuerzige-ranchsalzmischung.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Kürbis-Cheesecake-Riegel mit Ahornsirup und Zimts
 focusKeyphrase: "Kürbis-Cheesecake-Riegel"
 date: 2025-08-18
 draft: false
-image: kuerbis-cheesecake-riegel.png
+image: kuerbis-cheesecake-riegel.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT43M

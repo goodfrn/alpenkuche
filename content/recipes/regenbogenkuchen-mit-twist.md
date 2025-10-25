@@ -7,7 +7,7 @@ ogDescription: "Regenbogenkuchen mit Twist; Farbkombination, fluffig und gut fü
 focusKeyphrase: "Regenbogenkuchen"
 date: 2025-09-27
 draft: false
-image: regenbogenkuchen-mit-twist.png
+image: regenbogenkuchen-mit-twist.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT55M

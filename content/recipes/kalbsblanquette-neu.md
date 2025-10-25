@@ -7,7 +7,7 @@ ogDescription: "Kalbsblanquette neu interpretiert – weniger Zucker, mehr Genus
 focusKeyphrase: "Kalbsblanquette neu"
 date: 2025-08-16
 draft: false
-image: kalbsblanquette-neu.png
+image: kalbsblanquette-neu.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT2H20M

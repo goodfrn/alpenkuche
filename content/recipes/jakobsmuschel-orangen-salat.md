@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Jakobsmuschel-Orangen-Salat mit Tulpen. Einfac
 focusKeyphrase: "Jakobsmuschel-Orangen-Salat"
 date: 2025-08-04
 draft: false
-image: jakobsmuschel-orangen-salat.png
+image: jakobsmuschel-orangen-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Terrine Choco-Kaffee Deluxe – eine exquisite Scho
 focusKeyphrase: "Terrine Choco-Kaffee Deluxe"
 date: 2025-08-06
 draft: false
-image: terrine-choco-kaffee-deluxe.png
+image: terrine-choco-kaffee-deluxe.jpg
 author: "Marlena"
 prepTime: PT27M
 cookTime: PT33M

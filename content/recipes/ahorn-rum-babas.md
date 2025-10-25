@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Ahorn-Rum Babas Neu. Ein feuchtes Gebäck, das mit
 focusKeyphrase: "Ahorn-Rum Babas"
 date: 2025-07-25
 draft: false
-image: ahorn-rum-babas.png
+image: ahorn-rum-babas.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT12M

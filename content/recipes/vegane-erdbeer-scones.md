@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die veganen Erdbeer-Scones mit cremiger Kokoscreme
 focusKeyphrase: "vegane Erdbeer-Scones"
 date: 2025-08-18
 draft: false
-image: vegane-erdbeer-scones.png
+image: vegane-erdbeer-scones.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT15M

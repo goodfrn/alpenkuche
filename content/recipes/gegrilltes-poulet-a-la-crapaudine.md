@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kunst des Grillens mit unserem Rezept für Gegrillt
 focusKeyphrase: "Gegrilltes Poulet à la Crapaudine"
 date: 2025-09-25
 draft: false
-image: gegrilltes-poulet-a-la-crapaudine.png
+image: gegrilltes-poulet-a-la-crapaudine.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H7M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser würziges Chili con Carne, das mit dunklem B
 focusKeyphrase: "Würziges Chili con Carne"
 date: 2025-08-10
 draft: false
-image: wuerziges-chili-con-carne.png
+image: wuerziges-chili-con-carne.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H10M

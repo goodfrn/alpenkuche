@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie festliche Eierspezialitäten mit kreativen Füllun
 focusKeyphrase: "Festliche Eierspezialitäten"
 date: 2025-08-19
 draft: false
-image: festliche-eierspezialitaeten.png
+image: festliche-eierspezialitaeten.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Blaubeer-Tropen-Gelee Drink - vegan, erfrischend und fruchtig. I
 focusKeyphrase: "Blaubeer-Tropen-Gelee"
 date: 2025-07-31
 draft: false
-image: blaubeer-tropen-gelee-drink.png
+image: blaubeer-tropen-gelee-drink.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT2H15M

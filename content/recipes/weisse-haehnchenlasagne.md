@@ -7,7 +7,7 @@ ogDescription: "Entdecke die cremige weiße Hähnchenlasagne; ein nahrhaftes und
 focusKeyphrase: "weiße Hähnchenlasagne"
 date: 2025-10-01
 draft: false
-image: weisse-haehnchenlasagne.png
+image: weisse-haehnchenlasagne.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

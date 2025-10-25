@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Basilikum-Spinat Pesto; eine frische Kombination au
 focusKeyphrase: "Basilikum-Spinat Pesto"
 date: 2025-08-28
 draft: false
-image: basilikum-spinat-pesto.png
+image: basilikum-spinat-pesto.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

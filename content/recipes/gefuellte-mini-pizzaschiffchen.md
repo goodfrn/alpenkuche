@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefüllte Mini-Pizzaschiffchen; perfekt für jeden Anla
 focusKeyphrase: "Mini-Pizzaschiffchen"
 date: 2025-08-07
 draft: false
-image: gefuellte-mini-pizzaschiffchen.png
+image: gefuellte-mini-pizzaschiffchen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT25M

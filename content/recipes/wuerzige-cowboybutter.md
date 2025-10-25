@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Würzige Cowboybutter. Eine köstliche Mischun
 focusKeyphrase: "Würzige Cowboybutter"
 date: 2025-10-24
 draft: false
-image: wuerzige-cowboybutter.png
+image: wuerzige-cowboybutter.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

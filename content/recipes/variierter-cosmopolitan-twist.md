@@ -7,7 +7,7 @@ ogDescription: "Erlebe den variierenden Cosmopolitan Twist, ein erfrischender Co
 focusKeyphrase: "Cosmopolitan Twist"
 date: 2025-09-26
 draft: false
-image: variierter-cosmopolitan-twist.png
+image: variierter-cosmopolitan-twist.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT0M

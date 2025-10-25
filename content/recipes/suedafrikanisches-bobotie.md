@@ -7,7 +7,7 @@ ogDescription: "Genieße das Südafrikanische Bobotie mit Rind- und Lammfleisch,
 focusKeyphrase: "Südafrikanisches Bobotie"
 date: 2025-09-27
 draft: false
-image: suedafrikanisches-bobotie.png
+image: suedafrikanisches-bobotie.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT65M

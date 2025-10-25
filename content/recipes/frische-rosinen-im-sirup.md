@@ -7,7 +7,7 @@ ogDescription: "Genieß frische Rosinen im Sirup. Harmonisch und fruchtig; perfe
 focusKeyphrase: "Rosinen im Sirup"
 date: 2025-09-25
 draft: false
-image: frische-rosinen-im-sirup.png
+image: frische-rosinen-im-sirup.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT23M

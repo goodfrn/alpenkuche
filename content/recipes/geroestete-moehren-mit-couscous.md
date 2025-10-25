@@ -7,7 +7,7 @@ ogDescription: "Genieße geröstete Möhren mit Couscous und Ziegenkäse - ein k
 focusKeyphrase: "geröstete Möhren mit Couscous"
 date: 2025-08-14
 draft: false
-image: geroestete-moehren-mit-couscous.png
+image: geroestete-moehren-mit-couscous.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

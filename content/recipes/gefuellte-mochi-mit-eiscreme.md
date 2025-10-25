@@ -7,7 +7,7 @@ ogDescription: "Lerne, wie du gefüllte Mochi mit Eiscreme zubereitest. Eine erf
 focusKeyphrase: "Gefüllte Mochi mit Eiscreme"
 date: 2025-09-25
 draft: false
-image: gefuellte-mochi-mit-eiscreme.png
+image: gefuellte-mochi-mit-eiscreme.jpg
 author: "Marlena"
 prepTime: PT32M
 cookTime: PT4M

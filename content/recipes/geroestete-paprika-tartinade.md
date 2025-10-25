@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen dieser gerösteten Paprika Tartinade �
 focusKeyphrase: "geröstete Paprika Tartinade"
 date: 2025-08-19
 draft: false
-image: geroestete-paprika-tartinade.png
+image: geroestete-paprika-tartinade.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT55M

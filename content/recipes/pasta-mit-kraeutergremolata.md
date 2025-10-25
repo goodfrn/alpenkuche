@@ -7,7 +7,7 @@ ogDescription: "Pasta mit Kräutergremolata. Eine köstliche Mischung aus Kräut
 focusKeyphrase: "Pasta mit Kräutergremolata"
 date: 2025-07-25
 draft: false
-image: pasta-mit-kraeutergremolata.png
+image: pasta-mit-kraeutergremolata.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT15M

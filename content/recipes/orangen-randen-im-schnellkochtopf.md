@@ -7,7 +7,7 @@ ogDescription: "Orangen-Randen im Schnellkochtopf. Ein köstliches und gesundes 
 focusKeyphrase: "Orangen-Randen im Schnellkochtopf"
 date: 2025-07-20
 draft: false
-image: orangen-randen-im-schnellkochtopf.png
+image: orangen-randen-im-schnellkochtopf.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT20M

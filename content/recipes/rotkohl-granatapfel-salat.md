@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diesen frischen Rotkohl Granatapfel Salat. Eine au
 focusKeyphrase: "Rotkohl Granatapfel Salat"
 date: 2025-09-29
 draft: false
-image: rotkohl-granatapfel-salat.png
+image: rotkohl-granatapfel-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

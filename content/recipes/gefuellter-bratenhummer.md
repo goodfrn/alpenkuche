@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kunst des gefüllten Hummers: zartes Fleisch, 
 focusKeyphrase: "Gefüllter Bratenhummer"
 date: 2025-10-06
 draft: false
-image: gefuellter-bratenhummer.png
+image: gefuellter-bratenhummer.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

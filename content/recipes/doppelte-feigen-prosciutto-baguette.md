@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Doppelte Feigen Prosciutto Baguette; eine harm
 focusKeyphrase: "Doppelte Feigen Prosciutto Baguette"
 date: 2025-09-16
 draft: false
-image: doppelte-feigen-prosciutto-baguette.png
+image: doppelte-feigen-prosciutto-baguette.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT0M

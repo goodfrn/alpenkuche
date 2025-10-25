@@ -7,7 +7,7 @@ ogDescription: "Leckerer Ahorn Pudding-Kuchen, cremig, süß, perfekt mit Kokosm
 focusKeyphrase: "Ahorn Pudding-Kuchen"
 date: 2025-07-24
 draft: false
-image: ahorn-pudding-kuchen.png
+image: ahorn-pudding-kuchen.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT40M

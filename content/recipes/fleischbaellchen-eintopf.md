@@ -7,7 +7,7 @@ ogDescription: "Genussvoller Fleischbällchen Eintopf mit saisonalem Gemüse. Id
 focusKeyphrase: "Fleischbällchen Eintopf"
 date: 2025-09-25
 draft: false
-image: fleischbaellchen-eintopf.png
+image: fleischbaellchen-eintopf.jpg
 author: "Marlena"
 prepTime: PT1H15M
 cookTime: PT50M

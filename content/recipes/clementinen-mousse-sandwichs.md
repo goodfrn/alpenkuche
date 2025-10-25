@@ -7,7 +7,7 @@ ogDescription: "Clementinen-Mousse Sandwichs, angenehm zitronig, in Kombination 
 focusKeyphrase: "Clementinen-Mousse Sandwichs"
 date: 2025-08-10
 draft: false
-image: clementinen-mousse-sandwichs.png
+image: clementinen-mousse-sandwichs.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke marinierte Mini-Paprika mit Apfelessig, Zitronensaft un
 focusKeyphrase: "marinierte Mini-Paprika"
 date: 2025-08-04
 draft: false
-image: marinierte-mini-paprika.png
+image: marinierte-mini-paprika.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

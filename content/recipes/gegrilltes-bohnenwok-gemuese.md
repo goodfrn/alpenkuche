@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für gegrilltes Bohnenwok-Gemüse. Ar
 focusKeyphrase: "gegrilltes Bohnenwok-Gemüse"
 date: 2025-08-12
 draft: false
-image: gegrilltes-bohnenwok-gemuese.png
+image: gegrilltes-bohnenwok-gemuese.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

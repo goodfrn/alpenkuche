@@ -7,7 +7,7 @@ ogDescription: "Genieße die mexikanische Dipbowl. Ideal für Partys und geselli
 focusKeyphrase: "mexikanische Dipbowl"
 date: 2025-09-24
 draft: false
-image: mexikanische-dipbowl.png
+image: mexikanische-dipbowl.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

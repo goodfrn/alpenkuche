@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein rustikales Kalbsragout mit Espelette. Farbenfr
 focusKeyphrase: "Kalbsragout mit Espelette"
 date: 2025-08-28
 draft: false
-image: geschmortes-kalbsragout.png
+image: geschmortes-kalbsragout.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie sous vide gegarte Butterkarotten mit frischem Thym
 focusKeyphrase: "Butterkarotten Sous Vide"
 date: 2025-08-04
 draft: false
-image: butterkarotten-sous-vide.png
+image: butterkarotten-sous-vide.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT35M

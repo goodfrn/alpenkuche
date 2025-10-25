@@ -7,7 +7,7 @@ ogDescription: "Erleben Sie das rustikale Preiselbeer Walnuss Brot, das Aromen v
 focusKeyphrase: "Preiselbeer Walnuss Brot"
 date: 2025-10-07
 draft: false
-image: preiselbeer-walnuss-brot.png
+image: preiselbeer-walnuss-brot.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT55M

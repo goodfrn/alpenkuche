@@ -7,7 +7,7 @@ ogDescription: "Diese Kekse bringen Erdnussbutter und frische Blaubeeren auf kö
 focusKeyphrase: "Erdnussbutter-Blaubeer-Kekse"
 date: 2025-10-23
 draft: false
-image: erdnussbutter-blaubeer-kekse.png
+image: erdnussbutter-blaubeer-kekse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

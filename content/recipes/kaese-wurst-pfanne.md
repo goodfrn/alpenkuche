@@ -7,7 +7,7 @@ ogDescription: "Käse-Wurst-Pfanne – ein schnelles, aromatisches Gericht, das 
 focusKeyphrase: "Käse-Wurst-Pfanne"
 date: 2025-10-15
 draft: false
-image: kaese-wurst-pfanne.png
+image: kaese-wurst-pfanne.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT18M

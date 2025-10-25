@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie geschmolzenen Käse und goldbraun gebratene Pilze 
 focusKeyphrase: "geschmolzener Käse mit Pilzpfanne"
 date: 2025-08-15
 draft: false
-image: geschmolzener-kaese-mit-pilzpfanne.png
+image: geschmolzener-kaese-mit-pilzpfanne.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT25M

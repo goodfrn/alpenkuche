@@ -7,7 +7,7 @@ ogDescription: "Entdecke die cremige und fruchtige Welt von Vanille Frozen Yogur
 focusKeyphrase: "Vanille Frozen Yogurt Twist"
 date: 2025-08-12
 draft: false
-image: vanille-frozen-yogurt-twist.png
+image: vanille-frozen-yogurt-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

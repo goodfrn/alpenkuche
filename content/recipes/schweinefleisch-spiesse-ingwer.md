@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die scharfen Schweinefleisch-Spieße mit Ingwer un
 focusKeyphrase: "Schweinefleisch-Spieße"
 date: 2025-07-28
 draft: false
-image: schweinefleisch-spiesse-ingwer.png
+image: schweinefleisch-spiesse-ingwer.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT20M

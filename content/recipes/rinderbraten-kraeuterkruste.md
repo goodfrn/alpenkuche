@@ -7,7 +7,7 @@ ogDescription: "Grill Rezept für Rinderbraten Kräuterkruste. Zarte Fleischsche
 focusKeyphrase: "Rinderbraten Kräuterkruste"
 date: 2025-07-26
 draft: false
-image: rinderbraten-kraeuterkruste.png
+image: rinderbraten-kraeuterkruste.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Warmer Fisch-Bohnen-Salat, schnell und lecker zubereitet. Frisch
 focusKeyphrase: "Warmer Fisch-Bohnen-Salat"
 date: 2025-08-16
 draft: false
-image: warmer-fisch-bohnen-salat.png
+image: warmer-fisch-bohnen-salat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

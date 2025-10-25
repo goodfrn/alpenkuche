@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie zarte Schweine-Rindspieße mit aromatischem Kräut
 focusKeyphrase: "Schweine-Rindspieße"
 date: 2025-08-14
 draft: false
-image: schweine-rindspiesse.png
+image: schweine-rindspiesse.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT10M

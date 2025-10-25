@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche marokkanische Hülsenfrüchtesuppe. Arom
 focusKeyphrase: "Hülsenfrüchtesuppe"
 date: 2025-08-10
 draft: false
-image: marokkanische-huelsenfruechtesuppe.png
+image: marokkanische-huelsenfruechtesuppe.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H

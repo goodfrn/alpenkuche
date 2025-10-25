@@ -7,7 +7,7 @@ ogDescription: "Zarte Rindfleischwürfel geschmort mit Gemüse, ideal für lange
 focusKeyphrase: "geschmorte Rindfleischwürfel"
 date: 2025-08-04
 draft: false
-image: geschmorte-rindfleischwuerfel.png
+image: geschmorte-rindfleischwuerfel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT7H

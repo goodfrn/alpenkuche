@@ -7,7 +7,7 @@ ogDescription: "Kandierte Sablés mit Limette bringen Frische und Schärfe in je
 focusKeyphrase: "Kandierte Sablés mit Limette"
 date: 2025-08-17
 draft: false
-image: kandierte-sables-mit-limette.png
+image: kandierte-sables-mit-limette.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Alpinen Foie Gras Pot, eine raffinierte, alpin
 focusKeyphrase: "Alpiner Foie Gras Pot"
 date: 2025-07-19
 draft: false
-image: alpiner-foie-gras-pott.png
+image: alpiner-foie-gras-pott.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den erfrischenden Kohlrabi-Apfel Salat Twist; knac
 focusKeyphrase: "Kohlrabi-Apfel Salat"
 date: 2025-08-09
 draft: false
-image: kohlrabi-apfel-salat-twist.png
+image: kohlrabi-apfel-salat-twist.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

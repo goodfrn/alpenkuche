@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Porto-Lammkeule mit Thymianhonig. Zart und saftig 
 focusKeyphrase: "Porto-Lammkeule"
 date: 2025-08-09
 draft: false
-image: porto-lammkeule-thymianhonig.png
+image: porto-lammkeule-thymianhonig.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT2H20M

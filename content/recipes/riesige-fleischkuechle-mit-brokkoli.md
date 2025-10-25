@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Riesige Fleischküchle mit Brokkoli. Saftig, einfa
 focusKeyphrase: "Riesige Fleischküchle"
 date: 2025-08-17
 draft: false
-image: riesige-fleischkuechle-mit-brokkoli.png
+image: riesige-fleischkuechle-mit-brokkoli.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

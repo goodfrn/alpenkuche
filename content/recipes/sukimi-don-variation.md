@@ -7,7 +7,7 @@ ogDescription: "Sukimi Don Variation – frisch, aromatisch und ideal für kreat
 focusKeyphrase: "Sukimi Don Variation"
 date: 2025-09-27
 draft: false
-image: sukimi-don-variation.png
+image: sukimi-don-variation.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT45M

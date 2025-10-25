@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kunst der Schokoladenstückchen Kekse gefroren. Wal
 focusKeyphrase: "Schokoladenstückchen Kekse gefroren"
 date: 2025-09-28
 draft: false
-image: schokoladenstueckchen-kekse.png
+image: schokoladenstueckchen-kekse.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für knusprige Haferkekse mit Ahornsirup. Id
 focusKeyphrase: "Knusprige Haferkekse"
 date: 2025-08-19
 draft: false
-image: knusprige-haferkekse-mit-ahornsirup.png
+image: knusprige-haferkekse-mit-ahornsirup.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

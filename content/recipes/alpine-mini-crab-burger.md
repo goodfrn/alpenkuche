@@ -7,7 +7,7 @@ ogDescription: "Alpine Mini Crab-Burger. Zarte Krabben-Tätschli, herausragender
 focusKeyphrase: "Alpine Mini Crab-Burger"
 date: 2025-07-20
 draft: false
-image: alpine-mini-crab-burger.png
+image: alpine-mini-crab-burger.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die k√∂stliche Karamellsauce mit Bananen und Waln√
 focusKeyphrase: "Karamellsauce mit Bananen"
 date: 2025-09-23
 draft: false
-image: karamellsauce-mit-bananen.png
+image: karamellsauce-mit-bananen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT13M

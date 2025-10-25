@@ -7,7 +7,7 @@ ogDescription: "Probiere den Whisky-Ingwer-Cocktail abgewandelt. Unerwartete Aro
 focusKeyphrase: "Whisky-Ingwer-Cocktail"
 date: 2025-09-29
 draft: false
-image: whisky-ingwer-cocktail.png
+image: whisky-ingwer-cocktail.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Genieße das aromatische Honig-Knoblauch Hähnchen; ideale Kombi
 focusKeyphrase: "Honig-Knoblauch Hähnchen"
 date: 2025-10-16
 draft: false
-image: honig-knoblauch-haehnchen.png
+image: honig-knoblauch-haehnchen.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT40M

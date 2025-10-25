@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Gewürz-Trüffel-Panettone, perfekt für alle, die 
 focusKeyphrase: "Gewürz-Trüffel-Panettone"
 date: 2025-07-29
 draft: false
-image: gewuerztrueffelpanettone.png
+image: gewuerztrueffelpanettone.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT5M

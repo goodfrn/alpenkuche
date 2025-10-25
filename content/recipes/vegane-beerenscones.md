@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen veganen Beerenscones, perfekt für jede
 focusKeyphrase: "vegane Beerenscones"
 date: 2025-08-19
 draft: false
-image: vegane-beerenscones.png
+image: vegane-beerenscones.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT20M

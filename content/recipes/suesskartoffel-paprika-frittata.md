@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstliche Süßkartoffel-Paprika-Frittata, eine ve
 focusKeyphrase: "Süßkartoffel-Paprika-Frittata"
 date: 2025-08-17
 draft: false
-image: suesskartoffel-paprika-frittata.png
+image: suesskartoffel-paprika-frittata.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Leckerer Pizza Teig Grundrezept. Mit Agavendicksaft. Ideal für 
 focusKeyphrase: "Pizza Teig Grundrezept"
 date: 2025-09-28
 draft: false
-image: pizza-teig-grundrezept.png
+image: pizza-teig-grundrezept.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

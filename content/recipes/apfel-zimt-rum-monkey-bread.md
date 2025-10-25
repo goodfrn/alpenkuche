@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Apfel Zimt Rum Monkey Bread – ein kö
 focusKeyphrase: "Apfel Zimt Rum Monkey Bread"
 date: 2025-10-06
 draft: false
-image: apfel-zimt-rum-monkey-bread.png
+image: apfel-zimt-rum-monkey-bread.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

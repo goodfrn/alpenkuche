@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie saftigen Gewürzbutter-Truthahn mit kräftiger So�
 focusKeyphrase: "Gewürzbutter-Truthahn"
 date: 2025-08-06
 draft: false
-image: gewuerzbutter-truthahn.png
+image: gewuerzbutter-truthahn.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT2H15M

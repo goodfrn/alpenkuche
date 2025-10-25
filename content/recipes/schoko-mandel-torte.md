@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Schoko Mandel Torte – eine köstliche glutenfreie
 focusKeyphrase: "Schoko Mandel Torte"
 date: 2025-07-26
 draft: false
-image: schoko-mandel-torte.png
+image: schoko-mandel-torte.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT42M

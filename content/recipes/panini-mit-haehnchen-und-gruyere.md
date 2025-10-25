@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unser Rezept für ein köstliches Panini mit Hähn
 focusKeyphrase: "Panini mit Hähnchen und Gruyère"
 date: 2025-08-11
 draft: false
-image: panini-mit-haehnchen-und-gruyere.png
+image: panini-mit-haehnchen-und-gruyere.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT8M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die köstlichen Süßkartoffel-Muffins. Vollwertig, ein
 focusKeyphrase: "Süßkartoffel-Muffins"
 date: 2025-07-21
 draft: false
-image: suesskartoffel-muffins.png
+image: suesskartoffel-muffins.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT27M

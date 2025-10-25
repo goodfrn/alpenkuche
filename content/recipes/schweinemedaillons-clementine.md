@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Schweinemedaillons in süßer Clementinen-Sauce. S
 focusKeyphrase: "Schweinemedaillons Clementine"
 date: 2025-07-24
 draft: false
-image: schweinemedaillons-clementine.png
+image: schweinemedaillons-clementine.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

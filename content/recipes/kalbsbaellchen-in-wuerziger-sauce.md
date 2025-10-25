@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kalbsbällchen in würziger Sauce. Schnelle Zuberei
 focusKeyphrase: "Kalbsbällchen in würziger Sauce"
 date: 2025-07-25
 draft: false
-image: kalbsbaellchen-in-wuerziger-sauce.png
+image: kalbsbaellchen-in-wuerziger-sauce.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT22M

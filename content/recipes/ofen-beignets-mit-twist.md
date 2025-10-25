@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese leichten Ofen-Beignets mit einem Hauch Kokos
 focusKeyphrase: "Ofen-Beignets"
 date: 2025-08-09
 draft: false
-image: ofen-beignets-mit-twist.png
+image: ofen-beignets-mit-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT15M

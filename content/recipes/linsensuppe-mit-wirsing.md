@@ -7,7 +7,7 @@ ogDescription: "Vegetarische Linsensuppe mit Wirsing und Kürbis, schnell zubere
 focusKeyphrase: "Linsensuppe"
 date: 2025-08-03
 draft: false
-image: linsensuppe-mit-wirsing.png
+image: linsensuppe-mit-wirsing.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

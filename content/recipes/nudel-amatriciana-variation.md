@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Nudel-Amatriciana-Variation mit knusprigem Spe
 focusKeyphrase: "Nudel-Amatriciana-Variation"
 date: 2025-07-27
 draft: false
-image: nudel-amatriciana-variation.png
+image: nudel-amatriciana-variation.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT40M

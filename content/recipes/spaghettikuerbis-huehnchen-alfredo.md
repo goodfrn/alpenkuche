@@ -7,7 +7,7 @@ ogDescription: "Erlebe Spaghettikürbis Hühnchen Alfredo; eine geschmackvolle A
 focusKeyphrase: "Spaghettikürbis Hühnchen Alfredo"
 date: 2025-10-08
 draft: false
-image: spaghettikuerbis-huehnchen-alfredo.png
+image: spaghettikuerbis-huehnchen-alfredo.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT48M

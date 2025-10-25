@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für marinierte italienische Auberginen
 focusKeyphrase: "marinierte italienische Auberginen"
 date: 2025-09-26
 draft: false
-image: marinierte-italienische-auberginen.png
+image: marinierte-italienische-auberginen.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT50M

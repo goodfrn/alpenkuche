@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie den Alpinen Maiscrumble mit Appenzeller Käse. Knu
 focusKeyphrase: "Alpiner Maiscrumble"
 date: 2025-07-20
 draft: false
-image: alpiner-maiscrumble.png
+image: alpiner-maiscrumble.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT2H15M

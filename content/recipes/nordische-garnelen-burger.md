@@ -7,7 +7,7 @@ ogDescription: "Entdecke die nordischen Garnelen Burger, cremige Avocado und ein
 focusKeyphrase: "Nordische Garnelen Burger"
 date: 2025-08-02
 draft: false
-image: nordische-garnelen-burger.png
+image: nordische-garnelen-burger.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT10M

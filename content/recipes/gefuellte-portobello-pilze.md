@@ -7,7 +7,7 @@ ogDescription: "Schmackhafte gefüllte Portobello-Pilze mit Bacon und knackigem 
 focusKeyphrase: "gefüllte Portobello-Pilze"
 date: 2025-09-26
 draft: false
-image: gefuellte-portobello-pilze.png
+image: gefuellte-portobello-pilze.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

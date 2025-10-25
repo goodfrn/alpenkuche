@@ -7,7 +7,7 @@ ogDescription: "Entdecke den perfekten Granatapfel Apfelauflauf – süß und sa
 focusKeyphrase: "Granatapfel Apfelauflauf"
 date: 2025-10-16
 draft: false
-image: granatapfel-apfelauflauf.png
+image: granatapfel-apfelauflauf.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Dattel-Tarte mit Twist. Knuspriger Mürbeteig 
 focusKeyphrase: "Dattel-Tarte"
 date: 2025-07-21
 draft: false
-image: dattel-tarte-mit-twist.png
+image: dattel-tarte-mit-twist.jpg
 author: "Marlena"
 prepTime: PT0H35M
 cookTime: PT0H55M

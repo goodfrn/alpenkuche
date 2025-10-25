@@ -7,7 +7,7 @@ ogDescription: "Knoblauch, Zucchini, Erbsen, alles in einem Topf. Ein schnellen 
 focusKeyphrase: "Pasta mit Zucchini und Erbsen"
 date: 2025-08-13
 draft: false
-image: pasta-mit-zucchini-und-erbsen.png
+image: pasta-mit-zucchini-und-erbsen.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Kombination von Steinpilzen und Walnüssen in diese
 focusKeyphrase: "hausgemachte Butter"
 date: 2025-08-06
 draft: false
-image: hausgemachte-butter-mit-steinpilzen.png
+image: hausgemachte-butter-mit-steinpilzen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

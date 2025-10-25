@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die nussigen Aromen von geröstetem Topinambur, ko
 focusKeyphrase: "Geröstete Topinamburstücke"
 date: 2025-09-24
 draft: false
-image: geroestete-topinamburstuecke.png
+image: geroestete-topinamburstuecke.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT55M

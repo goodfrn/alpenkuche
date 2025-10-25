@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den alpinen Gemüse-Aufstrich. Eine cremige Mischu
 focusKeyphrase: "alpiner Gemüse-Aufstrich"
 date: 2025-07-20
 draft: false
-image: alpiner-gemuese-aufstrich.png
+image: alpiner-gemuese-aufstrich.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Frische Gurken mit einer überraschenden Ingwermarinade; probier
 focusKeyphrase: "Ingwer Gurkenmarinade"
 date: 2025-08-03
 draft: false
-image: ingwer-gurkenmarinade.png
+image: ingwer-gurkenmarinade.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT5M

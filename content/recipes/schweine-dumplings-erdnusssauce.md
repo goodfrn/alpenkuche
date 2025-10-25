@@ -7,7 +7,7 @@ ogDescription: "Schweine Dumplings mit würziger Erdnusssauce. Ideal als Snack o
 focusKeyphrase: "Schweine Dumplings"
 date: 2025-07-25
 draft: false
-image: schweine-dumplings-erdnusssauce.png
+image: schweine-dumplings-erdnusssauce.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

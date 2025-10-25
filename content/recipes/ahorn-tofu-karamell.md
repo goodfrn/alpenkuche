@@ -7,7 +7,7 @@ ogDescription: "Kross gebratener Tofu in süßer und scharfer Ahorn-Soße. Ein a
 focusKeyphrase: "Ahorn-Tofu-Karamell"
 date: 2025-08-08
 draft: false
-image: ahorn-tofu-karamell.png
+image: ahorn-tofu-karamell.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

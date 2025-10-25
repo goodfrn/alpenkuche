@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese Mayonnaise mit Char Siu-Sauce für einen bes
 focusKeyphrase: "Mayonnaise mit Hoisin-Twist"
 date: 2025-08-05
 draft: false
-image: mayonnaise-mit-hoisin-twist.png
+image: mayonnaise-mit-hoisin-twist.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT0M

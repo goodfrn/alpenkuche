@@ -7,7 +7,7 @@ ogDescription: "Probiere diese würzigen Reiskuchen mit Schweinefleisch; perfekt
 focusKeyphrase: "Würzige Reiskuchen"
 date: 2025-09-28
 draft: false
-image: wuerzige-reiskuchen-mit-schweinefleisch.png
+image: wuerzige-reiskuchen-mit-schweinefleisch.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT22M

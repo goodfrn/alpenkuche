@@ -7,7 +7,7 @@ ogDescription: "Schnell zubereitet und voll im Geschmack. Rindfleisch und Paprik
 focusKeyphrase: "Sous-marin mit Rind und Paprika"
 date: 2025-09-26
 draft: false
-image: sous-marin-mit-rind-und-paprika.png
+image: sous-marin-mit-rind-und-paprika.jpg
 author: "Marlena"
 prepTime: PT14M
 cookTime: PT22M

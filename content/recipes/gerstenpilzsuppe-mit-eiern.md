@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Gerstenpilzsuppe mit pochierten Eiern, die ges
 focusKeyphrase: "Gerstenpilzsuppe"
 date: 2025-07-28
 draft: false
-image: gerstenpilzsuppe-mit-eiern.png
+image: gerstenpilzsuppe-mit-eiern.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT50M

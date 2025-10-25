@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Barbecue Senfsoße Süd – ideal für Ihr Gri
 focusKeyphrase: "Barbecue Senfsoße Süd"
 date: 2025-08-15
 draft: false
-image: barbecue-senfsose-sud.png
+image: barbecue-senfsose-sud.jpg
 author: "Marlena"
 prepTime: PT7M
 cookTime: PT12M

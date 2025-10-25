@@ -7,7 +7,7 @@ ogDescription: "Entdecke Pflaumen-Kirsch Shortcakes. Ein fruchtig-süßes Desser
 focusKeyphrase: "Pflaumen-Kirsch Shortcakes"
 date: 2025-08-03
 draft: false
-image: pflaumen-kirsch-shortcakes.png
+image: pflaumen-kirsch-shortcakes.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT30M

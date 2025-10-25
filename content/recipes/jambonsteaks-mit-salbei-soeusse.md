@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Jambonsteaks mit einer aromatischen Salbei-Sahneso
 focusKeyphrase: "Jambonsteaks mit Salbei-Sahnesoße"
 date: 2025-08-16
 draft: false
-image: jambonsteaks-mit-salbei-soeusse.png
+image: jambonsteaks-mit-salbei-soeusse.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

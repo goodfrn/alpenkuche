@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Bündner Alpensalat, eine Mischung aus Poulet, Avoc
 focusKeyphrase: "Bündner Alpensalat"
 date: 2025-07-20
 draft: false
-image: buender-alpensalat.png
+image: buender-alpensalat.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Rezept für Hähnchen Cacciatore Neu; saftig, 
 focusKeyphrase: "Hähnchen Cacciatore"
 date: 2025-10-04
 draft: false
-image: haehnchen-cacciatore.png
+image: haehnchen-cacciatore.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT50M

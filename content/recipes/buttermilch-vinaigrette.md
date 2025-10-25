@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Buttermilch-Vinaigrette 2.0 – ideal für Salate u
 focusKeyphrase: "Buttermilch-Vinaigrette"
 date: 2025-08-02
 draft: false
-image: buttermilch-vinaigrette.png
+image: buttermilch-vinaigrette.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT0M

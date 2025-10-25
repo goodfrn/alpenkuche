@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Steak-Suppe mit Ei, eine herzhafte Kombination
 focusKeyphrase: "Steak-Suppe mit Ei"
 date: 2025-07-29
 draft: false
-image: steak-suppe-mit-ei.png
+image: steak-suppe-mit-ei.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H5M

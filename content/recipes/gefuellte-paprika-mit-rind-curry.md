@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefüllte Paprika mit Rind und Curry, ein Rezept voller
 focusKeyphrase: "Gefüllte Paprika mit Rind und Curry"
 date: 2025-08-04
 draft: false
-image: gefuellte-paprika-mit-rind-curry.png
+image: gefuellte-paprika-mit-rind-curry.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Zitronen-Schmand-Tarte mit Schweizer Baiser. Erfrischend und kna
 focusKeyphrase: "Zitronen-Schmand-Tarte"
 date: 2025-08-04
 draft: false
-image: zitronen-schmand-tarte.png
+image: zitronen-schmand-tarte.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT20M

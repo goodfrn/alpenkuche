@@ -7,7 +7,7 @@ ogDescription: "Würziger Wurstauflauf – eine köstliche Mischung aus Kartoffe
 focusKeyphrase: "Würziger Wurstauflauf"
 date: 2025-08-08
 draft: false
-image: wuerziger-wurstauflauf.png
+image: wuerziger-wurstauflauf.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT1H20M

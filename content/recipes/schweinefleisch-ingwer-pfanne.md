@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Schweinefleisch Ingwer Pfanne; zartes Fleisch, wür
 focusKeyphrase: "Schweinefleisch Ingwer Pfanne"
 date: 2025-08-10
 draft: false
-image: schweinefleisch-ingwer-pfanne.png
+image: schweinefleisch-ingwer-pfanne.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

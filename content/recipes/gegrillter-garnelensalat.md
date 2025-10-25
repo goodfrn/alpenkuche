@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie unseren Gegrillten Garnelensalat mit knackigen Zut
 focusKeyphrase: "Gegrillter Garnelensalat"
 date: 2025-08-10
 draft: false
-image: gegrillter-garnelensalat.png
+image: gegrillter-garnelensalat.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

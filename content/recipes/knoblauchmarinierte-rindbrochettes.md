@@ -7,7 +7,7 @@ ogDescription: "Entdecke die knoblauchmarinierten Rindbrochettes. Einfacher Genu
 focusKeyphrase: "Knoblauchmarinierte Rindbrochettes"
 date: 2025-08-03
 draft: false
-image: knoblauchmarinierte-rindbrochettes.png
+image: knoblauchmarinierte-rindbrochettes.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

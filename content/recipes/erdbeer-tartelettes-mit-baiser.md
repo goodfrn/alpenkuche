@@ -7,7 +7,7 @@ ogDescription: "Köstliche Erdbeer-Tartelettes mit Baiser und einem Hauch von In
 focusKeyphrase: "Erdbeer-Tartelettes"
 date: 2025-08-08
 draft: false
-image: erdbeer-tartelettes-mit-baiser.png
+image: erdbeer-tartelettes-mit-baiser.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Genusserlebnis mit Poêlée grüne Gemüse, feinen Croûtons und
 focusKeyphrase: "Poêlée grüne Gemüse"
 date: 2025-08-03
 draft: false
-image: poelee-gruene-gemuesemit-rotwein.png
+image: poelee-gruene-gemuesemit-rotwein.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

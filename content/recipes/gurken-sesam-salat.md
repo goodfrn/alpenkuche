@@ -7,7 +7,7 @@ ogDescription: "Dieser Gurken-Sesam-Salat ist leicht und knackig; die Sesam-Vina
 focusKeyphrase: "Gurken-Sesam-Salat"
 date: 2025-09-29
 draft: false
-image: gurken-sesam-salat.png
+image: gurken-sesam-salat.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT0M

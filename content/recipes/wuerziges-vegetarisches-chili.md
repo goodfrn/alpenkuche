@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für ein würziges Chili mit schwarzen Bohne
 focusKeyphrase: "Würziges Vegetarisches Chili"
 date: 2025-08-15
 draft: false
-image: wuerziges-vegetarisches-chili.png
+image: wuerziges-vegetarisches-chili.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie ein erfrischendes Süßkartoffel-Taboulé mit Feta
 focusKeyphrase: "Süßkartoffel-Taboulé"
 date: 2025-08-17
 draft: false
-image: suesskartoffel-taboule.png
+image: suesskartoffel-taboule.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

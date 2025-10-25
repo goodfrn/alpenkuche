@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen gebratenen Kabeljau-Ravioli; ideal
 focusKeyphrase: "Kabeljau-Ravioli"
 date: 2025-08-07
 draft: false
-image: gebratene-kabeljau-ravioli.png
+image: gebratene-kabeljau-ravioli.jpg
 author: "Marlena"
 prepTime: PT1H40M
 cookTime: PT10M

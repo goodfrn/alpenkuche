@@ -7,7 +7,7 @@ ogDescription: "Genieße das Tofu Parmigiana Sandwich mit knusprigem Tofu, fruch
 focusKeyphrase: "Tofu Parmigiana Sandwich"
 date: 2025-08-10
 draft: false
-image: tofu-parmigiana-sandwich.png
+image: tofu-parmigiana-sandwich.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT40M

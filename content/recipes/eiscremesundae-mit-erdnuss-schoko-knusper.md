@@ -7,7 +7,7 @@ ogDescription: "Eiscremesundae mit Erdnuss-Schoko-Knusper. Ein Dessert voller Ge
 focusKeyphrase: "Eiscremesundae"
 date: 2025-08-03
 draft: false
-image: eiscremesundae-mit-erdnuss-schoko-knusper.png
+image: eiscremesundae-mit-erdnuss-schoko-knusper.jpg
 author: "Marlena"
 prepTime: PT1H10M
 cookTime: PT10M

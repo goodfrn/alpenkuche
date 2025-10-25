@@ -7,7 +7,7 @@ ogDescription: "Entdecke dieses Cranberry-Schoko-Brot. Ein rustikales Brot, das 
 focusKeyphrase: "Cranberry-Schoko-Brot"
 date: 2025-09-23
 draft: false
-image: cranberry-schoko-brot.png
+image: cranberry-schoko-brot.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT58M

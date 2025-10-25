@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Kombination aus delikaten Schweinegaletten und
 focusKeyphrase: "Parmesan Schweinegaletten"
 date: 2025-09-28
 draft: false
-image: parmesan-schweinegaletten.png
+image: parmesan-schweinegaletten.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT30M

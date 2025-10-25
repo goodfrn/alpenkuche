@@ -7,7 +7,7 @@ ogDescription: "Ein raffinierter Kalbsbraten mit Estragon und Lauch, kombiniert 
 focusKeyphrase: "Kalbsbraten mit Estragon und Lauch"
 date: 2025-08-07
 draft: false
-image: kalbsbraten-mit-estragon.png
+image: kalbsbraten-mit-estragon.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gefüllte Brötchen nach Niçoise-Art; eine Kombin
 focusKeyphrase: "Gefüllte Brötchen Niçoise-Art"
 date: 2025-09-26
 draft: false
-image: gefuellte-broetchen-nicoise-art.png
+image: gefuellte-broetchen-nicoise-art.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT18M

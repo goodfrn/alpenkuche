@@ -7,7 +7,7 @@ ogDescription: "Zitronengras Tom Collins Twist ein leichter Drink mit frischen A
 focusKeyphrase: "Zitronengras Tom Collins Twist"
 date: 2025-07-23
 draft: false
-image: zitronengras-tom-collins-twist.png
+image: zitronengras-tom-collins-twist.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT30M

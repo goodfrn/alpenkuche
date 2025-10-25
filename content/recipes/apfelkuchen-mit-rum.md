@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie einen unwiderstehlichen Apfelkuchen mit Rum und ge
 focusKeyphrase: "Apfelkuchen mit Rum"
 date: 2025-08-03
 draft: false
-image: apfelkuchen-mit-rum.png
+image: apfelkuchen-mit-rum.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT25M

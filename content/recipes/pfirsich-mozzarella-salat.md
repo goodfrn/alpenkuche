@@ -7,7 +7,7 @@ ogDescription: "Sommerlicher Pfirsich-Mozzarella Salat mit Halloumi und Chili. F
 focusKeyphrase: "Pfirsich-Mozzarella Salat"
 date: 2025-07-29
 draft: false
-image: pfirsich-mozzarella-salat.png
+image: pfirsich-mozzarella-salat.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT5M

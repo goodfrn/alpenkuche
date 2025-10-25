@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das Sole-Kartoffel-Gratin mit frischem Kabeljau, z
 focusKeyphrase: "Sole-Kartoffel-Gratin"
 date: 2025-08-05
 draft: false
-image: sole-kartoffel-gratin.png
+image: sole-kartoffel-gratin.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H15M

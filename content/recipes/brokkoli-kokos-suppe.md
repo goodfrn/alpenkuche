@@ -7,7 +7,7 @@ ogDescription: "Entdecke die würzige Brokkoli-Kokos-Suppe. Frisch, cremig und p
 focusKeyphrase: "Brokkoli-Kokos-Suppe"
 date: 2025-07-24
 draft: false
-image: brokkoli-kokos-suppe.png
+image: brokkoli-kokos-suppe.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT28M

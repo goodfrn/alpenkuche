@@ -7,7 +7,7 @@ ogDescription: "Putenconfit neu interpretiert; aromatisch und saftig, für Vorsp
 focusKeyphrase: "Türkisches Putenconfit"
 date: 2025-08-05
 draft: false
-image: tuerkisches-putenconfit.png
+image: tuerkisches-putenconfit.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT3H15M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den genussvollen Karamell Schachbrettkuchen. Mit seinen
 focusKeyphrase: "Karamell Schachbrettkuchen"
 date: 2025-09-26
 draft: false
-image: karamell-schachbrettkuchen.png
+image: karamell-schachbrettkuchen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT45M

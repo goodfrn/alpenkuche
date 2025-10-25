@@ -7,7 +7,7 @@ ogDescription: "Knusprige Jalapeño Blätterteigtaschen mit Bacon und Käse. Per
 focusKeyphrase: "Jalapeño Blätterteigtaschen"
 date: 2025-07-25
 draft: false
-image: jalapeno-blaetterteigtaschen.png
+image: jalapeno-blaetterteigtaschen.jpg
 author: "Marlena"
 prepTime: PT55M
 cookTime: PT20M

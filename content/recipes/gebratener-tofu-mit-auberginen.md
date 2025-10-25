@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gebratenen Tofu mit knackigen Bohnen und Aubergine
 focusKeyphrase: "Gebratener Tofu"
 date: 2025-07-20
 draft: false
-image: gebratener-tofu-mit-auberginen.png
+image: gebratener-tofu-mit-auberginen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT17M

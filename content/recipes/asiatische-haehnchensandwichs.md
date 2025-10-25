@@ -7,7 +7,7 @@ ogDescription: "Würzige Asiatische Hähnchensandwichs, frisch vom Grill mit Kar
 focusKeyphrase: "Asiatische Hähnchensandwichs"
 date: 2025-09-01
 draft: false
-image: asiatische-haehnchensandwichs.png
+image: asiatische-haehnchensandwichs.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT18M

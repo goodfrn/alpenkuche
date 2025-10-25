@@ -7,7 +7,7 @@ ogDescription: "Schokoladenkuchen mit Aromen von Mandeln und weniger Zucker; saf
 focusKeyphrase: "Wenig gesüßter Schokoladenkuchen"
 date: 2025-09-28
 draft: false
-image: wenig-gesuesser-schokoladenkuchen.png
+image: wenig-gesuesser-schokoladenkuchen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT32M

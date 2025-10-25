@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die einzigartige Kombination aus Schnecken und wü
 focusKeyphrase: "Cassolettes mit Schnecken"
 date: 2025-07-25
 draft: false
-image: cassolettes-mit-schnecken.png
+image: cassolettes-mit-schnecken.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT60M

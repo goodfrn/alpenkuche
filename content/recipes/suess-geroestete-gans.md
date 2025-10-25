@@ -7,7 +7,7 @@ ogDescription: "Süß geröstete Gans bietet perfekte Kombination aus zartem Fle
 focusKeyphrase: "Süß geröstete Gans"
 date: 2025-10-07
 draft: false
-image: suess-geroestete-gans.png
+image: suess-geroestete-gans.jpg
 author: "Marlena"
 prepTime: PT720M
 cookTime: PT180M

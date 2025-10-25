@@ -7,7 +7,7 @@ ogDescription: "Köstlicher Hähnchen-Salat-Taco mit knackigem Gemüse und einer
 focusKeyphrase: "Hähnchen-Salat-Taco"
 date: 2025-07-26
 draft: false
-image: haehnchen-salat-taco.png
+image: haehnchen-salat-taco.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT12M

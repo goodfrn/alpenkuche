@@ -7,7 +7,7 @@ ogDescription: "Verleihen Sie Ihren Desserts mit Orangenblutorangen-Konfitüre e
 focusKeyphrase: "Orangenblutorangen-Konfitüre"
 date: 2025-09-26
 draft: false
-image: orangenblutorangen-konfituere.png
+image: orangenblutorangen-konfituere.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT50M

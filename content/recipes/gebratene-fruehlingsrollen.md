@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie knusprige Frühlingsrollen mit einer würzigen Fü
 focusKeyphrase: "Frühlingsrollen Rezept"
 date: 2025-09-24
 draft: false
-image: gebratene-fruehlingsrollen.png
+image: gebratene-fruehlingsrollen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT30M

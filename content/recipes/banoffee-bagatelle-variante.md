@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Banoffee Bagatelle Variante, ein beeindruckend
 focusKeyphrase: "Banoffee Bagatelle"
 date: 2025-08-08
 draft: false
-image: banoffee-bagatelle-variante.png
+image: banoffee-bagatelle-variante.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

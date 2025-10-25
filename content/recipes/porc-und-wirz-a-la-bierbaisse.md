@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie das alpine Gericht Porc und Wirz à la Bierbaisse.
 focusKeyphrase: "Porc und Wirz à la Bierbaisse"
 date: 2025-07-20
 draft: false
-image: porc-und-wirz-a-la-bierbaisse.png
+image: porc-und-wirz-a-la-bierbaisse.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H40M

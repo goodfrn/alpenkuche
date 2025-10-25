@@ -7,7 +7,7 @@ ogDescription: "Erdbeer-Sundae mit knusprigem Karamell-Crumble. Ein erfrischende
 focusKeyphrase: "Erdbeer-Sundae"
 date: 2025-08-15
 draft: false
-image: erdbeer-sundae-mit-karamell-crumble.png
+image: erdbeer-sundae-mit-karamell-crumble.jpg
 author: "Marlena"
 prepTime: PT28M
 cookTime: PT6M

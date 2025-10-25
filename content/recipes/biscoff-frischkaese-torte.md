@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Biscoff Frischkäse Torte mit köstlicher Fris
 focusKeyphrase: "Biscoff Frischkäse Torte"
 date: 2025-10-03
 draft: false
-image: biscoff-frischkaese-torte.png
+image: biscoff-frischkaese-torte.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT0M

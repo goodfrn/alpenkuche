@@ -7,7 +7,7 @@ ogDescription: "Ein warmer Fenchel-Trauben Fischsalat, frisch und leicht. Geschm
 focusKeyphrase: "Fenchel-Trauben Fischsalat"
 date: 2025-07-28
 draft: false
-image: fenchel-trauben-fischsalat.png
+image: fenchel-trauben-fischsalat.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT12M

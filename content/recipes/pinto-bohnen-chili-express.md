@@ -7,7 +7,7 @@ ogDescription: "Pinto Bohnen Chili Express. Schnell und schmackhaft. Perfekt fü
 focusKeyphrase: "Pinto Bohnen Chili"
 date: 2025-07-26
 draft: false
-image: pinto-bohnen-chili-express.png
+image: pinto-bohnen-chili-express.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT25M

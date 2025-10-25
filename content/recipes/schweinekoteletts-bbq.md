@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Schweinekoteletts BBQ. Die perfekte Kom
 focusKeyphrase: "Schweinekoteletts BBQ"
 date: 2025-08-16
 draft: false
-image: schweinekoteletts-bbq.png
+image: schweinekoteletts-bbq.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT15M

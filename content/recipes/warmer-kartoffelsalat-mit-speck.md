@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie diesen köstlichen warmen Kartoffelsalat mit Speck
 focusKeyphrase: "warmer Kartoffelsalat mit Speck"
 date: 2025-08-04
 draft: false
-image: warmer-kartoffelsalat-mit-speck.png
+image: warmer-kartoffelsalat-mit-speck.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT35M

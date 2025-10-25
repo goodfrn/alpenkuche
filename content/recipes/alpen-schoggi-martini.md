@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Alpen Schoggi Martini, eine Mischung aus dunkler Sc
 focusKeyphrase: "Alpen Schoggi Martini"
 date: 2025-07-20
 draft: false
-image: alpen-schoggi-martini.png
+image: alpen-schoggi-martini.jpg
 author: "Marlena"
 prepTime: PT4M
 cookTime: PT5M

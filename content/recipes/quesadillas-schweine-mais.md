@@ -7,7 +7,7 @@ ogDescription: "Entdecke die schmackhaften Quesadillas mit geschmortem Schweinef
 focusKeyphrase: "Quesadillas Schweine Mais"
 date: 2025-07-21
 draft: false
-image: quesadillas-schweine-mais.png
+image: quesadillas-schweine-mais.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

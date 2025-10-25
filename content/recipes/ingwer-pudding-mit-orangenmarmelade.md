@@ -7,7 +7,7 @@ ogDescription: "Köstlicher Ingwer-Pudding mit fruchtiger Orangenmarmelade – e
 focusKeyphrase: "Ingwer-Pudding"
 date: 2025-08-09
 draft: false
-image: ingwer-pudding-mit-orangenmarmelade.png
+image: ingwer-pudding-mit-orangenmarmelade.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

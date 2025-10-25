@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Grapefruit-Orangen Sirup. Frisch, spritzig, ideal f
 focusKeyphrase: "Grapefruit-Orangen Sirup"
 date: 2025-07-24
 draft: false
-image: grapefruit-orangen-sirup.png
+image: grapefruit-orangen-sirup.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das mexikanische Tofu-Rührei. Aromatisch, scharf und c
 focusKeyphrase: "Mexikanisches Tofu-Rührei"
 date: 2025-08-13
 draft: false
-image: mexikanisches-tofu-ruehrei.png
+image: mexikanisches-tofu-ruehrei.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT15M

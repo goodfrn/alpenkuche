@@ -7,7 +7,7 @@ ogDescription: "Einfach und schnell; köstliche Kirschtomaten in süß-saurer Ma
 focusKeyphrase: "Ofen-Konfitüre Kirschtomaten"
 date: 2025-08-01
 draft: false
-image: ofen-konfituere-kirschtomaten.png
+image: ofen-konfituere-kirschtomaten.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT10M

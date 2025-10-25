@@ -7,7 +7,7 @@ ogDescription: "Herzhafte Wildreis Kürbis Pilz Bowl mit Shiitake und Orangen-Se
 focusKeyphrase: "Wildreis Kürbis Pilz Bowl"
 date: 2025-08-19
 draft: false
-image: wildreis-kuerbis-pilz-bowl.png
+image: wildreis-kuerbis-pilz-bowl.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT55M

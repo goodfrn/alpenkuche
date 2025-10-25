@@ -7,7 +7,7 @@ ogDescription: "Genieße die aromatische Kürbissuppe mit Dill und Basilikum. Ei
 focusKeyphrase: "Kürbissuppe"
 date: 2025-07-28
 draft: false
-image: kuerbissuppe-mit-kraeutern.png
+image: kuerbissuppe-mit-kraeutern.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT1H15M

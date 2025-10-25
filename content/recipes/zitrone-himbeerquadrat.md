@@ -7,7 +7,7 @@ ogDescription: "Zitrone Himbeerquadrat: Ein frischer Genuss aus dem Ofen mit knu
 focusKeyphrase: "Zitrone Himbeerquadrat"
 date: 2025-08-04
 draft: false
-image: zitrone-himbeerquadrat.png
+image: zitrone-himbeerquadrat.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT40M

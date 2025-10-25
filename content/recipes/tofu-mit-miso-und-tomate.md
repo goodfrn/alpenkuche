@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Tofu mit Miso und Tomate; ein unkompliziertes Reze
 focusKeyphrase: "Tofu mit Miso und Tomate"
 date: 2025-08-04
 draft: false
-image: tofu-mit-miso-und-tomate.png
+image: tofu-mit-miso-und-tomate.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

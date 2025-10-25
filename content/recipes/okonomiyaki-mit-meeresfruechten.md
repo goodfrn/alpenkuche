@@ -7,7 +7,7 @@ ogDescription: "Entdecke Okonomiyaki mit frischen Meeresfrüchten. Knackiger Koh
 focusKeyphrase: "Okonomiyaki mit Meeresfrüchten"
 date: 2025-09-28
 draft: false
-image: okonomiyaki-mit-meeresfruechten.png
+image: okonomiyaki-mit-meeresfruechten.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT30M

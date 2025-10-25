@@ -7,7 +7,7 @@ ogDescription: "Hausgemachte italienische Wurstbällchen, die mit frischen Zutat
 focusKeyphrase: "Italienische Wurstlaibchen"
 date: 2025-09-26
 draft: false
-image: italienische-wurstlaibchen.png
+image: italienische-wurstlaibchen.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT20M

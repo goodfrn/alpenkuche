@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die marinierten Karotten mit frischem Ingwer. Idea
 focusKeyphrase: "marinierte Karotten"
 date: 2025-07-26
 draft: false
-image: marinierte-karotten-mit-ingwer.png
+image: marinierte-karotten-mit-ingwer.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT0M

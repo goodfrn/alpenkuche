@@ -7,7 +7,7 @@ ogDescription: "Leckere gebratene burrata-tartines. Kombiniert mit gerösteten t
 focusKeyphrase: "gebratene burrata-tartines"
 date: 2025-07-26
 draft: false
-image: gebratene-burrata-tartines.png
+image: gebratene-burrata-tartines.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke die neu interpretierte Apfeltarte mit Johannisbrotkernm
 focusKeyphrase: "Apfeltarte"
 date: 2025-08-16
 draft: false
-image: klassische-apfeltarte-variiert.png
+image: klassische-apfeltarte-variiert.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT50M

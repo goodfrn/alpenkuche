@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Aromen von marinierten Sojabohnensprossen – 
 focusKeyphrase: "Marinierte Sojabohnensprossen"
 date: 2025-09-23
 draft: false
-image: marinierte-sojabohnensprossen.png
+image: marinierte-sojabohnensprossen.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT8M

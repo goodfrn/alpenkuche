@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie das reichhaltige Aroma von Fisch Couscous Tunisien
 focusKeyphrase: "Fisch Couscous Tunisien"
 date: 2025-08-09
 draft: false
-image: fisch-couscous-tunisien.png
+image: fisch-couscous-tunisien.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

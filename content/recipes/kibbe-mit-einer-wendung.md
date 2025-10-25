@@ -7,7 +7,7 @@ ogDescription: "Kibbé, neu interpretiert mit Wildschwein und frischen Aromen, w
 focusKeyphrase: "Kibbé mit Wildschwein"
 date: 2025-09-13
 draft: false
-image: kibbe-mit-einer-wendung.png
+image: kibbe-mit-einer-wendung.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT0M

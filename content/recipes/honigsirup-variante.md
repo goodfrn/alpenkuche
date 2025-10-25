@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Dutch Honigsirup Variante mit Ahornsirup und S
 focusKeyphrase: "Dutch Honigsirup Variante"
 date: 2025-10-16
 draft: false
-image: honigsirup-variante.png
+image: honigsirup-variante.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT13M

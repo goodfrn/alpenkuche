@@ -7,7 +7,7 @@ ogDescription: "Schweinekoteletts mit Ahorn und Curry, dazu Kürbis und Rapini. 
 focusKeyphrase: "Schweinekoteletts mit Ahorn und Curry"
 date: 2025-09-30
 draft: false
-image: schweinekoteletts-mit-ahorn-und-curry.png
+image: schweinekoteletts-mit-ahorn-und-curry.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die köstlichen Schweinebrochetten spanisch-alpin 
 focusKeyphrase: "Schweinebrochetten spanisch-alpin"
 date: 2025-07-18
 draft: false
-image: schweinebrochetten-spanisch-alpin.png
+image: schweinebrochetten-spanisch-alpin.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

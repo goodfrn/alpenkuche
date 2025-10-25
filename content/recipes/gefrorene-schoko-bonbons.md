@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefrorene Schoko-Bonbons mit luftiger Mousse und nussig
 focusKeyphrase: "Gefrorene Schoko-Bonbons"
 date: 2025-08-18
 draft: false
-image: gefrorene-schoko-bonbons.png
+image: gefrorene-schoko-bonbons.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT25M

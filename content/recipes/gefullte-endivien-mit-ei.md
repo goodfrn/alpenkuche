@@ -7,7 +7,7 @@ ogDescription: "Entdecke gefüllte Endivien mit Ei und Speck; eine perfekte Komb
 focusKeyphrase: "Gefüllte Endivien mit Ei und Speck"
 date: 2025-09-12
 draft: false
-image: gefullte-endivien-mit-ei.png
+image: gefullte-endivien-mit-ei.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT20M

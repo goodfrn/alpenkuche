@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Würzige Taco Suppe. Voller Geschmack und Struktur,
 focusKeyphrase: "Würzige Taco Suppe"
 date: 2025-10-23
 draft: false
-image: wuerzige-taco-suppe.png
+image: wuerzige-taco-suppe.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT22M

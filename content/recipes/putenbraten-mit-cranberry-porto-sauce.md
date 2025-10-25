@@ -7,7 +7,7 @@ ogDescription: "Leckerer Putenbraten in würziger Cranberry-Porto-Sauce; ein aro
 focusKeyphrase: "Putenbraten mit Cranberry-Porto-Sauce"
 date: 2025-09-29
 draft: false
-image: putenbraten-mit-cranberry-porto-sauce.png
+image: putenbraten-mit-cranberry-porto-sauce.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT2H

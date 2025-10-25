@@ -7,7 +7,7 @@ ogDescription: "Erlebe den einzigartigen Jambalaya Spaghetti Twist; sie vereinen
 focusKeyphrase: "Jambalaya Spaghetti"
 date: 2025-08-10
 draft: false
-image: jambalaya-spaghetti-twist.png
+image: jambalaya-spaghetti-twist.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT55M

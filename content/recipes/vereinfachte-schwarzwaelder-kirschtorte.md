@@ -7,7 +7,7 @@ ogDescription: "Entdecke die vereinfachte Schwarzwälder Kirschtorte; weniger Zu
 focusKeyphrase: "Schwarzwälder Kirschtorte"
 date: 2025-08-13
 draft: false
-image: vereinfachte-schwarzwaelder-kirschtorte.png
+image: vereinfachte-schwarzwaelder-kirschtorte.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT50M

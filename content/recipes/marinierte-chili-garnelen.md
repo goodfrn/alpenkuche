@@ -7,7 +7,7 @@ ogDescription: "Entdecke die aromatischen marinierte Chili-Garnelen; perfekt fü
 focusKeyphrase: "Marinierte Chili-Garnelen"
 date: 2025-09-26
 draft: false
-image: marinierte-chili-garnelen.png
+image: marinierte-chili-garnelen.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Kubanischen Limonade Twist – ein erfrischender Dr
 focusKeyphrase: "Kubanische Limonade Twist"
 date: 2025-09-25
 draft: false
-image: kubanische-limonade-twist.png
+image: kubanische-limonade-twist.jpg
 author: "Marlena"
 prepTime: PT5M
 cookTime: PT0M

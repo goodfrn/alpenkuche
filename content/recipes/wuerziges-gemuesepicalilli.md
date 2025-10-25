@@ -7,7 +7,7 @@ ogDescription: "Entdecke die intensiven Aromen des würzigen Gemüsepicalillis �
 focusKeyphrase: "Würziges Gemüsepicalilli"
 date: 2025-08-06
 draft: false
-image: wuerziges-gemuesepicalilli.png
+image: wuerziges-gemuesepicalilli.jpg
 author: "Marlena"
 prepTime: PT1H15M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Mittelmeer Avocado-Dip mit knusprigen Pitachip
 focusKeyphrase: "Avocado-Dip mit Pitachips"
 date: 2025-08-17
 draft: false
-image: mittelmeer-avocado-dip.png
+image: mittelmeer-avocado-dip.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT15M

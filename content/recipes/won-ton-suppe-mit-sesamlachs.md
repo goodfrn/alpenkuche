@@ -7,7 +7,7 @@ ogDescription: "Leckere Won-ton Suppe mit Lachs und frischen Aromen. Ideal für 
 focusKeyphrase: "Won-ton Suppe"
 date: 2025-07-23
 draft: false
-image: won-ton-suppe-mit-sesamlachs.png
+image: won-ton-suppe-mit-sesamlachs.jpg
 author: "Marlena"
 prepTime: PT45M
 cookTime: PT25M

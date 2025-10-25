@@ -7,7 +7,7 @@ ogDescription: "Genussvolle Käse-Tortellini Pfanne. Schnelles Rezept für alle 
 focusKeyphrase: "Käse-Tortellini Pfanne"
 date: 2025-07-27
 draft: false
-image: kaese-tortellini-pfanne.png
+image: kaese-tortellini-pfanne.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT22M

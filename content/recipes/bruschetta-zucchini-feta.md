@@ -7,7 +7,7 @@ ogDescription: "Probieren Sie Bruschetta Zucchini Feta - eine köstliche, medite
 focusKeyphrase: "Bruschetta Zucchini Feta"
 date: 2025-09-28
 draft: false
-image: bruschetta-zucchini-feta.png
+image: bruschetta-zucchini-feta.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT12M

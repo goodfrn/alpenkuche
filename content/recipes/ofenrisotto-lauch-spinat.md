@@ -7,7 +7,7 @@ ogDescription: "Ofenrisotto Lauch Spinat – ein gemütlicher Genuss mit Aroma v
 focusKeyphrase: "Ofenrisotto"
 date: 2025-09-29
 draft: false
-image: ofenrisotto-lauch-spinat.png
+image: ofenrisotto-lauch-spinat.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT27M

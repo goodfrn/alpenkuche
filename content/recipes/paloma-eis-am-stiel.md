@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Paloma Eis am Stiel. Frisch, herb und mit rauchige
 focusKeyphrase: "Paloma Eis am Stiel"
 date: 2025-08-18
 draft: false
-image: paloma-eis-am-stiel.png
+image: paloma-eis-am-stiel.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT6H

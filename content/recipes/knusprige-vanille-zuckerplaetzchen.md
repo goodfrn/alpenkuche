@@ -7,7 +7,7 @@ ogDescription: "Knusprige Vanille-Zuckerplätzchen mit Zitrusschalen. Ein vielse
 focusKeyphrase: "Knusprige Vanille-Zuckerplätzchen"
 date: 2025-10-05
 draft: false
-image: knusprige-vanille-zuckerplaetzchen.png
+image: knusprige-vanille-zuckerplaetzchen.jpg
 author: "Marlena"
 prepTime: PT1H30M
 cookTime: PT10M

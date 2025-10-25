@@ -7,7 +7,7 @@ ogDescription: "Entdecke nussige Kaffee-Muffins mit Nutella, ideal für Kaffeepa
 focusKeyphrase: "Nussige Kaffee-Muffins"
 date: 2025-10-09
 draft: false
-image: nussige-kaffee-muffins.png
+image: nussige-kaffee-muffins.jpg
 author: "Marlena"
 prepTime: PT12M
 cookTime: PT17M

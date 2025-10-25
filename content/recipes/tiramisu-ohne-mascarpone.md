@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Tiramisu ohne Mascarpone; frische und cremige Noten
 focusKeyphrase: "Tiramisu ohne Mascarpone"
 date: 2025-08-06
 draft: false
-image: tiramisu-ohne-mascarpone.png
+image: tiramisu-ohne-mascarpone.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Kräuter Buttermilch Hähnchen – knus
 focusKeyphrase: "Kräuter Buttermilch Hähnchen"
 date: 2025-10-08
 draft: false
-image: kraeuter-buttermilch-haehnchen.png
+image: kraeuter-buttermilch-haehnchen.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die knusprigen BBQ-Blumenkohlhappen, schnell und u
 focusKeyphrase: "Knusprige BBQ-Blumenkohlhappen"
 date: 2025-10-17
 draft: false
-image: knusprige-bbq-blumenkohlhappen.png
+image: knusprige-bbq-blumenkohlhappen.jpg
 author: "Marlena"
 prepTime: PT6M
 cookTime: PT20M

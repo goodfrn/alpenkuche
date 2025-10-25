@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Miesmuscheln in Kräutersalsa – eine 
 focusKeyphrase: "Miesmuscheln mit Kräutersalsa"
 date: 2025-08-13
 draft: false
-image: miesmuscheln-mit-kraeutersalsa.png
+image: miesmuscheln-mit-kraeutersalsa.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT10M

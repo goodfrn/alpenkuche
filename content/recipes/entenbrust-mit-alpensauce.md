@@ -7,7 +7,7 @@ ogDescription: "Entenbrust und Alpensauce. Kombiniert rustikale Aromen, Temprani
 focusKeyphrase: "Entenbrust mit Alpensauce"
 date: 2025-07-21
 draft: false
-image: entenbrust-mit-alpensauce.png
+image: entenbrust-mit-alpensauce.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT35M

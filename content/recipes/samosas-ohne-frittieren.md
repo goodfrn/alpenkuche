@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die vegetarischen Samosas ohne Frittüren, gefüll
 focusKeyphrase: "Samosas ohne Frittieren"
 date: 2025-08-18
 draft: false
-image: samosas-ohne-frittieren.png
+image: samosas-ohne-frittieren.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie geschmorte Würste in Rotwein. Saftig und würzig,
 focusKeyphrase: "Geschmorte Würste in Rotwein"
 date: 2025-08-09
 draft: false
-image: geschmorte-wuerste-in-rotwein.png
+image: geschmorte-wuerste-in-rotwein.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT45M

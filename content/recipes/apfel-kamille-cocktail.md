@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie den Apfel-Kamille Cocktail; eine erfrischende Misc
 focusKeyphrase: "Apfel-Kamille Cocktail"
 date: 2025-08-07
 draft: false
-image: apfel-kamille-cocktail.png
+image: apfel-kamille-cocktail.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT5M

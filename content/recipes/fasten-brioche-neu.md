@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Fasten-Brioche neu: weniger süss, mit frische
 focusKeyphrase: "Fasten-Brioche neu"
 date: 2025-08-07
 draft: false
-image: fasten-brioche-neu.png
+image: fasten-brioche-neu.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT30M

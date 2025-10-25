@@ -7,7 +7,7 @@ ogDescription: "Würzige Garnelen Tacos: Knackige Texturen und fruchtige Schärf
 focusKeyphrase: "Würzige Garnelen Tacos"
 date: 2025-10-15
 draft: false
-image: wuerzige-garnelen-tacos.png
+image: wuerzige-garnelen-tacos.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT11M

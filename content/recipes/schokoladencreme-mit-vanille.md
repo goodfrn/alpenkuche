@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie diese zarte Schokoladencreme mit Vanille. Glutenfr
 focusKeyphrase: "Schokoladencreme mit Vanille"
 date: 2025-07-28
 draft: false
-image: schokoladencreme-mit-vanille.png
+image: schokoladencreme-mit-vanille.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT7M

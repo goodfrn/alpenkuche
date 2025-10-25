@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Austern mit einer aufregenden Ahorn-Gemüse-Mignon
 focusKeyphrase: "Austern mit Mignonnette"
 date: 2025-07-29
 draft: false
-image: austern-mit-ahorn-gemuese-mignonnette.png
+image: austern-mit-ahorn-gemuese-mignonnette.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT0M

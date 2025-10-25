@@ -7,7 +7,7 @@ ogDescription: "Köstliche Würzig Speck Biscuits Soße. Diese Kombination aus S
 focusKeyphrase: "Würzig Speck Biscuits Soße"
 date: 2025-10-06
 draft: false
-image: wuerzig-speck-biscuits.png
+image: wuerzig-speck-biscuits.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT30M

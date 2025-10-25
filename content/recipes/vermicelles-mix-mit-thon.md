@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Vermicelles-Mix mit würzigem Thon für einen erfri
 focusKeyphrase: "Vermicelles-Mix mit würzigem Thon"
 date: 2025-07-19
 draft: false
-image: vermicelles-mix-mit-thon.png
+image: vermicelles-mix-mit-thon.jpg
 author: "Marlena"
 prepTime: PT4M
 cookTime: PT33M

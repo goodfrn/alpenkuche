@@ -7,7 +7,7 @@ ogDescription: "Genieße die Rhabarber-Himbeer-Tartelettes. Perfekt für Feiern.
 focusKeyphrase: "Rhabarber-Himbeer-Tartelettes"
 date: 2025-07-24
 draft: false
-image: rhabarber-himbeer-tartelettes.png
+image: rhabarber-himbeer-tartelettes.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT40M

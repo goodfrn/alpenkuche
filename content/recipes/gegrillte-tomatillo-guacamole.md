@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die gegrillte Tomatillo Guacamole. Raucharoma und 
 focusKeyphrase: "Gegrillte Tomatillo Guacamole"
 date: 2025-07-24
 draft: false
-image: gegrillte-tomatillo-guacamole.png
+image: gegrillte-tomatillo-guacamole.jpg
 author: "Marlena"
 prepTime: PT37M
 cookTime: PT16M

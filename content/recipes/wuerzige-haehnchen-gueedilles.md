@@ -7,7 +7,7 @@ ogDescription: "Entdecke die Würzigen Hähnchen-Guédilles mit zartem Hähnchen
 focusKeyphrase: "Würzige Hähnchen-Guédilles"
 date: 2025-08-05
 draft: false
-image: wuerzige-haehnchen-gueedilles.png
+image: wuerzige-haehnchen-gueedilles.jpg
 author: "Marlena"
 prepTime: PT18M
 cookTime: PT15M

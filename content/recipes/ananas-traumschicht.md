@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Ananas Traumschicht – ein schmackhaftes Schi
 focusKeyphrase: "Ananas Traumschicht"
 date: 2025-10-23
 draft: false
-image: ananas-traumschicht.png
+image: ananas-traumschicht.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT14M

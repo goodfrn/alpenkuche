@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie unsere Überbackene Zwiebelsuppe mit Rotwein. Ein 
 focusKeyphrase: "Überbackene Zwiebelsuppe"
 date: 2025-08-16
 draft: false
-image: ueberbackene-zwiebelsuppe-mit-rotwein.png
+image: ueberbackene-zwiebelsuppe-mit-rotwein.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

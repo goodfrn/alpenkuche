@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie das cremige Sellerie-Kartoffel-Püree mit Pastinak
 focusKeyphrase: "Sellerie-Kartoffel-Püree mit Pastinake"
 date: 2025-08-01
 draft: false
-image: sellerie-kartoffel-puree-mit-pastinake.png
+image: sellerie-kartoffel-puree-mit-pastinake.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT30M

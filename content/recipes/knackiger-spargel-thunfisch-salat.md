@@ -7,7 +7,7 @@ ogDescription: "Leckerer Spargel-Thunfisch-Salat, frisch und knackig, ideal für
 focusKeyphrase: "Spargel-Thunfisch-Salat"
 date: 2025-08-09
 draft: false
-image: knackiger-spargel-thunfisch-salat.png
+image: knackiger-spargel-thunfisch-salat.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT9M

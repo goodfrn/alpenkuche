@@ -7,7 +7,7 @@ ogDescription: "Entdecke das Rezept für Couscous Hähnchen Gemüse. Ein Gericht
 focusKeyphrase: "Couscous Hähnchen Gemüse"
 date: 2025-08-02
 draft: false
-image: couscous-haehnchen-gemuese.png
+image: couscous-haehnchen-gemuese.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT1H40M

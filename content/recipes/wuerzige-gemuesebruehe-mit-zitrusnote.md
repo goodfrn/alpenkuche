@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie die Würzige Gemüse-Brühe mit Zitrusnote. Ein ei
 focusKeyphrase: "Würzige Gemüse-Brühe"
 date: 2025-08-02
 draft: false
-image: wuerzige-gemuesebruehe-mit-zitrusnote.png
+image: wuerzige-gemuesebruehe-mit-zitrusnote.jpg
 author: "Marlena"
 prepTime: PT20M
 cookTime: PT17M

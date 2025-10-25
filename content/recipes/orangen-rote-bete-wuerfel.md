@@ -7,7 +7,7 @@ ogDescription: "Erleben Sie die Aromen von Orangen-Rote-Bete-Würfeln. Ein ideal
 focusKeyphrase: "Orangen-Rote-Bete-Würfel"
 date: 2025-08-04
 draft: false
-image: orangen-rote-bete-wuerfel.png
+image: orangen-rote-bete-wuerfel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT1H

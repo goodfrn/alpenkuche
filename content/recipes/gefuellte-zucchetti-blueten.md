@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie gefüllte Zucchetti-Blüten. Mit einer cremigen Fa
 focusKeyphrase: "gefüllte Zucchetti-Blüten"
 date: 2025-07-18
 draft: false
-image: gefuellte-zucchetti-blueten.png
+image: gefuellte-zucchetti-blueten.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

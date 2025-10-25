@@ -7,7 +7,7 @@ ogDescription: "Entdecke den Rote Bohnen Salat mit Rapini und gegrilltem Hähnch
 focusKeyphrase: "Rote Bohnen Salat"
 date: 2025-08-10
 draft: false
-image: rote-bohnen-salat-mit-rapini.png
+image: rote-bohnen-salat-mit-rapini.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT18M

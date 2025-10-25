@@ -7,7 +7,7 @@ ogDescription: "Limetten-Cranberry Riegel vereinen knusprigen Teig mit einer fri
 focusKeyphrase: "Limetten-Cranberry Riegel"
 date: 2025-08-02
 draft: false
-image: limetten-cranberry-riegel.png
+image: limetten-cranberry-riegel.jpg
 author: "Marlena"
 prepTime: PT35M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Knusprige Bier-Zwiebelringe im Bierteig. Zart und würzig – id
 focusKeyphrase: "Bier-Zwiebelringe"
 date: 2025-09-29
 draft: false
-image: bier-zwiebelringe-knusprig.png
+image: bier-zwiebelringe-knusprig.jpg
 author: "Marlena"
 prepTime: PT22M
 cookTime: PT17M

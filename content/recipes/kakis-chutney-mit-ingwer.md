@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie ein einzigartiges Kakis-Chutney mit Apfel und Ingw
 focusKeyphrase: "Kakis-Chutney"
 date: 2025-07-29
 draft: false
-image: kakis-chutney-mit-ingwer.png
+image: kakis-chutney-mit-ingwer.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT20M

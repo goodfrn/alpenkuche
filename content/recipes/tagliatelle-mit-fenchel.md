@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie Tagliatelle mit Fenchel und knusprigen Appenzeller
 focusKeyphrase: "Tagliatelle mit Fenchel und Appenzeller"
 date: 2025-07-19
 draft: false
-image: tagliatelle-mit-fenchel.png
+image: tagliatelle-mit-fenchel.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

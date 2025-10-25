@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie die Blaubeer-Schoko-Tarte mit Twist: ein himmlisch
 focusKeyphrase: "Blaubeer-Schoko-Tarte"
 date: 2025-08-23
 draft: false
-image: blaubeer-schoko-tarte.png
+image: blaubeer-schoko-tarte.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT25M

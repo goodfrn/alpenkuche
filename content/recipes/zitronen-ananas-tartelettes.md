@@ -7,7 +7,7 @@ ogDescription: "Genieße Zitronen-Ananas Tartelettes mit luftigem Baiser. Ein fr
 focusKeyphrase: "Zitronen-Ananas Tartelettes"
 date: 2025-08-06
 draft: false
-image: zitronen-ananas-tartelettes.png
+image: zitronen-ananas-tartelettes.jpg
 author: "Marlena"
 prepTime: PT50M
 cookTime: PT25M

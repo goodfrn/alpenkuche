@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie saftige Kalbmedaillons mit frischen Tomaten und kn
 focusKeyphrase: "Kalbmedaillons mit Tomaten und Spargel"
 date: 2025-08-15
 draft: false
-image: kalbmedaillons-mit-tomaten-und-spargel.png
+image: kalbmedaillons-mit-tomaten-und-spargel.jpg
 author: "Marlena"
 prepTime: PT30M
 cookTime: PT20M

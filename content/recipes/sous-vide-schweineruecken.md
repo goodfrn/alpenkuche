@@ -7,7 +7,7 @@ ogDescription: "Entdecken Sie Sous Vide Schweinerücken – saftig, würzig und 
 focusKeyphrase: "Sous Vide Schweinerücken"
 date: 2025-09-12
 draft: false
-image: sous-vide-schweineruecken.png
+image: sous-vide-schweineruecken.jpg
 author: "Marlena"
 prepTime: PT15M
 cookTime: PT4H15M

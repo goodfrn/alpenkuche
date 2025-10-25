@@ -7,7 +7,7 @@ ogDescription: "Entdecke die spannende Verbindung von gegrilltem Sellerie und ma
 focusKeyphrase: "gegrillter Sellerie mit Bavette"
 date: 2025-09-29
 draft: false
-image: gegrillter-sellerie-mit-bavette.png
+image: gegrillter-sellerie-mit-bavette.jpg
 author: "Marlena"
 prepTime: PT25M
 cookTime: PT35M

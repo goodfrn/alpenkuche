@@ -7,7 +7,7 @@ ogDescription: "Köstliche, vegane Béchamelsauce mit Kurkuma; ideal für Lasagn
 focusKeyphrase: "Béchamel mit Kurkuma"
 date: 2025-08-06
 draft: false
-image: bechamel-mit-kurkuma.png
+image: bechamel-mit-kurkuma.jpg
 author: "Marlena"
 prepTime: PT10M
 cookTime: PT15M

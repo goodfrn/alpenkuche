@@ -7,7 +7,7 @@ ogDescription: "Genießen Sie das Honig-Zitrus-Lammkarree – die perfekte Kombi
 focusKeyphrase: "Honig-Zitrus-Lammkarree"
 date: 2025-08-16
 draft: false
-image: honig-zitrus-lammkarree.png
+image: honig-zitrus-lammkarree.jpg
 author: "Marlena"
 prepTime: PT40M
 cookTime: PT20M
