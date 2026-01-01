@@ -199,7 +199,7 @@ categories_system:
       - slug: "boissons"
         name: "Boissons"
         weight: 6
-      - slug: "aaaaaa"
+      - slug: "aperitifs-gourmands"
         name: "Apéritifs Gourmands"
         weight: 7
       - slug: "sauces"
