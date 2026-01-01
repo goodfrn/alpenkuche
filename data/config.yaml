@@ -1,7 +1,7 @@
 baseURL: "https://alpenkuche.ch/"
 
 site:
-  name: "Alpenküch"
+  name: "Alpenküche"
   language: "de"
   tagline: "Alpine Kochkunst & Genuss"
   description: "Authentische Alpenrezepte mit modernem Twist - Von traditioneller Schweizer Küche bis zu innovativen Berggerichten"
