@@ -9,9 +9,9 @@ date: 2026-01-10
 draft: false
 image: gebratene-gruene-tomaten.jpg
 author: "Marlena"
-prepTime: PT20M
-cookTime: PT15M
-totalTime: PT35M
+prepTime: PT0H12M
+cookTime: PT0H6M
+totalTime: PT0H18M
 recipeYield: "4 Portionen"
 categories: ["Vorspeisen"]
 tags:
