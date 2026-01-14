@@ -91,9 +91,13 @@
           {{ with .Params.totalTime }}
             <div class="flex items-center gap-2">
               <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.total }}</span>
-              <span class="text-slate-600">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT0H([0-9]+)M$" "$1 min" | replaceRE "^PT([0-9]+)H0M$" "$1h" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "$1 min" }}</span>
+              <span class="text-slate-600">
+                BRUT:[{{ . }}] CLEAN:[{{ . | replaceRE "\\s+" "" }}] RESULT:[{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT0H([0-9]+)M$" "$1 min" | replaceRE "^PT([0-9]+)H0M$" "$1h" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "$1 min" }}]
+              </span>
             </div>
-          {{ end }}
+          {{ else }}
+            <div class="text-red-600">⚠️ totalTime est VIDE dans le frontmatter</div>
+          {{ end }
           {{ with .Params.recipeYield }}
             <div class="flex items-center gap-2">
               <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.servings }}</span>
